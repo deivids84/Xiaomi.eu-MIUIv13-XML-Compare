@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="one">1 ora fa</item>
+        <item quantity="other">1 ora fa</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="one">1 ora fa</item>
+        <item quantity="other">1 ora fa</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="one">Mezz\'ora fa</item>
+        <item quantity="other">Mezz\'ora fa</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="one">Tra 1 ora</item>
+        <item quantity="other">Tra 1 ora</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="one">Tra mezz\'ora</item>
+        <item quantity="other">Tra mezz\'ora</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="one">Adesso</item>
+        <item quantity="other">Adesso</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">tra %d minuti</item>
+        <item quantity="one">tra 1 min</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="one">Poco fa</item>
+        <item quantity="other">Poco fa</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d minuti fa</item>
+        <item quantity="one">1 minuto fa</item>
+    </plurals>
+    <plurals name="actionbar_large_unread_count">
+        <item quantity="other">%1$d+ non letti</item>
+        <item quantity="one">%1$d+ non letto</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d non lette</item>
+        <item quantity="one">%1$d non letta</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Archiviare %1$d conversazioni?</item>
+        <item quantity="one">Archiviare questa conversazione?</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Eliminare queste %1$d conversazioni?</item>
+        <item quantity="one">Eliminare questa conversazione?</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation_with_sub">
+        <item quantity="other">Queste conversazioni contengono elementi uniti. Eliminare comunque?</item>
+        <item quantity="one">Questa conversazione contiene elementi uniti. Eliminare comunque?</item>
+    </plurals>
+    <plurals name="confirm_delete_draft">
+        <item quantity="other">Eliminare %1$d bozze?</item>
+        <item quantity="one">Eliminare %1$d bozza?</item>
+    </plurals>
+    <plurals name="contact_num_selected">
+        <item quantity="other">%d contatti aggiunti</item>
+        <item quantity="one">%d contatto aggiunto</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&lt;b&gt;%1$d&lt;/b&gt; archiviate.</item>
+        <item quantity="one">&lt;b&gt;%1$d&lt;/b&gt; archiviata.</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&lt;b&gt;%1$d&lt;/b&gt; eliminate.</item>
+        <item quantity="one">&lt;b&gt;%1$d&lt;/b&gt; eliminata.</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Cartelle modificate.</item>
+        <item quantity="one">Cartella modificata.</item>
+    </plurals>
+    <plurals name="conversation_msg_header_count">
+        <item quantity="other">+%1$d altre persone</item>
+        <item quantity="one">+%1$d altra persona</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&lt;b&gt;%1$d&lt;/b&gt; silenziate</item>
+        <item quantity="one">&lt;b&gt;%1$d&lt;/b&gt; silenziata.</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&lt;b&gt;%1$d&lt;/b&gt; messaggi rimossi dalla cartella \"importanti\"</item>
+        <item quantity="one">&lt;b&gt;%1$d&lt;/b&gt; rimosso dalla cartella \"importanti\"</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&lt;b&gt;%1$d&lt;/b&gt; rimossi dalla cartella \"spam\"</item>
+        <item quantity="one">&lt;b&gt;%1$d&lt;/b&gt; rimosso dalla cartella \"spam\"</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">&lt;b&gt;%1$d&lt;/b&gt; messaggi segnalati come spam</item>
+        <item quantity="one">&lt;b&gt;%1$d&lt;/b&gt; messaggio segnalato come spam</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&lt;b&gt;%1$d&lt;/b&gt; segnalati come spam</item>
+        <item quantity="one">&lt;b&gt;%1$d&lt;/b&gt; segnalato come spam</item>
+    </plurals>
+    <plurals name="day">
+        <item quantity="other">%d giorni</item>
+        <item quantity="one">%d giorno</item>
+    </plurals>
+    <plurals name="day_after">
+        <item quantity="other">Tra %d giorni</item>
+        <item quantity="one">Tra %d giorno</item>
+    </plurals>
+    <plurals name="day_before">
+        <item quantity="other">%d giorni fa</item>
+        <item quantity="one">%d giorno fa</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">Bozze</item>
+        <item quantity="one">Bozza</item>
+    </plurals>
+    <plurals name="email_filter_rule_max_tips">
+        <item quantity="other">Puoi aggiungere fino a %1$d condizioni</item>
+        <item quantity="one">Puoi aggiungere fino a %1$d condizione</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d messaggi verranno eliminati definitivamente.</item>
+        <item quantity="one">%1$d messaggio verrà eliminato definitivamente.</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="one">Mezz\'ora fa</item>
+        <item quantity="other">Mezz\'ora fa</item>
+    </plurals>
+    <plurals name="hide_atts_remaining">
+        <item quantity="other">Nascondi %1$d allegati</item>
+        <item quantity="one">Nascondi %1$d allegato</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="one">Tra 1 ora</item>
+        <item quantity="other">Tra 1 ora</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="one">Tra mezz\'ora</item>
+        <item quantity="other">Tra mezz\'ora</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="one">Adesso</item>
+        <item quantity="other">Adesso</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">tra %d minuti</item>
+        <item quantity="one">tra 1 minuto</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="one">Poco fa</item>
+        <item quantity="other">Poco fa</item>
+    </plurals>
+    <plurals name="local_search_result">
+        <item quantity="other">%s risultati nei messaggi sincronizzati</item>
+        <item quantity="one">%s risultato nei messaggi sincronizzati</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d elementi selezionati</item>
+        <item quantity="one">%d elemento selezionato</item>
+    </plurals>
+    <plurals name="more_atts_remaining">
+        <item quantity="other">%1$d allegati rimasti</item>
+        <item quantity="one">%1$d allegato rimasto</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nuove notifiche</item>
+        <item quantity="one">%d nuova notifica</item>
+    </plurals>
+    <plurals name="new_incoming_messages_many">
+        <item quantity="other">Visualizza %1$d nuovi messaggi.</item>
+        <item quantity="one">Visualizza %1$d nuovo messaggio.</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d nuovi messaggi</item>
+        <item quantity="one">%1$d nuovo messaggio</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d minuti fa</item>
+        <item quantity="one">1 minuto fa</item>
+    </plurals>
+    <plurals name="num_selected">
+        <item quantity="other">%d selezionati</item>
+        <item quantity="one">%d selezionato</item>
+    </plurals>
+    <plurals name="number_of_day_after">
+        <item quantity="other">%1$d giorni dopo</item>
+        <item quantity="one">%1$d giorno dopo</item>
+    </plurals>
+    <plurals name="number_of_day_before">
+        <item quantity="other">%1$d giorni prima</item>
+        <item quantity="one">%1$d giorno prima</item>
+    </plurals>
+    <plurals name="number_of_hour_after">
+        <item quantity="other">%1$d ore prima</item>
+        <item quantity="one">%1$d ora prima</item>
+    </plurals>
+    <plurals name="number_of_hour_before">
+        <item quantity="other">%1$d ore prima</item>
+        <item quantity="one">%1$d ora prima</item>
+    </plurals>
+    <plurals name="number_of_minute_after">
+        <item quantity="other">%1$d minuti dopo</item>
+        <item quantity="one">%1$d minuto dopo</item>
+    </plurals>
+    <plurals name="number_of_minute_before">
+        <item quantity="other">%1$d minuti prima</item>
+        <item quantity="one">%1$d minuto prima</item>
+    </plurals>
+    <plurals name="number_of_second_after">
+        <item quantity="other">%1$d secondi prima</item>
+        <item quantity="one">%1$d secondo prima</item>
+    </plurals>
+    <plurals name="number_of_second_before">
+        <item quantity="other">%1$d secondi prima</item>
+        <item quantity="one">%1$d secondo prima</item>
+    </plurals>
+    <plurals name="number_of_week_after">
+        <item quantity="other">%1$d settimane dopo</item>
+        <item quantity="one">%1$d settimana dopo</item>
+    </plurals>
+    <plurals name="number_of_week_before">
+        <item quantity="other">%1$d settimane prima</item>
+        <item quantity="one">%1$d settimana prima</item>
+    </plurals>
+    <plurals name="remote_search_result">
+        <item quantity="other">%s risultati in tutti gli account</item>
+        <item quantity="one">%s risultato in tutti gli account</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">%1$d vecchi messaggi</item>
+        <item quantity="one">%1$d vecchio messaggio</item>
+    </plurals>
+    <plurals name="unsent_messages_in_outbox">
+        <item quantity="other">%1$s messaggi non inviati in %2$s</item>
+        <item quantity="one">%1$s messaggio non inviato in %2$s</item>
+    </plurals>
+</resources>
