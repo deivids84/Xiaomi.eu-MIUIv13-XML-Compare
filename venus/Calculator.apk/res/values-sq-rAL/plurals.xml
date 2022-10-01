@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="age_label_days">
+        <item quantity="other">%d ditë</item>
+        <item quantity="one">%d ditë</item>
+    </plurals>
+    <plurals name="age_label_months">
+        <item quantity="other">%d muajt</item>
+        <item quantity="one">%d muajt</item>
+    </plurals>
+    <plurals name="age_label_yrs">
+        <item quantity="other">vite</item>
+        <item quantity="one">vit</item>
+    </plurals>
+    <plurals name="entries">
+        <item quantity="other">%d artikuj</item>
+        <item quantity="one">%d artikull</item>
+    </plurals>
+    <plurals name="loan_repayment_detail">
+        <item quantity="other">Ripagesa e detajuar (%d vite)</item>
+        <item quantity="one">Ripagesa e detajuar (%d vite)</item>
+    </plurals>
+    <plurals name="loan_repayment_detail_unit">
+        <item quantity="other">Ripagesa e detajuar (%d vite), CNY</item>
+        <item quantity="one">Ripagesa e detajuar (%d vite), CNY</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d artikuj të zgjedhur</item>
+        <item quantity="one">%d artikull i zgjedhur</item>
+    </plurals>
+    <plurals name="mortgage_summary_years">
+        <item quantity="other">%1$d vjet (%2$d muaj)</item>
+        <item quantity="one">%1$d vit (%2$d muaj)</item>
+    </plurals>
+    <plurals name="tenure_months">
+        <item quantity="other">%d muajt</item>
+        <item quantity="one">%d muajt</item>
+    </plurals>
+    <plurals name="tenure_years">
+        <item quantity="other">%d vite</item>
+        <item quantity="one">%d vit</item>
+    </plurals>
+</resources>
