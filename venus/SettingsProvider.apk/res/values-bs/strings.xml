@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Postavke za pohranu podataka</string>
+    <string name="wifi_softap_config_change">Postavke pristupne tačke su promijenjene</string>
+    <string name="wifi_softap_config_change_summary">Dodirnite da vidite detalje</string>
+</resources>

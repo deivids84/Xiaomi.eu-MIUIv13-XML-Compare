@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hd_record_scenes_entries">
+        <item>Kiɗa</item>
+        <item>Murya</item>
+        <item>Intabiyu</item>
+        <item>HD</item>
+    </string-array>
+    <string-array name="interview_record_scenes_entries">
+        <item>Kiɗa</item>
+        <item>Murya</item>
+        <item>Intabiyu</item>
+    </string-array>
+    <string-array name="record_quality_entries">
+        <item>Mafi kyau</item>
+        <item>Daidai</item>
+        <item>Mara kyau</item>
+    </string-array>
+    <string-array name="record_quality_summaries">
+        <item>MP3, ~192kbit/s, ~90MB/h</item>
+        <item>MP3, ~100kbit/s, ~45MB/h</item>
+        <item>MP3, ~75kbit/s, ~32MB/h</item>
+    </string-array>
+    <string-array name="record_scenes_entries">
+        <item>Kiɗa</item>
+        <item>Murya</item>
+    </string-array>
+    <string-array name="record_scenes_summaries">
+        <item>Naɗa kiɗa mafi kyau</item>
+        <item>Matsa da renon kusa da mafitan sautin dan kyautatata muryan</item>
+        <item>Sa wayar tsakanin mutane biyu domin ka yi naɗin tattaunawar su so sai</item>
+        <item>Babban fanni na fasaha na bada dama ma reno ya yi daukar cikakkiyar sauti</item>
+    </string-array>
+    <string-array name="record_scenes_summaries_stereo">
+        <item>Naɗa ta hanyar tashoshi 2, saurari sauti na stereo a cikin na\'urar kunni</item>
+        <item>Matsa da renon kusa da mafitan sautin dan kyautatata muryan</item>
+        <item>Sa wayar tsakanin mutane biyu domin ka yi naɗin tattaunawar su so sai</item>
+        <item>Babban fanni na fasaha na bada dama ma reno ya yi daukar cikakkiyar sauti</item>
+    </string-array>
+</resources>

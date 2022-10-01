@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="age_label_days">
+        <item quantity="other">%d ມື້</item>
+    </plurals>
+    <plurals name="age_label_months">
+        <item quantity="other">%d ເດືອນ</item>
+    </plurals>
+    <plurals name="age_label_yrs">
+        <item quantity="other">ປີ</item>
+    </plurals>
+    <plurals name="entries">
+        <item quantity="other">%d ລາຍການ</item>
+    </plurals>
+    <plurals name="loan_repayment_detail">
+        <item quantity="other">ລາຍລະອຽດການຊຳລະ (%d ປີ)</item>
+    </plurals>
+    <plurals name="loan_repayment_detail_unit">
+        <item quantity="other">ລາຍລະອຽດການຊຳລະ (%d ປີ), CNY</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">ເລືອກ %d ລາຍການແລ້ວ</item>
+    </plurals>
+    <plurals name="mortgage_summary_years">
+        <item quantity="other">%1$d ປີ (%2$d ເດືອນ)</item>
+    </plurals>
+    <plurals name="tenure_months">
+        <item quantity="other">%d ເດືອນ</item>
+    </plurals>
+    <plurals name="tenure_years">
+        <item quantity="other">%d ປີ</item>
+    </plurals>
+</resources>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="emailAddressTypes">
+    <item>Residência</item>
+    <item>Emprego</item>
+    <item>Outro</item>
+    <item>Personalizado</item>
+  </string-array>
+  <string-array name="fingerprint_acquired_vendor">
+    <item>Tente novamente</item>
+    <item></item>
+    <item></item>
+    <item>Cubra o sensor completamente e aplique pressão</item>
+    <item></item>
+    <item>Cubra o sensor completamente e aplique pressão</item>
+    <item>Cubra o sensor completamente e aplique pressão</item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item>Cubra o sensor completamente e aplique pressão</item>
+    <item>Cubra o sensor completamente e aplique pressão</item>
+    <item>"Demasiado rápido! Não foi possível reconhecer a impressão"</item>
+    <item>Mova o dedo levemente e tente novamente</item>
+    <item>Prima e levante após vibração</item>
+    <item>Mantenha o seu dedo no ecrã por mais algum tempo</item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item>Mova o dedo levemente</item>
+    <item>Esta impressão já foi adicionada. Utilize uma diferente</item>
+  </string-array>
+  <string-array name="imAddressTypes">
+    <item>Residência</item>
+    <item>Emprego</item>
+    <item>Outro</item>
+    <item>Personalizado</item>
+  </string-array>
+  <string-array name="network_switch_type_name">
+    <item>dados móveis</item>
+    <item>Wi-Fi</item>
+    <item>Bluetooth</item>
+    <item>Ethernet</item>
+    <item>VPN</item>
+  </string-array>
+  <string-array name="organizationTypes">
+    <item>Trabalho</item>
+    <item>Outro</item>
+    <item>Personalizado</item>
+  </string-array>
+  <string-array name="phoneTypes">
+    <item>Casa</item>
+    <item>Móvel</item>
+    <item>Emprego</item>
+    <item>Fax do emprego</item>
+    <item>Fax da residência</item>
+    <item>Pager</item>
+    <item>Outro</item>
+    <item>Personalizado</item>
+  </string-array>
+  <string-array name="postalAddressTypes">
+    <item>Residência</item>
+    <item>Emprego</item>
+    <item>Outro</item>
+    <item>Personalizado</item>
+  </string-array>
+  <string-array name="wfcOperatorErrorAlertMessages">
+    <item>Para fazer chamadas e enviar mensagens por Wi-Fi, comece por pedir ao seu operador para configurar este serviço. De seguida, nas Definições, ative novamente as Chamadas Wi-Fi. (Código de erro: %1$s)</item>
+  </string-array>
+  <string-array name="wfcOperatorErrorNotificationMessages">
+    <item>Ocorreu um problema ao registar a funcionalidade Chamadas Wi-Fi junto do seu operador: %1$s</item>
+  </string-array>
+</resources>

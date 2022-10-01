@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hd_record_scenes_entries">
+        <item>​ເພງ</item>
+        <item>ສຽງ</item>
+        <item>ບົດສຳພາດ</item>
+        <item>HD</item>
+    </string-array>
+    <string-array name="interview_record_scenes_entries">
+        <item>​ເພງ</item>
+        <item>ສຽງ</item>
+        <item>ບົດສຳພາດ</item>
+    </string-array>
+    <string-array name="record_quality_entries">
+        <item>​ສູງ</item>
+        <item>ມາດຕະຖານ</item>
+        <item>ຕໍ່າ</item>
+    </string-array>
+    <string-array name="record_quality_summaries">
+        <item>MP3, ~192kbit/ວິ, ~90MB/ຊົ່ວໂມງ</item>
+        <item>MP3, ~100kbit/ວິ, ~45MB/ຊົ່ວໂມງ</item>
+        <item>MP3, ~75kbit/ວິ, ~32MB/ຊົ່ວໂມງ</item>
+    </string-array>
+    <string-array name="record_scenes_entries">
+        <item>​ເພງ</item>
+        <item>ສຽງ</item>
+    </string-array>
+    <string-array name="record_scenes_summaries">
+        <item>ບັນທຶກເພງທີ່ມີຄຸນະພາບດີຂຶ້ນ</item>
+        <item>ຍ້າຍໄມເຂົ້າໃກ້ແຫຼ່ງທີ່ມາຂອງສຽງເພື່ອໃຫ້ມີຄຸນະພາບດີຂຶ້ນ</item>
+        <item>ວາງໂທລະສັບລະຫວ່າງ 2 ຄົນເພື່ອບັນທຶກການສົນທະນາຂອງພວກເຂົາຢ່າງຈະແຈ້ງ</item>
+        <item>ເຕັກໂນໂລຢີຊ່ວງໄດນາມິກສູງຈະຊ່ວຍໃຫ້ໄມໂຄຣໂຟນສາມາດເກັບສຽງທີ່ມີລາຍລະອຽດຫຼາຍຂຶ້ນ</item>
+    </string-array>
+    <string-array name="record_scenes_summaries_stereo">
+        <item>ບັນທຶກຜ່ານ 2 ຊ່ອງທາງ, ຟັງສຽງສະເຕີຣີໂອໃນຫູຟັງ</item>
+        <item>ຍ້າຍໄມເຂົ້າໃກ້ແຫຼ່ງທີ່ມາຂອງສຽງເພື່ອໃຫ້ມີຄຸນະພາບດີຂຶ້ນ</item>
+        <item>ວາງໂທລະສັບລະຫວ່າງ 2 ຄົນເພື່ອບັນທຶກການສົນທະນາຂອງພວກເຂົາຢ່າງຈະແຈ້ງ</item>
+        <item>ເຕັກໂນໂລຢີຊ່ວງໄດນາມິກສູງຈະຊ່ວຍໃຫ້ໄມໂຄຣໂຟນສາມາດເກັບສຽງທີ່ມີລາຍລະອຽດຫຼາຍຂຶ້ນ</item>
+    </string-array>
+</resources>
