@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Tənzimləmələr Anbarı</string>
+    <string name="wifi_softap_config_change">Hotspot tənzimləmələri dəyişdirildi</string>
+    <string name="wifi_softap_config_change_summary">Detallara baxmaq üçün toxunun</string>
+</resources>
