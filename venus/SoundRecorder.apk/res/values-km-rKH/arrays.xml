@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hd_record_scenes_entries">
+        <item>តន្ត្រី</item>
+        <item>សំឡេង</item>
+        <item>ធ្វើសម្ភាសន៍</item>
+        <item>HD</item>
+    </string-array>
+    <string-array name="interview_record_scenes_entries">
+        <item>តន្ត្រី</item>
+        <item>សំឡេង</item>
+        <item>ធ្វើសម្ភាសន៍</item>
+    </string-array>
+    <string-array name="record_quality_entries">
+        <item>ខ្ពស់</item>
+        <item>ស្តង់ដារ</item>
+        <item>ទាប</item>
+    </string-array>
+    <string-array name="record_quality_summaries">
+        <item>MP3, ~192kbit/s, ~90MB/h</item>
+        <item>MP3, ~100kbit/s, ~45MB/h</item>
+        <item>MP3, ~75kbit/s, ~32MB/h</item>
+    </string-array>
+    <string-array name="record_scenes_entries">
+        <item>តន្ត្រី</item>
+        <item>សំឡេង</item>
+    </string-array>
+    <string-array name="record_scenes_summaries">
+        <item>ថតតន្រ្តីជាមួយមានគុណភាពល្អប្រសើរ</item>
+        <item>រំកិលមីក្រូទៅជិតប្រភពនៃសម្លេងសម្រាប់គុណភាពល្អប្រសើរ</item>
+        <item>ដាក់ទូរស័ព្ទនៅចន្លោះមនុស្ស 2 នាក់ដើម្បីថតការសន្ទនារបស់ពួកគេយ៉ាងច្បាស់</item>
+        <item>លំដាប់បច្ចេកវិទ្យាថាមវន្តខ្ពស់អនុញ្ញាតឱ្យម៉ៃក្រូហ្វូនដើម្បីថតយកសម្លេងលម្អិតបន្ថែមទៀត</item>
+    </string-array>
+    <string-array name="record_scenes_summaries_stereo">
+        <item>ថតតាមរយៈ 2 ឆានែល ស្តាប់សម្លេងស្តេរ៉េអូតាមកាស</item>
+        <item>រំកិលមីក្រូទៅជិតប្រភពនៃសម្លេងសម្រាប់គុណភាពល្អប្រសើរ</item>
+        <item>ដាក់ទូរស័ព្ទនៅចន្លោះមនុស្ស 2 នាក់ដើម្បីថតការសន្ទនារបស់ពួកគេយ៉ាងច្បាស់</item>
+        <item>លំដាប់បច្ចេកវិទ្យាថាមវន្តខ្ពស់អនុញ្ញាតឱ្យម៉ៃក្រូហ្វូនដើម្បីថតយកសម្លេងលម្អិតបន្ថែមទៀត</item>
+    </string-array>
+</resources>
