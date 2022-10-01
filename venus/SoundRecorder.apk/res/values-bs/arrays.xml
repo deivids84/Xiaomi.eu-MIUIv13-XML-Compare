@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hd_record_scenes_entries">
+        <item>Muzika</item>
+        <item>Glas</item>
+        <item>Razgovor</item>
+        <item>HD</item>
+    </string-array>
+    <string-array name="interview_record_scenes_entries">
+        <item>Muzika</item>
+        <item>Glas</item>
+        <item>Razgovor</item>
+    </string-array>
+    <string-array name="record_quality_entries">
+        <item>Visoko</item>
+        <item>Standardno</item>
+        <item>Nisko</item>
+    </string-array>
+    <string-array name="record_quality_summaries">
+        <item>MP3, ~192kbit/s, ~90MB/h</item>
+        <item>MP3, ~100kbit/s, ~45MB/h</item>
+        <item>MP3, ~75kbit/s, ~32MB/h</item>
+    </string-array>
+    <string-array name="record_scenes_entries">
+        <item>Muzika</item>
+        <item>Glas</item>
+    </string-array>
+    <string-array name="record_scenes_summaries">
+        <item>Snimaj muziku boljeg kvaliteta</item>
+        <item>Za bolji kvalitet, pomjerite mikrofon bliže izvoru zvuka</item>
+        <item>Za jasan snimak razgovora, stavite telefon između dvije osobe</item>
+        <item>Tehnologija visokodinamičkog opsega omogućava mikrofonu detaljnije snimanje zvuka</item>
+    </string-array>
+    <string-array name="record_scenes_summaries_stereo">
+        <item>Snimajte preko 2 kanala, slušajte stereo zvuk na slušalicama</item>
+        <item>Za bolji kvalitet, pomjerite mikrofon bliže izvoru zvuka</item>
+        <item>Za jasan snimak razgovora, stavite telefon između dvije osobe</item>
+        <item>Tehnologija visokodinamičkog opsega omogućava mikrofonu detaljnije snimanje zvuka</item>
+    </string-array>
+</resources>
