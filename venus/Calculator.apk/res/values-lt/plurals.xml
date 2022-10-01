@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="age_label_days">
+        <item quantity="other">%d dienų</item>
+        <item quantity="one">%d diena</item>
+        <item quantity="few">%d dienos</item>
+        <item quantity="many">%d dienos</item>
+    </plurals>
+    <plurals name="age_label_months">
+        <item quantity="other">%d mėnesių</item>
+        <item quantity="one">%d mėnuo</item>
+        <item quantity="few">%d mėnesiai</item>
+        <item quantity="many">%d mėnesiai</item>
+    </plurals>
+    <plurals name="age_label_yrs">
+        <item quantity="other">metų</item>
+        <item quantity="one">metai</item>
+        <item quantity="few">metai</item>
+        <item quantity="many">metai</item>
+    </plurals>
+    <plurals name="entries">
+        <item quantity="other">%d elementų</item>
+        <item quantity="one">%d elementas</item>
+        <item quantity="few">%d elementai</item>
+        <item quantity="many">%d elemento</item>
+    </plurals>
+    <plurals name="loan_repayment_detail">
+        <item quantity="other">Išsamus grąžinimas (%d metų)</item>
+        <item quantity="one">Išsamus grąžinimas (%d metai)</item>
+        <item quantity="few">Išsamus grąžinimas (%d metai)</item>
+        <item quantity="many">Išsamus grąžinimas (%d metų)</item>
+    </plurals>
+    <plurals name="loan_repayment_detail_unit">
+        <item quantity="other">Išsamus grąžinimas (%d metų), CNY</item>
+        <item quantity="one">Išsamus grąžinimas (%d metai), CNY</item>
+        <item quantity="few">Išsamus grąžinimas (%d metai), CNY</item>
+        <item quantity="many">Išsamus grąžinimas (%d metų), CNY</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">Pasirinkta %d elementų</item>
+        <item quantity="one">Pasirinktas %d elementas</item>
+        <item quantity="few">Pasirinkti %d elementai</item>
+        <item quantity="many">Pasirinkta %d elemento</item>
+    </plurals>
+    <plurals name="mortgage_summary_years">
+        <item quantity="other">%1$d metai (%2$d mėnesių)</item>
+        <item quantity="one">%1$d metai (%2$d mėnesis)</item>
+        <item quantity="few">%1$d metai (%2$d mėnesiai)</item>
+        <item quantity="many">%1$d metai (%2$d mėnesiai)</item>
+    </plurals>
+    <plurals name="tenure_months">
+        <item quantity="other">%d mėnesių</item>
+        <item quantity="one">%d mėnuo</item>
+        <item quantity="few">%d mėnesiai</item>
+        <item quantity="many">%d mėnesiai</item>
+    </plurals>
+    <plurals name="tenure_years">
+        <item quantity="other">%d metų</item>
+        <item quantity="one">%d metai</item>
+        <item quantity="few">%d metai</item>
+        <item quantity="many">%d metai</item>
+    </plurals>
+</resources>
