@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="age_label_days">
+        <item quantity="other">%d күн</item>
+        <item quantity="one">%d күн</item>
+    </plurals>
+    <plurals name="age_label_months">
+        <item quantity="other">%d ай</item>
+        <item quantity="one">%d ай</item>
+    </plurals>
+    <plurals name="age_label_yrs">
+        <item quantity="other">жыл</item>
+        <item quantity="one">жыл</item>
+    </plurals>
+    <plurals name="entries">
+        <item quantity="other">%d элемент</item>
+        <item quantity="one">%d элемент</item>
+    </plurals>
+    <plurals name="loan_repayment_detail">
+        <item quantity="other">Кері төлеу ақпараты (%d жыл)</item>
+        <item quantity="one">Кері төлеу ақпараты (%d жыл)</item>
+    </plurals>
+    <plurals name="loan_repayment_detail_unit">
+        <item quantity="other">Кері төлеу ақпараты (%d жыл), CNY</item>
+        <item quantity="one">Кері төлеу ақпараты (%d жыл), CNY</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">Таңдалды: %d</item>
+        <item quantity="one">%d объект таңдалды</item>
+    </plurals>
+    <plurals name="mortgage_summary_years">
+        <item quantity="other">%1$d жыл (%2$d ай)</item>
+        <item quantity="one">%1$d жыл (%2$d ай)</item>
+    </plurals>
+    <plurals name="tenure_months">
+        <item quantity="other">%d ай</item>
+        <item quantity="one">%d ай</item>
+    </plurals>
+    <plurals name="tenure_years">
+        <item quantity="other">%d жыл</item>
+        <item quantity="one">%d жыл</item>
+    </plurals>
+</resources>
