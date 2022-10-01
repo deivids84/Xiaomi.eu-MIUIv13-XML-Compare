@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alphabet_table">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="settings_search_earth">
+        <item>Terra</item>
+        <item>Plano de fundo/Super planos de fundo/Terra</item>
+        <item>Terra;Super planos de fundo;Edição da terra;Plano de fundo</item>
+    </string-array>
+    <string-array name="settings_search_geometry">
+        <item>Geometria</item>
+        <item>Plano de fundo/Super planos de fundo/Geometria</item>
+        <item>Geometria;Abstrato;Super planos de fundo;Plano de fundo</item>
+    </string-array>
+    <string-array name="settings_search_mars">
+        <item>O planeta vermelho</item>
+        <item>Plano de fundo/Super planos de fundo/O planeta vermelho</item>
+        <item>Marte;Edição de Marte;Super planos de fundo;Plano de fundo</item>
+    </string-array>
+    <string-array name="settings_search_saturn">
+        <item>Rings of Saturn</item>
+        <item>Wallpaper/Super wallpapers/Rings of Saturn</item>
+        <item>Planet;Saturn;Super wallpaper;Wallpaper</item>
+    </string-array>
+    <string-array name="settings_search_snowmountain">
+        <item>Picos nevados</item>
+        <item>Plano de fundo/Super planos de fundo/Picos nevados</item>
+        <item>Terra;Montanhas;Super planos de fundo;Plano de fundo</item>
+    </string-array>
+    <string-array name="settings_search_superwp">
+        <item>Super planos de fundo</item>
+        <item>Plano de fundo/Super planos de fundo</item>
+        <item>Super planos de fundo;Plano de fundo;Plano de fundo dinâmico;Plano de fundo 3D</item>
+    </string-array>
+    <string-array name="settings_search_weather">
+        <item>Clima</item>
+        <item>Plano de fundo/Super planos de fundo/Clima</item>
+        <item>Clima;Informações de clima;Super planos de fundo;Plano de fundo</item>
+    </string-array>
+</resources>
