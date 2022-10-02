@@ -49,8 +49,8 @@
         <item quantity="one">%d Kalender Inhalt</item>
     </plurals>
     <plurals name="dirty_callog_count">
-        <item quantity="other">%d Anrufverlaufaufzeichnungen</item>
-        <item quantity="one">%d Anrufverlaufaufzeichnung</item>
+        <item quantity="other">%d Anruflistenaufnahmen</item>
+        <item quantity="one">%d Anruflistenaufnahme</item>
     </plurals>
     <plurals name="dirty_contacts_count">
         <item quantity="other">%d Kontakte</item>
@@ -81,8 +81,8 @@
         <item quantity="one">%d häufige Redewendung</item>
     </plurals>
     <plurals name="dirty_recorder_count">
-        <item quantity="other">Protokolle %d</item>
-        <item quantity="one">Protokoll %d</item>
+        <item quantity="other">%d Aufnahmen</item>
+        <item quantity="one">%d Aufnahme</item>
     </plurals>
     <plurals name="dirty_wlan_count">
         <item quantity="other">%d WLAN-Netzwerke</item>
