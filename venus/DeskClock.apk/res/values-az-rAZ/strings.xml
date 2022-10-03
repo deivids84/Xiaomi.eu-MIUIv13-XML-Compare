@@ -599,7 +599,7 @@
     <string name="tuesday_shortest">Ç.a.</string>
     <string name="turn_off_a_repeat_alarm">Təkrarlanan zəngli saatı söndür</string>
     <string name="turn_off_this_repeat_alarm">Bu təkrarlanan zəngli saatı söndür</string>
-    <string name="tv_blank_list_other_text">Heç biri seçilmədi</string>
+    <string name="tv_blank_list_other_text">Burada hələ heç nə yoxdur</string>
     <string name="tv_blank_list_show_text">Hələ ki, burada heç nə yoxdur. Dünya saatınıza əlavə etmək üçün bir yer axtarın.</string>
     <string name="tv_world_clock_edit_title1">Əsas ekranda göstərilən yerlər</string>
     <string name="tv_world_clock_edit_title2">Digər saxlanılan yerlər</string>
