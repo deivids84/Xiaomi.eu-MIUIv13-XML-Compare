@@ -1134,7 +1134,7 @@ Sin embargo, algunas de tus transacciones aún no están completas. Para retirar
     <string name="card_main_deepclean_wechat_summary">Limpiar caché de WeChat para liberar espacio de almacenamiento</string>
     <string name="card_main_deepclean_wechat_title">Caché de WeChat</string>
     <string name="card_main_deepclean_whatsapp_title">Limpiador de WhatsApp</string>
-    <string name="card_main_gamebooster_summary">Aumente la estabilidad de la conexión para juegos</string>
+    <string name="card_main_gamebooster_summary">Aumenta la estabilidad de la conexión en los juegos</string>
     <string name="card_main_gamebooster_title">Game Turbo</string>
     <string name="card_main_hbassistant_summary">Use esta herramienta para agarrar los sobres más rápido</string>
     <string name="card_main_hbassistant_title">Asistente de Sobre rojo</string>
@@ -1870,7 +1870,7 @@ voluntario"</string>
     <string name="first_aid_item4_content">Batería</string>
     <string name="first_aid_item5_content">Otros problemas</string>
     <string name="first_aid_result_feedback_button">Enviar</string>
-    <string name="first_aid_result_feedback_summary">"El análisis de seguridad no encontró problemas. Sin embargo, he visto algunos."</string>
+    <string name="first_aid_result_feedback_summary">"El análisis de seguridad no ha encontrado problemas."</string>
     <string name="first_aid_result_feedback_title">Comentarios</string>
     <string name="first_aid_result_summary_normal">¡Todo parece estar bien!</string>
     <string name="first_aid_result_summary_not_finished">"No se completó el análisis. Algunos riesgos podrían no ser detectados."</string>
