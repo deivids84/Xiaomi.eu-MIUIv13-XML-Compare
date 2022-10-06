@@ -646,7 +646,7 @@ seçimi"</string>
     <string name="tts_default_pitch_title">Ton</string>
     <string name="tts_default_rate_summary">Mətnin danışıq sürəti</string>
     <string name="tts_default_rate_title">Nitq sürəti</string>
-    <string name="tts_default_sample_string">Bu, bir nbitq sintez nümunəsidir</string>
+    <string name="tts_default_sample_string">Bu, bir nitq sintez nümunəsidir</string>
     <string name="tts_engine_network_required">Bu dil, mətndən nitqə çıxış üçün işləyən bir şəbəkə bağlantısı tələb edir.</string>
     <string name="tts_engine_preference_section_title">Tərcih edilən mühərrik</string>
     <string name="tts_engine_security_warning">Bu nitq sintez mühərriki, parollar və kredit kartı nömrələri kimi şəxsi verilənlər daxil olmaqla danışılan bütün mətni yığa bilər. %s mühərrikindən gəlir. Bu nitq sintez mühərrikinin istifadəsi fəallaşdırılsın?</string>
