@@ -2621,7 +2621,7 @@ Este ajuste afecta a todos los usuarios de este dispositivo."</string>
     <string name="date_time_select_region">Región</string>
     <string name="date_time_set_date_title">Fecha</string>
     <string name="date_time_set_time_title">Hora</string>
-    <string name="date_time_set_timezone">Elegir zona horaria</string>
+    <string name="date_time_set_timezone">Elegir la zona horaria</string>
     <string name="date_time_set_timezone_title">Zona horaria</string>
     <string name="date_time_settings">Fecha y hora</string>
     <string name="day_of_week">Día de la semana</string>
@@ -3046,7 +3046,7 @@ Si el problema persiste, desinstala la aplicación para mejorar el rendimiento d
     <string name="dual_cdma_sim_warning_notification_summary">Es posible que se limiten las funciones si usas %1$s. Pulsa para obtener más información.</string>
     <string name="dual_clock">Reloj dual</string>
     <string name="dual_clock_aod_open_message">El Reloj dual puede ser mostrado en la Pantalla de bloqueo, Pantalla de inicio y mientras la pantalla está apagada.</string>
-    <string name="dual_clock_hint">El Reloj dual necesita usar el widget del reloj del sistema y el tema por defecto</string>
+    <string name="dual_clock_hint">El Reloj dual usa el widget de reloj del sistema y el tema por defecto</string>
     <string name="dual_clock_ok">Entendido</string>
     <string name="dual_clock_open_message">El reloj dual se mostrará en la pantalla de Bloqueo y en la pantalla de Inicio.</string>
     <string name="dual_wifi">Aumento de velocidad Wi-Fi de doble banda</string>
@@ -4630,7 +4630,7 @@ Abre Xiaomi Cloud y restaura elementos desde allí."</string>
     <string name="location_time_zone_detection_not_allowed">No se permiten cambios en la detección de la zona horaria de la ubicación</string>
     <string name="location_time_zone_detection_not_applicable">La detección de zona horaria de ubicación está deshabilitada</string>
     <string name="location_time_zone_detection_not_supported">La detección de zona horaria de ubicación no es compatible</string>
-    <string name="location_time_zone_detection_toggle_title">Usar la ubicación para establecer la zona horaria</string>
+    <string name="location_time_zone_detection_toggle_title">Zona horaria de la ubicación</string>
     <string name="location_title">Mi ubicación</string>
     <string name="lock_after_timeout">Bloquear tras suspender pantalla</string>
     <string name="lock_after_timeout_summary">%1$s después del tiempo de espera</string>
@@ -8200,8 +8200,8 @@ Dado que SOS de emergencia proporciona sus servicios en función de la recopilac
     <string name="sound_haptic_settings">Sonido y tacto</string>
     <string name="sound_mode">Opciones de sonido</string>
     <string name="sound_settings">Sonido</string>
-    <string name="sound_settings_example_summary">El volumen del tono de llamada y de las notificaciones está al 80 %</string>
-    <string name="sound_settings_summary">El volumen del tono de llamada y de las notificaciones está al %1$s</string>
+    <string name="sound_settings_example_summary">El volumen de llamada y de notificaciones está al 80 %</string>
+    <string name="sound_settings_summary">El volumen de llamada y de notificaciones está al %1$s</string>
     <string name="sound_settings_summary_silent">Timbre en silencio</string>
     <string name="sound_settings_summary_vibrate">Timbre en vibración</string>
     <string name="sound_settings_tab_haptic">Tacto</string>
@@ -10774,7 +10774,7 @@ Actualizar la configuración para:
     <string name="zen_suggestion_title">Actualizar No molestar</string>
     <string name="zone_auto_summaryOff">Usa la hora proporcionada por la red del operador</string>
     <string name="zone_auto_summaryOn">Usa la hora proporcionada por la red del operador</string>
-    <string name="zone_auto_title">Usar la zona horaria proporcionada por la red</string>
+    <string name="zone_auto_title">Zona horaria de la red</string>
     <string name="zone_change_to_from_dst">%1$s empieza el %2$s.</string>
     <string name="zone_info_footer">Se usa la %1$s (la %2$s comienza el %3$s).</string>
     <string name="zone_info_footer_no_dst">Se usa la %1$s (sin horario de verano).</string>
