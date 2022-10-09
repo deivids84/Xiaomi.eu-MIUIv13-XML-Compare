@@ -26,7 +26,7 @@
     <string name="HIPS_Perm_Contact">Modificar i suprimir els contactes</string>
     <string name="HIPS_Perm_Contact_Desc">edició de contactes</string>
     <string name="HIPS_Perm_External_Storage">Accedir i canviar fitxers de l’emmagatzematge intern</string>
-    <string name="HIPS_Perm_External_Storage_Desc">"afegir i eliminar fitxers en l'emmagatzematge intern del dispositiu"</string>
+    <string name="HIPS_Perm_External_Storage_Desc">"afegir i suprimir fitxers a l'emmagatzematge intern del dispositiu"</string>
     <string name="HIPS_Perm_Intl_group_desc_audio_recorder">enregistrar àudio</string>
     <string name="HIPS_Perm_Intl_group_desc_auto_start">Iniciar aplicacions en segon pla automàticament</string>
     <string name="HIPS_Perm_Intl_group_desc_calendar">Accés a esdeveniments del calendari</string>
