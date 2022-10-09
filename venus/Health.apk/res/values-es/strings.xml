@@ -1544,8 +1544,8 @@ datos de sueño"</string>
     <string name="tb_exercise_detail_step_daily_no_data">No hay datos de pasos contados. Objetivo: %1$d.</string>
     <string name="tb_exercise_detail_step_daily_no_goal">Pasos totales: %1$d</string>
     <string name="tb_exercise_detail_step_daily_normal">Pasos totales: %1$d. Objetivo: %2$d. Completado %3$d por ciento.</string>
-    <string name="tb_exercise_detail_step_no_goal_no_data">No hay datos de conteo de pasos.</string>
-    <string name="tb_exercise_detail_step_w_m_no_data">No hay datos de pasos contados. Días en los que alcanzaste la meta: %1$d.</string>
+    <string name="tb_exercise_detail_step_no_goal_no_data">No hay datos de pasos contados.</string>
+    <string name="tb_exercise_detail_step_w_m_no_data">No hay datos de pasos contados. Alcanzaste tu objetivo %1$d días.</string>
     <string name="tb_exercise_detail_step_w_m_no_goal">Promedio diario de pasos: %1$d.</string>
     <string name="tb_exercise_detail_step_w_m_normal">Promedio diario de pasos: %1$d. Días en los que alcanzaste la meta: %2$d.</string>
     <string name="tb_exercise_exercise_duration">Duración del entrenamiento de intensidad moderada a alta en minutos: %1$d. %2$s. Pulsa para ver los detalles.</string>
@@ -1787,7 +1787,7 @@ Novedades:
     <string name="v7_preference_off">DESACTIVADA</string>
     <string name="v7_preference_on">ACTIVADO</string>
     <string name="value_error_correct">Edit record</string>
-    <string name="view_step_and_progress">Mira tu conteo de pasos actual</string>
+    <string name="view_step_and_progress">Mira tu recuento de pasos</string>
     <string name="visceral_fat">Grasa visceral</string>
     <string name="visceral_fat_descripe_content">La grasa visceral es esencial para estabilizar y proteger los órganos internos. Sin embargo, la grasa visceral alta aumenta el riesgo de enfermedades cardiovasculares y metabólicas.</string>
     <string name="voice_remind">"Hemos incrementado el volumen para que escuches mejor las instrucciones."</string>
