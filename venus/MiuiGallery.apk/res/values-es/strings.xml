@@ -1274,7 +1274,7 @@ disponibles"</string>
     <string name="magic_cut_video_no_support_image_edit">"Formato no soportado"</string>
     <string name="magic_cut_video_no_support_video_edit">"Formato no soportado"</string>
     <string name="magic_edit_cancel">Salir</string>
-    <string name="magic_edit_dsc">Se perderán todos los cambios no guardados. ¿Salir de todas formas?</string>
+    <string name="magic_edit_dsc">Se perderán todos los cambios no guardados. ¿Salir?</string>
     <string name="magic_effect">Efectos</string>
     <string name="magic_effect_text">Arte</string>
     <string name="magic_effect_video_text">Efectos de vídeo</string>
@@ -2998,7 +2998,7 @@ La transcodificación puede llevar algo de tiempo cuando utilizas esta función 
     <string name="vlog_editor_talkback_ratio_239_1">Dos puntos treinta y nueve a uno</string>
     <string name="vlog_end_of_film">Cerrando</string>
     <string name="vlog_estimated_size_x">≈%d MB</string>
-    <string name="vlog_exit_ddit_message">Si sales ahora se perderán todos los cambios. ¿Salir de todas formas?</string>
+    <string name="vlog_exit_ddit_message">Si sales ahora se perderán todos los cambios. ¿Salir?</string>
     <string name="vlog_exit_edit_title">Salir del editor</string>
     <string name="vlog_exit_message">Se perderán todos los cambios no guardados. ¿Cancelar de todas formas?</string>
     <string name="vlog_exit_title">Descartando cambios</string>
