@@ -666,5 +666,5 @@ Debes aceptar la Política de Privacidad del Teclado Mint antes de usar esta fun
     <string name="welcome">Te damos la bienvenida</string>
     <string name="withdraw_consent">Si retira su consentimiento, los servicios de Wallpaper Carousel se desactivarán.</string>
     <string name="yesterday">Ayer</string>
-    <string name="zone_picker_title">Elegir zona horaria</string>
+    <string name="zone_picker_title">Elegir la zona horaria</string>
 </resources>
