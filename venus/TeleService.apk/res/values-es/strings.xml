@@ -1063,7 +1063,7 @@ Ponte en contacto con tu operador si el problema persiste."</string>
     <string name="guest_resetting">Restableciendo invitado…</string>
     <string name="hac_mode_summary">Activar compatibilidad con audífonos</string>
     <string name="hac_mode_title">Audífonos</string>
-    <string name="handon_ringer_summary">Reduce el volumen del tono de llamada entrante cuando el teléfono está levantado.</string>
+    <string name="handon_ringer_summary">Reduce el volumen del tono de llamada entrante al coger el dispositivo.</string>
     <string name="handon_ringer_title">Silenciar volumen cuando se coge el teléfono</string>
     <string name="hdcp_checking_dialog_title">Establecer comprobación HDCP</string>
     <string name="hdcp_checking_title">Comprobación de HDCP</string>
