@@ -575,7 +575,7 @@ Esta operación no afectará a las imágenes de la Galería."</string>
     <string name="galleryplus_v_agree">Aceptar</string>
     <string name="galleryplus_v_cancel">Cancelar</string>
     <string name="galleryplus_v_confirm_cancel_edit_subtitle_msg">¿Descaratr todos los cambios y dejar de editar los subtítulos?</string>
-    <string name="galleryplus_v_confirm_cancel_edit_subtitle_msg2">"No podrás guardar este vídeo si sales ahora. ¿Salir de todas formas?"</string>
+    <string name="galleryplus_v_confirm_cancel_edit_subtitle_msg2">"No podrás guardar este vídeo si sales ahora. ¿Salir?"</string>
     <string name="galleryplus_v_confirm_cancel_edit_subtitle_title">Salir del editor</string>
     <string name="galleryplus_v_dialog_hint_contain_invalid_char">El nombre del archivo contiene caracteres no válidos</string>
     <string name="galleryplus_v_dialog_hint_duplicate_name">Este archivo ya existe</string>
