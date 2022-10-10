@@ -856,7 +856,7 @@ Selección"</string>
     <string name="empty_networks_list">No se ha encontrado ninguna red.</string>
     <string name="enable">Activar</string>
     <string name="enable_adb">Depuración por USB</string>
-    <string name="enable_adb_summary">Activar el modo de depuración cuando el dispositivo esté conectado por USB</string>
+    <string name="enable_adb_summary">Activar el modo depuración con el dispositivo conectado por USB</string>
     <string name="enable_adb_wireless">Depuración inalámbrica</string>
     <string name="enable_adb_wireless_summary">Activa el modo de depuración cuando haya conexión Wi‑Fi</string>
     <string name="enable_antispam_strange_summary">Silenciar el primer tono para las llamadas de números desconocidos</string>
