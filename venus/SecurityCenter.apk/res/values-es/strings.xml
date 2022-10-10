@@ -40,7 +40,7 @@
     <string name="Settings_title_anti_virus_kddi">Ajustes de análisis de seguridad</string>
     <string name="Settings_title_garbage_cleanup">Ajustes del Limpiador</string>
     <string name="Settings_title_network_assistants">Ajustes de uso de datos</string>
-    <string name="Settings_title_power_center">Ajustes de optimización de batería</string>
+    <string name="Settings_title_power_center">Optimización de batería</string>
     <string name="abc_action_bar_home_description">Ir a inicio</string>
     <string name="abc_action_bar_up_description">Desplazarse hacia arriba</string>
     <string name="abc_action_menu_overflow_description">Más opciones</string>
@@ -1316,8 +1316,8 @@ Su operadora puede cobrarle cargos adicionales si vuelve a activar los datos mó
     <string name="debug_open_final_tip">¿Activar depuración USB?</string>
     <string name="debug_open_title">Esta característica está destinada a desarrolladores y puede no ser conveniente para usuarios generales. Activar la depuración USB puede provocar los siguientes cambios:</string>
     <string name="declaration_dialog_msg">Esta característica puede ayudarte a realizar un seguimiento de su uso, pero no garantiza que no se apliquen cargos adicionales. Para obtener mejores resultados, establece un límite sensato.</string>
-    <string name="deep_clean_disconnect_data_title">Desactivar datos móviles cuando el dispositivo esté bloqueado</string>
-    <string name="deep_clean_memory_clean_title">Limpiar la caché cuando el dispositivo esté bloqueado</string>
+    <string name="deep_clean_disconnect_data_title">Desactivar datos móviles con el dispositivo bloqueado</string>
+    <string name="deep_clean_memory_clean_title">Limpiar la caché con el dispositivo bloqueado</string>
     <string name="deep_clean_never_memory_clean">Nunca</string>
     <string name="deep_power_save_item_summary_auto_brightness">Ajustar brillo de la pantalla automáticamente para ahorrar batería</string>
     <string name="deep_power_save_item_summary_bluetooth">Desactivar Bluetooth para ahorrar batería</string>
@@ -3090,7 +3090,7 @@ Usa otro cable Ethernet para conectarlo. Si crees que hay problemas de conexión
     <string name="notification_battery_scan_consume_abnormal_title_set">%s está drenando la batería</string>
     <string name="notification_channel_battery">Batería</string>
     <string name="notification_checker_installed_apk_hint">No es necesario mantener la APK después de la instalación</string>
-    <string name="notification_enter_power_save_mode_subtitle">Apague cuando el dispositivo esté a %s o esté completamente cargado</string>
+    <string name="notification_enter_power_save_mode_subtitle">Desactivado cuando el dispositivo esté al %s o completamente cargado</string>
     <string name="notification_enter_power_save_mode_title">Activado el ahorro de batería</string>
     <string name="notification_exit_power_save_mode">Ahorro de batería desactivado</string>
     <string name="notification_exit_power_save_mode_full_subtitle">Tu dispositivo está completamente cargado</string>
@@ -3196,7 +3196,7 @@ Usa otro cable Ethernet para conectarlo. Si crees que hay problemas de conexión
     <string name="om_settings_lock_app">Bloquear aplicaciones</string>
     <string name="om_settings_lock_app_manage">Bloquear aplicaciones</string>
     <string name="om_settings_memocy_occupy_too_large_summary">Notificar cuando el tamaño de la caché sea demasiado grande</string>
-    <string name="om_settings_memory_clean_lock_screen">Limpiar la caché cuando el dispositivo esté bloqueado</string>
+    <string name="om_settings_memory_clean_lock_screen">Limpiar la caché con el dispositivo bloqueado</string>
     <string name="om_settings_memory_occupy_notify">Gran tamaño de caché</string>
     <string name="om_settings_memory_occupy_notify_never">Nunca</string>
     <string name="om_settings_notify_manage">Notificaciones</string>
@@ -3696,7 +3696,7 @@ Usa otro cable Ethernet para conectarlo. Si crees que hay problemas de conexión
     <string name="power_rank_surface_flinger">Renderizado</string>
     <string name="power_rank_system">Sistema Android</string>
     <string name="power_save_mode">Ahorro de batería</string>
-    <string name="power_save_mode_auto_exit_summary_new">Apague cuando la batería esté a %s o completamente cargada</string>
+    <string name="power_save_mode_auto_exit_summary_new">El ahorro de batería se desactivará cuando esté al %s o completamente cargada</string>
     <string name="power_save_mode_auto_exit_title">Desactivar cuando esté cargado</string>
     <string name="power_save_mode_close_aod_display_summary">Desactivar Pantalla siempre activa cuando el Ahorro de batería está activado</string>
     <string name="power_save_mode_close_aod_display_title">Desactivar Pantalla siempre activa</string>
@@ -3724,7 +3724,7 @@ Usa otro cable Ethernet para conectarlo. Si crees que hay problemas de conexión
     <string name="power_save_ps_close_setting_dclickwakeup">\"Pulsar dos veces para activar o apagar la pantalla\"</string>
     <string name="power_save_ps_close_setting_fingeraod">\"Mostrar icono de huella dactilar cuando la pantalla está apagada\"</string>
     <string name="power_save_ps_close_setting_haptic">respuesta táctil</string>
-    <string name="power_save_ps_close_setting_pickupwakeup">\"Levantar para reactivar\"</string>
+    <string name="power_save_ps_close_setting_pickupwakeup">Levantar para reactivar</string>
     <string name="power_save_ps_close_setting_sync">sincronizar</string>
     <string name="power_save_ps_description_title">El Ahorro de batería activa las siguientes restricciones:</string>
     <string name="power_save_ps_freeze">Congelar las aplicaciones en segundo plano</string>
@@ -5072,7 +5072,7 @@ El formateo eliminará el contenido existente en la ^2. Para evitar perder conte
     <string name="superpower_settings">Ahorro de batería extremo</string>
     <string name="superpower_settins_autoenter_summary_new">Encienda el ahorro de batería Ultra automáticamente cuando la batería esté %s cargada</string>
     <string name="superpower_settins_autoenter_title">Activar automáticamente</string>
-    <string name="superpower_settins_autoleave_summary_new">Apague el ahorro de batería Ultra automáticamente cuando la batería esté %s cargada</string>
+    <string name="superpower_settins_autoleave_summary_new">El ahorro extremo se desactivará con la batería un %s cargada</string>
     <string name="superpower_settins_autoleave_title">Desactivar automáticamente</string>
     <string name="superpower_settins_other">Ajustes adicionales</string>
     <string name="superpower_settins_switch_summary">Restringe las funciones con mayor consumo de energía para mantener las funciones básicas (p. ej. llamadas, SMS y aplicaciones seleccionadas) disponibles el mayor tiempo posible</string>
