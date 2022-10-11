@@ -3769,8 +3769,8 @@ Usa otro cable Ethernet para conectarlo. Si crees que hay problemas de conexión
     <string name="power_wireless_update_notification_title">Actualización de carga inalámbrica</string>
     <string name="power_wireless_update_text">Actualizado</string>
     <string name="power_wireless_update_tv_text">"Actualización del firmware… No apague el dispositivo."</string>
-    <string name="pp_anti_track_summary">"No permitir el seguimiento de su actividad"</string>
-    <string name="pp_antitrack_detail">Las aplicaciones pueden rastrear su actividad a través de identificadores personales, información de ubicación y otros tipos de información personal compartida con ellas. El seguimiento de su actividad en diferentes aplicaciones y sitios web les permite personalizar anuncios y recomendarle contenido relevante.</string>
+    <string name="pp_anti_track_summary">"Impedir el seguimiento de tu actividad"</string>
+    <string name="pp_antitrack_detail">Las aplicaciones pueden rastrear tu actividad a través de identificadores personales, información de ubicación y otros tipos de información personal compartida con ellas. El seguimiento de tu actividad en diferentes aplicaciones y sitios web les permite personalizar anuncios y recomendarte contenido relevante.</string>
     <string name="pp_app_behavior_record_detail">Registra todo el comportamiento de la aplicación</string>
     <string name="pp_app_del_img_intercept_detail">Reciba notificaciones cuando las aplicaciones eliminen elementos de la Galería sin su permiso</string>
     <string name="pp_app_gets_dangerous_permission_reminder">Reciba notificaciones cuando las aplicaciones usen permisos de alto riesgo</string>
@@ -3828,7 +3828,7 @@ Usa otro cable Ethernet para conectarlo. Si crees que hay problemas de conexión
     <string name="pp_privacy_protection">Proteccion</string>
     <string name="pp_privacy_protection_function">Funciones de protección de la privacidad</string>
     <string name="pp_privacy_protection_lab">Laboratorio de protección de la privacidad</string>
-    <string name="pp_privacy_protection_lab_summary">Mantenga las cosas en privado</string>
+    <string name="pp_privacy_protection_lab_summary">Mantén privados tus datos</string>
     <string name="pp_privacy_risk_detection">Detecta riesgos de privacidad</string>
     <string name="pp_privacy_risk_detection_detail">Detecta riesgos de privacidad automáticamente y recibe recomendaciones sobre medidas de protección</string>
     <string name="pp_privacy_safe_box">Espacio privado</string>
@@ -4644,7 +4644,7 @@ Retirar el consentimiento ahora?"</string>
     <string name="sp_security_center_title">Seguridad</string>
     <string name="sp_security_check_status_off">Desactivado</string>
     <string name="sp_security_check_status_on">Activado</string>
-    <string name="sp_security_input_summary">Mantenga las cosas que escribe en privado</string>
+    <string name="sp_security_input_summary">Mantén privado lo que escribes</string>
     <string name="sp_security_input_title">Teclado seguro</string>
     <string name="sp_security_scan_summary">Escanea el dispositivo en busca de virus</string>
     <string name="sp_security_scan_title">Escaneo de seguridad</string>
