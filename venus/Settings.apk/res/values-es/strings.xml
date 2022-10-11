@@ -3167,7 +3167,7 @@ Si el problema persiste, desinstala la aplicación para mejorar el rendimiento d
     <string name="enabled_authorised_apps_summary">Tu autorización se revocará, para cada aplicación, al desactivar su interruptor.</string>
     <string name="enabled_authorised_apps_title">Autorización concedida</string>
     <string name="enabled_by_admin">Habilitado por el administrador</string>
-    <string name="enalbe_identify_iPhone">Identificación de dispositivo</string>
+    <string name="enalbe_identify_iPhone">Identificación</string>
     <string name="encrypt_talkback_dialog_message_password">Cuando escribas tu contraseña para iniciar el dispositivo, los servicios de accesibilidad como %1$s aún no estarán disponibles.</string>
     <string name="encrypt_talkback_dialog_message_pattern">Cuando introduzcas tu patrón para iniciar este dispositivo, los servicios de accesibilidad como %1$s aún no estarán disponibles.</string>
     <string name="encrypt_talkback_dialog_message_pin">Cuando introduzcas tu PIN para iniciar este dispositivo, los servicios de accesibilidad como %1$s aún no estarán disponibles.</string>
@@ -4615,7 +4615,7 @@ Abre Xiaomi Cloud y restaura elementos desde allí."</string>
     <string name="location_services_screen_title">Servicios de ubicación</string>
     <string name="location_settings_footer_general">Las aplicaciones con el permiso de dispositivos cercanos pueden determinar la posición relativa de los dispositivos conectados.</string>
     <string name="location_settings_footer_learn_more_content_description">Obtén más información sobre la configuración de ubicación.</string>
-    <string name="location_settings_footer_location_off">El acceso a la ubicación está desactivado para aplicaciones y servicios. La ubicación de su dispositivo aún puede enviarse a los servicios de emergencia cuando llama o envía un mensaje de texto a un número de emergencia.</string>
+    <string name="location_settings_footer_location_off">El acceso a la ubicación está desactivado para aplicaciones y servicios. La ubicación del dispositivo todavía podría enviarse a los servicios de emergencia si llamas o envías un mensaje de texto a un número de emergencia.</string>
     <string name="location_settings_loading_app_permission_stats">Cargando…</string>
     <string name="location_settings_primary_switch_title">Usar ubicación</string>
     <string name="location_settings_summary_location_off">Desactivado</string>
@@ -6898,7 +6898,7 @@ Presione Encendido y Subir volumen al mismo tiempo."</string>
     <string name="repeat_title">Repetir</string>
     <string name="request_manage_bluetooth_permission_dont_allow">No permitir</string>
     <string name="request_manage_credentials_allow">Permitir</string>
-    <string name="request_manage_credentials_description">Estos certificados lo verificarán al compartir la identificación única de su dispositivo con las aplicaciones y URL a continuación</string>
+    <string name="request_manage_credentials_description">Estos certificados te verificarán al compartir la identificación única del dispositivo con las aplicaciones y URL siguientes</string>
     <string name="request_manage_credentials_dont_allow">No permitir</string>
     <string name="request_manage_credentials_more">Mostrar más</string>
     <string name="request_manage_credentials_title">¿Permitir a <b>^1</b> instalar certificados en el dispositivo?</string>
@@ -9772,7 +9772,7 @@ Revisa la Política de Privacidad del proveedor."</string>
     <string name="wifi_advanced_toggle_description_collapsed">Mostrar</string>
     <string name="wifi_ap_2G">2,4 GHz</string>
     <string name="wifi_ap_5G">5,0 GHz</string>
-    <string name="wifi_ap_band_config">Seleccionar banda de AP</string>
+    <string name="wifi_ap_band_config">Banda del AP</string>
     <string name="wifi_ap_band_select_one">Selecciona al menos una banda para el punto de acceso Wi‑Fi:</string>
     <string name="wifi_ap_choose">%1$s GHz</string>
     <string name="wifi_ap_choose_2G">Banda de 2,4 GHz</string>
@@ -10314,7 +10314,7 @@ puedes utilizar también las redes de otros usuarios."</string>
     <string name="wifi_traffic_priority_off">Desactivado</string>
     <string name="wifi_traffic_priority_on">Activado</string>
     <string name="wifi_traffic_priority_regular">Modo normal</string>
-    <string name="wifi_traffic_priority_regular_summary">Compartir el ancho de banda entre la aplicación actual y las aplicaciones en segundo plano</string>
+    <string name="wifi_traffic_priority_regular_summary">Comparte ancho de banda entre las aplicaciones y las descargas en segundo plano</string>
     <string name="wifi_traffic_priority_summary">Prioriza automáticamente el tráfico de red</string>
     <string name="wifi_turned_on_message">Red Wi‑Fi activada</string>
     <string name="wifi_type_approval_dialog_title">NTC NO.</string>
@@ -10757,7 +10757,7 @@ Actualizar la configuración para:
 - Permitir llamadas de contactos destacados y repetir llamadas"</string>
     <string name="zen_onboarding_dnd_visual_disturbances_header">¿Cambiar los ajustes de notificaciones del modo No Molestar?</string>
     <string name="zen_onboarding_more_options">Puedes personalizarlo todavía más en Ajustes.</string>
-    <string name="zen_onboarding_new_setting_summary">No verás ni escucharás notificaciones. Las llamadas de contactos destacados y de personas que insisten están permitidas.</string>
+    <string name="zen_onboarding_new_setting_summary">No verás ni oirás notificaciones. Están permitidas las llamadas de contactos destacados y de personas que insisten.</string>
     <string name="zen_onboarding_new_setting_title">Notificaciones sin sonido ni elementos visuales</string>
     <string name="zen_onboarding_ok">Listo</string>
     <string name="zen_onboarding_screen_off_summary">"No encender la pantalla para recibir notificaciones."</string>
