@@ -68,8 +68,8 @@
     <string name="add_data_type_datasource">Agregar fuente de datos (%1$s)</string>
     <string name="add_model_card">"Toca el botón en la esquina superior izquierda
 para añadir tarjetas"</string>
-    <string name="add_model_card2">"Toca el botón superior para añadir tarjetas.
-Podrás hacer un seguimiento de tus entrenamientos y actividad."</string>
+    <string name="add_model_card2">"Pulsa el botón superior para añadir tarjetas.
+Podrás hacer seguimiento de tu actividad y entrenamientos."</string>
     <string name="add_owned_device">Dispositivos disponibles</string>
     <string name="add_record">Añadir</string>
     <string name="added_data_source">Fuentes agregadas</string>
@@ -293,7 +293,7 @@ Si decides conservarlos y después deseas eliminarlos, puedes hacerlo en Salud&g
     <string name="default_notification_channel_name">Reproduciendo</string>
     <string name="delete">Eliminar</string>
     <string name="delete_aid_file">Eliminar</string>
-    <string name="delete_aid_file_desc">Tu identificación médica de emergencia se eliminará de este dispositivo de forma permanente si continúas.</string>
+    <string name="delete_aid_file_desc">Tu identificación médica de emergencia se eliminará permanentemente del dispositivo si continúas.</string>
     <string name="delete_all_data">Eliminar todos los datos</string>
     <string name="delete_all_data_sources">Eliminar todas las fuentes de datos</string>
     <string name="delete_all_data_sources_description">¿Eliminar todas las fuentes de datos añadidas?</string>
