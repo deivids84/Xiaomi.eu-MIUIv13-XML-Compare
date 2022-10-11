@@ -604,7 +604,7 @@
     <string name="permission_storage_desc_pad_v12">Para agregar imágenes a notas y guardar notas como imágenes</string>
     <string name="permission_storage_desc_v12">Para añadir imágenes a las notas y guardar notas como imágenes</string>
     <string name="permission_xiaoai_desc"><Data>La IA de Mi recopilará tus grabaciones de voz y el ID del dispositivo para transcribir audio y crear notas de voz. Más información en la &lt;a href=\"%1$s\"&gt;Política de Privacidad&lt;/a&gt; de la IA de Mi.</Data></string>
-    <string name="permission_xiaoai_desc_new"><Data>Para proporcionar servicios de transcripción de voz a texto, IA de Mi necesita recopilar la entrada de audio y la identificación del dispositivo, que se genera aleatoriamente. Lee y acepta nuestra &lt;a href=\"%1$s\"&gt;Declaración de intercambio de datos compartidos de terceros&lt;/a&gt; antes de continuar. Puedes obtener más información leyendo la Política de Privacidad de &lt;a href=\"%2$s\"&gt;&lt;/a&gt;.</Data></string>
+    <string name="permission_xiaoai_desc_new"><Data>Para proporcionar servicios de transcripción de voz a texto, IA de Xiaomi necesita recopilar la entrada de audio y la identificación del dispositivo, que se genera aleatoriamente. Lee y acepta nuestra &lt;a href=\"%1$s\"&gt;Declaración de intercambio de datos compartidos de terceros&lt;/a&gt; antes de continuar. Puedes obtener más información leyendo la Política de Privacidad en &lt;a href=\"%2$s\"&gt;&lt;/a&gt;.</Data></string>
     <string name="permission_xiaoai_title">Dictado a texto</string>
     <string name="permlab_accessNote">Acceder a tus notas</string>
     <string name="pm">PM</string>
