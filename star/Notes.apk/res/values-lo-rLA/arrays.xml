@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="attachment_chooser">
+        <item>ກ້ອງຖ່າຍຮູບ</item>
+        <item>ຄັງຮູບພາບ</item>
+    </string-array>
+    <string-array name="contact_entries">
+        <item>​ຊື່</item>
+        <item>ຊື່ຫຼິ້ນ</item>
+        <item>ໂທລະສັບ</item>
+        <item>ອີເມວ</item>
+        <item>ບໍລິສັດ</item>
+        <item>IM</item>
+        <item>ໂທລະສັບ SIP</item>
+        <item>ວັນເກີດ</item>
+        <item>ເວັບໄຊທ໌</item>
+        <item>​ທີ່​ຢູ່</item>
+        <item>ບັນທຶກຫຍໍ້</item>
+    </string-array>
+    <string-array name="first_guide_contents">
+        <item>ຍິນ​ດີ​ຕ້ອນຮັບ​ສູ່ບັນທຶກຫຍໍ້!</item>
+        <item>ຈົດບັນທຶກຫຍໍ້</item>
+        <item>ທ່ານສາມາດໃຊ້ຂໍ້ຄວາມ, ຮູບພາບແລະການບັນທຶກສຽງໃນບັນທຶກຫຍໍ້ຂອງທ່ານ. ຫ້ອງສະໝຸດທີ່ມີສະໄຕລ໌ແລະຮູບແບບຕົວອັກສອນທີ່ຫຼາກຫຼາຍຈະເຮັດໃຫ້ການຂຽນງ່າຍເບິ່ງສວຍງາມ.</item>
+        <item>ກວດສອບລາຍການແລະເຕືອນຄວາມຈຳຈະຊ່ວຍທ່ານເມື່ອຕ້ອງການເຄື່ອງມືພື້ນຖານແລະມີປະສິດຕິພາບໃນການວາງແຜນການເດີນທາງຄັ້ງຕໍ່ໄປຂອງທ່ານຫຼືໃສ່ລາຍການຊື້ເຄື່ອງ.</item>
+        <item>​ແຊ​ຣ໌ບັນທຶກຫຍໍ້</item>
+        <item>ທ່ານສາມາດສ້າງພາບໜ້າຈໍແນວຍາວໃນບັນທຶກຫຍໍ້ໂດຍອັດຕະໂນມັດແລະຈາກນັ້ນແຊຣ໌ໃຫ້ໝູ່ເພື່ອນຂອງທ່ານ.</item>
+        <item>ສ້າງແລະສັບປ່ຽນລະຫວ່າງໂຟລເດີ</item>
+        <item>ກົດລູກສອນທາງດ້ານລຸ່ມເພື່ອສ້າງໂຟລເດີໃໝ່ຫຼືສັບປ່ຽນລະຫວ່າງໂຟລເດີທີ່ມີຢູ່.</item>
+    </string-array>
+    <string-array name="folder_operations">
+        <item>​ປ່ຽນ​ຊື່​ໃໝ່</item>
+        <item>ລົບ</item>
+    </string-array>
+    <string-array name="font_size_names">
+        <item>​ນ້ອຍ</item>
+        <item>​ປານ​ກາງ</item>
+        <item>​ໃຫຍ່</item>
+        <item>​ໃຫຍ່ຫຼາຍ</item>
+    </string-array>
+    <string-array name="note_sort_way">
+        <item>ຕາມວັນທີ່ສ້າງ</item>
+        <item>ຕາມວັນທີ່ແກ້ໄຂ</item>
+    </string-array>
+    <string-array name="second_guide_contents">
+        <item>ບັນທຶກຫຍໍ້ແບບສຽງ</item>
+        <item>ສ້າງບັນທຶກດ້ວຍເຄື່ອງມືປ່ຽນຄຳເວົ້າເປັນຂໍ້ຄວາມຂອງພວກເຮົາເຊິ່ງຄັດຕິດບັນທຶກສຽງຕົ້ນສະບັບຂອງສຽງທ່ານໄປທີ່ບັນທຶກຫຍໍ້.</item>
+    </string-array>
+    <string-array name="second_guide_contents_pad_or_inter">
+        <item>ບັນທຶກຫຍໍ້ແບບສຽງ</item>
+        <item>ທ່ານສາມາດສ້າງບັນທຶກຫຍໍ້ແບບສຽງໃນຕອນນີ້. ພຽງແຕະທີ່ໄອຄອນ, ບັນທຶກສຽງຂອງທ່ານແລະບັນທຶກໄຟລ໌ສຽງໃນບັນທຶກຫຍໍ້.</item>
+    </string-array>
+</resources>
