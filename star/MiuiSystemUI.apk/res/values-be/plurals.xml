@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="one">Гадзіну таму</item>
+        <item quantity="few">Гадзіну таму</item>
+        <item quantity="many">Гадзіну таму</item>
+        <item quantity="other">Гадзіну таму</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="one">Гадзіну таму</item>
+        <item quantity="few">Гадзіну таму</item>
+        <item quantity="many">Гадзіну таму</item>
+        <item quantity="other">Гадзіну таму</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="one">Паўгадзіны таму</item>
+        <item quantity="few">Паўгадзіны таму</item>
+        <item quantity="many">Паўгадзіны таму</item>
+        <item quantity="other">Паўгадзіны таму</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="one">Праз гадзіну</item>
+        <item quantity="few">Праз гадзіну</item>
+        <item quantity="many">Праз гадзіну</item>
+        <item quantity="other">Праз гадзіну</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="one">Праз паўгадзіны</item>
+        <item quantity="few">Праз паўгадзіны</item>
+        <item quantity="many">Праз паўгадзіны</item>
+        <item quantity="other">Праз паўгадзіны</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="one">Неадкладна</item>
+        <item quantity="few">Неадкладна</item>
+        <item quantity="many">Неадкладна</item>
+        <item quantity="other">Неадкладна</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">праз %d хв</item>
+        <item quantity="one">праз 1 хв</item>
+        <item quantity="few">праз %d хв</item>
+        <item quantity="many">праз %d хв</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="one">Толькі што</item>
+        <item quantity="few">Толькі што</item>
+        <item quantity="many">Толькі што</item>
+        <item quantity="other">Толькі што</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d хв таму</item>
+        <item quantity="one">1 хв таму</item>
+        <item quantity="few">%d хв таму</item>
+        <item quantity="many">%d хв таму</item>
+    </plurals>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="other">%d дзён таму</item>
+        <item quantity="one">%d дзень таму</item>
+        <item quantity="few">%d дні таму</item>
+        <item quantity="many">%d дзён таму</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="other">%d хвілін таму</item>
+        <item quantity="one">%d хвіліну таму</item>
+        <item quantity="few">%d хвіліны таму</item>
+        <item quantity="many">%d хвілін таму</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">%d гадоў таму</item>
+        <item quantity="one">%d год таму</item>
+        <item quantity="few">%d гады таму</item>
+        <item quantity="many">%d гадоў таму</item>
+    </plurals>
+    <plurals name="controls_number_of_favorites">
+        <item quantity="other">Дададзена %s элементы кіравання.</item>
+        <item quantity="one">Дададзены %s элемент кіравання.</item>
+        <item quantity="few">Дададзена %s элементы кіравання.</item>
+        <item quantity="many">Дададзена %s элементаў кіравання.</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="one">Паўгадзіны таму</item>
+        <item quantity="few">Паўгадзіны таму</item>
+        <item quantity="many">Паўгадзіны таму</item>
+        <item quantity="other">Паўгадзіны таму</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="one">Праз гадзіну</item>
+        <item quantity="few">Праз гадзіну</item>
+        <item quantity="many">Праз гадзіну</item>
+        <item quantity="other">Праз гадзіну</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="one">Праз паўгадзіны</item>
+        <item quantity="few">Праз паўгадзіны</item>
+        <item quantity="many">Праз паўгадзіны</item>
+        <item quantity="other">Праз паўгадзіны</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="one">Неадкладна</item>
+        <item quantity="few">Неадкладна</item>
+        <item quantity="many">Неадкладна</item>
+        <item quantity="other">Неадкладна</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">праз %d хвілін</item>
+        <item quantity="one">праз 1 хвіліну</item>
+        <item quantity="few">праз %d хвіліны</item>
+        <item quantity="many">праз %d хвілін</item>
+    </plurals>
+    <plurals name="incorrect_pincode_remaining_attempts">
+        <item quantity="other">Няправільны PIN-код, засталося %d спроб</item>
+        <item quantity="one">Няправільны PIN-код, засталася %d спроба</item>
+        <item quantity="few">Няправільны PIN-код, засталося %d спробы</item>
+        <item quantity="many">Няправільны PIN-код, засталося %d спроб</item>
+    </plurals>
+    <plurals name="incorrect_pukcode_remaining_attempts">
+        <item quantity="other">Няправільны PUK-код, засталося %d спроб</item>
+        <item quantity="one">Няправільны PUK-код, засталася %d спроба</item>
+        <item quantity="few">Няправільны PUK-код, засталося %d спробы</item>
+        <item quantity="many">Няправільны PUK-код, засталося %d спроб</item>
+    </plurals>
+    <plurals name="input_password_after_timeout_msg">
+        <item quantity="other">Увядзіце свой пароль хоць бы раз у %d гадзін для яго запамінання</item>
+        <item quantity="one">Увядзіце свой пароль хоць бы раз у %d гадзіну для яго запамінання</item>
+        <item quantity="few">Увядзіце свой пароль хоць бы раз у %d гадзіны для яго запамінання</item>
+        <item quantity="many">Увядзіце свой пароль хоць бы раз у %d гадзін для яго запамінання</item>
+    </plurals>
+    <plurals name="input_pattern_after_timeout_msg">
+        <item quantity="other">Увядзіце свой пароль хоць бы раз у %d гадзін для яго запамінання</item>
+        <item quantity="one">Увядзіце свой пароль хоць бы раз у %d гадзіну для яго запамінання</item>
+        <item quantity="few">Увядзіце свой пароль хоць бы раз у %d гадзіны для яго запамінання</item>
+        <item quantity="many">Увядзіце свой пароль хоць бы раз у %d гадзін для яго запамінання</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_hour_time_text">
+        <item quantity="other">Засталося прыкладна %d гадзін</item>
+        <item quantity="one">Засталася прыкладна %d гадзіна</item>
+        <item quantity="few">Засталося прыкладна %d гадзіны</item>
+        <item quantity="many">Засталося прыкладна %d гадзін</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_min_time_text">
+        <item quantity="other">Засталося прыкладна %d хвілін</item>
+        <item quantity="one">Засталася прыкладна %d хвіліна</item>
+        <item quantity="few">Засталося прыкладна %d хвіліны</item>
+        <item quantity="many">Засталося прыкладна %d хвілін</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_time_text">
+        <item quantity="other">Засталося каля %1$d г %2$d хв</item>
+        <item quantity="one">Засталося каля %1$d г %2$d хв</item>
+        <item quantity="few">Засталося каля %1$d г %2$d хв</item>
+        <item quantity="many">Засталося каля %1$d г %2$d хв</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_hour_time_format">
+        <item quantity="other">%d гадзін</item>
+        <item quantity="one">%d гадзіна</item>
+        <item quantity="few">%d гадзіны</item>
+        <item quantity="many">%d гадзін</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_min_time_format">
+        <item quantity="other">%d хв</item>
+        <item quantity="one">%d хв</item>
+        <item quantity="few">%d хв</item>
+        <item quantity="many">%d хв</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_time_format">
+        <item quantity="other">%1$d г %2$d хв</item>
+        <item quantity="one">%1$d г %2$d хв</item>
+        <item quantity="few">%1$d г %2$d хв</item>
+        <item quantity="many">%1$d г %2$d хв</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_hour_time_text">
+        <item quantity="other">Засталося %d гадзін</item>
+        <item quantity="one">Засталася %d гадзіна</item>
+        <item quantity="few">Засталося %d гадзіны</item>
+        <item quantity="many">Засталося %d гадзін</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_min_time_text">
+        <item quantity="other">Засталося %d хвілін</item>
+        <item quantity="one">Засталася %d хвіліна</item>
+        <item quantity="few">Засталося %d хвіліны</item>
+        <item quantity="many">Засталося %d хвілін</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_time_text">
+        <item quantity="other">Засталося %1$d г. %2$d хв.</item>
+        <item quantity="one">Засталося %1$d г. %2$d хв.</item>
+        <item quantity="few">Засталося %1$d г. %2$d хв.</item>
+        <item quantity="many">Засталося %1$d г. %2$d хв.</item>
+    </plurals>
+    <plurals name="kg_password_default_pin_message">
+        <item quantity="other">Увядзіце PIN-код. Засталося %d спроб. Пасля гэтага SIM-карта будзе заблакавана і вам прыйдзецца звярнуцца да аператара сувязі.</item>
+        <item quantity="one">Увядзіце PIN-код. Засталася %d спроба. Пасля гэтага SIM-карта будзе заблакавана і вам прыйдзецца звярнуцца да аператара сувязі.</item>
+        <item quantity="few">Увядзіце PIN-код. Засталося %d спробы. Пасля гэтага SIM-карта будзе заблакавана і вам прыйдзецца звярнуцца да аператара сувязі.</item>
+        <item quantity="many">Увядзіце PIN-код. Засталося %d спроб. Пасля гэтага SIM-карта будзе заблакавана і вам прыйдзецца звярнуцца да аператара сувязі.</item>
+    </plurals>
+    <plurals name="kg_password_default_puk_message">
+        <item quantity="other">SIM-карта заблакавана. Для працягу увядзіце PUK-код. Засталося %d спроб. Пасля гэтага SIM-карта будзе заблакавана назаўжды. За падрабязнай інфармацыяй звяртайцеся да свайго аператару сувязі.</item>
+        <item quantity="one">SIM-карта заблакавана. Для працягу увядзіце PUK-код. Засталася %d спроба. Пасля гэтага SIM-карта будзе заблакавана назаўжды. За падрабязнай інфармацыяй звяртайцеся да свайго аператару сувязі.</item>
+        <item quantity="few">SIM-карта заблакавана. Для працягу увядзіце PUK-код. Засталося %d спробы. Пасля гэтага SIM-карта будзе заблакавана назаўжды. За падрабязнай інфармацыяй звяртайцеся да свайго аператару сувязі.</item>
+        <item quantity="many">SIM-карта заблакавана. Для працягу увядзіце PUK-код. Засталося %d спроб. Пасля гэтага SIM-карта будзе заблакавана назаўжды. За падрабязнай інфармацыяй звяртайцеся да свайго аператару сувязі.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">Няправільны PIN-код. Засталася %d спроб. Пасля гэтага SIM-карта будзе заблакавана і вам прыйдзецца звярнуцца да аператара сувязі.</item>
+        <item quantity="one">Няправільны PIN-код. Засталася %d спроба. Пасля гэтага SIM-карта будзе заблакавана і вам прыйдзецца звярнуцца да аператара сувязі.</item>
+        <item quantity="few">Няправільны PIN-код. Засталася %d спробы. Пасля гэтага SIM-карта будзе заблакавана і вам прыйдзецца звярнуцца да аператара сувязі.</item>
+        <item quantity="many">Няправільны PIN-код. Засталася %d спроб. Пасля гэтага SIM-карта будзе заблакавана і вам прыйдзецца звярнуцца да аператара сувязі.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">Няправільны PUK-код. Засталося %d спроб. Пасля гэтага SIM-карта будзе заблакавана назаўжды.</item>
+        <item quantity="one">Няправільны PUK-код. Засталася %d спроба. Пасля гэтага SIM-карта будзе заблакавана назаўжды.</item>
+        <item quantity="few">Няправільны PUK-код. Засталося %d спробы. Пасля гэтага SIM-карта будзе заблакавана назаўжды.</item>
+        <item quantity="many">Няправільны PUK-код. Засталося %d спроб. Пасля гэтага SIM-карта будзе заблакавана назаўжды.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_password">
+        <item quantity="other">"Прыладу не разблакоўвалі %d гадзін. Увядзіце пароль."</item>
+        <item quantity="one">"Прыладу не разблакоўвалі %d гадзіну. Увядзіце пароль."</item>
+        <item quantity="few">"Прыладу не разблакоўвалі %d гадзіны. Увядзіце пароль."</item>
+        <item quantity="many">"Прыладу не разблакоўвалі %d гадзін. Увядзіце пароль."</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pattern">
+        <item quantity="other">"Прыладу не разблакоўвалі %d гадзін. Увядзіце графічны ключ."</item>
+        <item quantity="one">"Прыладу не разблакоўвалі %d гадзіну. Увядзіце графічны ключ."</item>
+        <item quantity="few">"Прыладу не разблакоўвалі %d гадзіны. Увядзіце графічны ключ."</item>
+        <item quantity="many">"Прыладу не разблакоўвалі %d гадзін. Увядзіце графічны ключ."</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pin">
+        <item quantity="other">"Прыладу не разблакоўвалі %d гадзін. Увядзіце лічбавы код."</item>
+        <item quantity="one">"Прыладу не разблакоўвалі %d гадзіну. Увядзіце лічбавы код."</item>
+        <item quantity="few">"Прыладу не разблакоўвалі %d гадзіны. Увядзіце лічбавы код."</item>
+        <item quantity="many">"Прыладу не разблакоўвалі %d гадзін. Увядзіце лічбавы код."</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown">
+        <item quantity="other">Паспрабуйце яшчэ раз за %d сек.</item>
+        <item quantity="one">Паспрабуйце яшчэ раз за 1 секунду.</item>
+        <item quantity="few">Паспрабуйце яшчэ раз за %d сек.</item>
+        <item quantity="many">Паспрабуйце яшчэ раз за %d сек.</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="one">Толькі што</item>
+        <item quantity="few">Толькі што</item>
+        <item quantity="many">Толькі што</item>
+        <item quantity="other">Толькі што</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d аб\'екта выдзеленая</item>
+        <item quantity="one">%d аб\'ект выдзелены</item>
+        <item quantity="few">%d аб\'екты выдзелены</item>
+        <item quantity="many">%d аб\'ектаў выдзелена</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d новага апавяшчэння</item>
+        <item quantity="one">%d новае апавяшчэнне</item>
+        <item quantity="few">%d новыя апавяшчэнні</item>
+        <item quantity="many">%d новых апавяшчэнняў</item>
+    </plurals>
+    <plurals name="new_notifications_msg">
+        <item quantity="other">%d новых апавяшчэнняў</item>
+        <item quantity="one">%d новае апавяшчэнне</item>
+        <item quantity="few">%d новых апавяшчэння</item>
+        <item quantity="many">%d новых апавяшчэнняў</item>
+    </plurals>
+    <plurals name="notification_group_overflow_description">
+        <item quantity="other">Яшчэ %s апавяшчэнні ўнутры.</item>
+        <item quantity="one">Яшчэ %s апавяшчэнне ўнутры.</item>
+        <item quantity="few">Яшчэ %s апавяшчэнне ўнутры.</item>
+        <item quantity="many">Яшчэ %s апавяшчэнні ўнутры.</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d хвілін таму</item>
+        <item quantity="one">1 хвіліну таму</item>
+        <item quantity="few">%d хвіліны таму</item>
+        <item quantity="many">%d хвілін таму</item>
+    </plurals>
+    <plurals name="phone_locked_timeout_minutes_string">
+        <item quantity="other">Паўтарыце праз %d хвілін</item>
+        <item quantity="one">Паўтарыце праз %d хвіліну</item>
+        <item quantity="few">Паўтарыце праз %d хвіліны</item>
+        <item quantity="many">Паўтарыце праз %d хвілін</item>
+    </plurals>
+    <plurals name="phone_locked_timeout_seconds_string">
+        <item quantity="other">Паўтарыце праз %d секунд</item>
+        <item quantity="one">Паўтарыце праз %d секунду</item>
+        <item quantity="few">Паўтарыце праз %d секунды</item>
+        <item quantity="many">Паўтарыце праз %d секунд</item>
+    </plurals>
+    <plurals name="quick_settings_hotspot_secondary_label_num_devices">
+        <item quantity="other">%d прылад</item>
+        <item quantity="one">%d прылада</item>
+        <item quantity="few">%d прылады</item>
+        <item quantity="many">%d прылад</item>
+    </plurals>
+    <plurals name="snoozeHourOptions">
+        <item quantity="other">%d гадзін</item>
+        <item quantity="one">%d гадзіна</item>
+        <item quantity="few">%d гадзіны</item>
+        <item quantity="many">%d гадзін</item>
+    </plurals>
+    <plurals name="snoozeMinuteOptions">
+        <item quantity="other">%d хвілін</item>
+        <item quantity="one">%d хвіліна</item>
+        <item quantity="few">%d хвіліны</item>
+        <item quantity="many">%d хвілін</item>
+    </plurals>
+    <plurals name="user_limit_reached_message">
+        <item quantity="other">Можна дадаць %d карыстальнікаў.</item>
+        <item quantity="one">Можна дадаць %d карыстальніка.</item>
+        <item quantity="few">Можна дадаць %d карыстальнікаў.</item>
+        <item quantity="many">Можна дадаць %d карыстальнікаў.</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d прылады падключана</item>
+        <item quantity="one">%1$d прылада падключана</item>
+        <item quantity="few">%1$d прылады падключаны</item>
+        <item quantity="many">%1$d прылад падключана</item>
+    </plurals>
+</resources>
