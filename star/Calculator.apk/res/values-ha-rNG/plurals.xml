@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="age_label_days">
+        <item quantity="other">Ranaku %d</item>
+        <item quantity="one">Rana %d</item>
+    </plurals>
+    <plurals name="age_label_months">
+        <item quantity="other">watanni %d</item>
+        <item quantity="one">wata %d</item>
+    </plurals>
+    <plurals name="age_label_yrs">
+        <item quantity="other">shekaru</item>
+        <item quantity="one">shekara</item>
+    </plurals>
+    <plurals name="entries">
+        <item quantity="other">Abubuwa %d</item>
+        <item quantity="one">Abu %d</item>
+    </plurals>
+    <plurals name="loan_repayment_detail">
+        <item quantity="other">Cikakken bayanan biyan kudi (shekaru %d)</item>
+        <item quantity="one">Cikakken bayanan biyan kudi (shekara %d)</item>
+    </plurals>
+    <plurals name="loan_repayment_detail_unit">
+        <item quantity="other">Cikakken bayanan sake biyan kudi (shekaru %d)</item>
+        <item quantity="one">Cikakken bayanan sake biyan kudi (shekara %d)</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">Abubuwan da aka zaba %d</item>
+        <item quantity="one">Abun da aka zaba %d</item>
+    </plurals>
+    <plurals name="mortgage_summary_years">
+        <item quantity="other">%1$d shekara (%2$d watanni)</item>
+        <item quantity="one">%1$d shekara (%2$d watanni)</item>
+    </plurals>
+    <plurals name="tenure_months">
+        <item quantity="other">watanni %d</item>
+        <item quantity="one">wata %d</item>
+    </plurals>
+    <plurals name="tenure_years">
+        <item quantity="other">Shekaru %d</item>
+        <item quantity="one">Shekara %d</item>
+    </plurals>
+</resources>
