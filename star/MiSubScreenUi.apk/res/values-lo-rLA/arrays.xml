@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="subscreen_mode_entries">
+        <item>%d ວິນາທີ</item>
+        <item>%d ວິນາທີ</item>
+        <item>%d ວິນາທີ</item>
+    </string-array>
+</resources>
