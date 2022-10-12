@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="permission_delete_audio">
+        <item quantity="other">^1 üçün ^2 səs faylını silməyə icazə verilsin?</item>
+        <item quantity="one">^1 üçün bu səs faylını silməyə icazə verilsin?</item>
+    </plurals>
+    <plurals name="permission_delete_generic">
+        <item quantity="other">^1 üçün ^2 elementi silməyə icazə verilsin?</item>
+        <item quantity="one">^1 üçün bu elementi silməyə icazə verilsin?</item>
+    </plurals>
+    <plurals name="permission_delete_image">
+        <item quantity="other">^1 üçün ^2 fotonu silməyə icazə verilsin?</item>
+        <item quantity="one">^1 üçün bu fotonu silməyə icazə verilsin?</item>
+    </plurals>
+    <plurals name="permission_delete_video">
+        <item quantity="other">^1 üçün ^2 videonu silməyə icazə verilsin?</item>
+        <item quantity="one">^1 üçün bu videonu silməyə icazə verilsin?</item>
+    </plurals>
+    <plurals name="permission_more_text">
+        <item quantity="other">Üstəgəl ^1 əlavə element</item>
+        <item quantity="one">Üstəgəl ^1 əlavə element</item>
+    </plurals>
+    <plurals name="permission_progress_delete_audio">
+        <item quantity="other">^1 səs faylı silinir…</item>
+        <item quantity="one">Səs faylı silinir…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_generic">
+        <item quantity="other">^1 element silinir…</item>
+        <item quantity="one">Element silinir…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_image">
+        <item quantity="other">^1 foto silinir…</item>
+        <item quantity="one">Foto silinir…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_video">
+        <item quantity="other">^1 video silinir…</item>
+        <item quantity="one">Video silinir…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_audio">
+        <item quantity="other">^1 səs faylı zibil qutusuna daşınır…</item>
+        <item quantity="one">Səs faylı zibil qutusuna daşınır…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_generic">
+        <item quantity="other">^1 element zibil qutusuna daşınır…</item>
+        <item quantity="one">Element zibil qutusuna daşınır…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_image">
+        <item quantity="other">^1 foto zibil qutusuna daşınır…</item>
+        <item quantity="one">Foto zibil qutusuna daşınır…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_video">
+        <item quantity="other">^1 video zibil qutusuna daşınır…</item>
+        <item quantity="one">Video zibil qutusuna daşınır…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_audio">
+        <item quantity="other">^1 səs faylı zibil qutusundan daşınır…</item>
+        <item quantity="one">Səs faylı zibil qutusundan daşınır…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_generic">
+        <item quantity="other">^1 element zibil qutusundan daşınır…</item>
+        <item quantity="one">Element zibil qutusundan daşınır…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_image">
+        <item quantity="other">^1 foto zibil qutusundan daşınır…</item>
+        <item quantity="one">Foto zibil qutusundan daşınır…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_video">
+        <item quantity="other">^1 video zibil qutusundan daşınır…</item>
+        <item quantity="one">Video zibil qutusundan daşınır…</item>
+    </plurals>
+    <plurals name="permission_progress_write_audio">
+        <item quantity="other">^1 səs faylı dəyişdirilir…</item>
+        <item quantity="one">Səs faylı dəyişdirilir…</item>
+    </plurals>
+    <plurals name="permission_progress_write_generic">
+        <item quantity="other">^1 element dəyişdirilir…</item>
+        <item quantity="one">Element dəyişdirilir…</item>
+    </plurals>
+    <plurals name="permission_progress_write_image">
+        <item quantity="other">^1 foto dəyişdirilir…</item>
+        <item quantity="one">Foto dəyişdirilir…</item>
+    </plurals>
+    <plurals name="permission_progress_write_video">
+        <item quantity="other">^1 video dəyişdirilir…</item>
+        <item quantity="one">Video dəyişdirilir…</item>
+    </plurals>
+    <plurals name="permission_trash_audio">
+        <item quantity="other">^1 üçün ^2 səs faylını zibil qutusuna daşıma icazəsi verilsin?</item>
+        <item quantity="one">^1 üçün bu səs faylını zibil qutusuna daşıma icazəsi verilsin?</item>
+    </plurals>
+    <plurals name="permission_trash_generic">
+        <item quantity="other">^1 üçün ^2 elementi zibil qutusuna daşıma icazəsi verilsin?</item>
+        <item quantity="one">^1 üçün bu elementi zibil qutusuna daşıma icazəsi verilsin?</item>
+    </plurals>
+    <plurals name="permission_trash_image">
+        <item quantity="other">^1 üçün ^2 fotonu zibil qutusuna daşıma icazəsi verilsin?</item>
+        <item quantity="one">^1 üçün bu fotonu zibil qutusuna daşıma icazəsi verilsin?</item>
+    </plurals>
+    <plurals name="permission_trash_video">
+        <item quantity="other">^1 üçün ^2 videonu zibil qutusuna daşıma icazəsi verilsin?</item>
+        <item quantity="one">^1 üçün bu videonu zibil qutusuna daşıma icazəsi verilsin?</item>
+    </plurals>
+    <plurals name="permission_untrash_audio">
+        <item quantity="other">^1 üçün ^2 səs faylını zibil qutusundan daşıma icazəsi verilsin?</item>
+        <item quantity="one">^1 üçün bu səs faylını zibil qutusundan daşıma icazəsi verilsin?</item>
+    </plurals>
+    <plurals name="permission_untrash_generic">
+        <item quantity="other">^1 üçün ^2 elementi zibil qutusundan daşıma icazəsi verilsin?</item>
+        <item quantity="one">^1 üçün bu elementi zibil qutusundan daşıma icazəsi verilsin?</item>
+    </plurals>
+    <plurals name="permission_untrash_image">
+        <item quantity="other">^1 üçün ^2 fotonu zibil qutusundan daşıma icazəsi verilsin?</item>
+        <item quantity="one">^1 üçün bu fotonu zibil qutusundan daşıma icazəsi verilsin?</item>
+    </plurals>
+    <plurals name="permission_untrash_video">
+        <item quantity="other">^1 üçün ^2 videonu zibil qutusundan daşıma icazəsi verilsin?</item>
+        <item quantity="one">^1 üçün bu videonu zibil qutusundan daşıma icazəsi verilsin?</item>
+    </plurals>
+    <plurals name="permission_write_audio">
+        <item quantity="other">^1 üçün ^2 səs faylını dəyişdirməyə icazə verilsin?</item>
+        <item quantity="one">^1 üçün bu səs faylını dəyişdirməyə icazə verilsin?</item>
+    </plurals>
+    <plurals name="permission_write_generic">
+        <item quantity="other">^1 üçün ^2 elementi dəyişdirməyə icazə verilsin?</item>
+        <item quantity="one">^1 üçün bu elementi dəyişdirməyə icazə verilsin?</item>
+    </plurals>
+    <plurals name="permission_write_image">
+        <item quantity="other">^1 üçün ^2 fotonu dəyişdirməyə icazə verilsin?</item>
+        <item quantity="one">^1 üçün bu fotonu dəyişdirməyə icazə verilsin?</item>
+    </plurals>
+    <plurals name="permission_write_video">
+        <item quantity="other">^1 üçün ^2 videonu dəyişdirməyə icazə verilsin?</item>
+        <item quantity="one">^1 üçün bu videonu dəyişdirməyə icazə verilsin?</item>
+    </plurals>
+</resources>
