@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Nustatymų saugykla</string>
+    <string name="wifi_softap_config_change">Buvo pakeisti viešosios interneto prieigos taško nustatymai</string>
+    <string name="wifi_softap_config_change_summary">Palieskite ir peržiūrėkite išsamią informaciją</string>
+</resources>
