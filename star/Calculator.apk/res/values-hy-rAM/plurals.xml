@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="age_label_days">
+        <item quantity="other">%d օր</item>
+        <item quantity="one">%d օր</item>
+    </plurals>
+    <plurals name="age_label_months">
+        <item quantity="other">%d ամիս</item>
+        <item quantity="one">%d ամիս</item>
+    </plurals>
+    <plurals name="age_label_yrs">
+        <item quantity="other">տարիներ</item>
+        <item quantity="one">տարի</item>
+    </plurals>
+    <plurals name="entries">
+        <item quantity="other">%d օբյեկտներ</item>
+        <item quantity="one">%d օբյեկտ</item>
+    </plurals>
+    <plurals name="loan_repayment_detail">
+        <item quantity="other">Մարման տեղեկուէյուն (%d տարի)</item>
+        <item quantity="one">Մարման տեղեկուէյուն (%d տարի)</item>
+    </plurals>
+    <plurals name="loan_repayment_detail_unit">
+        <item quantity="other">Մարման տեղեկուէյուն (%d տարի) CNY</item>
+        <item quantity="one">Մարման տեղեկուէյուն (%d տարի) CNY</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d ընտրված օբյեկտ</item>
+        <item quantity="one">%d ընտրված օբյեկտ</item>
+    </plurals>
+    <plurals name="mortgage_summary_years">
+        <item quantity="other">%1$d տարի (%2$d ամիս)</item>
+        <item quantity="one">%1$d տարի (%2$d ամիս)</item>
+    </plurals>
+    <plurals name="tenure_months">
+        <item quantity="other">%d ամիս</item>
+        <item quantity="one">%d ամիս</item>
+    </plurals>
+    <plurals name="tenure_years">
+        <item quantity="other">%d տարի</item>
+        <item quantity="one">%d տարի</item>
+    </plurals>
+</resources>
