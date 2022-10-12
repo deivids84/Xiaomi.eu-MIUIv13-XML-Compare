@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hd_record_scenes_entries">
+        <item>Muzikë</item>
+        <item>Zëri</item>
+        <item>Intervistë</item>
+        <item>HD</item>
+    </string-array>
+    <string-array name="interview_record_scenes_entries">
+        <item>Muzikë</item>
+        <item>Zëri</item>
+        <item>Intervistë</item>
+    </string-array>
+    <string-array name="record_quality_entries">
+        <item>I lartë</item>
+        <item>Standard</item>
+        <item>I ulët</item>
+    </string-array>
+    <string-array name="record_quality_summaries">
+        <item>MP3, ~192kbit/s, ~90MB/o</item>
+        <item>MP3, ~100kbit/s, ~45MB/o</item>
+        <item>MP3, ~75kbit/s, ~32MB/o</item>
+    </string-array>
+    <string-array name="record_scenes_entries">
+        <item>Muzikë</item>
+        <item>Zëri</item>
+    </string-array>
+    <string-array name="record_scenes_summaries">
+        <item>Regjistro muzikë me cilësi më të mirë</item>
+        <item>Lëviz mikrofonin më pranë burimit të zërit për cilësi më të mirë</item>
+        <item>Vendose telefonin në mes të dy personave për të regjistruar qartë bisedën e tyre</item>
+        <item>Teknologjia e lartë dinamike lejon mikrofonin të kapë tinguj më të hollësishëm</item>
+    </string-array>
+    <string-array name="record_scenes_summaries_stereo">
+        <item>Regjistro në 2 kanale, dëgjo zërin stereo në kufje</item>
+        <item>Lëviz mikrofonin më pranë burimit të zërit për cilësi më të mirë</item>
+        <item>Vendose telefonin në mes të dy personave për të regjistruar qartë bisedën e tyre</item>
+        <item>Teknologjia e lartë dinamike lejon mikrofonin të kapë tinguj më të hollësishëm</item>
+    </string-array>
+</resources>
