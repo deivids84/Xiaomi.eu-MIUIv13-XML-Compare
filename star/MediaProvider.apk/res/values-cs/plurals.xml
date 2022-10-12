@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="permission_delete_audio">
+        <item quantity="other">Povolit aplikaci ^1 odstranit ^2 zvukové soubory?</item>
+        <item quantity="one">Povolit aplikaci ^1 odstranit tento zvukový soubor?</item>
+        <item quantity="few">Povolit aplikaci ^1 odstranit ^2 zvukové soubory?</item>
+        <item quantity="many">Povolit aplikaci ^1 odstranit ^2 zvukové soubory?</item>
+    </plurals>
+    <plurals name="permission_delete_generic">
+        <item quantity="other">Povolit aplikaci ^1 odstranit ^2 položek?</item>
+        <item quantity="one">Povolit aplikaci ^1 odstránit tuto položku?</item>
+        <item quantity="few">Povolit aplikaci ^1 odstranit ^2 položek?</item>
+        <item quantity="many">Povolit aplikaci ^1 odstranit ^2 položek?</item>
+    </plurals>
+    <plurals name="permission_delete_image">
+        <item quantity="other">Povolit aplikaci ^1 odstranit ^2 fotografií?</item>
+        <item quantity="one">Povolit aplikaci ^1 odstranit tuto fotografii?</item>
+        <item quantity="few">Povolit aplikaci ^1 odstranit ^2 fotografií?</item>
+        <item quantity="many">Povolit aplikaci ^1 odstranit ^2 fotografií?</item>
+    </plurals>
+    <plurals name="permission_delete_video">
+        <item quantity="other">Povolit aplikaci ^1 odstranit ^2 videa?</item>
+        <item quantity="one">Povolit aplikaci ^1 odstranit toto video?</item>
+        <item quantity="few">Povolit aplikaci ^1 odstranit ^2 videa?</item>
+        <item quantity="many">Povolit aplikaci ^1 odstranit ^2 videa?</item>
+    </plurals>
+    <plurals name="permission_more_text">
+        <item quantity="other">Plus ^1 dalších položek</item>
+        <item quantity="one">Plus ^1 další položka</item>
+        <item quantity="few">Plus ^1 dalších položek</item>
+        <item quantity="many">Plus ^1 dalších položek</item>
+    </plurals>
+    <plurals name="permission_more_thumb">
+        <item quantity="other">+^1</item>
+        <item quantity="one">+^1</item>
+        <item quantity="few">+^1</item>
+        <item quantity="many">+^1</item>
+    </plurals>
+    <plurals name="permission_progress_delete_audio">
+        <item quantity="other">Odstraňuje se ^1 zvukových souborů…</item>
+        <item quantity="one">Odstraňuje se zvukový soubor…</item>
+        <item quantity="few">Odstraňuje se ^1 zvukových souborů…</item>
+        <item quantity="many">Odstraňuje se ^1 zvukových souborů…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_generic">
+        <item quantity="other">Odstraňuje se ^1 položek…</item>
+        <item quantity="one">Odstraňuje se položka...</item>
+        <item quantity="few">Odstraňuje se ^1 položek…</item>
+        <item quantity="many">Odstraňuje se ^1 položek…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_image">
+        <item quantity="other">Odstraňuje se ^1 fotografií...</item>
+        <item quantity="one">Odstraňuje se fotografie...</item>
+        <item quantity="few">Odstraňuje se ^1 fotografií...</item>
+        <item quantity="many">Odstraňuje se ^1 fotografií...</item>
+    </plurals>
+    <plurals name="permission_progress_delete_video">
+        <item quantity="other">Odstraňuje se ^1 videí…</item>
+        <item quantity="one">Odstraňuje se video…</item>
+        <item quantity="few">Odstraňuje se ^1 videí…</item>
+        <item quantity="many">Odstraňuje se ^1 videí…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_audio">
+        <item quantity="other">Přesouvá se ^1 zvukových souborů do koše…</item>
+        <item quantity="one">Přesouvá se zvukový soubor do koše…</item>
+        <item quantity="few">Přesouvá se ^1 zvukových souborů do koše…</item>
+        <item quantity="many">Přesouvá se ^1 zvukových souborů do koše…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_generic">
+        <item quantity="other">Přesouvá se ^1 položek do koše…</item>
+        <item quantity="one">Přesouvá se položka do koše…</item>
+        <item quantity="few">Přesouvá se ^1 položek do koše…</item>
+        <item quantity="many">Přesouvá se ^1 položek do koše…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_image">
+        <item quantity="other">Přesouvá se ^1 fotografií do koše…</item>
+        <item quantity="one">Přesouvá se fotografie do koše…</item>
+        <item quantity="few">Přesouvá se ^1 fotografií do koše…</item>
+        <item quantity="many">Přesouvá se ^1 fotografií do koše…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_video">
+        <item quantity="other">Přesouvá se ^1 videí do koše…</item>
+        <item quantity="one">Přesouvá se video do koše…</item>
+        <item quantity="few">Přesouvá se ^1 videí do koše…</item>
+        <item quantity="many">Přesouvá se ^1 videí do koše…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_audio">
+        <item quantity="other">Přesouvá se ^1 zvukových souborů z koše…</item>
+        <item quantity="one">Přesouvá se zvukový soubor z koše…</item>
+        <item quantity="few">Přesouvá se ^1 zvukových souborů z koše…</item>
+        <item quantity="many">Přesouvá se ^1 zvukových souborů z koše…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_generic">
+        <item quantity="other">Přesouvá se ^1 položek z koše…</item>
+        <item quantity="one">Přesouvá se položka z koše…</item>
+        <item quantity="few">Přesouvá se ^1 položek z koše…</item>
+        <item quantity="many">Přesouvá se ^1 položek z koše…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_image">
+        <item quantity="other">Přesouvá se ^1 fotografií z koše…</item>
+        <item quantity="one">Přesouvá se fotografie z koše…</item>
+        <item quantity="few">Přesouvá se ^1 fotografií z koše…</item>
+        <item quantity="many">Přesouvá se ^1 fotografií z koše…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_video">
+        <item quantity="other">Přesouvá se ^1 videí z koše…</item>
+        <item quantity="one">Přesouvá se video z koše…</item>
+        <item quantity="few">Přesouvá se ^1 videí z koše…</item>
+        <item quantity="many">Přesouvá se ^1 videí z koše…</item>
+    </plurals>
+    <plurals name="permission_progress_write_audio">
+        <item quantity="other">Úprava ^1 zvukových souborů…</item>
+        <item quantity="one">Upravuje se zvukový soubor…</item>
+        <item quantity="few">Úprava ^1 zvukových souborů…</item>
+        <item quantity="many">Úprava ^1 zvukových souborů…</item>
+    </plurals>
+    <plurals name="permission_progress_write_generic">
+        <item quantity="other">Upravuje se ^1 položek…</item>
+        <item quantity="one">Upravuje se položka...</item>
+        <item quantity="few">Upravuje se ^1 položek…</item>
+        <item quantity="many">Upravuje se ^1 položek…</item>
+    </plurals>
+    <plurals name="permission_progress_write_image">
+        <item quantity="other">Upravuje se ^1 fotografií…</item>
+        <item quantity="one">Upravuje se fotografie...</item>
+        <item quantity="few">Upravuje se ^1 fotografií…</item>
+        <item quantity="many">Upravuje se ^1 fotografií…</item>
+    </plurals>
+    <plurals name="permission_progress_write_video">
+        <item quantity="other">Úprava videí ^1…</item>
+        <item quantity="one">Upravuje se video…</item>
+        <item quantity="few">Úprava videí ^1…</item>
+        <item quantity="many">Úprava videí ^1…</item>
+    </plurals>
+    <plurals name="permission_trash_audio">
+        <item quantity="other">Povolit aplikaci ^1 přesunout ^2 zvukových souborů do koše?</item>
+        <item quantity="one">Povolit aplikaci ^1 přesunout tento zvukový soubor do koše?</item>
+        <item quantity="few">Povolit aplikaci ^1 přesunout ^2 zvukových souborů do koše?</item>
+        <item quantity="many">Povolit aplikaci ^1 přesunout ^2 zvukových souborů do koše?</item>
+    </plurals>
+    <plurals name="permission_trash_generic">
+        <item quantity="other">Povolit aplikaci ^1 přesunout ^2 položek do koše?</item>
+        <item quantity="one">Povolit aplikaci ^1 přesunout tuto položku do koše?</item>
+        <item quantity="few">Povolit aplikaci ^1 přesunout ^2 položek do koše?</item>
+        <item quantity="many">Povolit aplikaci ^1 přesunout ^2 položek do koše?</item>
+    </plurals>
+    <plurals name="permission_trash_image">
+        <item quantity="other">Povolit aplikaci ^1 přesunout ^2 fotografií do koše?</item>
+        <item quantity="one">Povolit aplikaci ^1 přesunout tuto fotografii do koše?</item>
+        <item quantity="few">Povolit aplikaci ^1 přesunout ^2 fotografií do koše?</item>
+        <item quantity="many">Povolit aplikaci ^1 přesunout ^2 fotografií do koše?</item>
+    </plurals>
+    <plurals name="permission_trash_video">
+        <item quantity="other">Povolit aplikaci ^1 přesunout ^2 videí do koše?</item>
+        <item quantity="one">Povolit aplikaci ^1 přesunout toto video do koše?</item>
+        <item quantity="few">Povolit aplikaci ^1 přesunout ^2 videí do koše?</item>
+        <item quantity="many">Povolit aplikaci ^1 přesunout ^2 videí do koše?</item>
+    </plurals>
+    <plurals name="permission_untrash_audio">
+        <item quantity="other">Povolit aplikaci ^1 přesunout ^2 zvukové soubory z koše?</item>
+        <item quantity="one">Povolit aplikaci ^1 přesunout tento zvukový soubor z koše?</item>
+        <item quantity="few">Povolit aplikaci ^1 přesunout ^2 zvukové soubory z koše?</item>
+        <item quantity="many">Povolit aplikaci ^1 přesunout ^2 zvukové soubory z koše?</item>
+    </plurals>
+    <plurals name="permission_untrash_generic">
+        <item quantity="other">Povolit aplikaci ^1 přesunout ^2 položek z koše?</item>
+        <item quantity="one">Povolit aplikaci ^1 přesunout tuto položku z koše?</item>
+        <item quantity="few">Povolit aplikaci ^1 přesunout ^2 položek z koše?</item>
+        <item quantity="many">Povolit aplikaci ^1 přesunout ^2 položek z koše?</item>
+    </plurals>
+    <plurals name="permission_untrash_image">
+        <item quantity="other">Povolit aplikaci ^1 přesunout ^2 fotografií z koše?</item>
+        <item quantity="one">Povolit aplikaci ^1 přesunout tuto fotografii z koše?</item>
+        <item quantity="few">Povolit aplikaci ^1 přesunout ^2 fotografií z koše?</item>
+        <item quantity="many">Povolit aplikaci ^1 přesunout ^2 fotografií z koše?</item>
+    </plurals>
+    <plurals name="permission_untrash_video">
+        <item quantity="other">Povolit aplikaci ^1 přesunout ^2 videí z koše?</item>
+        <item quantity="one">Povolit aplikaci ^1 přesunout toto video z koše?</item>
+        <item quantity="few">Povolit aplikaci ^1 přesunout ^2 videí z koše?</item>
+        <item quantity="many">Povolit aplikaci ^1 přesunout ^2 videí z koše?</item>
+    </plurals>
+    <plurals name="permission_write_audio">
+        <item quantity="other">Povolit aplikaci ^1 upravovat zvukové soubory ^2?</item>
+        <item quantity="one">Povolit aplikaci ^1 upravovat tento zvukový soubor?</item>
+        <item quantity="few">Povolit aplikaci ^1 upravovat zvukové soubory ^2?</item>
+        <item quantity="many">Povolit aplikaci ^1 upravovat zvukové soubory ^2?</item>
+    </plurals>
+    <plurals name="permission_write_generic">
+        <item quantity="other">Povolit aplikaci ^1 upravovat ^2 položek?</item>
+        <item quantity="one">Povolit aplikaci ^1 upravovat tuto položku?</item>
+        <item quantity="few">Povolit aplikaci ^1 upravovat ^2 položek?</item>
+        <item quantity="many">Povolit aplikaci ^1 upravovat ^2 položek?</item>
+    </plurals>
+    <plurals name="permission_write_image">
+        <item quantity="other">Povolit aplikaci ^1 upravovat ^2 fotografie?</item>
+        <item quantity="one">Povolit aplikaci ^1 upravovat tuto fotografii?</item>
+        <item quantity="few">Povolit aplikaci ^1 upravovat ^2 fotografie?</item>
+        <item quantity="many">Povolit aplikaci ^1 upravovat ^2 fotografie?</item>
+    </plurals>
+    <plurals name="permission_write_video">
+        <item quantity="other">Povolit aplikaci ^1 upravovat videa ^2?</item>
+        <item quantity="one">Povolit aplikaci ^1 upravovat toto video?</item>
+        <item quantity="few">Povolit aplikaci ^1 upravovat videa ^2?</item>
+        <item quantity="many">Povolit aplikaci ^1 upravovat videa ^2?</item>
+    </plurals>
+</resources>
