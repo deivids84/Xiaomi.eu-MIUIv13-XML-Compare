@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="emailAddressTypes">
+    <item>Хатні</item>
+    <item>Працоўны</item>
+    <item>Іншы</item>
+    <item>Адвольны</item>
+  </string-array>
+  <string-array name="fingerprint_acquired_vendor">
+    <item>Паўтарыць спробу</item>
+    <item></item>
+    <item></item>
+    <item>Поўнасцю закрыйце сканер адбіткаў пальцаў і націсніце</item>
+    <item></item>
+    <item>Поўнасцю закрыйце сканер адбіткаў пальцаў і націсніце</item>
+    <item>Поўнасцю закрыйце сканер адбіткаў пальцаў і націсніце</item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item>Поўнасцю закрыйце сканер адбіткаў пальцаў і націсніце</item>
+    <item>Поўнасцю закрыйце сканер адбіткаў пальцаў і націсніце</item>
+    <item>"Занадта хутка! Не атрымалася распазнаць адбітак"</item>
+    <item>Крыху перамясціце палец і паспрабуйце зноў</item>
+    <item>Прыбярыце палец і зноў вярніце на сканер адбіткаў</item>
+    <item>Патрымайце палец на сканеры крыху даўжэй</item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item>Крыху перамясціце палец</item>
+    <item>Гэты адбітак дададзены, выкарыстайце іншы палец</item>
+  </string-array>
+  <string-array name="imAddressTypes">
+    <item>Хатні</item>
+    <item>Працоўны</item>
+    <item>Іншы</item>
+    <item>Адвольны</item>
+  </string-array>
+  <string-array name="imProtocols">
+    <item>AIM</item>
+    <item>Windows Live</item>
+    <item>Yahoo</item>
+    <item>Skype</item>
+    <item>QQ</item>
+    <item>Google Talk</item>
+    <item>ICQ</item>
+    <item>Jabber</item>
+  </string-array>
+  <string-array name="network_switch_type_name">
+    <item>мабільны інтэрнэт</item>
+    <item>Wi-Fi</item>
+    <item>Bluetooth</item>
+    <item>Ethernet</item>
+    <item>VPN</item>
+  </string-array>
+  <string-array name="organizationTypes">
+    <item>Працоўны</item>
+    <item>Іншы</item>
+    <item>Адвольны</item>
+  </string-array>
+  <string-array name="phoneTypes">
+    <item>Хатні</item>
+    <item>Мабільны</item>
+    <item>Працоўны</item>
+    <item>Працоўны факс</item>
+    <item>Хатні факс</item>
+    <item>Пэйджар</item>
+    <item>Іншы</item>
+    <item>Адвольны</item>
+  </string-array>
+  <string-array name="postalAddressTypes">
+    <item>Хатні</item>
+    <item>Працоўны</item>
+    <item>Іншы</item>
+    <item>Адвольны</item>
+  </string-array>
+  <string-array name="wfcOperatorErrorAlertMessages">
+    <item>Каб здзяйсняць выклікі і адпраўляць паведамленні па Wi-Fi, звярніцеся да аператара, каб вам дапамаглі наладзіць гэтую паслугу. Пасля зноў уключыце выклікі па Wi-Fi у наладах. (Код памылкі: %1$s)</item>
+  </string-array>
+  <string-array name="wfcOperatorErrorNotificationMessages">
+    <item>Праблема з рэгістрацыяй выклікаў Wi-Fi у вашага аператара: %1$s</item>
+  </string-array>
+</resources>
