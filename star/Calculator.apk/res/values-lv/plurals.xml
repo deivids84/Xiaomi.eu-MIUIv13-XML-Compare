@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="age_label_days">
+        <item quantity="zero">%d dienas</item>
+        <item quantity="other">%d dienas</item>
+        <item quantity="one">%d diena</item>
+    </plurals>
+    <plurals name="age_label_months">
+        <item quantity="zero">%d mēneši</item>
+        <item quantity="other">%d mēneši</item>
+        <item quantity="one">%d mēnesis</item>
+    </plurals>
+    <plurals name="age_label_yrs">
+        <item quantity="zero">gadi</item>
+        <item quantity="other">gadi</item>
+        <item quantity="one">gads</item>
+    </plurals>
+    <plurals name="entries">
+        <item quantity="zero">%d vienumi</item>
+        <item quantity="other">%d vienumi</item>
+        <item quantity="one">%d vienums</item>
+    </plurals>
+    <plurals name="loan_repayment_detail">
+        <item quantity="zero">Detalizēta atmaksa (%d gadi)</item>
+        <item quantity="other">Detalizēta atmaksa (%d gadi)</item>
+        <item quantity="one">Detalizēta atmaksa (%d gads)</item>
+    </plurals>
+    <plurals name="loan_repayment_detail_unit">
+        <item quantity="zero">Detalizēta atmaksa (%d gadi), CNY</item>
+        <item quantity="other">Detalizēta atmaksa (%d gadi), CNY</item>
+        <item quantity="one">Detalizēta atmaksa (%d gads), CNY</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="zero">Izvēlēti %d vienumi</item>
+        <item quantity="other">Izvēlēti %d vienumi</item>
+        <item quantity="one">Izvēlēts %d vienums</item>
+    </plurals>
+    <plurals name="mortgage_summary_years">
+        <item quantity="zero">%1$d gadi (%2$d mēneši)</item>
+        <item quantity="other">%1$d gadi (%2$d mēneši)</item>
+        <item quantity="one">%1$d gads (%2$d mēneši)</item>
+    </plurals>
+    <plurals name="tenure_months">
+        <item quantity="zero">%d mēneši</item>
+        <item quantity="other">%d mēneši</item>
+        <item quantity="one">%d mēnesis</item>
+    </plurals>
+    <plurals name="tenure_years">
+        <item quantity="zero">%d gadi</item>
+        <item quantity="other">%d gadi</item>
+        <item quantity="one">%d gads</item>
+    </plurals>
+</resources>
