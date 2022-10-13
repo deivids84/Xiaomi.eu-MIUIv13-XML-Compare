@@ -9,8 +9,8 @@
         <item quantity="other">1 ώρα πριν</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
-        <item quantity="one">Μισή ώρα πριν</item>
-        <item quantity="other">Μισή ώρα πριν</item>
+        <item quantity="one">Πριν από μισή ώρα</item>
+        <item quantity="other">Πριν από μισή ώρα</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
         <item quantity="one">Σε 1 ώρα</item>
@@ -57,8 +57,8 @@
         <item quantity="one">%1$d/%2$d στοιχείο</item>
     </plurals>
     <plurals name="half_hour_ago">
-        <item quantity="one">Μισή ώρα πριν</item>
-        <item quantity="other">Μισή ώρα πριν</item>
+        <item quantity="one">Πριν από μισή ώρα</item>
+        <item quantity="other">Πριν από μισή ώρα</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="one">Σε 1 ώρα</item>
