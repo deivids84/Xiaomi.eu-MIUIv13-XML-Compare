@@ -313,7 +313,7 @@
     <string name="if_cancel">Bu əməliyyat ləğv edilsin?</string>
     <string name="image_loading_error">"Təsvir yüklənilə bilmədi"</string>
     <string name="imm_str_storage">Anbar</string>
-    <string name="import_files_from_old_phones">Köhnəc cihazdan idxal et</string>
+    <string name="import_files_from_old_phones">Köhnə cihazdan idxal et</string>
     <string name="instruction">FTP müştərisinə aşağıdakı ünvanı daxil edin: </string>
     <string name="instruction_pre_pad">Bir kompüter istifadə edərək bu cihazdakı faylları idarə edin</string>
     <string name="instruction_pre_phone">Bir kompüter istifadə edərək bu cihazdakı faylları idarə edin</string>
