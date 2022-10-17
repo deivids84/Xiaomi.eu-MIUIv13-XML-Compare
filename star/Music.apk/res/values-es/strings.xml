@@ -595,7 +595,7 @@ Remite este código al supervisor."</string>
     <string name="hungama_category_playlist">Listas de reproducción</string>
     <string name="hungama_category_radio">Señal móvil</string>
     <string name="hungama_category_video">Vídeos online</string>
-    <string name="hungama_category_vip">Pro</string>
+    <string name="hungama_category_vip">Oro</string>
     <string name="hungama_download_subscription_toast">Suscríbete a Hungama Music para descargar esta canción</string>
     <string name="hungama_free_download_out_summary">"No puedes descargar más canciones gratis. ¿Obtener una suscripción PRO para descargas ilimitadas?"</string>
     <string name="hungama_free_download_out_summary_toast">"Ya has descargado %d canciones. Obtén una suscripción para descargar más."</string>
@@ -603,7 +603,7 @@ Remite este código al supervisor."</string>
     <string name="hungama_privacy_desc">Política de Privacidad de Hungama (opcional)</string>
     <string name="hungama_privacy_tips_content">Para acceder al contenido online, debes aceptar la <a href="/link/click">Política de Privacidad de Hungama</a>.</string>
     <string name="hungama_privacy_tips_title">Política de Privacidad de Hungama</string>
-    <string name="hungama_pro">Hungama Pro</string>
+    <string name="hungama_pro">Oro Hungama</string>
     <string name="hungama_subscribe_message">Comprar suscripción PRO para descargar música de alta calidad.</string>
     <string name="hungama_subscribe_positive_button">Comprar suscripción PRO</string>
     <string name="hungama_subscribe_title">Suscripción PRO</string>
@@ -1434,6 +1434,7 @@ Sea Feliz"</string>
     <string name="time_picker_label_hour">H</string>
     <string name="time_picker_label_minute">L</string>
     <string name="time_to_upgrade">Hay una actualización disponible</string>
+    <string name="tips_click_here_to_continue">Pulsa para reanudar la reproducción</string>
     <string name="title_command_mode">Modo de comando</string>
     <string name="title_online_fm_recommend">FM destacado</string>
     <string name="title_online_recommend">Listas de reproducción destacadas</string>
