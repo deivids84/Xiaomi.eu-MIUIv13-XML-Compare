@@ -740,6 +740,7 @@ Ver y usar los elementos que compró o agregó a favoritos."</string>
     <string name="personalize_notify_ringtone_title">Notificaciones</string>
     <string name="personalize_notify_style_title">Efectos</string>
     <string name="personalize_recommend_switch_desc">Reciba recomendaciones de contenido personalizadas basadas en la identificación del dispositivo</string>
+    <string name="personalize_second_space_not_support_buy_widget">"No se pueden comprar widgets en el Segundo espacio"</string>
     <string name="personalize_second_space_not_support_set_font">"No se puede cambiar la fuente en el segundo espacio"</string>
     <string name="personalize_theme_entrance">Temas</string>
     <string name="personalize_third_font">Fuentes</string>
@@ -1437,6 +1438,7 @@ Puede otorgar este permiso en Configuración &gt; Privacidad."</string>
     <string name="update_no_net">Se produjo un error de red. Vuelva a intentarlo.</string>
     <string name="update_title">ACTUALIZACIÓN DISPONIBLE</string>
     <string name="use_hint">Atención</string>
+    <string name="use_now">Añadir</string>
     <string name="using_theme_has_update_tips">Hay una actualización disponible para este tema.</string>
     <string name="using_theme_next_automatic_update">Actualizaciones automáticas</string>
     <string name="using_theme_next_automatic_update_summary">Actualizar automáticamente vía Wi-Fi los temas descargados cuando la pantalla esté bloqueada</string>
