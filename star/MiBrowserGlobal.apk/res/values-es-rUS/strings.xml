@@ -2754,6 +2754,7 @@ recomendamos que uses el modo de lectura gratuita"</string>
     <string name="search_bar_hint_content">Buscar aplicaciones y contenido</string>
     <string name="search_bing">Bing</string>
     <string name="search_button_text">Ir</string>
+    <string name="search_card_online_rec_app_install">Instalar</string>
     <string name="search_dianping">Cate</string>
     <string name="search_easou">Easou</string>
     <string name="search_empty_view_hint">"Sin resultados"</string>
