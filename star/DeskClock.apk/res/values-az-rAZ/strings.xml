@@ -44,6 +44,8 @@
     <string name="agree">Razıyam</string>
     <string name="alarm_alert_alert_silenced">Zəngli saat %1$s sonra susduruldu.</string>
     <string name="alarm_alert_disabled">Bağlı</string>
+    <string name="alarm_alert_now">%s zəngli saatı</string>
+    <string name="alarm_alert_snooze_button">Ertələ</string>
     <string name="alarm_ascending_mode_summary">Zəngli saat səsi yavaş-yavaş yüksəlir</string>
     <string name="alarm_ascending_mode_title">Artan səs səviyyəsi</string>
     <string name="alarm_clock_more_setting">Əlavə tənzimləmələr</string>
@@ -117,6 +119,7 @@
     <string name="cities_show_limit_desc">"Daha çox saat göstərilə bilmir"</string>
     <string name="city_time_contrast_desc">Müxtəlif şəhərlərdəki vaxtı müqayisə etmək üçün toxunun</string>
     <string name="clearable_edittext_clear_description">Təmizlə</string>
+    <string name="click_to_cancel_alarm">Söndürmək üçün toxunun</string>
     <string name="clock_bg_button_setting_summary_common">Saat tətbiqi üçün arxaplan rəngi seçin</string>
     <string name="clock_bg_button_setting_summary_follow_sys">Qaranlıq rejimə hər keçəndə arxaplan rəngi olaraq qara istifadə ediləcək</string>
     <string name="clock_bg_button_setting_title">Arxaplan rəngi</string>
