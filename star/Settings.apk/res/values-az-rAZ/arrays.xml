@@ -872,7 +872,7 @@
         <item>Heç biri</item>
         <item>Logcat</item>
         <item>Systrace (Qrafik)</item>
-        <item>GlGetError üzərində zəng yığını</item>
+        <item>glGetError-da zəng yığını</item>
     </string-array>
     <string-array name="enabled_networks_subsidy_locked_choices">
         <item>Yalnız LTE</item>
@@ -918,7 +918,7 @@
     </string-array>
     <string-array name="hdcp_checking_titles">
         <item>Heç vaxt yoxlama</item>
-        <item>Yalnız DRM məzmunu üçün yoxlayın</item>
+        <item>Yalnız DRM məzmunu üçün yoxla</item>
         <item>Həmişə yoxla</item>
     </string-array>
     <string-array name="inputdebuglog_select_level_entries">
