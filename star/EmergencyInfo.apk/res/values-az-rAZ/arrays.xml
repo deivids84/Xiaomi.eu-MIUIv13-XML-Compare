@@ -43,13 +43,13 @@
         <item>Səs keyfiyyəti üçün optimallaşdırıldı</item>
         <item>Tarazlı səs və bağlantı keyfiyyəti</item>
         <item>Bağlantı keyfiyyəti üçün optimallaşdırıldı</item>
-        <item>Yüksək Cəhd (Adaptiv Bit Ölçüsü)</item>
+        <item>Ən yaxşı cəhd (Adaptiv bit sürəti)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
         <item>Səs keyfiyyəti üçün optimallaşdırıldı (990kbps/909kbps)</item>
         <item>Tarazlı səs və bağlantı keyfiyyəti (660kbps/606kbps)</item>
         <item>Bağlantı keyfiyyəti üçün optimallaşdırıldı (330kbps/303kbps)</item>
-        <item>Yüksək Cəhd (Adaptiv Bit Ölçüsü)</item>
+        <item>Ən yaxşı cəhd (Adaptiv bit sürəti)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
         <item>Sistem seçimini istfdə et (İlkin)</item>
@@ -131,7 +131,7 @@
     </string-array>
     <string-array name="hdcp_checking_titles">
         <item>Heç vaxt yoxlama</item>
-        <item>Yalnız DRM məzmunu üçün yoxlayın</item>
+        <item>Yalnız DRM məzmunu üçün yoxla</item>
         <item>Həmişə yoxla</item>
     </string-array>
     <string-array name="organ_donor_values">
