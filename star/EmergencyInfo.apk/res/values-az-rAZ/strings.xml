@@ -554,8 +554,8 @@ Kilid ekranınızdan bu məlumatları oxuyan istənilən şəxs, ekrandakı adla
     <string name="select_logpersist_title">Jurnala yazma verilənlərini cihazda daimi saxla</string>
     <string name="select_private_dns_configuration_dialog_title">Şəxsi DNS rejimini seçin</string>
     <string name="select_private_dns_configuration_title">Şəxsi DNS</string>
-    <string name="select_usb_configuration_dialog_title">USB konfiqurasiyanı seçin</string>
-    <string name="select_usb_configuration_title">USB konfiqurasiyanı seçin</string>
+    <string name="select_usb_configuration_dialog_title">USB konfiqurasiyasını seçin</string>
+    <string name="select_usb_configuration_title">USB konfiqurasiyasını seçin</string>
     <string name="select_webview_provider_dialog_title">WebView tətbiqini tənzimlə</string>
     <string name="select_webview_provider_title">WebView tətbiqi</string>
     <string name="select_webview_provider_toast_text">Bu seçim artıq etibarlı deyil. Yenidən sınayın.</string>
