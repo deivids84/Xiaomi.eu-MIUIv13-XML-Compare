@@ -298,8 +298,8 @@ Remite este código al supervisor."</string>
     <string name="dialog_my_playlist_set_to_public">Comparte esta lista de reproducción con todos los usuarios de Mi Música y música Hungama</string>
     <string name="dialog_queued_body">Archivo colocado en cola para ser descargado.</string>
     <string name="dialog_renew_failure">Lo sentimos, la acción falló</string>
-    <string name="dialog_renew_free_end">Tu periodo de prueba gratuito ha terminado. ¿Suscribirse a Hungama PRO?</string>
-    <string name="dialog_renew_positive_text">SÍ, QUIERO DISFRUTAR COMO UN PRO</string>
+    <string name="dialog_renew_free_end">Tu periodo de prueba ha terminado. ¿Suscribirte a Hungama Gold?</string>
+    <string name="dialog_renew_positive_text">SÍ, QUIERO ROCK COMO UN MIEMBRO GOLD</string>
     <string name="dialog_renew_success">Gracias por tu confirmación</string>
     <string name="dialog_score_btn_good">Valorar</string>
     <string name="dialog_score_msg_score_explorer">¿Te gusta Mi Música?</string>
@@ -412,7 +412,7 @@ Remite este código al supervisor."</string>
     <string name="empty_page_no_album">Sin álbumes.</string>
     <string name="empty_page_no_artist">Sin artistas.</string>
     <string name="enabled">Activado</string>
-    <string name="enjoy_hungama_pro">Disfruta de Hungama PRO</string>
+    <string name="enjoy_hungama_pro">Disfruta de Hungama Gold</string>
     <string name="enroll_in">Inscribirse</string>
     <string name="enter_garbage_clean">Limpiar almacenamiento interno.</string>
     <string name="entertainment">Entretenimiento</string>
@@ -589,7 +589,7 @@ Remite este código al supervisor."</string>
     <string name="home_tab_recommend">Online</string>
     <string name="home_tab_search">Buscar</string>
     <string name="hot_icon_in_fast_indexer">H</string>
-    <string name="hungama_batch_download_alert_summary">Solo los miembros PRO pueden descargar multitud de canciones. ¿Obtener una suscripción PRO?</string>
+    <string name="hungama_batch_download_alert_summary">Sólo los miembros Gold pueden descargar varias canciones. ¿Obtener una suscripción Gold?</string>
     <string name="hungama_batch_download_alert_summary_toast">Suscríbete para descargar toda la lista de reproducción.</string>
     <string name="hungama_category_chart">Gráficos</string>
     <string name="hungama_category_playlist">Listas de reproducción</string>
@@ -597,16 +597,16 @@ Remite este código al supervisor."</string>
     <string name="hungama_category_video">Vídeos online</string>
     <string name="hungama_category_vip">Oro</string>
     <string name="hungama_download_subscription_toast">Suscríbete a Hungama Music para descargar esta canción</string>
-    <string name="hungama_free_download_out_summary">"No puedes descargar más canciones gratis. ¿Obtener una suscripción PRO para descargas ilimitadas?"</string>
+    <string name="hungama_free_download_out_summary">"No puedes descargar más canciones gratis. ¿Obtener una suscripción Gold para descarga ilimitada?"</string>
     <string name="hungama_free_download_out_summary_toast">"Ya has descargado %d canciones. Obtén una suscripción para descargar más."</string>
     <string name="hungama_playlist_category">Categoría de lista de reproducción</string>
     <string name="hungama_privacy_desc">Política de Privacidad de Hungama (opcional)</string>
     <string name="hungama_privacy_tips_content">Para acceder al contenido online, debes aceptar la <a href="/link/click">Política de Privacidad de Hungama</a>.</string>
     <string name="hungama_privacy_tips_title">Política de Privacidad de Hungama</string>
     <string name="hungama_pro">Oro Hungama</string>
-    <string name="hungama_subscribe_message">Comprar suscripción PRO para descargar música de alta calidad.</string>
-    <string name="hungama_subscribe_positive_button">Comprar suscripción PRO</string>
-    <string name="hungama_subscribe_title">Suscripción PRO</string>
+    <string name="hungama_subscribe_message">Obtén una suscripción Gold para descargar música en alta calidad.</string>
+    <string name="hungama_subscribe_positive_button">Suscripción Gold</string>
+    <string name="hungama_subscribe_title">Suscripción Gold</string>
     <string name="i_know">OK</string>
     <string name="icon_content_description">Icono de diálogo</string>
     <string name="imported">Importado</string>
@@ -1017,7 +1017,7 @@ Remite este código al supervisor."</string>
     <string name="online_switch_confirm_title">Desactivar el contenido online deshabilitará todas las funciones online. ¿Desactivar de todas formas?</string>
     <string name="online_switch_message">Apagar servicios online afectará a los servicios VIP y recomendaciones. ¿Apagarlo de todas formas?</string>
     <string name="online_switch_setting">Servicios de contenido online</string>
-    <string name="only_pro_can_choose_hd_sound_quality">El audio HD solo está disponible para miembros PRO</string>
+    <string name="only_pro_can_choose_hd_sound_quality">El audio HD solo está disponible para miembros Gold</string>
     <string name="open_online_service">Tienes que encender los servicios online para usar esta característica. ¿Encender ahora?</string>
     <string name="open_service">Activar</string>
     <string name="open_settings">Ajustes</string>
@@ -1124,7 +1124,7 @@ Remite este código al supervisor."</string>
     <string name="paused_waiting_for_network">Esperando la conexión</string>
     <string name="paused_waiting_to_retry">Esperando para reintentar</string>
     <string name="pay_now">Servicio actual</string>
-    <string name="payment_success_message">¡Gracias! Tu pago ha sido procesado correctamente. Disfruta de los servicios PRO.</string>
+    <string name="payment_success_message">¡Gracias! Tu pago se ha procesado. Disfruta de los servicios Gold.</string>
     <string name="payment_success_title">¡Enhorabuena!</string>
     <string name="pending_apk">Pendiente…</string>
     <string name="permission_declaration_message">Permitir acceso al almacenamiento en Seguridad &gt; Permisos &gt; Permisos &gt; Almacenamiento &gt; Música para poder utilizar Música con normalidad.</string>
@@ -1185,7 +1185,7 @@ Si no aceptas usar los servicios mencionados anteriormente, no podrás usar algu
 - Servicios de transmisión en línea"</string>
     <string name="privacy_request_subtitle_offline">¡Te damos la bienvenida a Música Mi! Esta aplicación proporciona un reproductor local para archivos de audio.</string>
     <string name="privacy_request_title">Términos y Condiciones</string>
-    <string name="pro_member">Miembro PRO</string>
+    <string name="pro_member">Miembro Gold</string>
     <string name="progressbar_title">Comprobando problemas de seguridad…</string>
     <string name="project_device">Mi teléfono</string>
     <string name="prompt_grant_write_settings_permission">Permitir cambiar ajustes del sistema</string>
@@ -1335,7 +1335,7 @@ Sea Feliz"</string>
     <string name="sleep_mode_canceled">Modo suspensión desactivado</string>
     <string name="sleep_mode_summary">Detener el reproductor después de un tiempo determinado</string>
     <string name="sleep_mode_title">Temporizador de suspensión</string>
-    <string name="sliding_pro_center">Centro PRO</string>
+    <string name="sliding_pro_center">Hungama Gold</string>
     <string name="sns_access_token_expired_warning">Sesión caducada. Inicia la sesión otra vez para conectar esta cuenta.</string>
     <string name="sns_bind_limit">Demasiados intentos. Prueba otras formas de iniciar sesión.</string>
     <string name="sns_sign_in">Otras formas de iniciar sesión</string>
@@ -1449,8 +1449,8 @@ Sea Feliz"</string>
     <string name="toast_download_in_process">Descarga en proceso</string>
     <string name="toast_favorite_has_been_added">Añadido a la lista de reproducción</string>
     <string name="toast_follow_success">Seguido</string>
-    <string name="toast_hungama_vip_song">Esta canción solo está disponible para miembros PRO. Obtenga una suscripción para descargar esta canción.</string>
-    <string name="toast_is_pro">"Ya eres un miembro PRO."</string>
+    <string name="toast_hungama_vip_song">Esta canción sólo está disponible para miembros Gold. Obtén una suscripción para descargarla.</string>
+    <string name="toast_is_pro">"Ya eres un miembro Gold."</string>
     <string name="toast_my_playlist_illegal_name">"El título de la lista de reproducción no es válido. Renombra esta lista de reproducción."</string>
     <string name="toast_my_playlist_set_to_private">"Ahora esta lista de reproducción es privada. El resto de gente no puede verla."</string>
     <string name="toast_my_playlist_set_to_public">Ahora esta lista de reproducción es pública. El resto de gente puede verla.</string>
@@ -1459,7 +1459,7 @@ Sea Feliz"</string>
     <string name="toast_new_playlist_name_too_long">El nombre de la lista es demasiado largo</string>
     <string name="toast_normal_songs_for_download">Calidad de descarga establecida a estándar</string>
     <string name="toast_normal_songs_for_stream">Calidad de la transmisión establecida a estándar</string>
-    <string name="toast_not_pro">Esta función solo está disponible para los miembros PRO.</string>
+    <string name="toast_not_pro">Esta función solo está disponible para los miembros Gold.</string>
     <string name="toast_playlist_has_been_added">Añadido a la cola</string>
     <string name="toast_playlist_has_been_private">Esta lista de reproducción es privada</string>
     <string name="toast_playlist_has_been_public">Esta lista de reproducción es pública</string>
@@ -1538,7 +1538,7 @@ Sea Feliz"</string>
     <string name="video_retry_btn">Inténtalo otra vez</string>
     <string name="view_album">Ver álbum</string>
     <string name="vip_required">Consigue el Pack de canciones premium para reproducir esta canción. Canción saltada por el momento.</string>
-    <string name="vip_required_with_song">%s solo está disponible para miembros PRO. Canción omitida por ahora.</string>
+    <string name="vip_required_with_song">%s solo está disponible para los miembros Gold. Esta canción se ha omitido.</string>
     <string name="voice_search_first_hint">¡Prueba la búsqueda por voz!</string>
     <string name="watch_video">Ver vídeo</string>
     <string name="wednesday">Miércoles</string>
