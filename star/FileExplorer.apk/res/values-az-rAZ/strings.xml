@@ -29,8 +29,10 @@
     <string name="abc_toolbar_collapse_description">Yığcamlaşdır</string>
     <string name="access_limit">Müraciət məhdudiyyətləri</string>
     <string name="access_tips">"Elementlərə müraciət edilə bilmir. Əvəzində Android Storage Access Framework istifadə etməyə çalışın."</string>
+    <string name="action_cache_to_local">Cihaza endir</string>
     <string name="action_mode_deselect_all">Heç birini seçmə</string>
     <string name="action_mode_select_all">Hamısını seç</string>
+    <string name="action_release_file_cache">Keşi təmizlə</string>
     <string name="actionbar_button_up_description">Geri</string>
     <string name="ad_download">Endir</string>
     <string name="add_private">Faylları şəxsi fayla çevirin</string>
@@ -67,6 +69,16 @@
     <string name="can_not_send_with_too_many">"Bir dəfəyə bu qədər çox element göndərilə bilmir"</string>
     <string name="cancel">İmtina</string>
     <string name="cancel_error">"Silinə bilmədi. Yenidən sınayın."</string>
+    <string name="cancel_mi_drive">Mi Drive xidmətlərini ləğv et</string>
+    <string name="cancel_mi_drive_alert_description" formatted="false">Xidmətləri ləğv edə bilmək üçün bütün elementləri Mi Drive-dan təmizləyin. Elementləri təmizləmək üçün bu addımları izləyin:&lt;br /&gt;&lt;xliff:g id=cancel_mi_drive_alert_description_list_1 refersto=1&gt;%1d&lt;/xliff:g&gt;. Mi Drive başlanğıc səhifəsində, \"Hamısını seç\" düyməsinin görünməsi üçün bir elementə basılı saxlayın. Bir dəfəyə ən çox 200 faylı seçmək və silmək üçün bu düyməni istifadə edin.&lt;br /&gt;&lt;xliff:g id=cancel_mi_drive_alert_description_list_2 refersto=2&gt;%2d&lt;/xliff:g&gt;. Bundan sonra, təzəlikcə silinmiş elementləri təmizləyin.</string>
+    <string name="cancel_mi_drive_alert_reminder_card_summary" formatted="false">"&lt;xliff:g id=cancel_mi_drive_alert_reminder_card_summary_list_1 refersto=1&gt;%1d&lt;/xliff:g&gt;. Elementləri silməzdən əvvəl onları nüsxələməyinizi məsləhət görürük. Bunu etmək üçün i.mi.com ünvanına gedin, Mi Drive-a klikləyin, elementlərinizi bir kompüterə endirin.&lt;br /&gt;&lt;xliff:g id=cancel_mi_drive_alert_reminder_card_summary_list_2 refersto=2&gt;%2d&lt;/xliff:g&gt;. Unutmayın ki, Təzəlikcə silinmiş elementlər bölməsindən təmizlənmiş elementlər sonradan bərpa edilə bilmir."</string>
+    <string name="cancel_mi_drive_confirm_button">Xidmətlərdən imtina</string>
+    <string name="cancel_mi_drive_confirm_description">"Davam etsəniz, Mi Drive xidmətlərini ləğv edəcəksiniz. Şəxsi məlumatların yığılmasını dayandıracağıq və artıq yığılmış və saxlanılmış şəxsi məlumatlar, əksi tələb olunmadığı müddətcə, müvafiq qanun və nizamlamalara uyğun olaraq müəyyən bir müddət ərzində silinəcəkdir."</string>
+    <string name="cancel_mi_drive_confirm_hint">"Mi Drive xidmətlərinin ləğv edilməsi, digər Xiaomi məhsul və xidmətlərinin istifadəsinə təsir etməyəcək. Xiaomi Hesabınızı silmək istəyirsinizsə, &lt;font color=#0097FF&gt;&lt;a href=%1$s&gt;burada&lt;/a&gt;&lt;/font&gt; edə bilərsiniz."</string>
+    <string name="cancel_mi_drive_confirm_reminder_card_summary" formatted="false">&lt;font color=#F22424&gt;Xidmətlərin ləğv edilməsindən sonra aşağıdakı elementlər birdəfəlik silinəcək:&lt;/font&gt;&lt;br /&gt;&lt;xliff:g id=cancel_mi_drive_confirm_reminder_card_summary_list_1 refersto=1&gt;%1d&lt;/xliff:g&gt;. Sənədlər, şəxsi fayllar və silinmiş elementlər daxil olmaqla, lakin bununla məhdudlaşmayaraq, Mi Drive-dakı bütün elementlər.&lt;br /&gt;&lt;xliff:g id=cancel_mi_drive_confirm_reminder_card_summary_list_2 refersto=2&gt;%2d&lt;/xliff:g&gt;. Cihaz icazələri, tənzimləmələr və digər keşlənmiş məzmunlar.&lt;br /&gt;&lt;xliff:g id=cancel_mi_drive_confirm_reminder_card_summary_list_3 refersto=3&gt;%3d&lt;/xliff:g&gt;. Mi Drive yükləmə və endirmə tarixçəsi.</string>
+    <string name="cancel_mi_drive_privacy_revoked_retry">Mi Drive-ı işə salıb yenidən sınayın</string>
+    <string name="cancel_mi_drive_success">Xidmətlər uğurla ləğv edildi</string>
+    <string name="cancel_mi_drive_title">Xidmətlərdən imtina</string>
     <string name="cancel_msg">Heç biri seçilməsin?</string>
     <string name="cancel_operation">Əməliyyatdan imtina</string>
     <string name="cancel_success">Fayllar uğurla bura daşındı: %s</string>
@@ -76,6 +88,7 @@
     <string name="category_all">Bütün fayllar</string>
     <string name="category_apk">APK-lar</string>
     <string name="category_bluetooth">Bluetooth</string>
+    <string name="category_cloud_drive">Mi Drive</string>
     <string name="category_document">Sənədlər</string>
     <string name="category_download">Endirilənlər</string>
     <string name="category_editor_mode">Düzəliş et</string>
@@ -114,6 +127,25 @@
     <string name="click_to_switch_volume_pad">Daxili anbar və SD kart arasında keçid etmək üçün toxunun</string>
     <string name="clock_in">Yoxlanılır…</string>
     <string name="close">Bağla</string>
+    <string name="cloud_drive_files">Mi Drive faylları</string>
+    <string name="cloud_drive_not_login_summary">Daxil olunmadı</string>
+    <string name="cloud_drive_settings">Mi Drive tənzimləmələri</string>
+    <string name="cloud_empty_hint_text">"Burada hələ heç nə yoxdur.
+Faylları cihazınızdan Mi Drive-a daşımağa çalışın."</string>
+    <string name="cloud_guide_summary_text">Elementlərinizi avtomatik olaraq bütün cihazlarınızla sinxronlaşdırın</string>
+    <string name="cloud_guide_title_text">Mi Drive ilə sinxronlaşdır</string>
+    <string name="cloud_permission_storage_desc">Fotoları və sənədləri cihazınızda saxlamaq üçün</string>
+    <string name="cloud_recycle_bin">Təzəlikcə silinmiş elementlər</string>
+    <string name="cloud_space_full">Bulud anbar sahəsi dolub. Daha çox element yükləyə bilmək üçün anbar planınızı yüksəldin.</string>
+    <string name="cloud_transfer_download_error">"Endirilə bilmədi"</string>
+    <string name="cloud_transfer_download_loading">Endirilir</string>
+    <string name="cloud_transfer_downloading">Endirilir</string>
+    <string name="cloud_transfer_pause">Fasilə verildi</string>
+    <string name="cloud_transfer_upload_error">"Yüklənə bilmədi"</string>
+    <string name="cloud_transfer_uploading">Yüklənir</string>
+    <string name="cloud_transfer_wait_download">Endirmək üçün gözlənilir</string>
+    <string name="cloud_transfer_wait_network">İnternet üçün gözlənilir</string>
+    <string name="cloud_transfer_wait_upload">Yükləmək üçün gözlənilir</string>
     <string name="compress_fail">"Sıxışdırıla bilmədi. Eyni adda bir fayl artıq mövcuddur."</string>
     <string name="compress_fail_unknown">"Sıxışdırıla bilmədi. Anbar sahəsi dolub və ya bilinməyən bir xəta baş verdi."</string>
     <string name="compress_message">Sıxışdır…</string>
@@ -128,6 +160,9 @@
     <string name="copy_to">Kopyala…</string>
     <string name="create_folder">Yarat</string>
     <string name="create_shortcut_success">Qısayol uğurla əlavə edildi</string>
+    <string name="cta_function_account_operation">Xiaomi Hesabınıza cəld daxil olmaq üçün</string>
+    <string name="data_consume_dialog_message">"Hazırda mobil internet istifadə edirsiniz. Davam etsəniz, %s internet istifadə ediləcək."</string>
+    <string name="data_consume_dialog_title">Mobil internet istifadə edilsin?</string>
     <string name="data_consumption_cancel">"Rədd et"</string>
     <string name="data_consumption_checkbox_hint">"Təkrar göstərmə"</string>
     <string name="data_consumption_confirm">Oldu</string>
@@ -158,7 +193,14 @@
     <string name="delete_folder">Bu qovluq silinsin?</string>
     <string name="des_hide_pwd">Parolu gizlət</string>
     <string name="des_show_pwd">Parolu göstər</string>
+    <string name="dialog_account_permission_denied_msg">Mi Drive-a daxil ola bilmək üçün bu tətbiqin cihaz hesablarına müraciət etməsinə icazə verin. Bu icazəni Tənzimləmələrdə verə bilərsiniz.</string>
+    <string name="dialog_account_permission_denied_negative_button">İmtina</string>
+    <string name="dialog_account_permission_denied_positive_button">Tənzimləmələr</string>
+    <string name="dialog_account_permission_denied_title">Tələb olunan icazələr</string>
     <string name="dialog_keep_choice">Seçimimi xatırla</string>
+    <string name="dialog_open_mi_drive_button">Anladım</string>
+    <string name="dialog_open_mi_drive_err">Mi Drive-ı yenidən başladın və təkrar sınayın.</string>
+    <string name="dialog_open_mi_drive_title">Server xətası</string>
     <string name="dialog_select_type">Növünü seç</string>
     <string name="dialog_type_audio">Səs</string>
     <string name="dialog_type_image">Təsvirlər</string>
@@ -207,6 +249,7 @@
     <string name="error_not_support">Dəstəklənmir</string>
     <string name="error_open_file_failed_no_app_found">"Bu faylı açacaq tətbiqlər tapıla bilmədi."</string>
     <string name="evening">Günortadan sonra</string>
+    <string name="exception_net_not_available">Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın</string>
     <string name="exit">Çıxış</string>
     <string name="expand_button_title">Qabaqcıl</string>
     <string name="exposed_dropdown_menu_content_description">Açılan menyunu göstər</string>
@@ -301,6 +344,7 @@
     <string name="guide_three_title">Qısayolları yenidən düz</string>
     <string name="guide_two_summary">Qalereya fotoları və ekran şəkilləri ilkin olaraq gizlidir.</string>
     <string name="guide_two_title">Yalnız təməl elementlərə bax</string>
+    <string name="h5_ppt_to_pdf_introduce_title">PDF yaratmaq haqqında</string>
     <string name="hint_switch_to_grid_mode">Dama görünüşünə keçildi</string>
     <string name="hint_switch_to_list_mode">Siyahı görünüşə keçildi</string>
     <string name="home_action_up">Geri</string>
@@ -340,6 +384,7 @@
     <string name="make_private_msg_1">Bu fayl şəxsi fayla çevrilsin?</string>
     <string name="make_private_msg_2">Bu fayllar şəxsi fayllara çevrilsin?</string>
     <string name="make_private_msg_3">Bu qovluqdakı bütün fayllar şəxsi fayl olacaq.</string>
+    <string name="manage_cloud_space">Bulud anbar sahəsini idarə et</string>
     <string name="material_slider_range_end">Aralıq sonu,</string>
     <string name="material_slider_range_start">Aralıq başlanğıcı,</string>
     <string name="menu_item_cleanup">Təmizlə</string>
@@ -358,6 +403,12 @@
     <string name="mi_router_label">Ruter</string>
     <string name="mi_share">Mi Share</string>
     <string name="midnight">Gecə</string>
+    <string name="midrive_display_related">Görüntülə</string>
+    <string name="midrive_get_cloudvideo_file">Bir saniyə…</string>
+    <string name="midrive_hide_recent_cloud_files">"Mi Drive fayllarını Sonuncularda göstərmə"</string>
+    <string name="midrive_not_found">"Bu elementə müraciət edilə bilmədi"</string>
+    <string name="midrive_overseas_unavailable">Bu özəllik yalnız Çin materikində mövcuddur.</string>
+    <string name="midrive_reset_privacy_and_check_availability_retry">"Mi Drive işə salına bilmədi. Yenidən sınayın."</string>
     <string name="midriver_install_button_text">Quraşdır</string>
     <string name="midriver_not_install_title">Mi Drive silindi</string>
     <string name="mirror_can_not_drag_mask">Mi Share-i istifadə etmək üçün çəkin</string>
@@ -491,6 +542,7 @@
     <string name="need_read_storage_permission">"Fayl Meneceri, normal işləmək üçün cihazın anbarına müraciət icazəsi tələb edir."</string>
     <string name="network_not_available">"Şəbəkəyə bağlana bilmir"</string>
     <string name="new_folder_name">Yeni qovluq</string>
+    <string name="new_storage_info_detail">Ödənişsiz: %1$s | Cəmi: %2$s</string>
     <string name="next">Növbəti</string>
     <string name="night">Axşam</string>
     <string name="no">Xeyr</string>
@@ -499,6 +551,8 @@
     <string name="no_enough_storage_indication">"Cihazın anbar sahəsi dolub."</string>
     <string name="no_enough_storage_title">Yetərli anbar sahəsi yoxdur</string>
     <string name="no_file">Boşdur</string>
+    <string name="no_network_error_message">Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın.</string>
+    <string name="no_network_error_title">"Şəbəkəyə bağlana bilmədi"</string>
     <string name="no_permission">Bu özəlliyə müraciət etmək üçün lazımi icazələri verin</string>
     <string name="no_wifi">Wi-Fi şəbəkəsi yoxdur</string>
     <string name="noon">Günorta</string>
@@ -508,16 +562,29 @@
     <string name="not_use">İndi yox</string>
     <string name="notif_server_starting">FTP serveri başladılır…</string>
     <string name="notif_title">FTP serveri işləyir</string>
+    <string name="notification_title_sync_result">Sinxronlaşdırma tamamlandı</string>
+    <string name="notification_title_syncing">Sinxronlaşdırılır…</string>
+    <string name="notification_title_syncing_with_count">Elementlər sinxronlaşdırılır. Qalan fayl: %1$s</string>
     <string name="online_not_support">"Hal-hazırda bu fayla baxıla bilmir."</string>
+    <string name="open_cloud_drive">Mi Drive-ı işə sal</string>
     <string name="open_or_close_wlan">Wi-Fi-ı açıb bağlama</string>
     <string name="open_private_folder">Şəxsi fayllara baxmaq üçün burax</string>
     <string name="operation_add_fav">Sevimlilərə əlavə edilir…</string>
+    <string name="operation_batch_failed_err">"Bu əməliyyat bir neçə fayl üçün tamamlana bilmədi."</string>
+    <string name="operation_cache_use_data">Endir</string>
+    <string name="operation_cache_use_free_network">Wi-Fi-ı gözləyin</string>
     <string name="operation_cancel">İmtina</string>
+    <string name="operation_cloud_copy_to_local">Saxla…</string>
     <string name="operation_compress">Sıxışdır</string>
     <string name="operation_compressing">Sıxışdırılır…</string>
     <string name="operation_copy">Kopyala</string>
     <string name="operation_create_folder">Qovluq yarat</string>
     <string name="operation_create_folder_message">Qovluq adını daxil edin</string>
+    <string name="operation_create_folder_name_conflict">"Qovluq yaradıla bilmədi. Bu adda qovluq artıq mövcuddur."</string>
+    <string name="operation_create_folder_name_illegal_char">"Qovluq yaradıla bilmədi. Qovluq adında dəstəklənməyən simvollar var."</string>
+    <string name="operation_create_folder_network_not_available">"Qovluq yaradıla bilmədi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın."</string>
+    <string name="operation_create_folder_not_support_for_overseas">"Qovluq yaradıla bilmədi. Bu özəllik yalnız Çin materikində mövcuddur."</string>
+    <string name="operation_create_folder_other">"Qovluq yaradıla bilmədi"</string>
     <string name="operation_decompressing">Arxivdən çıxarılır…</string>
     <string name="operation_del_fav">Sevimlilərdən silinir…</string>
     <string name="operation_delete">Sil</string>
@@ -525,28 +592,57 @@
     <string name="operation_delete_confirm_message_folder">"Bütün qovluq məzmunları silinəcək.
 "</string>
     <string name="operation_deleting">Silinir…</string>
+    <string name="operation_download">Endir</string>
+    <string name="operation_download_error_no_space">Yetərsiz anbar sahəsi</string>
+    <string name="operation_download_error_other">Bir sistem xətası baş verdi. Bir və ya iki dəqiqə gözləyib yenidən sınayın.</string>
+    <string name="operation_download_error_title">"Endirilə bilmədi"</string>
+    <string name="operation_editor">Düzəliş et</string>
     <string name="operation_encrypt_summary">Şəxsi qovluqdakı faylları şifrələyin. Böyük faylların şifrəsinin açılması gözləniləndən daha uzun çəkə bilər.</string>
     <string name="operation_encrypt_title">Şəxsi faylları şifrələ</string>
     <string name="operation_favorite">Sevimlilərə əlavə et</string>
+    <string name="operation_file_downloading_err">"Bu əməliyyat tamamlana bilmədi. Bu faylın endirilməsinin bitməsini gözləyib yenidən sınayın."</string>
+    <string name="operation_file_exist_err">"Bu əməliyyat tamamlana bilmədi. Bu fayl artıq mövcuddur."</string>
+    <string name="operation_file_not_found_err">"Bu əməliyyat tamamlana bilmədi. Orijinal fayl tapıla bilmədi."</string>
+    <string name="operation_gallary">Qalereyada bax</string>
     <string name="operation_hide_sys">"Gizli faylları göstərmə"</string>
     <string name="operation_info">Detallar</string>
     <string name="operation_move">Daşı</string>
     <string name="operation_moving">Daşınır…</string>
     <string name="operation_new_folder">Qovluq yarat</string>
+    <string name="operation_no_network_err">"Şəbəkəyə bağlana bilmədi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın."</string>
+    <string name="operation_not_support_err">"Bu əməliyyat tamamlana bilmədi."</string>
     <string name="operation_open">Aç</string>
     <string name="operation_open_mode">Aç</string>
     <string name="operation_other_apps">Başqa bir tətbiqdə aç</string>
     <string name="operation_paste">Yapışdır</string>
     <string name="operation_paste_to_folder">Qovluğa yapışdır</string>
     <string name="operation_pasting">Kopyalanır…</string>
+    <string name="operation_pic_to_pdf">PDF yarat</string>
     <string name="operation_refresh">Təzələ</string>
     <string name="operation_rename">Yenidən adlandır</string>
+    <string name="operation_rename_err">"Yenidən adlandırıla bilmədi"</string>
     <string name="operation_rename_message">Yeni ad daxil edin</string>
+    <string name="operation_retry">Yenidən sına</string>
     <string name="operation_send">Göndər</string>
     <string name="operation_send_to_pc">Kompüterə daşı</string>
+    <string name="operation_set_pic_wallpaper">Divar kağızı olaraq tənzimlə</string>
     <string name="operation_show_privacy_policy">Gizlilik Siyasətini göstər</string>
     <string name="operation_show_sys">Gizli faylları göstər</string>
+    <string name="operation_sync_cloud_data_error">Bir server xətası baş verdi. Bir və ya iki dəqiqə gözləyib yenidən sınayın.</string>
     <string name="operation_unfavorite">Sevimlilərdən çıxart</string>
+    <string name="operation_unknown_err">"Bu əməliyyat tamamlana bilmədi."</string>
+    <string name="operation_upload_buy_space">Yüksəlt</string>
+    <string name="operation_upload_delete">Sil</string>
+    <string name="operation_upload_err_file_not_found">"Deyəsən, bu fayl mövcud deyil."</string>
+    <string name="operation_upload_err_file_size_zero">"Boş fayllar yüklənə bilmir."</string>
+    <string name="operation_upload_err_full_space">Bulud anbar sahəsi dolub. Daha çox element yükləyə bilmək üçün anbar planınızı yüksəldin.</string>
+    <string name="operation_upload_err_illegal_char">Bu faylın adında dəstəklənməyən simvollar var.</string>
+    <string name="operation_upload_err_larger_than_4g">"%d GB-dan böyük fayllar yüklənə bilmir."</string>
+    <string name="operation_upload_err_not_support_overseas">Hal-hazırda yalnız Çin materikindəki istifadəçilər elementləri yükləyə bilər.</string>
+    <string name="operation_upload_err_other">Bir sistem xətası baş verdi. Bir və ya iki dəqiqə gözləyib yenidən sınayın.</string>
+    <string name="operation_upload_error_title">"Yüklənə bilmədi"</string>
+    <string name="operation_upload_retry">Yenidən sına</string>
+    <string name="operation_upload_save_to_local">Saxla…</string>
     <string name="otg_data_transfer_success">Uğurla köçürüldü</string>
     <string name="otg_data_transferring">"Fayllar köçürülür… Xarici anbar bağlantısını kəsməyin."</string>
     <string name="otg_file_security_note">OGTSecurity</string>
@@ -557,9 +653,16 @@
     <string name="password_toggle_content_description">Parolu göstər</string>
     <string name="path_name_email">E-poçt</string>
     <string name="perm_manage_external_storage">Bütün fayllara müraciət edin</string>
+    <string name="permission_account_desc">Cihazınızda saxlanılan hesab məlumatlarına müraciət etmək üçün</string>
+    <string name="permission_account_desc_pad">Cihazınızda saxlanılan hesab məlumatlarına müraciət etmək üçün</string>
+    <string name="permission_account_title">Cihaz hesablarına müraciət</string>
+    <string name="permission_account_title_pad">Cihaz hesablarına müraciət</string>
     <string name="permission_denial">"Fayllara müraciət edilə bilmədi. Tənzimləmələrdən Fayl Menecerinin fayllara müraciətinə icazə verin."</string>
     <string name="permission_description">İcazə detalları</string>
     <string name="permission_required">"Fayllara müraciət edilə bilmədi. Tənzimləmələrdən Fayl Menecerinin fayllara müraciətinə icazə verin."</string>
+    <string name="permission_storage_desc_pad">Fotoları və sənədləri cihazınızda saxlamaq üçün</string>
+    <string name="permission_storage_title">Cihaz anbarına müraciət</string>
+    <string name="permission_storage_title_pad">Cihaz anbarına müraciət</string>
     <string name="petabyteShort">PB</string>
     <string name="phone">Daxili anbar</string>
     <string name="phone_storage">Anbar</string>
@@ -579,6 +682,7 @@
     <string name="pick_folder">Qovluq seç</string>
     <string name="pm">GS</string>
     <string name="port_range">Port nömrəsi 1024-65535 aralığında olmalıdır</string>
+    <string name="pre_privacy_recall">Razılığın geri çəkilməsi</string>
     <string name="pref_permission_allowed">İcazə verildi</string>
     <string name="pref_permission_manage_key_storage">Cihazdakı foto və fayllara müraciət</string>
     <string name="pref_permission_not_allowed">İcazə verilmədi</string>
@@ -586,6 +690,14 @@
     <string name="privacy_policy">Gizlilik Siyasəti</string>
     <string name="privacy_policy_renew">Güncəllənmiş Gizlilik Siyasəti</string>
     <string name="privacy_policy_renew_content"><Data>\"Fayl Menecerinin &lt;a href=\"%1$s\"&gt;Gizlilik Siyasəti&lt;/a&gt; güncəlləndi. Bir istifadəçi kimi hüquqlarınızı və verilənlərinizi necə istifadə etdiyimizi tam anlamaq üçün, davam etməzdən əvvəl Gizlilik Siyasətinin yeni versiyasını oxuyub qəbul edin.\"</Data></string>
+    <string name="privacy_recall_alert_description" formatted="false">Razılı geri çəkə bilmək üçün bütün elementləri Mi Drive-dan təmizləyin. Elementləri təmizləmək üçün bu addımları izləyin:&lt;br /&gt;&lt;xliff:g id=privacy_recall_alert_description_list_1 refersto=1&gt;%1d&lt;/xliff:g&gt;. Mi Drive başlanğıc səhifəsində, \"Hamısını seç\" düyməsinin görünməsi üçün bir elementə basılı saxlayın. Bir dəfəyə ən çox 200 faylı seçmək və silmək üçün bu düyməni istifadə edin.&lt;br /&gt;&lt;xliff:g id=privacy_recall_alert_description_list_2 refersto=2&gt;%2d&lt;/xliff:g&gt;. Bundan sonra, təzəlikcə silinmiş elementləri təmizləyin.</string>
+    <string name="privacy_recall_alert_reminder_card_summary" formatted="false">"&lt;xliff:g id=privacy_recall_alert_reminder_card_summary_list_1 refersto=1&gt;%1d&lt;/xliff:g&gt;. Elementləri silməzdən əvvəl onları nüsxələməyinizi məsləhət görürük. Bunu etmək üçün i.mi.com ünvanına gedin, Mi Drive-a klikləyin, elementlərinizi bir kompüterə endirin.&lt;br /&gt;&lt;xliff:g id=privacy_recall_alert_reminder_card_summary_list_2 refersto=2&gt;%2d&lt;/xliff:g&gt;. Unutmayın ki, Təzəlikcə silinmiş elementlər bölməsindən təmizlənmiş elementlər sonradan bərpa edilə bilmir."</string>
+    <string name="privacy_recall_confirm_button">Geri çək</string>
+    <string name="privacy_recall_confirm_description">"Davam etsəniz, \"Fayl Meneceri\"nin Gizlilik Siyasətinə verdiyiniz razılığı geri çəkəcəksiniz. Şəxsi məlumatların yığılmasını dayandıracağıq və artıq yığılmış və saxlanılmış şəxsi məlumatlar, əksi tələb olunmadığı müddətcə, müvafiq qanun və nizamlamalara uyğun olaraq müəyyən bir müddət ərzində silinəcəkdir."</string>
+    <string name="privacy_recall_confirm_reminder_card_summary" formatted="false">&lt;font color=#F22424&gt;Razılığın geri çəkilməsindən sonra aşağıdakı elementlər birdəfəlik silinəcək:&lt;/font&gt;&lt;br /&gt;&lt;xliff:g id=privacy_recall_confirm_reminder_card_summary_list_1 refersto=1&gt;%1d&lt;/xliff:g&gt;. Sənədlər, şəxsi fayllar və silinmiş elementlər daxil olmaqla, lakin bununla məhdudlaşmayaraq, Mi Drive-dakı bütün elementlər.&lt;br /&gt;&lt;xliff:g id=privacy_recall_confirm_reminder_card_summary_list_2 refersto=2&gt;%2d&lt;/xliff:g&gt;. Cihaz icazələri, tənzimləmələr və digər keşlənmiş məzmunlar.&lt;br /&gt;&lt;xliff:g id=privacy_recall_confirm_reminder_card_summary_list_3 refersto=3&gt;%3d&lt;/xliff:g&gt;. Mi Drive yükləmə və endirmə tarixçəsi.</string>
+    <string name="privacy_recall_success">Razılıq uğurla geri çəkildi</string>
+    <string name="privacy_recall_title">Razılığın geri çəkilməsi</string>
+    <string name="privacy_recalling">Razılıq geri çəkilir…</string>
     <string name="private_files">Şəxsi</string>
     <string name="private_folder">Şəxsi fayllar</string>
     <string name="private_folder_no_file_hints">Faylı və ya qovluğu şəxsi etmək üçün basıb saxlayın</string>
@@ -597,11 +709,15 @@
     <string name="pull_to_enter_private">Şəxsi qovluğu açmaq üçün aşağı çəkin</string>
     <string name="qq_msg">"Android 11 məhdudiyyətlərinə görə Fayl Meneceri, QQ sənədlərinə müraciət edə və ya onları görüntüləyə bilməz."</string>
     <string name="qq_title">"WeChat sənədlərinə müraciət edilə bilmir"</string>
+    <string name="query_quota_exception">Bir server xətası baş verdi. Bir və ya iki dəqiqə gözləyib yenidən sınayın.</string>
+    <string name="query_quota_searching">Bir saniyə…</string>
     <string name="recent_hide_camera_and_screenshots">"Son fayllar arasında Qalereya elementlərini və ekran şəkillərini göstərmə"</string>
+    <string name="recent_hide_cloud_drive_files">"Mi Drive fayllarını Sonuncularda göstərmə"</string>
     <string name="refresh_success">Təzələmə tamamlandı</string>
     <string name="reinstall_midriver_message">İndi yenidən quraşdırılsın?</string>
     <string name="release_enter_private">Şəxsi qovluğu açmaq üçün buraxın</string>
     <string name="remainder_size">Qalan: %s</string>
+    <string name="reminder_card_title">Diqqət</string>
     <string name="rename_alert">"Bu faylın genişləndirməsini dəyişdirsəniz, onu açmaq mümkün olmaya bilər."</string>
     <string name="rename_alert2">Genişləndirməsini dəyişdirdikdən sonra fayl gizli olacaq.</string>
     <string name="rename_failed">"%1$s yenidən adlandırıla bilmədi"</string>
@@ -772,9 +888,12 @@
     <string name="unknown_error">Bilinməyən bir xəta baş verdi. Bir və iki dəqiqə gözləyib yenidən sınayın.</string>
     <string name="unlock_pattern_msg">Gizlilik qoruma parolu foto, mesaj və qeydlər üçün də işləyir.</string>
     <string name="unlock_pattern_title">Yeni parol</string>
+    <string name="update_no_network">"Şəbəkəyə bağlana bilmədi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın."</string>
     <string name="upload_user_photo">Yüklə</string>
     <string name="usb_label">USB</string>
     <string name="use">İstifadə et</string>
+    <string name="use_mobile_data_update_summary">Mi Drive-dan endirilmiş fayllardakı dəyişiklikləri avtomatik sinxronlaşdırmaq üçün mobil internet istifadə edin</string>
+    <string name="use_mobile_data_update_title">Sinx. üçün mobil internet istifadə et</string>
     <string name="use_to_all">Hamısına tətbiq et</string>
     <string name="used">İstifadə edildi</string>
     <string name="user_guide_continue_use">Oldu</string>
@@ -783,6 +902,8 @@
     <string name="utf8_title">UTF-8</string>
     <string name="v7_preference_off">BAĞLI</string>
     <string name="v7_preference_on">AÇIQ</string>
+    <string name="video_data_consume_dialog_confirm">Davam</string>
+    <string name="video_data_consume_dialog_title">Mobil internet istifadə edilsin?</string>
     <string name="view_type">Bax</string>
     <string name="wechat_msg">"Android 11 məhdudiyyətlərinə görə Fayl Meneceri, WeChat-da önbaxışlı sənədlərə müraciət edə və onları görüntüləyə bilməz. Sənədləri, burada görüntülənməsini təmin etmək üçün WeChat-da açıb anbarda saxlayın."</string>
     <string name="wechat_title">"WeChat sənədlərinə müraciət edilə bilmir"</string>
