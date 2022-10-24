@@ -179,6 +179,7 @@
     <string name="component_title_settings_video_wallpaper">Fondos de pantalla con efectos especiales</string>
     <string name="component_title_video_wallpaper">Películas de fondo de pantalla</string>
     <string name="component_title_wallpaper">Fondos de pantalla</string>
+    <string name="component_title_widget_suit">Widgets</string>
     <string name="concentration_old_period">MÁS</string>
     <string name="configure_success_not_enable_aod">Aplicado con éxito. Activa la pantalla siempre encendida para que el tema surta efecto.</string>
     <string name="copy">Copiar</string>
@@ -729,6 +730,7 @@ Ver y usar los elementos que compró o agregó a favoritos."</string>
     <string name="pad_fold_no_permission">Se requieren permisos de almacenamiento</string>
     <string name="pad_fold_no_permission_detail">Para poder cambiar las preferencias de personalización y guardar los elementos descargados, primero permita que esta función acceda al almacenamiento.</string>
     <string name="password_toggle_content_description">Cambiar la visibilidad de la contraseña</string>
+    <string name="paying">Comprando…</string>
     <string name="personalize">Personalización</string>
     <string name="personalize_alarm_ringtone_title">Alarmas</string>
     <string name="personalize_aod_title">AOD</string>
@@ -1150,6 +1152,7 @@ Puede otorgar este permiso en Configuración &gt; Privacidad."</string>
     <string name="search_sort_news">Nuevo primero</string>
     <string name="search_sort_synthesize">General</string>
     <string name="search_sort_top">Popular primero</string>
+    <string name="search_view_description_clear">Limpiar la búsqueda</string>
     <string name="selected_resource_file_invalid">"No puede usarse el archivo de recurso seleccionado"</string>
     <string name="send">Enviar</string>
     <string name="server_internal_error">Se produjo un error en el servidor. Espera un minuto o dos y vuelve a intentarlo.</string>
