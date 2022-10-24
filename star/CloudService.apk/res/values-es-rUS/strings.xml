@@ -760,7 +760,7 @@ Es posible que la información de ubicación no se informe cuando la conexión d
     <string name="storage_manage_cloud_data_title">Ver los elementos en la nube</string>
     <string name="storage_manage_list_title">Datos de la nube</string>
     <string name="storage_manage_list_title_action">Ver más</string>
-    <string name="storage_upgrade_card_title">Actualice su plan</string>
+    <string name="storage_upgrade_card_title">Actualizar</string>
     <string name="sub_alert_notif_content">Activar Xiaomi Cloud</string>
     <string name="sub_alert_notif_title">Sincronizar con Xiaomi Cloud</string>
     <string name="sub_sync_item_sms_summary">"Solo sincronizar mensajes que contengan fotos, audio u otros archivos multimedia cuando esté conectado a la Wi-Fi"</string>
