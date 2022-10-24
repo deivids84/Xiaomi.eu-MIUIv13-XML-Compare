@@ -164,6 +164,10 @@
         <item quantity="other">%d dəqiqə əvvəl</item>
         <item quantity="one">1 dəqiqə əvvəl</item>
     </plurals>
+    <plurals name="pay_mibi">
+        <item quantity="other">%1$s Mi Sikkə ödə</item>
+        <item quantity="one">%1$s Mi Sikkə ödə</item>
+    </plurals>
     <plurals name="resource_comment_score_count">
         <item quantity="other">%d rəy</item>
         <item quantity="one">%d rəy</item>
