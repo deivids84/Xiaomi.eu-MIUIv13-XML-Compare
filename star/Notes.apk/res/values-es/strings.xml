@@ -28,6 +28,7 @@
     <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
     <string name="abc_toolbar_collapse_description">Ocultar</string>
     <string name="access_denied_info">Demasiados intentos. Espera un par de minutos e inténtalo otra vez.</string>
+    <string name="access_photos_and_videos">Acceder a fotos y vídeos</string>
     <string name="action_collapse">Ocultar</string>
     <string name="action_expand">Mostrar más</string>
     <string name="action_folder_description">Ver en carpetas</string>
@@ -598,6 +599,8 @@
     <string name="permission_microphone_desc">Para grabar notas de voz</string>
     <string name="permission_network_for_cloud_desc">Para sincronizar notas con la nube necesitas conectarte a internet. Los datos móviles podrían ser usados para sincronizar elementos. ¿Conectar ahora?</string>
     <string name="permission_phone_state_desc">Para dejar de grabar notas de voz durante las llamadas</string>
+    <string name="permission_photos_desc">Para añadir imágenes a las notas</string>
+    <string name="permission_photos_desc_pad">Para añadir imágenes a las notas</string>
     <string name="permission_read_contact_desc">Asociar las notas creadas durante las llamadas con contactos</string>
     <string name="permission_storage_desc">Para guardar notas como imágenes</string>
     <string name="permission_storage_desc_new_v12">Para añadir imágenes a las notas y guardar las notas como imágenes</string>
@@ -699,6 +702,7 @@
     <string name="search_setting_description">Busca texto en tus notas</string>
     <string name="select_account_prompt">Activa la sincronización de notas</string>
     <string name="send">Enviar</string>
+    <string name="send_notifications_for_reminder">Para enviar recordatorios</string>
     <string name="set_alarm_description">Establecer alarma</string>
     <string name="setting_big_screen_layout_columns">Barra lateral</string>
     <string name="setting_big_screen_layout_flat">Tiles</string>
@@ -861,6 +865,7 @@ Permite a las Notas leer tus contactos y encontrar cuentas en el dispositivo."</
 Permite a las Notas leer el contenido de tu tarjeta SD."</string>
     <string name="toast_refuse_to_use_phone_state">"Los permisos del dispositivo están restringidos.
 Permite que Notas lea el estado y la identidad del dispositivo."</string>
+    <string name="toast_refuse_to_use_photos_in_excerpt">Permite a esta aplicación acceder a tus fotos, para añadir imágenes a las notas</string>
     <string name="toast_refuse_to_use_record_audio">"Los permisos del micrófono están restringidos.
 Permite a las Notas grabar audio."</string>
     <string name="toast_refuse_to_use_storage_in_excerpt">Permite que Notas acceda al almacenamiento para poder añadir imágenes a tus notas</string>
