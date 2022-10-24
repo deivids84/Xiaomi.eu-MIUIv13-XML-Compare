@@ -56,6 +56,10 @@
         <item quantity="other">%1$d gün əvvəl</item>
         <item quantity="one">%1$d gün əvvəl</item>
     </plurals>
+    <plurals name="delete_cloud_files">
+        <item quantity="other">%1$d fayl bütün cihazlarınızdan və buluddan silisin? Mi Drive faylları təzəlikcə silinmiş elementlərdən bərpa edilə bilər.</item>
+        <item quantity="one">%1$d fayl bütün cihazlarınızdan və buluddan silisin? Mi Drive faylları təzəlikcə silinmiş elementlərdən bərpa edilə bilər.</item>
+    </plurals>
     <plurals name="delete_files">
         <item quantity="other">%1$d fayl silinsin?</item>
         <item quantity="one">%1$d fayl silinsin?</item>
@@ -139,6 +143,14 @@
     <plurals name="mtrl_badge_content_description">
         <item quantity="other">%d yeni bildiriş</item>
         <item quantity="one">%d yeni bildiriş</item>
+    </plurals>
+    <plurals name="notification_message_sync_result_fail">
+        <item quantity="other">"%1$s fayl sinxronlaşdırıla bilmədi"</item>
+        <item quantity="one">"%1$s fayl sinxronlaşdırıla bilmədi"</item>
+    </plurals>
+    <plurals name="notification_message_sync_result_success">
+        <item quantity="other">"Sinxronlaşdırılmış %1$s fayl | "</item>
+        <item quantity="one">"Sinxronlaşdırılmış %1$s fayl | "</item>
     </plurals>
     <plurals name="numSelectedFile">
         <item quantity="other">%1$d element seçildi</item>
