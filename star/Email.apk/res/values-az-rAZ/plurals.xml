@@ -44,73 +44,13 @@
         <item quantity="other">%1$d oxunmamış</item>
         <item quantity="one">%1$d oxunmamış</item>
     </plurals>
-    <plurals name="confirm_archive_conversation">
-        <item quantity="other">Bu %1$d danışıq arxivlənsin?</item>
-        <item quantity="one">Bu danışıq arxivlənsin?</item>
-    </plurals>
-    <plurals name="confirm_delete_conversation">
-        <item quantity="other">Bu %1$d danışıq silinsin?</item>
-        <item quantity="one">Bu danışıq silinsin?</item>
-    </plurals>
-    <plurals name="confirm_delete_conversation_with_sub">
-        <item quantity="other">Bu danışıqlar birləşmiş elementlər ehtiva edir. Yenə də silinsin?</item>
-        <item quantity="one">Bu danışıq birləşmiş elementlər ehtiva edir. Yenə də silinsin?</item>
-    </plurals>
-    <plurals name="confirm_delete_draft">
-        <item quantity="other">%1$d qaralamanı sil?</item>
-        <item quantity="one">%1$d qaralamanı sil?</item>
-    </plurals>
     <plurals name="contact_num_selected">
         <item quantity="other">%d əlaqə əlavə edildi</item>
         <item quantity="one">%d əlaqə əlavə edildi</item>
     </plurals>
-    <plurals name="conversation_archived">
-        <item quantity="other">&lt;b&gt;%1$d&lt;/b&gt; arxivləndi.</item>
-        <item quantity="one">&lt;b&gt;%1$d&lt;/b&gt; arxivləndi.</item>
-    </plurals>
-    <plurals name="conversation_deleted">
-        <item quantity="other">&lt;b&gt;%1$d&lt;/b&gt; silindi.</item>
-        <item quantity="one">&lt;b&gt;%1$d&lt;/b&gt; silindi.</item>
-    </plurals>
-    <plurals name="conversation_folder_changed">
-        <item quantity="other">Dəyişdirilmiş qovluqlar.</item>
-        <item quantity="one">Dəyişdirilmiş qovluq.</item>
-    </plurals>
     <plurals name="conversation_msg_header_count">
         <item quantity="other">+%1$d digər şəxs</item>
         <item quantity="one">+%1$d digər şəxs</item>
-    </plurals>
-    <plurals name="conversation_muted">
-        <item quantity="other">&lt;b&gt;%1$d&lt;/b&gt; səssizə alındı.</item>
-        <item quantity="one">&lt;b&gt;%1$d&lt;/b&gt; səssizə alındı.</item>
-    </plurals>
-    <plurals name="conversation_not_important">
-        <item quantity="other">&lt;b&gt;%1$d&lt;/b&gt;\" mesaj \'vacib\' qovluğundan çıxarıldı\"</item>
-        <item quantity="one">&lt;b&gt;%1$d&lt;/b&gt;\", \'vacib\' qovluğundan çıxarıldı\"</item>
-    </plurals>
-    <plurals name="conversation_not_spam">
-        <item quantity="other">&lt;b&gt;%1$d&lt;/b&gt;\", \'spam\' qovluğundan çıxarıldı\"</item>
-        <item quantity="one">&lt;b&gt;%1$d&lt;/b&gt;\", \'spam\' qovluğundan çıxarıldı\"</item>
-    </plurals>
-    <plurals name="conversation_phished">
-        <item quantity="other">&lt;b&gt;%1$d&lt;/b&gt; mesajlar spam olaraq bildirildi</item>
-        <item quantity="one">&lt;b&gt;%1$d&lt;/b&gt; mesaj spam olaraq bildirildi</item>
-    </plurals>
-    <plurals name="conversation_spammed">
-        <item quantity="other">&lt;b&gt;%1$d&lt;/b&gt;, spam olaraq işarələndi</item>
-        <item quantity="one">&lt;b&gt;%1$d&lt;/b&gt;, spam olaraq işarələndi</item>
-    </plurals>
-    <plurals name="day">
-        <item quantity="other">%d gün</item>
-        <item quantity="one">%d gün</item>
-    </plurals>
-    <plurals name="day_after">
-        <item quantity="other">%d gün ərzində</item>
-        <item quantity="one">%d gün ərzində</item>
-    </plurals>
-    <plurals name="day_before">
-        <item quantity="other">%d gün əvvəl</item>
-        <item quantity="one">%d gün əvvəl</item>
     </plurals>
     <plurals name="draft">
         <item quantity="other">Qaralamalar</item>
@@ -119,10 +59,6 @@
     <plurals name="email_filter_rule_max_tips">
         <item quantity="other">%1$d şərtə qədər əlavə edə bilərsiniz</item>
         <item quantity="one">%1$d şərtə qədər əlavə edə bilərsiniz</item>
-    </plurals>
-    <plurals name="empty_folder_dialog_message">
-        <item quantity="other">%1$d mesaj həmişəlik silinəcək.</item>
-        <item quantity="one">%1$d mesaj həmişəlik silinəcək.</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">Yarım saat əvvəl</item>
@@ -152,10 +88,6 @@
         <item quantity="one">İndicə</item>
         <item quantity="other">İndicə</item>
     </plurals>
-    <plurals name="local_search_result">
-        <item quantity="other">Sinxronlaşdırılmış mesajlarda %s nəticə</item>
-        <item quantity="one">Sinxronlaşdırılmış mesajlarda %s nəticə</item>
-    </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d element seçildi</item>
         <item quantity="one">%d element seçildi</item>
@@ -167,10 +99,6 @@
     <plurals name="mtrl_badge_content_description">
         <item quantity="other">%d yeni bildiriş</item>
         <item quantity="one">%d yeni bildiriş</item>
-    </plurals>
-    <plurals name="new_incoming_messages_many">
-        <item quantity="other">%1$d yeni mesajı göstər.</item>
-        <item quantity="one">%1$d yeni mesajı göstər.</item>
     </plurals>
     <plurals name="new_messages">
         <item quantity="other">%1$d yeni mesaj</item>
@@ -223,17 +151,5 @@
     <plurals name="number_of_week_before">
         <item quantity="other">%1$d həftə əvvəl</item>
         <item quantity="one">%1$d həftə əvvəl</item>
-    </plurals>
-    <plurals name="remote_search_result">
-        <item quantity="other">Bütün hesablarda %s nəticə</item>
-        <item quantity="one">Bütün hesablarda %s nəticə</item>
-    </plurals>
-    <plurals name="show_messages_read">
-        <item quantity="other">%1$d köhnə mesaj</item>
-        <item quantity="one">%1$d köhnə mesaj</item>
-    </plurals>
-    <plurals name="unsent_messages_in_outbox">
-        <item quantity="other">%2$s qovluğunda %1$s göndərilməmiş mesaj</item>
-        <item quantity="one">%2$s qovluğunda %1$s göndərilməmiş mesaj</item>
     </plurals>
 </resources>
