@@ -1,19 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="all_month_str">
-        <item>Gen</item>
-        <item>Feb</item>
-        <item>Mar</item>
-        <item>Apr</item>
-        <item>Mag</item>
-        <item>Giu</item>
-        <item>Lug</item>
-        <item>Ago</item>
-        <item>Set</item>
-        <item>Ott</item>
-        <item>Nov</item>
-        <item>Dic</item>
-    </string-array>
     <string-array name="alphabet_table_with_starred">
         <item>!</item>
         <item>A</item>
@@ -85,13 +71,6 @@
         <item>client disabilitato, si prega di cambiare stato sul sito https://mail.sohu.com</item>
         <item>nessuna password iniziale, si prega di accedere https://mail.sohu.com per generare la password del client</item>
     </string-array>
-    <string-array name="general_preference_text_zoom_summary_array">
-        <item>Molto piccolo</item>
-        <item>Piccolo</item>
-        <item>Normale</item>
-        <item>Grande</item>
-        <item>Molto grande</item>
-    </string-array>
     <string-array name="invoice_card_pdf_keyword">
         <item>Fattura</item>
         <item>fattura</item>
@@ -102,16 +81,6 @@
         <item>Nome</item>
         <item>Mittente</item>
         <item>Data ricevuto</item>
-    </string-array>
-    <string-array name="moveto_folder_sections">
-        <item>Sistema</item>
-        <item>Usate di frequente</item>
-        <item>Tutte le cartelle</item>
-    </string-array>
-    <string-array name="prefEntries_autoAdvance">
-        <item>Messaggio più  recente</item>
-        <item>Messaggio precedente</item>
-        <item>Posta in arrivo</item>
     </string-array>
     <string-array name="prefEntries_contact_add">
         <item>Tutti</item>
