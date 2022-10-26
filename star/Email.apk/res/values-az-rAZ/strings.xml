@@ -45,66 +45,40 @@
     <string name="account_duplicate_dlg_title">Dublikat hesab</string>
     <string name="account_failure">Seansın vaxtı bitdi</string>
     <string name="account_login_type_title">%1$s hesabı əlavə et</string>
-    <string name="account_name_toast">Eyni adda hesab artıq mövcuddur</string>
     <string name="account_options_actionbar_title">Hesab tənzimləmələri</string>
-    <string name="account_options_sync_title">Sinxronlaşdır</string>
-    <string name="account_password_spaces_error">"Parol, bir və ya daha çox boşluq simvolu ilə başlayır. Bir çox server boşluq ehtiva edən parolları dəstəkləmir."</string>
     <string name="account_permission_child_statement">"Yetkinlik Yaşına Çatmayanlar üçün Şəxsi Verilənlərin Qorunmasına dair Bəyanat"</string>
     <string name="account_permission_dialog_cancel_text">Geri çək</string>
     <string name="account_permission_dialog_text">"Davam etsəniz, Son İstifadəçi Lisenziya Razılaşmasına, Gizlilik Siyasətinə və Yetkinlik Yaşına Çatmayanlar üçün Şəxsi Verilənlərin Qorunmasına dair Bəyanatına verdiyiniz razılığı geri çəkəcəksiniz. Bundan sonra WPS Poçtunu istifadə edə bilməyəcəksiniz və bu cihazda yaradılmış bütün verilənlər silinəcək."</string>
     <string name="account_permission_dialog_title">Razılığı geri çəkmə</string>
     <string name="account_permission_private_policy">Gizlilik Siyasəti</string>
     <string name="account_permission_user_privacy">Son İstifadəçi Lisenziya Razılaşması</string>
-    <string name="account_security_dialog_content_fmt">"%s, təhlükəsizlik tənzimləmələrinizi güncəlləməyi tələb edir."</string>
-    <string name="account_security_dialog_title">Təhlükəsizlik güncəlləməsi</string>
-    <string name="account_security_policy_explanation_fmt">"%s serveri, Android cihazınızın bəzi təhlükəsizlik özəlliklərinə
-uzaqdan nəzarət etməyə icazə verməyinizi tələb edir."</string>
-    <string name="account_security_title">Cihaz təhlükəsizliyi</string>
     <string name="account_security_verification">Hesab təsdiqləmə</string>
-    <string name="account_set_up_change_type_note">POP3 ve IMAP tənzimləmələri arasında keçid etməyiniz lazım olarsa, hesabınızı silin ve istədiyiniz tənzimləmələrlə yeni bir hesab yaradın.</string>
-    <string name="account_setting_general_summry">Ümumi e-poçt tənzimləmələri</string>
-    <string name="account_setting_general_title">Özəlliklər</string>
     <string name="account_setting_message_body_load_complete">Tam mesaj</string>
     <string name="account_setting_message_body_load_head_abstract">E-poçt icmalı</string>
-    <string name="account_setting_message_body_load_head_only">Yalnız başlıq</string>
-    <string name="account_setting_message_body_load_text">Yalnız gövdə</string>
     <string name="account_settings_action">Hesab tənzimləmələri</string>
     <string name="account_settings_background_attachments_security_summary">Güvənlik riskləri üçün quraşdırma paketləri ehtiva edən qoşmaları yoxlayın</string>
     <string name="account_settings_background_attachments_security_title">Risklər üçün qoşmaları yoxlayın</string>
     <string name="account_settings_background_attachments_summary">Qoşmaları Wi-Fi istifadə edərək endir</string>
-    <string name="account_settings_background_attachments_summary_inter">Qoşmaları Wi-Fi istifadə edərək endir</string>
     <string name="account_settings_background_attachments_title">Qoşmaları avtomatik endir</string>
     <string name="account_settings_data_usage">Sinxronlaşdırma tənzimləmələri</string>
     <string name="account_settings_description_label">Hesab adı</string>
     <string name="account_settings_display">Görüntülə</string>
     <string name="account_settings_does_not_support_pop">"Bu özəllik POP3 tərəfindən dəstəklənmir"</string>
     <string name="account_settings_does_not_support_pop_attachment">"POP3, qoşmaları avtomatik endirə bilər, ancaq onlara düzəliş edə bilməz"</string>
-    <string name="account_settings_edit_quick_responses_label">Cəld cavabla</string>
-    <string name="account_settings_edit_quick_responses_summary">E-poçtlara yapışdırılacaq qısa mesajlara düzəliş et</string>
     <string name="account_settings_incoming_summary">İstifadəçi adı, parol və digər server tənzimləmələri</string>
-    <string name="account_settings_login_dialog_content_fmt">"%s üçün istifadəçi adı və ya parol yanlışdır.
- Güncəllənsin?"</string>
-    <string name="account_settings_login_dialog_reason_fmt">"%1$s üzrə daxil ola bilmədi. Serverin cavabı: %2$s. İstifadəçi adı və ya parolunuz güncəllənsin?"</string>
-    <string name="account_settings_login_dialog_title">"Daxil ola bilmədi"</string>
     <string name="account_settings_mail_check_frequency_dialog_title">E-poçtlarınızı sinxronlaşdırmaq üçün, Poçt tətbiqini əllə təzələməlisiniz</string>
     <string name="account_settings_mail_check_frequency_dialog_title_eas">"Mesaj və təqvim tədbirlərini sinxronlaşdıra bilmək üçün, Poçt tətbiqini əllə təzələməlisiniz."</string>
     <string name="account_settings_mail_check_frequency_label">Sinxronlaşdırma tezliyi</string>
-    <string name="account_settings_mibill_resolve_label">Fakturaları avtomatik idarə et</string>
     <string name="account_settings_name_label">Ləqəb</string>
     <string name="account_settings_notifications">Bildirişlər</string>
     <string name="account_settings_notify_label">E-poçt bildirişləri</string>
-    <string name="account_settings_notify_summary">Yeni e-poçt gələndə bildirişləri göstər</string>
-    <string name="account_settings_only_notify_inbox">Yalnız gələn qutusu haqqında bildir</string>
     <string name="account_settings_op_title">E-poçtları idarə et</string>
     <string name="account_settings_param">Hesab tənzimləmələri</string>
     <string name="account_settings_preference_att_save_path">Qoşmalar üçün ilkin yer</string>
     <string name="account_settings_preference_head_icon">Profil fotoları</string>
     <string name="account_settings_preference_head_icon_summary">"Poçt siyahısı göndərənin avatarını göstərir"</string>
-    <string name="account_settings_preference_notify">Bildir</string>
     <string name="account_settings_receive_title">Gələn e-poçtlar</string>
-    <string name="account_settings_ringtone">Bildiriş səsi</string>
     <string name="account_settings_send_title">Gedən e-poçtlar</string>
-    <string name="account_settings_server_summary">İstifadəçi adları, parollar və daha çoxunu dəyişdirmə</string>
     <string name="account_settings_servers">Server tənzimləmələri</string>
     <string name="account_settings_smime_title">S/MIME (Təhlükəsizlik/Çoxməqsədli İnternet Poçt Genişləndirmələri)</string>
     <string name="account_settings_summary">Sinxronlaşdırma tezliyi, bildirişlər, və s.</string>
@@ -112,17 +86,12 @@ uzaqdan nəzarət etməyə icazə verməyinizi tələb edir."</string>
     <string name="account_settings_sync_calendar_summary">Bu hesab üçün təqvim tədbirlərini sinxronlaşdır</string>
     <string name="account_settings_sync_contacts_enable">Kontaktları sinxronlaşdır</string>
     <string name="account_settings_sync_contacts_summary">Bu hesab üçün kontaktları sinxronlaşdır</string>
-    <string name="account_settings_sync_email_enable">E-poçtu sinxronlaşdır</string>
-    <string name="account_settings_sync_email_summary">Bu hesab üçün e-poçtu sinxronlaşdır</string>
     <string name="account_settings_sync_other_tips">Yalnız Exchange serverləri dəstəklənir</string>
     <string name="account_settings_user_usage">Hesab tənzimləmələri</string>
-    <string name="account_settings_using_ringtone">Zəng səsi</string>
-    <string name="account_settings_vibrate_when_label">Titrət</string>
     <string name="account_setup_address_label">E-poçt</string>
     <string name="account_setup_autodiscover_dlg_authfail_message">İstifadəçi adının, parolun və hesab tənzimləmələrinin doğru olduğunu təsdiqləyin.</string>
     <string name="account_setup_autodiscover_dlg_authfail_title">"Hesab quraşdırıla bilmədi"</string>
     <string name="account_setup_basics_email_label">E-poçt ünvanı</string>
-    <string name="account_setup_basics_login_gmail_without_proxy">Mövcud şəbəkəni istifadə edərək daxil ol</string>
     <string name="account_setup_basics_manual_setup_action">Əllə quraşdır</string>
     <string name="account_setup_basics_mi_mail_login_help">E-poçt almaq üçün hesabınızı SMS yolu ilə təsdiqləməyiniz tələb oluna bilər</string>
     <string name="account_setup_basics_password_label">Parol</string>
@@ -132,7 +101,6 @@ uzaqdan nəzarət etməyə icazə verməyinizi tələb edir."</string>
     <string name="account_setup_check_settings_check_outgoing_msg">SMTP tənzimləmələri təsdiqlənir…</string>
     <string name="account_setup_check_settings_retr_info_msg">"    Hesab məlumatları alınır…"</string>
     <string name="account_setup_correct_address_tips">Daxil etdiyiniz e-poçt ünvanı yarasızdır.</string>
-    <string name="account_setup_creating_account_msg">"    Hesab yaradılır…"</string>
     <string name="account_setup_deleting_account_msg">"    Hesab silinir…"</string>
     <string name="account_setup_domain_invalid_toast">Yararlı bir e-poçt domeni daxil edin</string>
     <string name="account_setup_exchange_certificate_title">Müştəri sertifikatı</string>
@@ -169,19 +137,14 @@ yol prefiksi"</string>
     <string name="account_setup_incoming_password_label">Parol</string>
     <string name="account_setup_incoming_port_label">Port</string>
     <string name="account_setup_incoming_security_label">Güvənlik növü</string>
-    <string name="account_setup_incoming_security_none_label">Heç biri</string>
-    <string name="account_setup_incoming_security_ssl_trust_certificates_label">SSL/TLS (Bütün sertifkatları qəbul edir)</string>
-    <string name="account_setup_incoming_security_tls_trust_certificates_label">STARTTLS (Bütün sertifkatları qəbul edir)</string>
     <string name="account_setup_incoming_server_label">Server</string>
     <string name="account_setup_incoming_username_label">İstifadəçi adı</string>
     <string name="account_setup_incoming_username_label_default_hint">Domen daxil edə bilərsiniz</string>
     <string name="account_setup_need_password_verification">Hesabınızda 2 addımlı kimlik təsdiqləmə var. Kimlik təsdiqləmə tələb olunur.</string>
-    <string name="account_setup_options_actionbar_title">Cəld tənzimləmələr</string>
     <string name="account_setup_options_mail_check_frequency_12hour">Hər 12 saatda bir</string>
     <string name="account_setup_options_mail_check_frequency_15min">Hər 15 dəqiqədə bir</string>
     <string name="account_setup_options_mail_check_frequency_1hour">Hər saatda bir</string>
     <string name="account_setup_options_mail_check_frequency_4hour">Hər 4 saatda bir</string>
-    <string name="account_setup_options_mail_check_frequency_imap_push">Avtomatik (Push)</string>
     <string name="account_setup_options_mail_check_frequency_never">Heç vaxt</string>
     <string name="account_setup_options_mail_check_frequency_push">Avtomatik (Push)</string>
     <string name="account_setup_options_mail_window_1day">Dünən</string>
@@ -195,9 +158,7 @@ yol prefiksi"</string>
     <string name="account_setup_options_mail_window_default">İlkin hesabı istifadə et</string>
     <string name="account_setup_options_mail_window_label">Sinxronlaşdırma müddəti</string>
     <string name="account_setup_options_mail_window_label_imap_or_pop3">Saxla</string>
-    <string name="account_setup_options_title">Hesab tənzimləmələri</string>
     <string name="account_setup_outgoing_port_label">Port</string>
-    <string name="account_setup_outgoing_require_login_label">Daxil olmaq lazımdır</string>
     <string name="account_setup_outgoing_smtp_server_label">SMTP serveri</string>
     <string name="account_setup_server_acc_manager_title">Hesablar</string>
     <string name="account_setup_username_password_toast">Yararlı bir e-poçt ünvanı və parol daxil edin.</string>
@@ -205,19 +166,12 @@ yol prefiksi"</string>
     <string name="account_smime_encrypt">S/MIME şifrələmə</string>
     <string name="account_smime_install_cert">Sertifikat əlavə et</string>
     <string name="account_smime_sign">S/MIME imza</string>
-    <string name="account_sync_off">Hesab sinxronlaşdırma bağlıdır.</string>
-    <string name="account_sync_settings_settings">Kontaktları və təqvimi sinxronlaşdır</string>
-    <string name="account_sync_settingstip_description">Sinxronlaşdır</string>
-    <string name="account_waiting_for_folders_msg">Qovluqlar yüklənir…</string>
     <string name="action_filter">Filtr</string>
     <string name="actionbar_button_up_description">Geri</string>
     <string name="activity_folder_selection">Qovluq seç</string>
     <string name="activity_mailbox_selection">Hesab seç</string>
-    <string name="ad_merge">Reklamlar &amp; Bildirişlər</string>
     <string name="add_account">Hesab əlavə et</string>
     <string name="add_attachment">Fayl əlavə et</string>
-    <string name="add_calendar">Xatırlat</string>
-    <string name="add_file_exception">"Əlavə edilə bilmədi. Bu qoşmanı başqa yerdən əlavə etməyə çalışın."</string>
     <string name="add_pre_message_attachments">Əvvəlki mesajın qoşmaları əlavə edilsin?</string>
     <string name="add_pre_message_attachments_no">"Əlavə etmə"</string>
     <string name="add_pre_message_attachments_yes">Əlavə et</string>
@@ -225,19 +179,14 @@ yol prefiksi"</string>
     <string name="afternoon">Günortadan sonra</string>
     <string name="all_purpose">Kingsoft tərəfindən özəl olaraq Xiaomi üçün yaradılmış bir e-poçt müştərisi olan \"Poçt\"a xoş gəldiniz. Bu tətbiqi e-poçt yazmaq, göndərmək və almaq üçün istifadə edə bilərsiniz.</string>
     <string name="allow_notify">Bildirişlərə icazə ver</string>
-    <string name="allread">Hamısını oxu</string>
     <string name="always_bcc_myself">Həmişə bir nüsxəni mənə göndər</string>
     <string name="am">GƏ</string>
     <string name="app_loading">Yüklənir…</string>
     <string name="app_name">Poçt</string>
-    <string name="app_uninstall_content">"\"Poçt\" bir sistem tətbiqidir. Tətbiqi sildikdən sonra e-poçt hesablarınızı idarə edə, e-poçt göndərə və ala və ya tədbirləri sinxronlaşdıra bilməyəcəksiniz."</string>
-    <string name="app_uninstall_title">\"Poçt\" silinsin?</string>
     <string name="appraise_des">Tətbiqimizi bəyənirsiniz?</string>
     <string name="appraise_good">Bəli</string>
     <string name="appraise_ignore">"İndi deyə bilmərəm"</string>
     <string name="appraise_negative">Xeyr</string>
-    <string name="archive">Arxiv</string>
-    <string name="archived">Arxivləndi</string>
     <string name="att_download_failed_content">"Bu mesaj üçün qoşma endirilə bilmədi."</string>
     <string name="att_download_failed_permission_denied">"Xarici anbara müraciət üçün icazəniz yoxdur"</string>
     <string name="att_download_failed_title">"Qoşma endirilə bilmir"</string>
@@ -247,7 +196,6 @@ yol prefiksi"</string>
     <string name="att_mgr_title_order_name">Ad</string>
     <string name="att_mgr_title_order_rev_date">Tarix</string>
     <string name="att_mgr_title_order_sender">Göndərən</string>
-    <string name="att_mgr_title_order_size">Fayl ölçüsü</string>
     <string name="attached_message">Qoşmalı mesaj</string>
     <string name="attachment_application_msword">Sənəd</string>
     <string name="attachment_application_pdf">PDF</string>
@@ -269,7 +217,6 @@ yol prefiksi"</string>
     <string name="attachment_open_SecurityException_title">"Fayl açıla bilmir"</string>
     <string name="attachment_open_on_other_app">Başqa bir tətbiqdə aç</string>
     <string name="attachment_opening_mode">Qoşmalar üçün tətbiqlər</string>
-    <string name="attachment_size_exceed_limit">"Deyəsən, ölçüsü serverin limitini aşıb"</string>
     <string name="attachment_stop_all">Dayandır</string>
     <string name="attachment_text">Mətn</string>
     <string name="attachment_type_blocked">"Təəssüf ki, siz bu növ qoşmanı saxlaya və ya aça bilməzsiniz."</string>
@@ -281,38 +228,20 @@ yol prefiksi"</string>
     <string name="attachments_security_alert_message">Bu mesaj, bir quraşdırma paketi ehtiva edir. Mənbəni açmazdan əvvəl ona güvəndiyinizə əmin olun.</string>
     <string name="attachments_security_install">Quraşdır</string>
     <string name="attendee_needed">Ən azı bir dəvətçi əlavə edin.</string>
-    <string name="auto_advance_help_title">Mesajı siləndən sonra, bax…</string>
-    <string name="auto_advance_label">Mesaj axınını sil</string>
-    <string name="auto_advance_summary">Bir mesaj silindikdən sonra hansı mesaja keçəcəyinizi seçin</string>
     <string name="auto_login_fail">"Avtomatik giriş edilə bilmədi"</string>
     <string name="auto_login_fail_to_retry">"Avtomatik giriş edilə bilmədi, yenidən sınayın."</string>
-    <string name="auto_remind_bind">Əlavə et</string>
-    <string name="auto_remind_discribe_text">Avtomatik xatırladıcılar almaq üçün işə salın</string>
-    <string name="auto_remind_text">Avtomatik xatırladıcılar</string>
-    <string name="auto_remind_unbind">Dayandır</string>
-    <string name="auto_sync_off">Avto-sinxr bağlıdır.</string>
-    <string name="automatic_remind_text">Avtomatik xatırlat</string>
     <string name="bContact_list_search_hint">Əngəllənən kontaktları axtar</string>
     <string name="b_contacts">Əngəlli siyahısı</string>
     <string name="b_contacts_remove">Əngəlli siyahısından sil</string>
     <string name="b_contacts_remove_tips">Bu ünvan əngəlli siyahısından çıxarılsın?</string>
     <string name="back">Geri</string>
-    <string name="bank_card_detail">Kredit kartı məlumatları</string>
     <string name="bcc">Kopya</string>
-    <string name="bill_center_setting">Faktura tənzimləmələri</string>
-    <string name="bill_center_setting_head">Bu hesablardan məlumatları daxilə köçür</string>
-    <string name="bill_cycle_text">Faktura dövrü</string>
-    <string name="bill_remind">Geri ödəmə xatırladıcı</string>
-    <string name="bill_remind_due">%s tarixində bir geri ödəmə var, baxmaq üçün toxunun</string>
     <string name="blank_feedback_toast">Əks-əlaqə yazmağınız lazımdır</string>
     <string name="body_forward_email_text">[Forward]</string>
     <string name="body_hint">Gövdə</string>
     <string name="body_inline_pic_text">[Picture]</string>
     <string name="bottom_bar_more_pdf">PDF-ə çıxart</string>
     <string name="bottom_bar_more_pdf_exporting">Xaricə köçürülür…</string>
-    <string name="bottom_bar_more_quickreply">Cəld cavabla</string>
-    <string name="bottom_bar_more_share">Paylaş</string>
-    <string name="bottom_bar_no_quickreply_toast">Cəld cavab yoxdur</string>
     <string name="broker_helper_manifest">AndroidManifest.xml üçün Intent filtri</string>
     <string name="broker_helper_package">Tətbiqi qeydiyyatdan keçirərkən daxil ediləcək paket adı</string>
     <string name="broker_helper_redirect">Konfiqurasiya json faylı üçün URI-ni yönləndirmə</string>
@@ -321,11 +250,8 @@ yol prefiksi"</string>
     <string name="broker_processing">Broker emal olunur</string>
     <string name="calendar_remind_dialog_title">Daha sonra xatırlat</string>
     <string name="calendar_remind_gridview_pick_date">Tarix seçin</string>
-    <string name="calendar_skip_no_account_alert">"Bu hesab tapıla bilmədi"</string>
     <string name="cancel">İmtina</string>
     <string name="cancel_action">İmtina</string>
-    <string name="cancel_pop3_attchemt_downloading">"POP3 hesablarında qoşmalar üçün davam edən endirmələr ləğv edilə bilmir"</string>
-    <string name="cant_move_or_change_labels">"Çoxsaylı hesablardan elementlər daşına bilmir."</string>
     <string name="cc">Cc</string>
     <string name="cc_bcc">Cc/Bcc</string>
     <string name="cc_heading">"Cc: "</string>
@@ -339,7 +265,6 @@ yol prefiksi"</string>
     <string name="certificate_password_prompt_title">Sertifikat al</string>
     <string name="certificate_password_tips">Sertifikat almaq üçün parolu daxil edin</string>
     <string name="certificate_password_tips_w">Daxil etdiyiniz parol yanlışdır</string>
-    <string name="change_folders_selection_dialog_title">Qovluqları dəyişdir</string>
     <string name="change_sync_settings">Sinxronlaşdırma tənzimləmələrini dəyişdir</string>
     <string name="changepw_dialog_auth_tips">%s üçün kodu yenidən daxil edin</string>
     <string name="changepw_dialog_tips">%s üçün parolu yenidən daxil edin</string>
@@ -349,16 +274,9 @@ yol prefiksi"</string>
     <string name="chat_item_msg_user_etc">və s.</string>
     <string name="check_setup_data">"    Server tənzimləmələri təsdiqlənir…"</string>
     <string name="chip_text">Çip mətni</string>
-    <string name="choose_an_office365_international">Beynəlxalq Versiya</string>
-    <string name="choose_an_office365_provider">Bir office365 xidmət provayderi seçin</string>
-    <string name="choosertitle_sharevia">Paylaş</string>
     <string name="clear">Təmizlə</string>
-    <string name="clear_display_images_whitelist_dialog_message">Daha əvvəl icazə verdiyiniz göndərənlərdən gələn sətir daxili şəkillərin göstərilməsini dayandır.</string>
-    <string name="clear_display_images_whitelist_dialog_title">Şəkil təsdiqləmələri təmizlənsin?</string>
-    <string name="clear_display_images_whitelist_title">Şəkil təsdiqləmələrini təmizlə</string>
     <string name="clear_text_end_icon_content_description">Mətni təmizlə</string>
     <string name="clearable_edittext_clear_description">Təmizlə</string>
-    <string name="click_download_all_content">[ Endirmək üçün toxun ]</string>
     <string name="click_to_reload">Təzələmək üçün ekrana toxunun</string>
     <string name="close">Bağla</string>
     <string name="close_custom_folder">Alt qovluqları gizlət</string>
@@ -372,20 +290,14 @@ yol prefiksi"</string>
     <string name="compose_event">Dəvət</string>
     <string name="compose_paste_address_oob">Çox sayda simvol</string>
     <string name="compose_picturesexceedlimits">Qoşma olaraq daha çox şəkil əlavə edə bilərsiniz</string>
-    <string name="compose_send">Göndər</string>
     <string name="compose_sent">E-poçt göndərildi</string>
     <string name="compose_smime_sign_description">İmzanı tətbiq et</string>
     <string name="compose_smime_unsign_description">İmzanı sil</string>
     <string name="compose_to_label">Kimə</string>
-    <string name="compress_failed_and_retry">"Sıxışdırıla bilmədi. Yenidən sınayın."</string>
-    <string name="compress_img">Təsvirləri sıxışdır</string>
     <string name="confirm">Oldu</string>
-    <string name="confirm_add_to_calendar">Təqvimə əlavə edilir…</string>
     <string name="confirm_age">Yaşı təsdiqlə</string>
     <string name="confirm_delete_attachment">Qoşma silinsin?</string>
     <string name="confirm_delete_conversation_title">Sil</string>
-    <string name="confirm_discard_text">Bu mesaj ləğv edilsin?</string>
-    <string name="confirm_response">Göndərilir…</string>
     <string name="confirm_save_message_no">Ləğv et</string>
     <string name="confirm_save_message_title">Qaralama kimi saxla?</string>
     <string name="confirm_save_message_yes">Saxla</string>
@@ -393,39 +305,24 @@ yol prefiksi"</string>
     <string name="confirm_send_message_with_no_subject">"Bu mesajın mövzusu yoxdur."</string>
     <string name="confirm_send_title">Mesaj göndərilsin?</string>
     <string name="contact_add_options">Kontaktlara əlavə et</string>
-    <string name="contact_add_options_details1">Hamısı</string>
-    <string name="contact_add_options_details2">Yalnız alıcılar</string>
     <string name="contact_edit_set_black_list_from">Bu göndərəndən gələn bütün e-poçtları zibil qutusuna daşı</string>
     <string name="contact_edit_set_black_list_receive">Bu alıcıya aid bütün e-poçtları zibil qutusuna daşı (yalnız yeni e-poçtlar)</string>
     <string name="contact_edit_set_black_list_receive_summary">Kimə və ya Cc bölməsində bu alıcı olan e-poçtları sil</string>
     <string name="contact_edit_set_black_list_title">Əngəlli siyahısına əlavə et</string>
     <string name="contact_edit_set_phone_contact">Sistem kontaktına düzəliş et</string>
     <string name="contact_edit_title_phone_contact">Kontakta düzəliş et</string>
-    <string name="contact_in_filter_title">Göndərən</string>
     <string name="contact_list_add_btn">Əlavə et</string>
     <string name="contact_list_search_hint">Kontakt axtar</string>
-    <string name="contact_list_title">Kontaktlar</string>
     <string name="contact_permission_error">Sistem kontaktına müraciət tələb olunur</string>
     <string name="contact_select">Kontakt seç</string>
     <string name="contain_view_all_body">Tam mesaja bax</string>
-    <string name="content_description">%1$s - %2$s, %3$s %4$s, %5$s</string>
-    <string name="content_description_today">%1$s - %2$s, %3$s %4$s, %5$s</string>
     <string name="contextmenu_add">Kontaktlara əlavə et</string>
     <string name="contextmenu_add_contact">Kontakt əlavə et</string>
     <string name="contextmenu_call">Zəng et</string>
     <string name="contextmenu_copy">Kopyala</string>
-    <string name="contextmenu_copylink">URL-ni kopyala</string>
     <string name="contextmenu_create">Yeni kontakt yarat</string>
-    <string name="contextmenu_dial_dot">Yığ…</string>
     <string name="contextmenu_edit">Kontakta düzəliş et</string>
-    <string name="contextmenu_feedback">Əks-əlaqə göndər</string>
-    <string name="contextmenu_help">Kömək</string>
-    <string name="contextmenu_map">Xəritə</string>
     <string name="contextmenu_open">Aç</string>
-    <string name="contextmenu_openlink">Brauzerdə aç</string>
-    <string name="contextmenu_send_mail">E-poçt göndər</string>
-    <string name="contextmenu_sharelink">Keçidi paylaş</string>
-    <string name="contextmenu_sms_dot">SMS…</string>
     <string name="conversation_cert_distrust">"Güvənmə"</string>
     <string name="conversation_cert_info_tips">Bu e-poçt güvənli bir sertifikatla imzalanmışdır</string>
     <string name="conversation_cert_info_title">İmzalandı</string>
@@ -438,10 +335,6 @@ yol prefiksi"</string>
     <string name="conversation_message_encrypt_tips">Bu, şifrəli bir e-poçtdur. Şifrəni açmaq üçün tələb olunan sertifikatı əlavə edin.</string>
     <string name="conversation_message_info">"E-poçt yüklənilə bilmədi. Yenidən sınamaq üçün toxunun."</string>
     <string name="conversation_msg_header_collapsed_sent_to">"Göndərildi:"</string>
-    <string name="conversation_photo_welcome_text">Bu danışığı seçmək üçün göndərən şəklinə toxunun.</string>
-    <string name="conversation_quick_button_approve">Oldu</string>
-    <string name="conversation_quick_button_disapprove">İmtina</string>
-    <string name="conversation_quick_button_received">Alındı</string>
     <string name="conversation_report_spam">Spam bildir</string>
     <string name="conversation_report_un_spam">Spam deyil</string>
     <string name="conversation_spam_dig_msg">Bu mesaj spam olaraq işarələnsin? Mesaj \"Spam\" qovluğuna daşınacaq və göndərən əngəlli siyahısına əlavə olunacaq.</string>
@@ -451,16 +344,11 @@ yol prefiksi"</string>
     <string name="copy_email">E-poçt ünvanını kopyala</string>
     <string name="copy_number">Telefon nömrəsini kopyala</string>
     <string name="copy_toast_msg">Keçid lövhəyə kopyalandı</string>
-    <string name="create_action">Yeni</string>
-    <string name="cur_debt">Hesab balansı</string>
-    <string name="custom_from_account_label">E-poçtu göndər:</string>
-    <string name="database_exception">Xəta baş verdi. Yenidən daxil olun.</string>
     <string name="date_heading">"Tarix: "</string>
     <string name="date_message_received">%1$s %2$s</string>
     <string name="date_message_received_today">Bu gün, %1$s</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
     <string name="date_time_picker_dialog_title">Tarix və saatı təyin et</string>
-    <string name="db_error">Xəta baş verdi. Yenidən daxil olun.</string>
     <string name="debug_mode_preferencecategory">Jurnal çıxışını quraşdır</string>
     <string name="debug_mode_settings">Sazlama rejimi tənzimləmələri</string>
     <string name="default_">İLKİN</string>
@@ -477,13 +365,7 @@ yol prefiksi"</string>
     <string name="delete_message_dialog_right_button">Yalnız sil</string>
     <string name="delete_message_dialog_title">E-poçt silinir</string>
     <string name="delete_message_event">Bu dəvət silinsin?</string>
-    <string name="deleted">Silindi</string>
-    <string name="device_activity_btn_str">Aktivləşdir</string>
     <string name="device_activity_lint_str">Poçt xidmətinin tam güncəlləmələrini fəallaşdır və güvənlik tənzimləmələrini aktivləşdir</string>
-    <string name="device_admin_description">Server tərəfindən müəyyən edilən gizlilik siyasətlərini fəallaşdırır</string>
-    <string name="device_admin_label">E-poçt</string>
-    <string name="device_not_activiey_lint1">Cihaz meneceri aktiv deyil</string>
-    <string name="device_not_activiey_lint2">Poçt xidməti Exchange ilə işləmir</string>
     <string name="dialog_agree">Razıyam</string>
     <string name="dialog_change_sync_lookback">%s əvvəl alınan poçt avtomatik silinəcək. Dəyişdirmək üçün toxunun.</string>
     <string name="dialog_disagree">"Razılaşma"</string>
@@ -491,11 +373,7 @@ yol prefiksi"</string>
     <string name="dialog_insufficient_space_on_internal">Daxili anbarda yetərli sahə yoxdur.</string>
     <string name="dialog_system_auto_sync_account_no_open">E-poçtları avtomatik almaq üçün hesab sinxronlaşdırmasını işə sal</string>
     <string name="dialog_system_auto_sync_master_no_open">E-poçtları avtomatik almaq üçün sinxronlaşdırmanı işə sal</string>
-    <string name="disable_admin_warning">"XƏBƏRDARLIQ: E-poçt tətbiqi üçün cihazınızı idarə etmək icazəsinin ləğv edilməsi, bunu tələb edən bütün e-poçt hesabları ilə birlikdə bu hesablara aid bütün mesajları, kontaktları, təqvim tədbirlərini və digər verilənləri siləcək."</string>
     <string name="disallow_qq_auth_how_get_auth_code">Səlahiyyət kodunu necə ala bilərəm?</string>
-    <string name="discard_drafts">Qaralamanı ləğv et</string>
-    <string name="dismiss_tip_hover_text">Məsləhəti ləğv et</string>
-    <string name="disturb_switch">Narahat etmə</string>
     <string name="done">Hazırdır</string>
     <string name="done_action">Hazırdır</string>
     <string name="donot_disturb_endtime_title">Kimə</string>
@@ -511,25 +389,17 @@ yol prefiksi"</string>
     <string name="download_before_sharing2">"Bəzi seçilmiş elementlər endirilmədi. Əvvəlcə onları endirin."</string>
     <string name="download_cancel_confirm_message">Endirmə dayandırılacaq</string>
     <string name="download_cancel_confirm_title">Bu qoşma endirilsin?</string>
-    <string name="download_complete_not_cancel">Endirmə bitdi</string>
     <string name="download_confirm_message">%1$s qoşma endirilsin?</string>
     <string name="download_confirm_title">Qoşmanı endir</string>
     <string name="download_message_failed_for_too_large">Mesaj, endirmək üçün çox böyükdür.</string>
-    <string name="drawer_bank_bill">Bank çıxarışları</string>
-    <string name="drawer_close">Hərəkət siyirməsini bağla</string>
     <string name="drawer_contacts">Kontaktlar</string>
-    <string name="drawer_open">Hərəkət siyirməsini aç</string>
     <string name="drive_card_button_tips">Müraciət kodunu kopyala</string>
     <string name="drive_card_code">"Müraciət kodu: "</string>
     <string name="drive_card_tips">%s, buludda saxlanılan bir elementi sizinlə paylaşdı.</string>
     <string name="drive_card_title">Cloud anbar URL-si</string>
     <string name="dtend">Bitir</string>
     <string name="dtstart">Başlayır</string>
-    <string name="due">Vaxt</string>
-    <string name="due_date_text">Son geri ödəmə</string>
     <string name="early_morning">Səhər</string>
-    <string name="edit_quick_response_dialog">Cəld cavabla</string>
-    <string name="edit_signature">İmzaya düzəliş et</string>
     <string name="editor_max_length_limit_hint">Daxil etdiyiniz mesaj çox uzundur</string>
     <string name="email_filter_add_new_rule">Qayda yarat</string>
     <string name="email_filter_choose_folder">Qovluq seç</string>
@@ -562,11 +432,6 @@ yol prefiksi"</string>
     <string name="eml_parse_message">EML faylı açılır…</string>
     <string name="empty_account_tip">"Hesab tapıla bilmədi"</string>
     <string name="empty_email_tip">"Boş mesaj göndərilə bilmir"</string>
-    <string name="empty_spam">Spam-ı boşalt</string>
-    <string name="empty_spam_dialog_title">Spam boşaldılsın?</string>
-    <string name="empty_trash">Zibil qutusunu boşalt</string>
-    <string name="empty_trash_dialog_title">Zibil qutusu boşaldılsın?</string>
-    <string name="enable_sync_in_account_settings">%1$s üzərində işə sal</string>
     <string name="eras_ad">E.S.</string>
     <string name="eras_bc">E.Ə.</string>
     <string name="error">Xəta</string>
@@ -587,20 +452,11 @@ yol prefiksi"</string>
     <string name="error_message_respond_revert_26">Hesabınız donduruldu. Aktivləşdirmək üçün brauzerinizdə Sohu Mail-ə daxil olun.</string>
     <string name="error_message_respond_revert_27">Parolunuzun müddəti bitib. Server tərəfindən yaradılan parolu əldə etmək üçün brauzerinizdə Sohu Mail-ə daxil olun.</string>
     <string name="evening">Günortadan sonra</string>
-    <string name="exception_cancel">"
-        Bu tədbir
-        ləğv olundu:
-        %s
-    "</string>
-    <string name="exception_updated">Bu tədbirin detalları dəyişdirildi:%s</string>
     <string name="exchange_login_hint">Exchange hesabına daxil olmaq üçün toxunun</string>
     <string name="exchange_name">Korporativ (Exchange)</string>
     <string name="expand_button_title">Qabaqcıl</string>
     <string name="expand_recipient_details">Alıcı detallarını genişləndir</string>
-    <string name="expand_slide">Yan menyunu göstər</string>
     <string name="exposed_dropdown_menu_content_description">Açılan menyunu göstər</string>
-    <string name="fail_get_email_message">Mesaj alınmadı.</string>
-    <string name="failed">"Təsvir yüklənilə bilmədi"</string>
     <string name="failed_parse_eml_file">"EML faylı açıla bilmədi, yenidən sınayın."</string>
     <string name="failed_read_write_calendar_permission">Təqvim icazələri tələb olunur</string>
     <string name="failed_read_write_contacts_permission">Bu özəlliyi istifadə edə bilmək üçün kontaktlara müraciətə icazə verin</string>
@@ -611,17 +467,9 @@ yol prefiksi"</string>
     <string name="feedback_body">Mesaj</string>
     <string name="feedback_sent">Əks-əlaqəniz üçün təşəkkürlər</string>
     <string name="feedback_user_edit_hint">Probleminizi burada təsvir edin. Probleminizi nəzərdən keçirdikdən sonra sizə bir e-poçt göndərəcəyik.</string>
-    <string name="feedback_user_edit_tag">MIUI-dan </string>
-    <string name="fetch_bank_sender_list_failure">"Məlumat alına bilmədi"</string>
-    <string name="fetching_attachment">Qoşma alınır</string>
-    <string name="file_defailt_save_path">Qoşmalar, ilkin olaraq %s qovluğunda saxlanılır. Qovluğu Tənzimləmələrdə dəyişdirə bilərsiniz.</string>
-    <string name="file_default_save_path_title">Qoşmalar üçün ilkin yer</string>
     <string name="file_deleted_success">Fayl silindi</string>
     <string name="file_not_found">"Fayl tapıla bilmədi"</string>
     <string name="file_not_found_redownload">"Fayl tapıla bilmədi"</string>
-    <string name="file_rar_not_support">"Şifrələnmiş rar faylları açıla bilmir"</string>
-    <string name="file_save_path_dialog_cancel">Anladım</string>
-    <string name="file_save_path_dialog_ok">İndi dəyişdir</string>
     <string name="file_save_term">Fayl saxlama şərtləri</string>
     <string name="filter_item_all">Bütün e-poçtlar</string>
     <string name="filter_item_cc">"Mənə Cc-edildi"</string>
@@ -631,7 +479,6 @@ yol prefiksi"</string>
     <string name="filter_title_me">%s [Mənə göndərildi]</string>
     <string name="filter_title_unread">%s [Unread]</string>
     <string name="filtered_tag">" [%1$s]%2$s"</string>
-    <string name="first_quick_default_reply">Danışıqdakı hər kəsə \"%s\" göndərmək üçün düyməyə toxunun</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
     <string name="fmt_date_numeric_month_day">d-M</string>
@@ -641,31 +488,11 @@ yol prefiksi"</string>
     <string name="fmt_time_12hour">"hh"</string>
     <string name="fmt_time_24hour">"HH"</string>
     <string name="folder">Qovluqlar</string>
-    <string name="folder_drafts_name_en1">Qaralama</string>
-    <string name="folder_drafts_name_en2">[Gmail]/Qaralamalar</string>
-    <string name="folder_empty_to_fresh">"E-poçt sinxronlaşdırılmadı. Sinxronlaşdırmaq üçün aşağı çəkin."</string>
-    <string name="folder_junk_name_en1">Toplu poçt</string>
-    <string name="folder_junk_name_en2">Lazımsız poçt</string>
-    <string name="folder_junk_name_en3">Lazımsız e-poçt</string>
-    <string name="folder_junk_name_en4">Lazımsız</string>
-    <string name="folder_junk_name_en5">Spam</string>
     <string name="folder_list_current_account">Hazırkı hesab</string>
-    <string name="folder_list_display_all">Bütün qovluqları göstər</string>
-    <string name="folder_list_display_only_import">Yalnız vacib qovluqları göstər</string>
     <string name="folder_list_switch_account">Dəyişdir</string>
     <string name="folder_no_mails">Poçt yoxdur</string>
     <string name="folder_notification_setting_tip">Gələn qutunuzda bir neçə qovluq var. Xüsusi qovluqlarda yeni mesajlarla bağlı bildirişlər qurun.</string>
-    <string name="folder_picker_title">Qovluq seç</string>
-    <string name="folder_removed">Buradan silindi: %1$s</string>
-    <string name="folder_sent_name_en1">Göndərilmiş mesajlar</string>
-    <string name="folder_sent_name_en2">Göndərilmiş mesaj</string>
-    <string name="folder_sent_name_en3">Göndərilmiş elementlər</string>
-    <string name="folder_sent_name_en4">[Gmail]/Göndərilmiş poçt</string>
-    <string name="folder_shortcut_widget_label">E-poçt qovluğu</string>
     <string name="folder_synchronization_mail_settings">Qovluq sinxrn tənzimləmələri</string>
-    <string name="folder_trash_name_en1">Silinmiş mesajlar</string>
-    <string name="folder_trash_name_en2">Silinmiş mesaj</string>
-    <string name="folder_trash_name_en3">[Gmail]/Tullantı</string>
     <string name="font_bold_add">Qalın</string>
     <string name="font_bold_remove">Qalın növü çıxart</string>
     <string name="font_color">Hazırkı mətn rəngi: %s</string>
@@ -691,50 +518,34 @@ yol prefiksi"</string>
     <string name="forward_attribution_no_headers">---------- Yönləndirilən mesaj ----------</string>
     <string name="forward_download_failed_ticker">"Bir və ya daha çox qoşma yönləndirilə bilmədi."</string>
     <string name="forward_download_failed_title">Qoşma yönləndirilmədi</string>
-    <string name="free_period_text">Faizsiz dövr</string>
     <string name="friday">Cümə</string>
     <string name="friday_short">Cüm</string>
     <string name="friday_shortest">Cüm</string>
     <string name="from_heading">"Kimdən: "</string>
-    <string name="general_preference_confirm_delete_label">Silməzdən əvvəl təsdiqlə</string>
     <string name="general_preference_confirm_send_label">Göndərməzdən əvvəl təsdiqlə</string>
     <string name="general_preference_delete_message_prompt_title">Silməzdən əvvəl soruş</string>
     <string name="general_preference_email_slide_switch_title">Əvvəlki/sonrakı e-poçta baxmaq üçün sola/sağa sürüşdürün</string>
     <string name="general_preference_load_picture">Onlayn şəkillər yüklə</string>
     <string name="general_preference_str_auto_translation">Cəld tərcümə</string>
     <string name="general_preference_str_auto_translation_prompt">Tərcüməyə baxmaq üçün mətni kopyala</string>
-    <string name="general_preference_text_zoom_dialog_title">Mesaj mətn ölçüsü</string>
-    <string name="general_preference_text_zoom_huge">Çox böyük</string>
-    <string name="general_preference_text_zoom_label">Mesaj mətn ölçüsü</string>
-    <string name="general_preference_text_zoom_large">Böyük</string>
-    <string name="general_preference_text_zoom_normal">Normal</string>
-    <string name="general_preference_text_zoom_small">Kiçik</string>
-    <string name="general_preference_text_zoom_tiny">Çox kiçik</string>
     <string name="general_preference_trash_contact">Spam-ı filtrlə</string>
     <string name="general_preference_trash_contact_sum">Bir neçə istifadəçi tərəfindən bildirilən göndərənlərdən gələn e-poçtları filtrlə</string>
     <string name="generic_attachment_problem">"Qoşma əlavə edilə bilmədi."</string>
     <string name="get_database_exception">"Tənzimləmələr &gt; \"Sistem tətbiqləri\"ndə bu tətbiqin verilənlərini təmizləyib yenidən sınayın."</string>
     <string name="get_oauth_code">Kodu al</string>
-    <string name="gmail_acceleration">Gmail Hesabı üçün proksi server istifadə et</string>
     <string name="gmail_invalid_tip_cancel">İmtina</string>
     <string name="gmail_invalid_tip_confirm">Daxil ol</string>
     <string name="gmail_invalid_tip_message">"Google-un şərtləri və qaydaları dəyişdi. Gmail-ə yenidən daxil olun."</string>
     <string name="gmail_invalid_tip_title">Gmail-ə daxil olun</string>
-    <string name="gmail_login_confirm_to_use_proxy">Gmail Hesabınıza müraciət üçün proksi server istifadə edilsin?</string>
     <string name="gmail_login_failed_non_proxy_title">"Gmail serverinə müraciət edilə bilmədi"</string>
     <string name="gmail_server_authorization_deleted">"Hesab kimlyi təsdiqlənə bilmədi. Bu hesabı yenidən əlavə etməyə çalışın."</string>
     <string name="go_to_mail_content">E-poçta bax</string>
     <string name="graph_name">Korporativ (Qrafik)</string>
-    <string name="have_auth_code">Kodum var</string>
     <string name="have_download">Endirildi</string>
-    <string name="header_category_account">Hesablar</string>
-    <string name="header_label_general_preferences">Ümumi</string>
-    <string name="help_and_info">Kömək</string>
     <string name="help_email_title">Mi Mail</string>
     <string name="help_me_get_qq_auth">Kodu al</string>
     <string name="help_weixin_title">"Hər hansısa bir sualınız varsa, rəsmi WeChat hesabımızda bizimlə əlaqə yaratmaqdan çəkinməyin: "</string>
     <string name="hide_attachment">Qoşmanı gizlət</string>
-    <string name="hide_elided">▼ Sitatlanmış mətni gizlət</string>
     <string name="hide_password">Parolu gizlət</string>
     <string name="how_to_login_icloud">iCloud poçtuna necə daxil olmaq olar</string>
     <string name="http_auth_dialog_cancel">İmtina</string>
@@ -747,24 +558,15 @@ yol prefiksi"</string>
     <string name="icon_content_description">Dialoq nişanı</string>
     <string name="icoud_login_pw_hint">Parol daxil edin</string>
     <string name="imap_password_error">Gələn poçt serveri üçün parol yanlışdır</string>
-    <string name="import_button_text">Daxilə köçür</string>
-    <string name="import_from_other_account">Digər hesablardan daxilə köçür</string>
-    <string name="info_actionbar_normal_detail">Promosyon</string>
     <string name="info_item_hide">Sil</string>
-    <string name="inline_as_attachment">Qoşma kimi göndər</string>
     <string name="inline_picture_deleted">Əksik şəkil endirilir…</string>
-    <string name="inline_too_large">Şəkil çox böyükdür</string>
-    <string name="inline_too_large_des">"Sətir daxili şəkillər 3 MB-dan böyük ola bilməz. Böyük şəkilləri qoşma kimi göndərin və ya sıxışdırın."</string>
-    <string name="input_password_prompt">Parolu daxil edin</string>
     <string name="install_mime_encrypt_cert">S/MIME şifrələmə sertifikatını əlavə et</string>
     <string name="install_mime_sign_cert">S/MIME imza sertifikatını əlavə et</string>
     <string name="installation_cancelled">Quraşdırma ləğv edildi.</string>
     <string name="installation_failed">Quraşdırılmadı.</string>
     <string name="installing_module">Modul quraşdırılır:</string>
-    <string name="interact_with_server_error">"Serverə bağlana bilmədi"</string>
     <string name="invalid_recipient_dialog_message">Yararlı bir alıcı e-poçt ünvanı daxil edin</string>
     <string name="invalid_recipient_dialog_title">"Göndərilə bilmədi"</string>
-    <string name="invalid_recipient_title">Alıcı xətası</string>
     <string name="invoice_card_amount">Miqdar</string>
     <string name="invoice_card_buyer">Alıcı</string>
     <string name="invoice_card_date">Verilmə tarixi</string>
@@ -774,7 +576,6 @@ yol prefiksi"</string>
     <string name="invoice_card_title">Elektron faktura</string>
     <string name="item_view_role_description">Vərəq</string>
     <string name="kilobytes">%s KB</string>
-    <string name="list_empty_to_fresh">Hələ ki, e-poçt yoxdur.</string>
     <string name="load_from_remote">Serverdə poçt qutusu axtar</string>
     <string name="load_more">Daha çox yüklə</string>
     <string name="loading_conversation">Yüklənir…</string>
@@ -782,7 +583,6 @@ yol prefiksi"</string>
     <string name="loading_from_remote">Yüklənir…</string>
     <string name="local_folder">Yerli qovluqlar</string>
     <string name="local_folder_prefix">"Bu cihaz: "</string>
-    <string name="local_search">Yerli axtarış</string>
     <string name="location_hint">Yerləşmə</string>
     <string name="log_save_path">Jurnal yolu</string>
     <string name="login">Daxil ol</string>
@@ -813,11 +613,6 @@ Bu problem, hesabın 2 mərhələli kimlik təsdiqləməsi ilə bağlı ola bil�
     <string name="login_manual">Əllə quraşdır</string>
     <string name="login_qq_psw">Kodu əllə daxil et</string>
     <string name="login_tip">İlkin olaraq daxil olmaq üçün %s protokolu istifadə ediləcək. Fərqli bir protokol istifadə etmək istəyirsinizsə, daxil olma seçimlərində əllə seçin.</string>
-    <string name="long_press_to_select_tip">Bir danışığı seçmək üçün basıb saxlayın, sonra daha çox seçmək üçün toxunun.</string>
-    <string name="mail">Poçt</string>
-    <string name="mail_body_turncated">Bu e-poçt, yükləmək üçün çox böyükdür, yalnız bir hissəsini görüntüləyin, tamamına daha sonra kompüterdə baxın</string>
-    <string name="mail_description_content">Poçt, birdən çox e-poçt hesabını idarə edə bilən, e-poçt göndərə və ala bilən, təqvim məlumatlarınızı və kontaktlarınızı sinxronlaşdıra bilən e-poçt müştərisidir. Tətbiqi silməzdən əvvəl bu özəlliklərsiz edə biləcəyinizə əmin olun. Exchange hesablarınız və təqvim məlumatlarınız da silinəcək.</string>
-    <string name="mail_description_title">Poçt haqqında</string>
     <string name="mail_header_network_not_available">"Şəbəkə bağlantınız yoxdur."</string>
     <string name="mail_outlook_login_tips">"Parolu daxil etmək üçün Microsoft-a yönləndiriləcəksiniz"</string>
     <string name="mail_outlook_oauth_login">"OAuth ilə daxil olun (Fərdi Outlook istifadəçiləri, OAuth ilə giriş edərkən təqvimlərini sinxronlaşdıra bilməzlər)"</string>
@@ -838,14 +633,10 @@ Bu problem, hesabın 2 mərhələli kimlik təsdiqləməsi ilə bağlı ola bil�
     <string name="mailbox_setting_preference_sync_summary_close">Sinxr bağlıdır</string>
     <string name="mailbox_setting_preference_sync_summary_open">Sinxr açıqdır</string>
     <string name="mailbox_settings_activity_title">Sinxr tənzimləmələri</string>
-    <string name="mailbox_settings_activity_title_with_mailbox">Sinxr tənzimləmələri (%s)</string>
     <string name="mailbox_settings_mailbox_sync_window_label">E-poçtları buradan sinxr</string>
     <string name="mailbox_settings_sync_enabled_label">Bu qovluğu sinxr</string>
     <string name="mailbox_settings_sync_enabled_summary">Mesajları bu qovluqda sinxr</string>
     <string name="manual_sync">İndi sinxr</string>
-    <string name="mark_important">Vacib olaraq işarələ</string>
-    <string name="mark_not_important">Vacib işarəsini sil</string>
-    <string name="mark_not_spam">Spam işarəsini sil</string>
     <string name="mark_read">Oxundu olaraq işarələ</string>
     <string name="mark_unread">Oxunmamış olaraq işarələ</string>
     <string name="material_slider_range_end">Aralıq sonu,</string>
@@ -856,68 +647,25 @@ Bu problem, hesabın 2 mərhələli kimlik təsdiqləməsi ilə bağlı ola bil�
         Qəbul edildi:
         %s
     "</string>
-    <string name="meeting_allday">"
-        Nə vaxt:
-        %s
-        (bütün gün)
-    "</string>
-    <string name="meeting_allday_recurring">"
-        Nə vaxt:
-        %s
-        (bütün gün, təkrarlanan)
-    "</string>
-    <string name="meeting_canceled">"
-        Ləğv edildi:
-        %s
-    "</string>
     <string name="meeting_declined">"
         Rədd edildi:
         %s
     "</string>
-    <string name="meeting_recurring">"
-        Nə vaxt:
-        %s
-        (təkrarlanan)
-    "</string>
-    <string name="meeting_responded_failed">Cavab yoxdur</string>
     <string name="meeting_tentative">"
         Müvəqqəti:
-        %s
-    "</string>
-    <string name="meeting_updated">"
-        Güncəlləndi:
-        %s
-    "</string>
-    <string name="meeting_when">"
-        Nə vaxt:
-        %s
-    "</string>
-    <string name="meeting_where">"
-        Harada:
         %s
     "</string>
     <string name="megabytes">%s MB</string>
     <string name="menu_att_mgr">Qoşmalar</string>
     <string name="menu_att_mgr_order_default">Təzəlikcə baxılan</string>
-    <string name="menu_att_mgr_order_mime">Format</string>
-    <string name="menu_att_mgr_order_name">Ad</string>
-    <string name="menu_att_mgr_order_rev_date">Tarix</string>
-    <string name="menu_att_mgr_order_size">Fayl ölçüsü</string>
-    <string name="menu_change_folders">Daşı</string>
     <string name="menu_compose">Tərtib et</string>
     <string name="menu_contact_edit">Düzəliş et</string>
-    <string name="menu_discovery">Promosyon</string>
     <string name="menu_folder_options">Sinxronlaşdırma seçimləri</string>
     <string name="menu_move_to">Daşı</string>
-    <string name="menu_move_to_inbox">Gələn qutusuna daşı</string>
     <string name="menu_resend_all">Hamısını yenidən göndər</string>
-    <string name="menu_search">Axtar</string>
     <string name="menu_settings">Tənzimləmələr</string>
-    <string name="merged_mailbox_compose_select_account">Hesab seçin</string>
     <string name="message_all_body">Tam mesaj</string>
     <string name="message_body_load_set_description">Mobil internet istifadə edərkən e-poçtları yüklə</string>
-    <string name="message_compose_insert_quick_response_list_title">Cəld cavab daxil et</string>
-    <string name="message_decode_error">"Mesajın şifrəsi açıla bilmir"</string>
     <string name="message_discarded">Qaralama silindi</string>
     <string name="message_invite_accept">Bəli</string>
     <string name="message_invite_calendar_download_prompt">Bu özəlliyi istifadə edə bilmək üçün Təqvimi endirin</string>
@@ -929,16 +677,9 @@ Bu problem, hesabın 2 mərhələli kimlik təsdiqləməsi ilə bağlı ola bil�
     <string name="message_invite_state_decline">Rədd edildi</string>
     <string name="message_invite_state_tentative">Gözləyir</string>
     <string name="message_invite_tentative">Bəlkə</string>
-    <string name="message_saved">Mesaj qaralama olaraq saxlanıldı.</string>
     <string name="message_view_attachment_background_load">Yönləndirilmiş mesajınızdakı qoşmalar göndərilməzdən əvvəl endiriləcək.</string>
     <string name="mi_slide_menu">Kənar sətir</string>
-    <string name="mibill_privacy_policy_button1">Sonra</string>
-    <string name="mibill_privacy_policy_button2">Razıyam</string>
-    <string name="mibill_privacy_policy_description">Mi Wallet-in fakturalarınızı avtomatik olaraq təhlil və idarə etməsinə icazə verin. Bu özəllik, işlə əlaqəli e-poçt ünvanları üçün ilkin olaraq sönülüdür.</string>
-    <string name="mibill_privacy_policy_link">Bu özəlliyi istifadə edərək <a href="https://www.mipay.com/res/doc/eula/email.html">Xidmət Şərtlərimizi</a> qəbul etmiş olursunuz</string>
-    <string name="mibill_privacy_policy_title">Fakturaları avtomatik idarə et</string>
     <string name="midnight">Gecə</string>
-    <string name="min_payment_text">Minimum ödəniş</string>
     <string name="miuix_access_state_desc">Seçildi</string>
     <string name="miuix_alphabet_indexer_name">İndeks sətri</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Seçimi ləğv et</string>
@@ -970,7 +711,6 @@ Bu problem, hesabın 2 mərhələli kimlik təsdiqləməsi ilə bağlı ola bil�
     <string name="miuix_search_history_default_title">Axtarış tarixçəsi</string>
     <string name="miuix_search_recommendation_default_title">Bunlarla maraqlana bilərsiniz</string>
     <string name="miuix_search_recommendation_item_del_des">Sil</string>
-    <string name="modify_contact_address">"Kontaktın e-poçt ünvanına düzəliş et"</string>
     <string name="monday">Bazar ertəsi</string>
     <string name="monday_short">B.e.</string>
     <string name="monday_shortest">B.e.</string>
@@ -1013,7 +753,6 @@ Bu problem, hesabın 2 mərhələli kimlik təsdiqləməsi ilə bağlı ola bil�
     <string name="more">Daha çox</string>
     <string name="morning">Səhər</string>
     <string name="move_to_selection_dialog_title">Başqa bir qovluğa daşı</string>
-    <string name="ms_graph">Yeni Microsoft protokolu</string>
     <string name="mtrl_badge_numberless_content_description">Yeni bildiriş</string>
     <string name="mtrl_chip_close_icon_content_description">Sil: %1$s</string>
     <string name="mtrl_exceed_max_badge_number_content_description">%1$d ədəddən çox yeni bildiriş</string>
@@ -1041,16 +780,12 @@ Bu problem, hesabın 2 mərhələli kimlik təsdiqləməsi ilə bağlı ola bil�
     <string name="mtrl_picker_toggle_to_day_selection">Gün seçiminə keçmək üçün toxunun</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Mətn giriş rejiminə keç</string>
     <string name="mtrl_picker_toggle_to_year_selection">İl seçiminə keçmək üçün toxunun</string>
-    <string name="mute">Səssiz</string>
     <string name="nav_app_bar_navigate_up_description">Yuxarı keç</string>
     <string name="nav_app_bar_open_drawer_description">Hərəkət siyirməsini aç</string>
-    <string name="navigation_menu">Hərəkət menyusu</string>
     <string name="network_error">Bağlantı yoxdur</string>
-    <string name="network_invaild">"Şəbəkəyə bağlana bilmir"</string>
     <string name="network_not_available">"Şəbəkəyə bağlana bilmir"</string>
     <string name="network_try_again">Şəbəkə bağlantısını yoxlayıb yenidən sınayın</string>
     <string name="network_unavailable">Şəbəkə əlçatmazdır</string>
-    <string name="new_incoming_messages_one">%s, mesaj göndərdi. Göstər.</string>
     <string name="new_mail_notification">Yeni mesajları bildir</string>
     <string name="new_mail_notification_str">Xatırladıcılara icazə ver</string>
     <string name="new_signature_has_saved">Uğurla saxlanıldı</string>
@@ -1060,8 +795,6 @@ Bu problem, hesabın 2 mərhələli kimlik təsdiqləməsi ilə bağlı ola bil�
     <string name="no_address_email">noaddressemail@123.com</string>
     <string name="no_application_found">Bu qoşmanı açmaq üçün heç bir tətbiq tapılmadı.</string>
     <string name="no_application_found_title">Bu qoşmanı aç.</string>
-    <string name="no_bill_discribe">"Heç bir faktura tapılmadı.
-Fərqli bir e-poçt hesabına keçməyə çalışın."</string>
     <string name="no_contacts">Kontakt yoxdur.</string>
     <string name="no_content_in_body">[No Body]</string>
     <string name="no_conversations">Mesaj yoxdur</string>
@@ -1085,7 +818,6 @@ Fərqli bir e-poçt hesabına keçməyə çalışın."</string>
     <string name="notification_action_undo_archive">Arxivləndi</string>
     <string name="notification_action_undo_delete">Silindi</string>
     <string name="notification_action_undo_remove_label">Etiket silindi</string>
-    <string name="notification_exchange_calendar_added">Exchange təqvimi əlavə edildi</string>
     <string name="notification_message">Yalnız seçilmiş qovluqdakı yeni mesajlar haqqında bildirilsin?</string>
     <string name="notification_off">Bağlı</string>
     <string name="notification_on">Açıq</string>
@@ -1110,24 +842,18 @@ Fərqli bir e-poçt hesabına keçməyə çalışın."</string>
     <string name="oauth_find_browser_error_description">Daxil olmazdan əvvəl bir brauzer quraşdırın</string>
     <string name="oauth_gmail_login_notify">Aşağıdakı giriş səhifəsində Google Hesabı istifadəçi adınızı və parolunuzu daxil edin.</string>
     <string name="oauth_login_continue">Davam et</string>
-    <string name="oauth_login_continue_qq">Parol al və daxil ol &gt;</string>
     <string name="obtain_new_auth_code">Yeni kod alın</string>
     <string name="ok">Oldu</string>
     <string name="okay_action">Oldu</string>
     <string name="one_day">1 gün</string>
     <string name="one_month">1 ay</string>
     <string name="one_week">1 həftə</string>
-    <string name="open_calendar_and_contacts_permission">Tənzimləmələrdən \"Poçt\"un kontaktlara və təqvim məlumatlarına müraciət etməsinə icazə verin</string>
     <string name="open_custom_folder">Alt qovluqları göstər</string>
-    <string name="open_external_storage_and_calendar_permission">Tənzimləmələrdən \"Poçt\"un anbara və təqvim məlumatlarına müraciət etməsinə icazə verin</string>
-    <string name="open_external_storage_and_contacts_and_calendar_permission">Tənzimləmələrdən \"Poçt\"un anbara, kontaktlara və təqvim məlumatlarına müraciət etməsinə icazə verin</string>
-    <string name="open_external_storage_and_contacts_permission">Tənzimləmələrdən \"Poçt\"un anbara və kontaktlara müraciət etməsinə icazə verin</string>
     <string name="open_notification_kingagent">\"Burial point\" bildirişlərini aç</string>
     <string name="open_pdf_error">"PDF açıla bilmədi. Bir PDF oxuyucu quraşdırıb yenidən sınayın."</string>
     <string name="operation_settging">Əməliyyatlar</string>
     <string name="optimization_suggestion">Optimallaşdırma təklifləri</string>
     <string name="others_mail">Digər</string>
-    <string name="others_mail_des">Digər şəxsi və ya korporativ e-poçt xidmətləri</string>
     <string name="outbox_alert_button_no_resend">"Göndərilmədi"</string>
     <string name="outbox_alert_button_resend">Yenidən göndər</string>
     <string name="outbox_alert_certificate_error">"E-poçt sisteminizin administratoru ilə əlaqə saxlayın və sertifikatınızı güncəlləyin."</string>
@@ -1156,19 +882,8 @@ Fərqli bir e-poçt hesabına keçməyə çalışın."</string>
     <string name="output_db_title">Çıxış məlumat bazası</string>
     <string name="output_to_disk">Jurnalları bir faylda saxlayın</string>
     <string name="over_16_content">"Artıq 16 yaşınızın olduğunu təsdiqləyirsiniz?"</string>
-    <string name="over_due">Vaxtı keçmiş</string>
     <string name="over_sixteen">"16 yaşından böyüyəm."</string>
     <string name="parase_setup_data">Məlumat alınır…</string>
-    <string name="parse_bill_discribe">Kredit kart fakturaları emal edilir…</string>
-    <string name="password_expire_warning_content_title">Kilid ekranı parolunun müddəti bitir</string>
-    <string name="password_expire_warning_dialog_content_fmt">Ekran kilidi PIN-i və ya parolunuzu tezliklə dəyişdirməlisiniz, əks halda %s üçün verilənlər silinəcək. İndi dəyişdirmək istəyirsiniz?</string>
-    <string name="password_expire_warning_dialog_title">Kilid ekranı parolunun müddəti bitir</string>
-    <string name="password_expire_warning_ticker_fmt">"\"%s\", kilid ekranı üzrə PIN və ya parolun
-            dəyişdirilməsini tələb edir."</string>
-    <string name="password_expired_content_title">Kilid ekranı parolunun müddəti bitdi</string>
-    <string name="password_expired_dialog_content_fmt">%s üçün verilənlər cihazınızdan silinəcək. Kilid ekranı PIN-i və ya parolunuzu dəyişdirərək onları bərpa edə bilərsiniz. İndi dəyişdirirsiniz?</string>
-    <string name="password_expired_dialog_title">Kilid ekranı parolunun müddəti bitdi</string>
-    <string name="password_expired_ticker">Kilid ekranı PIN-i və ya parolunun müddəti bitdi.</string>
     <string name="password_toggle_content_description">Parolu göstər</string>
     <string name="pdf_has_signature_prompt_cancel">Orijinal</string>
     <string name="pdf_has_signature_prompt_confirm">İmzalı kopya</string>
@@ -1213,37 +928,10 @@ Fərqli bir e-poçt hesabına keçməyə çalışın."</string>
     <string name="personal_data_collection_summary">Açar açıq olduqda, şəxsi verilənlərinizi yığa biləcəyimizi qəbul etmiş olursunuz. Açarı söndürə, səlahiyyəti geri ala və verilənlərinizi serverlərimizdən istədiyiniz vaxt silə bilərsiniz.</string>
     <string name="personal_data_collection_title">Şəxsi verilənlərin yığılmasına icazə verin</string>
     <string name="pl_select_age">Yaş seçin</string>
-    <string name="pls_parse_bill_discribe">"Ödənişləriniz və səyahətləriniz haqqında xatırladıcılar almaq üçün
-e-poçtunuzdakı faktura və səyahət məlumatlarını təhlil edin"</string>
     <string name="pm">GS</string>
-    <string name="policy_app_blacklist">Müəyyən edilmiş tətbiqlərə icazə vermə</string>
-    <string name="policy_app_whitelist">Yalnız müəyyən edilmiş tətbiqlərə icazə ver</string>
-    <string name="policy_bluetooth_restricted">Bluetooth istifadəsini məhdudlaşdır</string>
-    <string name="policy_dont_allow_attachments">"Qoşmalara icazə vermə"</string>
-    <string name="policy_dont_allow_browser">"Brauzerlərə icazə vermə"</string>
-    <string name="policy_dont_allow_consumer_email">"İstehlakçı e-poçtlarına icazə vermə"</string>
-    <string name="policy_dont_allow_html">"HTML e-poçtlarına icazə vermə"</string>
-    <string name="policy_dont_allow_internet_sharing">"İnternet paylaşımına icazə vermə"</string>
-    <string name="policy_dont_allow_irda">"İnfraqırmızı rabitəyə icazə vermə"</string>
-    <string name="policy_dont_allow_pop_imap">"POP3 və IMAP hesablarına icazə vermə"</string>
-    <string name="policy_dont_allow_storage_cards">"Anbar kartlarına icazə vermə"</string>
-    <string name="policy_dont_allow_text_messaging">"Mətn mesajlarına icazə vermə"</string>
-    <string name="policy_dont_allow_unsigned_apps">"İmzalanmamış tətbiqlərə icazə vermə"</string>
-    <string name="policy_dont_allow_unsigned_installers">"İmzalanmamış tətbiqlərin quraşdırılmasına icazə vermə"</string>
-    <string name="policy_dont_allow_wifi">"Wi-Fi-a icazə vermə"</string>
-    <string name="policy_dont_allow_wifi_inter">"Wi-Fi-a icazə vermə"</string>
-    <string name="policy_html_truncation">HTML e-poçt ölçüsünü məhdudlaşdır</string>
-    <string name="policy_require_encryption">Cihaz şifrələməsini tələb et</string>
-    <string name="policy_require_manual_sync_roaming">Yalnız rouminqdə olarkən manual sinxronlaşdırmaya icazə ver</string>
-    <string name="policy_require_sd_encryption">SD kart şifrələməsini tələb et</string>
-    <string name="policy_require_smime">SMIME mesajları tələb et</string>
-    <string name="policy_text_truncation">Mətn e-poçt ölçüsünü məhdudlaşdır</string>
     <string name="preference_copied">\"%1$s\" lövhəyə kopyalandı.</string>
-    <string name="preference_eas_tips">Poçt serverini quraşdırmaq üçün “Atktivləşdir”ə toxunun.</string>
-    <string name="preference_pop_tips">Bu qoşma, e-poçt ilə endiriləcək. Bu əhəmiyyətli dərəcədə mobil internet istifadə edə bilər. Yenə də endirilsin?</string>
     <string name="preferences_signature_dialog_title">İmza</string>
     <string name="preferences_signature_title">İmza</string>
-    <string name="previous_action">Geri</string>
     <string name="print">Çap et</string>
     <string name="print_scheduler_title">Bütün planlaşdırıcıları çap et</string>
     <string name="privacy_and_help">Gizlilik və kömək</string>
@@ -1253,7 +941,6 @@ e-poçtunuzdakı faktura və səyahət məlumatlarını təhlil edin"</string>
     <string name="privacy_setting_agree">Razıyam</string>
     <string name="progress">İrəliləyiş:</string>
     <string name="prompt_title">Soruş</string>
-    <string name="protocol_setting_toast">Razılaşdıqdan sonra tənzimləmələrə getmək üçün sağ üst küncə toxun</string>
     <string name="pull_to_refresh">Təzələmək üçün aşağı çək</string>
     <string name="push">Ani bildirişlər</string>
     <string name="push_wps_better_confirm_download">Endir</string>
@@ -1267,7 +954,6 @@ e-poçtunuzdakı faktura və səyahət məlumatlarını təhlil edin"</string>
     <string name="push_wps_confirm_title">\"WPS Office\"i sınayın</string>
     <string name="push_wps_no_response_app">Bu əməliyyatı idarə etmək üçün heç bir tətbiq tapılmadı</string>
     <string name="qq_authorization_help_get">Kodu al</string>
-    <string name="qq_authorization_know">Kod haqqında</string>
     <string name="qq_authorization_tips">"Təkrar göstərmə"</string>
     <string name="qq_auto_login_failed_cpy_pass_success">Uğurla kopyalandı. Giriş səhifəsinə qayıdın və kodu parol formuna yapışdırın.</string>
     <string name="qq_auto_login_failed_dialog_message">Təsdiqləmə kodunu kopyalayın, giriş səhifəsindəki \"Daxil olmaq üçün istifadəçi adı və parolu daxil edin\"ə toxunun və kodu parol formuna yapışdırın.</string>
@@ -1277,58 +963,36 @@ e-poçtunuzdakı faktura və səyahət məlumatlarını təhlil edin"</string>
     <string name="qq_changepw_dialog_tips">Daxil olmaq üçün %s üzərindən yeni bir kod alın.</string>
     <string name="qq_group_info_summary">QQ qrupu: %s. Kopyalamaq üçün toxun.</string>
     <string name="qq_group_info_title">Əks-əlaqə üçün QQ qrupu</string>
-    <string name="qq_login_notice">"Qeyd: Artıq parol təyin etmisinizsə, daxil olarkən onu təsdiqləməlisiniz."</string>
     <string name="qq_login_sent_setting">Göndərilən mesajları sinxronlaşdır</string>
     <string name="qq_pwd_or_qq_auth_code">Kodu daxil edin</string>
     <string name="qq_sent_no_message">"Göndərilən e-poçtlarınızı tapa bilmirsiniz? Nə edə biləcəyinizi öyrənmək üçün buraya toxunun."</string>
     <string name="qq_sent_no_message_setting">QQ Mail-dən göndərilən mesajları sinxronlaşdırın</string>
-    <string name="qq_uthentication_failed">"Hesab təsdiqlənə bilmədi, yenidən daxil olun"</string>
     <string name="questionnair_confirm_delete">Hesab silinsin?</string>
-    <string name="quick_1">Təşəkkürlər!</string>
-    <string name="quick_2">Mənim üçün uyğundur!</string>
-    <string name="quick_3">"Bunu daha sonra oxuyub sizə dönəcəm."</string>
-    <string name="quick_4">"Bunu müzakirə etmək üçün iclas təşkil edək."</string>
-    <string name="quick_reply_dialog_title">Bir cavab seçin</string>
     <string name="quick_reply_expend">Daha çox</string>
-    <string name="quick_responses_empty_view">Cəld cavab yoxdur</string>
     <string name="quick_translation">Tərcümə et</string>
-    <string name="quote_divider_6">---Orijinal---</string>
-    <string name="quote_divider_7">Orijinal mesaj</string>
-    <string name="quote_divider_iphone_en">iPhone-umdan göndərildi</string>
-    <string name="quote_divider_iphone_fwd_en">Yönləndirilən mesaja başlayın:</string>
-    <string name="quote_divider_qq_en">------------------ Orijinal ------------------</string>
     <string name="quoted_text">Sitatlanmış mətn daxil olunsun</string>
     <string name="quoted_text_label">Sitat mətni</string>
     <string name="re_download_message_button">Endirmək üçün yenidən toxun</string>
     <string name="re_download_message_info">"E-poçt endirilə bilmədi"</string>
-    <string name="read_string">danışıq oxundu</string>
     <string name="recipient_needed">Ən azı bir alıcı əlavə edin.</string>
     <string name="recipient_needed_title">Xəbərdarlıq</string>
     <string name="recommend_protocal">Tövsiyələr İstifadə Protokolu</string>
     <string name="reduce_the_receiving_frequencye_summary">\"Narahat etməyin\" açıq olduqda gələn qutusunu sinxronlaşdırma tezliyini azalt</string>
     <string name="reduce_the_receiving_frequencye_title">Daha az tezliklə sinxronlaşdırma</string>
-    <string name="refresh">Təzələ</string>
     <string name="refreshing">Təzələnir…</string>
     <string name="release_to_refresh">Təzələmək üçün burax</string>
-    <string name="remind_attachment_size_limit">E-poçtlarınız %s MB həcmindən az olmalıdır</string>
     <string name="reminder">Xatırladıcı</string>
     <string name="reminder_picker_title">Xatırladıcı</string>
     <string name="remote_search_body_too_large_prompt">"Bu e-poçt çox uzundur. 
 Tam sinxronlaşdırılana qədər gözləyin və ya mesaja kompüterinizdə baxın."</string>
     <string name="remove_account">Hesabı sil</string>
-    <string name="remove_folder">%1$s qovluğundan sil</string>
     <string name="remove_star">Ulduzu sil</string>
     <string name="replay_max_length_limit_hint">"E-poçt çox uzundur. Orijinal e-poçta düzəliş edilə bilmir."</string>
     <string name="reply">Cavabla</string>
-    <string name="reply_add_bodycontent">Mesaj gövdəsinə cavab əlavə edilsin?</string>
     <string name="reply_all">Hamısını cavabla</string>
     <string name="reply_attribution">%2$s, %1$s tarixində yazdı:</string>
-    <string name="report_phishing">Fişinqi bildir</string>
-    <string name="report_spam">Spam bildir</string>
     <string name="request_copy_db_to_disk">Poçt, verilənlər bazanızı bir fayla kopyalamaq istəyir</string>
     <string name="request_entity_large">Fayl çox böyükdür</string>
-    <string name="request_permission_activity">Tələb olunan icazələr</string>
-    <string name="respond_inline">"   Sətir daxili cavab"</string>
     <string name="respond_inline_text">Orijinal e-poçta düzəliş et</string>
     <string name="restart_detail_conversation_options1">1 dəq</string>
     <string name="restart_detail_conversation_options2">5 dəq</string>
@@ -1340,13 +1004,8 @@ Tam sinxronlaşdırılana qədər gözləyin və ya mesaja kompüterinizdə bax�
     <string name="saturday">Şənbə</string>
     <string name="saturday_short">Şәn</string>
     <string name="saturday_shortest">Şәn</string>
-    <string name="save_action">Saxla</string>
     <string name="save_draft_failed">Qaralama saxlanılmadı</string>
-    <string name="save_power_summary">Enerjiyə qənaət vaxtını tənzimlə</string>
-    <string name="save_power_title">Batareyaya qənaət</string>
-    <string name="saved">Saxlanıldı,  %s</string>
     <string name="search_bar_text">Kontaktları axtar</string>
-    <string name="search_hint">Poçt axtar</string>
     <string name="search_menu_title">Axtar</string>
     <string name="search_remote_again">"Şəbəkəyə bağlana bilmədi. Yenidən sınamaq üçün toxunun."</string>
     <string name="search_result">"Nəticələr "</string>
@@ -1354,28 +1013,18 @@ Tam sinxronlaşdırılana qədər gözləyin və ya mesaja kompüterinizdə bax�
     <string name="search_tabs_name_recipient">Alıcı</string>
     <string name="search_tabs_name_sender">Göndərən</string>
     <string name="search_tabs_name_subject">Mövzu</string>
-    <string name="search_title">Birləşmiş e-poçt</string>
-    <string name="search_txt_size_limit_prompt">Axtarış terminləri 3 simvoldan artıq olmaıdır</string>
-    <string name="security_needed_ticker_fmt">\"%s\" hesabı, güvənlik tənzimləmələri güncəlləməsini tələb edir.</string>
     <string name="security_notification_content_unsupported_title">"Güvənlik tələbləri qarşılana
          bilmir"</string>
-    <string name="security_notification_content_update_title">Güvənlik güncəlləməsi tələb olunur</string>
     <string name="security_unsupported_ticker_fmt">"\"%s\" hesabı, güvənlik tələblərinə görə sinxronlaşdırıla bilmir."</string>
     <string name="see_more_content">Daha çox</string>
     <string name="select_attachment_type">Qoşmanı seçin</string>
     <string name="select_no_file">Heç bir qoşma seçilmədi</string>
-    <string name="select_path">Yol seçin</string>
     <string name="selected">seçildi</string>
     <string name="send">Göndər</string>
     <string name="send_encrypt_dialog_fail_content">"Deyəsən, alıcı, bu e-poçtu şifrələmək üçün tələb olunan güvənli sertifikata sahib deyil. Əvəzində adi e-poçt göndərilsin?"</string>
     <string name="send_encrypt_dialog_fail_title">"Şifrəli e-poçt göndərilə bilmir"</string>
-    <string name="send_failed">"Mesaj göndərilmədi."</string>
-    <string name="sender_whitelist_cleared">"Şəkillər avtomatik göstərilməyəcək."</string>
     <string name="senders_split_token">, </string>
-    <string name="sending">Göndərilir…</string>
     <string name="sending_message">Mesaj göndərilir…</string>
-    <string name="sending_quick_reply">\"%s\" göndərilir</string>
-    <string name="sent_folder_selection_title">%s üçün serverin göndərilən elementlər qovluğunu seçin</string>
     <string name="ser_resp_err_map_certificate_validator_err">"Server sertifikatı təsdiqlənə bilmədi.
 \u0009( Tənzimləmələrdə ‘Avto-sinxronlaşdırma vaxtı’nın açıq olduğuna əmin olun)"</string>
     <string name="ser_resp_err_map_landing_more_failure">"Ardıcıl olaraq bir neçə dəfə daxil ola bilmədi. Bir və ya iki dəqiqə gözləyib yenidən sınayın."</string>
@@ -1406,9 +1055,7 @@ Tam sinxronlaşdırılana qədər gözləyin və ya mesaja kompüterinizdə bax�
     <string name="server_cet_issuer_no_trust">"Sertifikatı verən, güvənli bir təşkilat deyil."</string>
     <string name="server_cet_subject_cn">"Dəstəklənən domen: "</string>
     <string name="server_cet_title">Sertifikat detalları</string>
-    <string name="service_protocol_discribe"><u>\"WPS Mail Xidmət Razılaşması\"nı oxudum və qəbul edirəm</u></string>
     <string name="service_protocol_title">Xidmət Razılaşması</string>
-    <string name="set_account_app_password">Tətbiq parolunu tənzimlə</string>
     <string name="set_network">Şəbəkəni tənzimlə</string>
     <string name="setting_kids_subtitle">Təsdiqlənən istifadəçi yaşı</string>
     <string name="setting_kids_title">16 yaşdan yuxarı</string>
@@ -1416,10 +1063,7 @@ Tam sinxronlaşdırılana qədər gözləyin və ya mesaja kompüterinizdə bax�
     <string name="settings_attachment">Qoşmalar</string>
     <string name="share_choose">Paylaşmaq üçün fayl seç</string>
     <string name="sharing">Paylaş</string>
-    <string name="shortcut_name_title">Qovluq qısayol adı</string>
     <string name="show_attachment">Qoşmanı göstər</string>
-    <string name="show_contact_address">"Kontaktın e-poçt ünvanlarını göstərin"</string>
-    <string name="show_elided">▶ Sitatlanmış mətni göstər</string>
     <string name="show_images">Endir və şəkilləri göstər</string>
     <string name="show_images_all">Bütün şəkilləri yüklə və göstər</string>
     <string name="show_password">Parolu göstər</string>
@@ -1428,7 +1072,6 @@ Tam sinxronlaşdırılana qədər gözləyin və ya mesaja kompüterinizdə bax�
     <string name="sign_in_dialog_office365">Office365 Personal Edition</string>
     <string name="sign_in_dialog_outlook_enterprise">Office365 Exchange Enterprise Edition</string>
     <string name="sign_in_dialog_outlook_imap">IMAP (təqvimsiz)</string>
-    <string name="sign_in_graph_error">"Yalnız təşkilatınız ümumi server konfiqurasiyasını dəyişdirmədiyi zaman IMAP və ya EXCHANGE protokollarını istifadə edərək giriş edə bilərsiniz. Server ünvanınız təşkilatınız tərəfindən özəlləşdirilibsə və ya əlaqəli protokollar sıradan çıxarılıbsa, Microsoft-un yeni protokolunu istifadə edərək daxil olun."</string>
     <string name="sign_in_no_useful_provider_error">"Protokol konfiqurasiyaları Microsoft-dan alına bilmir. Fərqli bir protokol istifadə edin və ya protokolu Microsoft-dan güncəlləyin."</string>
     <string name="signature">"
 
@@ -1436,8 +1079,6 @@ Tam sinxronlaşdırılana qədər gözləyin və ya mesaja kompüterinizdə bax�
 
 %s"</string>
     <string name="signature_black_shark">Blackshark telefonumdan göndərildi</string>
-    <string name="single_new_message_notification_big_text">"%1$s
-%2$s"</string>
     <string name="size_byte">B</string>
     <string name="size_giga_byte">GB</string>
     <string name="size_kilo_byte">KB</string>
@@ -1447,31 +1088,19 @@ Tam sinxronlaşdırılana qədər gözləyin və ya mesaja kompüterinizdə bax�
     <string name="sms_not_found_tip">"İlkin SMS mesajlaşma tətbiqiniz açıla bilmədi. Tətbiqi açın və təsdiqləmə SMS-ini əllə göndərin."</string>
     <string name="smtp_password_error">Gedən e-poçta serverinin parolu yanlışdır</string>
     <string name="sort_attachment">Sırala</string>
-    <string name="special_text_5">yazdı:</string>
-    <string name="special_text_sender_en">göndərən</string>
     <string name="str_select_all">Hamısını seç</string>
     <string name="str_select_none">Heç birini seçmə</string>
     <string name="subject_hint">Mövzu</string>
-    <string name="successfully_obtained_authorization_code">Təsdiqləmə kodu</string>
     <string name="sunday">Bazar</string>
     <string name="sunday_short">Baz</string>
     <string name="sunday_shortest">Baz</string>
-    <string name="sync_calendra_fail_per_content">İcazə vermək üçün toxunun</string>
-    <string name="sync_calendra_fail_per_title">"Təqvim tədbirləri sinxronlaşdırıla bilmədi"</string>
     <string name="sync_calendra_fail_permission">Təqvim tədbirlərini sinxronlaşdıra bilmək üçün Tənzimləmələr &gt; \"İcazələr\"də təqvim icazələrini verin.</string>
-    <string name="sync_contacts_fail_per_content">Kontaktlara müraciətə icazə vermək üçün toxunun</string>
-    <string name="sync_contacts_fail_per_title">"Kontaktlar sinxronlaşdırıla bilmədi"</string>
-    <string name="sync_contacts_req_per_ignored">Bu özəlliyi istifadə edə bilmək üçün bu tətbiqin kontaktları sinxronlaşdırmasına icazə verin</string>
-    <string name="sync_question_feed">Sinxronlaşdırma problemləri bildirin</string>
-    <string name="sync_upload_question">Əks-əlaqə</string>
     <string name="syncing_wait_restart">Yenidən sına</string>
     <string name="syncing_wait_restart_title">Server bağlantısının vaxtı bitdi</string>
     <string name="system_account_create_failed">"Hesab yaradıla bilmədi. Yenidən sınayın."</string>
-    <string name="system_root_path">Daxili anbar tənzimləmələri</string>
     <string name="system_security_open_error">\"Güvənlik\"i aça bilmək üçün Tənzimləmələrdə icazələri verin</string>
     <string name="system_setup_open_error">Tənzimləmələrdə Mail üçün sinxronlaşdırmanı aç</string>
     <string name="tap_to_configure">Quraşdırmaq üçün toxun.</string>
-    <string name="tap_to_enable_sync">Açmaq üçün toxunun.</string>
     <string name="tell_you_later">Sonra</string>
     <string name="the_anniversary_of_lifting_martial_law">Hərbi vəziyyət ləğvinin ildönümü</string>
     <string name="the_anti_aggression_day">Təcavüzlə Mübarizə Günü</string>
@@ -1529,24 +1158,17 @@ Tam sinxronlaşdırılana qədər gözləyin və ya mesaja kompüterinizdə bax�
     <string name="toast_bar_sync_failed_client_cert">"Əskik sertifikata görə sinxronlaşdırıla bilmədi. Sertifikatı yenidən əlavə etmək üçün toxunun."</string>
     <string name="toast_bar_sync_failed_mi_authority">"Bu cihaza səlahiyyət verilmədi. Səlahiyyət mesajı üçün SMS-inizi yoxlayın."</string>
     <string name="toastbar_calendar_and_contacts_permission_switch_allow_only_using">"Kontaktlar və tədbirlər sinxronlaşdırıla bilmədi. Bu problemi həll etmək üçün əlaqəli icazələri \"Həmişə icazə ver\" olaraq dəyişdirin."</string>
-    <string name="toastbar_calendar_and_contacts_permission_switch_close">Təqvim məlumatlarını və kontaktları sinxronlaşdırmaq üçün, \"Poçt\"a Tənzimləmələrdən tələb olunan icazələri verin</string>
     <string name="toastbar_calendar_permission_switch_allow_only_using">"Tədbirlər sinxronlaşdırıla bilmədi. Bu problemi həll etmək üçün təqvim icazələrini \"Həmişə icazə ver\" olaraq dəyişdirin."</string>
-    <string name="toastbar_calendar_permission_switch_close">Təqvim xatırladıcılarını almaq üçün, \"Poçt\"a Tənzimləmələrdən tələb olunan icazələri verin</string>
     <string name="toastbar_contacts_permission_switch_allow_only_using">"Kontaktlar sinxronlaşdırıla bilmədi. Bu problemi həll etmək üçün kontaktların icazələrini \"Həmişə icazə ver\" olaraq dəyişdirin."</string>
-    <string name="toastbar_contacts_permission_switch_close">Sistem kontaktları kimi əlavə edə bilmək üçün kontaktlara müraciətə icazə verin</string>
     <string name="toastbar_local_calendar_and_contacts_sync_switch_close">Təqvim və kontaktları sinxronlaşdırmaq üçün, təqvim və kontakt sinxronlaşdırmasını işə salın</string>
     <string name="toastbar_local_calendar_sync_switch_close">Təqvim xatırladıcılarını almaq üçün təqvim sinxronlaşdırmasını işə salın</string>
     <string name="toastbar_local_contacts_sync_swtich_close">Sistem kontaktları kimi əlavə edə bilmək üçün bu tətbiqin kontaktları sinxronlaşdırmasına icazə verin</string>
     <string name="today">Bu gün</string>
-    <string name="today_text">Bu gün</string>
     <string name="tomorrow">Sabah</string>
-    <string name="too_large_to_attach_additional">"Maksimum fayl həcmi: %1$s."</string>
-    <string name="too_large_to_attach_multiple">"Fayl(lar) əlavə edilmədi. Maksimum fayl həcmi %1$s olmalıdır."</string>
     <string name="too_large_to_attach_single">"%1$s həcmindən böyük fayllar əlavə edilə bilmir."</string>
     <string name="toolbar_add_image">Şəkil əlavə et</string>
     <string name="toolbar_part_num">Paraqraf nömrəsi</string>
     <string name="toolbar_part_symbol">Paraqraf işarəsi</string>
-    <string name="topic_merge">Ekran tənzimləmələri</string>
     <string name="topic_merge_summary">Mesajları mövzuya görə qruplaşdır</string>
     <string name="train_card_title">Bilet uğurla satın alındı</string>
     <string name="train_card_title_alternate">Gecikmiş bilet uğurla satın alındı</string>
@@ -1560,7 +1182,6 @@ Tam sinxronlaşdırılana qədər gözləyin və ya mesaja kompüterinizdə bax�
     <string name="translation_pronunciation_other">Maşın</string>
     <string name="translation_query_failure">"Nəticə tapıla bilmədi"</string>
     <string name="translation_technology_support">iciba.com tərəfindən texniki dəstək</string>
-    <string name="trash_folder_selection_title">%s üçün server zibil qutusunu seçin</string>
     <string name="trigger_before_day">%d gün əvvəl</string>
     <string name="trigger_before_hour">%d saat əvvəl</string>
     <string name="trigger_before_minute">%d dəqiqə əvvəl</string>
@@ -1569,25 +1190,15 @@ Tam sinxronlaşdırılana qədər gözləyin və ya mesaja kompüterinizdə bax�
     <string name="tuesday">Çərşənbə axşamı</string>
     <string name="tuesday_short">Ç.a.</string>
     <string name="tuesday_shortest">Ç.a.</string>
-    <string name="unbind_dialog_text">"Poçt tətbiqi bundan sonra e-poçtlarınızı təhlil etməyəcək.
-Hesab silinsin?"</string>
     <string name="under_16_content">"Hələ 16 yaşınızın olmadığını təsdiqləyirsiniz?"</string>
     <string name="under_sixteen">"Hələ 16 yaşım yoxdur."</string>
     <string name="undo">Geri al</string>
-    <string name="unknow">Bilinmir</string>
-    <string name="unread_string">oxunmamış danışıq</string>
     <string name="unselected">Seçim ləğv edildi</string>
-    <string name="unzip_file_failed">"Fayl arxivdən çıxarıla bilmədi"</string>
     <string name="update_domain_summary">Mövcud domenlərin və konfiqurasiyaların siyahısını güncəllə</string>
     <string name="update_domain_title">Domen tənzimləmələrini güncəllə</string>
-    <string name="update_to_wps_mail">WPS Mail ilə daha çox özəlliklərdən zövq alın</string>
-    <string name="upload_log">Göndər</string>
-    <string name="upload_log_failed">"Jurnallar göndərilə bilmədi"</string>
     <string name="upload_log_no">İmtina</string>
-    <string name="upload_log_success">"Uğurla göndərildi, tezliklə sizə geri dönəcəyik."</string>
     <string name="upload_log_title">\"Poçt\"u təkmilləşdirməyimizə kömək etmək üçün xəta jurnallarını bizə göndərin</string>
     <string name="upload_log_yes">Göndər</string>
-    <string name="uploading_logs">Bir saniyə…</string>
     <string name="user_experience_content">Zəhmət olmasa İstifadəçi Təcrübə Planını oxuyub qəbul etdiyinizi təsdiqləyin</string>
     <string name="user_experience_log">İstifadəçi Təcrübə Planı</string>
     <string name="user_experience_login">Qoşul</string>
@@ -1604,12 +1215,9 @@ Hesab silinsin?"</string>
     <string name="v7_preference_on">AÇIQ</string>
     <string name="verify_code">Təsdiqləmə kodu</string>
     <string name="version_string">Versiya: %s</string>
-    <string name="view_more_conversations">Daha çox söhbət göstər</string>
     <string name="wait_for_manual_sync_body">\"Bu hesab avtomatik sinxronlaşdırma üçün quraşdırılmayıb.
 E-poçtu bir dəfə sinxronlaşdırmaq üçün\"<b>İndi Sinxronlaşdır</b>a toxunun və ya bu hesabı, poçtu avtomatik sinxronlaşdıracaq şəkildə quraşdırmaq üçün <b>Sinxronlaşdırma tənzimləmələrini dəyişdir</b>ə toxunun.</string>
     <string name="wait_for_sync_title">Sinxronlaşdırma gözlənilir</string>
-    <string name="wait_help_context">gözləyin</string>
-    <string name="wait_while_update_db">Verilənlər bazası güncəllənir…</string>
     <string name="web_view_load_error_tip">Brauzeriniz çökdü. Bu problemi həll etmək üçün Google Play-dən Webview-in son versiyasını endirin.</string>
     <string name="webview_logout">Təkrar daxil olmağı sınaya bilərsiniz</string>
     <string name="webview_logout_cancel">İndi yox</string>
@@ -1627,12 +1235,8 @@ E-poçtu bir dəfə sinxronlaşdırmaq üçün\"<b>İndi Sinxronlaşdır</b>a to
     <string name="welcome_mail_list_title">Baxmaq üçün bir e-poçt seçin</string>
     <string name="widget_all_mail">Bütün poçtlar</string>
     <string name="widget_other_views">Digər</string>
-    <string name="wipe_account_fail_description">İcazə ver</string>
-    <string name="wipe_account_fail_title">"Şəxsi məlumatlar silinə bilmədi"</string>
     <string name="wps_card_button_tips">WPS Office-i aç</string>
     <string name="wps_card_tips">%s, sizinlə bir WPS Office sənədi paylaşdı.</string>
-    <string name="wrong_password">Daxil etdiyiniz parol yanlışdır</string>
-    <string name="x_account_settings_mibill_resolve_label_summary">Kredit kartı fakturalarını avtomatik tanıyın</string>
     <string name="xiaomi_email">Poçt</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">İndi yox</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Güncəllə</string>
@@ -1640,6 +1244,4 @@ E-poçtu bir dəfə sinxronlaşdırmaq üçün\"<b>İndi Sinxronlaşdır</b>a to
     <string name="yes">Bəli</string>
     <string name="yesterday">Dünən</string>
     <string name="you_are_in_mobile_network">Jurnalları yükləmək üçün mobil internetdən istifadə edilsin?</string>
-    <string name="youfuli">Promosyon</string>
-    <string name="zip_viewer_no_file">Fayl yoxdur.</string>
 </resources>
