@@ -66,107 +66,17 @@
         <item quantity="few">%1$d nieprzeczytane</item>
         <item quantity="many">Nieprzeczytane: %1$d</item>
     </plurals>
-    <plurals name="confirm_archive_conversation">
-        <item quantity="other">Zarchiwizować %1$d konwersacji?</item>
-        <item quantity="one">Zarchiwizować konwersację?</item>
-        <item quantity="few">Zarchiwizować %1$d konwersacje?</item>
-        <item quantity="many">Zarchiwizować %1$d konwersacji?</item>
-    </plurals>
-    <plurals name="confirm_delete_conversation">
-        <item quantity="other">Usunąć %1$d konwersacji?</item>
-        <item quantity="one">Usunąć konwersację?</item>
-        <item quantity="few">Usunąć %1$d konwersacje?</item>
-        <item quantity="many">Usunąć %1$d konwersacji?</item>
-    </plurals>
-    <plurals name="confirm_delete_conversation_with_sub">
-        <item quantity="other">Konwersacje zawierają scalane elementy. Usunąć je mimo to?</item>
-        <item quantity="one">Konwersacja zawiera scalane elementy. Usunąć ją mimo to?</item>
-        <item quantity="few">Konwersacje zawierają scalane elementy. Usunąć je mimo to?</item>
-        <item quantity="many">Konwersacje zawierają scalane elementy. Usunąć je mimo to?</item>
-    </plurals>
-    <plurals name="confirm_delete_draft">
-        <item quantity="other">Usunąć %1$d  kopii roboczych?</item>
-        <item quantity="one">Usunąć %1$d  kopię roboczą?</item>
-        <item quantity="few">Usunąć %1$d  kopie robocze?</item>
-        <item quantity="many">Usunąć %1$d  kopii roboczych?</item>
-    </plurals>
     <plurals name="contact_num_selected">
         <item quantity="other">Dodano %d kontaktów</item>
         <item quantity="one">Dodano %d kontakt</item>
         <item quantity="few">Dodano %d kontakty</item>
         <item quantity="many">Dodano %d kontaktów</item>
     </plurals>
-    <plurals name="conversation_archived">
-        <item quantity="other">&lt;b&gt;%1$d&lt;/b&gt; zarchiwizowanych.</item>
-        <item quantity="one">&lt;b&gt;%1$d&lt;/b&gt; zarchiwizowana.</item>
-        <item quantity="few">&lt;b&gt;%1$d&lt;/b&gt; zarchiwizowane.</item>
-        <item quantity="many">&lt;b&gt;%1$d&lt;/b&gt; zarchiwizowanych.</item>
-    </plurals>
-    <plurals name="conversation_deleted">
-        <item quantity="other">&lt;b&gt;%1$d&lt;/b&gt; usuniętych.</item>
-        <item quantity="one">&lt;b&gt;%1$d&lt;/b&gt; usunięta.</item>
-        <item quantity="few">&lt;b&gt;%1$d&lt;/b&gt; usunięte.</item>
-        <item quantity="many">&lt;b&gt;%1$d&lt;/b&gt; usuniętych.</item>
-    </plurals>
-    <plurals name="conversation_folder_changed">
-        <item quantity="other">Zmieniono folderów.</item>
-        <item quantity="one">Zmieniono folder.</item>
-        <item quantity="few">Zmieniono foldery.</item>
-        <item quantity="many">Zmieniono folderów.</item>
-    </plurals>
     <plurals name="conversation_msg_header_count">
         <item quantity="other">+%1$d innych osób</item>
         <item quantity="one">+%1$d inna osoba</item>
         <item quantity="few">+%1$d inne osoby</item>
         <item quantity="many">+%1$d innych osób</item>
-    </plurals>
-    <plurals name="conversation_muted">
-        <item quantity="other">&lt;b&gt;%1$d&lt;/b&gt; zignorowanych</item>
-        <item quantity="one">&lt;b&gt;%1$d&lt;/b&gt; zignorowano.</item>
-        <item quantity="few">&lt;b&gt;%1$d&lt;/b&gt; zignorowane</item>
-        <item quantity="many">&lt;b&gt;%1$d&lt;/b&gt; zignorowanych</item>
-    </plurals>
-    <plurals name="conversation_not_important">
-        <item quantity="other">&lt;b&gt;%1$d&lt;/b&gt;\" usuniętych z katalogu \'ważne\'\"</item>
-        <item quantity="one">&lt;b&gt;%1$d&lt;/b&gt;\" usunięta z katalogu \'ważne\'\"</item>
-        <item quantity="few">&lt;b&gt;%1$d&lt;/b&gt;\" usunięte z katalogu \'ważne\'\"</item>
-        <item quantity="many">&lt;b&gt;%1$d&lt;/b&gt;\" usuniętych z katalogu \'ważne\'\"</item>
-    </plurals>
-    <plurals name="conversation_not_spam">
-        <item quantity="other">&lt;b&gt;%1$d&lt;/b&gt; usuniętych ze spamu</item>
-        <item quantity="one">&lt;b&gt;%1$d&lt;/b&gt; usunięto ze spamu</item>
-        <item quantity="few">&lt;b&gt;%1$d&lt;/b&gt; usunięte ze spamu</item>
-        <item quantity="many">&lt;b&gt;%1$d&lt;/b&gt; usuniętych ze spamu</item>
-    </plurals>
-    <plurals name="conversation_phished">
-        <item quantity="other">&lt;b&gt;%1$d&lt;/b&gt; wiadomości oznaczonych jako spam</item>
-        <item quantity="one">&lt;b&gt;%1$d&lt;/b&gt; wiadomość oznaczona jako spam</item>
-        <item quantity="few">&lt;b&gt;%1$d&lt;/b&gt; wiadomości oznaczone jako spam</item>
-        <item quantity="many">&lt;b&gt;%1$d&lt;/b&gt; wiadomości oznaczonych jako spam</item>
-    </plurals>
-    <plurals name="conversation_spammed">
-        <item quantity="other">&lt;b&gt;%1$d&lt;/b&gt; zgłoszono jako spam</item>
-        <item quantity="one">&lt;b&gt;%1$d&lt;/b&gt; oznaczono jako spam</item>
-        <item quantity="few">&lt;b&gt;%1$d&lt;/b&gt; zgłoszone jako spam</item>
-        <item quantity="many">&lt;b&gt;%1$d&lt;/b&gt; zgłoszono jako spam</item>
-    </plurals>
-    <plurals name="day">
-        <item quantity="other">%d dni</item>
-        <item quantity="one">%d dzień</item>
-        <item quantity="few">%d dni</item>
-        <item quantity="many">%d dni</item>
-    </plurals>
-    <plurals name="day_after">
-        <item quantity="other">W ciągu %d dni</item>
-        <item quantity="one">W ciągu %d dnia</item>
-        <item quantity="few">W ciągu %d dni</item>
-        <item quantity="many">W ciągu %d dni</item>
-    </plurals>
-    <plurals name="day_before">
-        <item quantity="other">%d dni temu</item>
-        <item quantity="one">%d dzień temu</item>
-        <item quantity="few">%d dni temu</item>
-        <item quantity="many">%d dni temu</item>
     </plurals>
     <plurals name="draft">
         <item quantity="other">Wersje robocze</item>
@@ -179,12 +89,6 @@
         <item quantity="one">Możesz dodać maks. %1$d warunek</item>
         <item quantity="few">Możesz dodać maks. %1$d warunki</item>
         <item quantity="many">Możesz dodać maks. %1$d warunków</item>
-    </plurals>
-    <plurals name="empty_folder_dialog_message">
-        <item quantity="other">Liczba wiadomości, które zostaną trwale usunięte: %1$d.</item>
-        <item quantity="one">%1$d wiadomość zostanie trwale usunięta.</item>
-        <item quantity="few">%1$d wiadomość zostaną trwale usunięte.</item>
-        <item quantity="many">Liczba wiadomości, które zostaną trwale usunięte: %1$d.</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">Pół godziny temu</item>
@@ -228,12 +132,6 @@
         <item quantity="many">Teraz</item>
         <item quantity="other">Teraz</item>
     </plurals>
-    <plurals name="local_search_result">
-        <item quantity="other">%s wyników w zsynchronizowanych wiadomościach</item>
-        <item quantity="one">%s wynik w zsynchronizowanych wiadomościach</item>
-        <item quantity="few">%s wyniki w zsynchronizowanych wiadomościach</item>
-        <item quantity="many">%s wyników w zsynchronizowanych wiadomościach</item>
-    </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d zaznaczonych elementów</item>
         <item quantity="one">%d zaznaczony element</item>
@@ -251,12 +149,6 @@
         <item quantity="one">%d nowe powiadomienie</item>
         <item quantity="few">%d nowe powiadomienia</item>
         <item quantity="many">%d nowych powiadomień</item>
-    </plurals>
-    <plurals name="new_incoming_messages_many">
-        <item quantity="other">Nowych wiadomości: %1$d. Pokaż.</item>
-        <item quantity="one">Pokaż %1$d nową wiadomość.</item>
-        <item quantity="few">Nowe wiadomości: %1$d. Pokaż.</item>
-        <item quantity="many">Nowych wiadomości: %1$d. Pokaż.</item>
     </plurals>
     <plurals name="new_messages">
         <item quantity="other">%1$d nowych wiadomości</item>
@@ -335,23 +227,5 @@
         <item quantity="one">%1$d tydzień wcześniej</item>
         <item quantity="few">%1$d tygodnie wcześniej</item>
         <item quantity="many">%1$d tygodni wcześniej</item>
-    </plurals>
-    <plurals name="remote_search_result">
-        <item quantity="other">%s wyników dla wszystkich kont</item>
-        <item quantity="one">%s wynik dla wszystkich kont</item>
-        <item quantity="few">%s wyniki dla wszystkich kont</item>
-        <item quantity="many">%s wyników dla wszystkich kont</item>
-    </plurals>
-    <plurals name="show_messages_read">
-        <item quantity="other">Starsze wiadomości: %1$d</item>
-        <item quantity="one">%1$d starsza wiadomość</item>
-        <item quantity="few">Starszych wiadomości: %1$d</item>
-        <item quantity="many">Starsze wiadomości: %1$d</item>
-    </plurals>
-    <plurals name="unsent_messages_in_outbox">
-        <item quantity="other">%1$s niewysłanych wiadomości w %2$s</item>
-        <item quantity="one">%1$s niewysłana wiadomość w %2$s</item>
-        <item quantity="few">%1$s niewysłane wiadomości w %2$s</item>
-        <item quantity="many">%1$s niewysłanych wiadomości w %2$s</item>
     </plurals>
 </resources>
