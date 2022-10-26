@@ -1,19 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="all_month_str">
-        <item>Yan</item>
-        <item>Fev</item>
-        <item>Mar</item>
-        <item>Apr</item>
-        <item>May</item>
-        <item>İyun</item>
-        <item>İyul</item>
-        <item>Avq</item>
-        <item>Sen</item>
-        <item>Okt</item>
-        <item>Noy</item>
-        <item>Dek</item>
-    </string-array>
     <string-array name="calendar_remind_string_array">
         <item>Bu gecə</item>
         <item>Sabah</item>
@@ -55,13 +41,6 @@
         <item>müştəri sıradan çıxarıldı, zəhmət olmasa https://mail.sohu.com saytında statusu dəyişdirin</item>
         <item>başlanğıc parolu yoxdur, müştəri parolu yaratmaq üçün zəhmət olmasa https://mail.sohu.com saytında giriş edin</item>
     </string-array>
-    <string-array name="general_preference_text_zoom_summary_array">
-        <item>Çox kiçik</item>
-        <item>Kiçik</item>
-        <item>Normal</item>
-        <item>Böyük</item>
-        <item>Çox böyük</item>
-    </string-array>
     <string-array name="invoice_card_pdf_keyword">
         <item>发票</item>
         <item>faktura</item>
@@ -72,16 +51,6 @@
         <item>Ad</item>
         <item>Göndərən</item>
         <item>Alınma tarixi</item>
-    </string-array>
-    <string-array name="moveto_folder_sections">
-        <item>Sistem</item>
-        <item>Tez-tez istifadə edilən</item>
-        <item>Bütün Qovluqlar</item>
-    </string-array>
-    <string-array name="prefEntries_autoAdvance">
-        <item>Daha yeni mesaj</item>
-        <item>Daha köhnə mesaj</item>
-        <item>Gələn qutusu</item>
     </string-array>
     <string-array name="prefEntries_contact_add">
         <item>Hamısı</item>
