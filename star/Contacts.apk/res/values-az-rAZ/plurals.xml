@@ -176,6 +176,10 @@
         <item quantity="other">%d element seçildi</item>
         <item quantity="one">%d element seçildi</item>
     </plurals>
+    <plurals name="notification_missedCallsMsg">
+        <item quantity="other">%d buraxılmış zəng</item>
+        <item quantity="one">%d buraxılmış zəng</item>
+    </plurals>
     <plurals name="numSelectedSimContacts">
         <item quantity="other">%1$d seçildi</item>
         <item quantity="one">%1$d seçildi</item>
