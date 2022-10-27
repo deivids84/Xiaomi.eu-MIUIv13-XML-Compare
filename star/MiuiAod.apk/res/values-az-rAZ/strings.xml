@@ -309,6 +309,8 @@ dd/MM"</string>
     <string name="select_notification_animation_style">Xüsusi effekt seçin</string>
     <string name="select_notification_notify_style">Bildiriş effekti seçin</string>
     <string name="send">Göndər</string>
+    <string name="settings_view_btn_check_off">Bağlı</string>
+    <string name="settings_view_btn_check_on">Açıq</string>
     <string name="share">Paylaş</string>
     <string name="share_to_community">Xiaomi Cəmiyyətində paylaş</string>
     <string name="show_battery">Batareya vəziyyətini göstər</string>
