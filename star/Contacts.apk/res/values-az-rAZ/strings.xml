@@ -92,7 +92,7 @@
     <string name="bh_cancellation_of_carrier_services_result">"Davam etsəniz, Mi Operator Xidmətlərini ləğv edəcəksiniz. Bundan sonra, şəxsi məlumatlarınızın yığılmasını və istifadə edilməsini dayandıracağıq və sifariş tarixçənizi həmişəlik siləcəyik. Xidmətləri ləğv etməzdən əvvəl bütün əməliyyatlarınızın tamamlandığına əmin olun."</string>
     <string name="bh_cannot_action">"%1$s istifadə edilə bilmədi. Əvvəlcə müvafiq tətbiqi quraşdırın."</string>
     <string name="bh_cannot_fetch_num">Bilinməyən telefon nömrəsi</string>
-    <string name="bh_cannot_login_miacount">"Mi Hesabına daxil oluna bilmədi"</string>
+    <string name="bh_cannot_login_miacount">"Xiaomi Hesabına daxil oluna bilmədi"</string>
     <string name="bh_card_order_detail">Sifariş məlumatı</string>
     <string name="bh_card_order_name">Xidmət paketi</string>
     <string name="bh_card_order_pay_price">Ödənilən miqdar</string>
@@ -194,7 +194,7 @@
     <string name="bh_save_desc">Növbəti vəsait yükləməsində istifadə etmək üçün bu nömrəni saxla</string>
     <string name="bh_save_sccuss">Uğurla saxlanıldı</string>
     <string name="bh_saved_number">Saxlanılan nömrə: %1$s</string>
-    <string name="bh_should_login_to_buy">Zəng dəqiqələri və mobil internet satın ala bilmək üçün Mi Hesabınıza daxil olun</string>
+    <string name="bh_should_login_to_buy">Zəng dəqiqələri və mobil internet satın ala bilmək üçün Xiaomi Hesabınıza daxil olun</string>
     <string name="bh_similar_number_hint">Bu nömrə %1$s ilə oxşardır. Yenə də bu nömrəyə vəsait yüklənilsin?</string>
     <string name="bh_stop_carrier_services">\"Mi Operator Xidmətləri\"ni bağla</string>
     <string name="bh_stop_carrier_services_short">\"Mi Operator Xidmətləri\"ni bağla</string>
@@ -445,7 +445,7 @@
     <string name="create_group_dialog_title">Yeni qrup yarat</string>
     <string name="create_qrcode_fail_message">"QR kod yaradıla bilmir"</string>
     <string name="cta_content_seg1"><Data>\"&lt;strong&gt;Vacib bildiriş.
-Aşağıdakı \"Razıyam\" seçiminə toxunaraq, &lt;font color=#33aaff&gt;&lt;a href =\'https://static.account.xiaomi.com/html/agreement/account/en.html\'&gt;Mi Hesabı Xidmət Razılaşması&lt;/a&gt;&lt;/font&gt;, &lt;font color=#33aaff&gt;&lt;a href =\'https://cnbj1-fds.api.xiaomi.com/mimobile-static/mi-carrier-services-useragreement.html\'&gt;Mi Roaming İstifadəçi Razılaşması&lt;/a&gt;&lt;/font&gt; və &lt;font color=#33aaff&gt;&lt;a href =\'http://www.miui.com/res/doc/privacy/en.html\'&gt;Gizlilik Siyasəti&lt;/a&gt;&lt;/font&gt; ilə razılaşırsınız. Razılaşmazdan əvvəl bu sənədləri diqqətlə oxuyun və əlaqəli bütün şərt və qaydaları tam anlamağa çalışın.&lt;/strong&gt;\"</Data></string>
+Aşağıdakı \"Razıyam\" seçiminə toxunaraq, &lt;font color=#33aaff&gt;&lt;a href =\'https://static.account.xiaomi.com/html/agreement/account/en.html\'&gt;Xiaomi Hesabı Xidmət Razılaşması&lt;/a&gt;&lt;/font&gt;, &lt;font color=#33aaff&gt;&lt;a href =\'https://cnbj1-fds.api.xiaomi.com/mimobile-static/mi-carrier-services-useragreement.html\'&gt;Mi Roaming İstifadəçi Razılaşması&lt;/a&gt;&lt;/font&gt; və &lt;font color=#33aaff&gt;&lt;a href =\'http://www.miui.com/res/doc/privacy/en.html\'&gt;Gizlilik Siyasəti&lt;/a&gt;&lt;/font&gt; ilə razılaşırsınız. Razılaşmazdan əvvəl bu sənədləri diqqətlə oxuyun və əlaqəli bütün şərt və qaydaları tam anlamağa çalışın.&lt;/strong&gt;\"</Data></string>
     <string name="cta_content_seg2">"
 Mi Roaming, normal işləməsi üçün internetə bağlanmalı və yerləşmə məlumatlarınıza müraciət etməlidir. Bundan əlavə, Mi Roaming, şəxsi məlumatlarınızı yığa, istifadə edə və paylaşa bilər. Şəxsi məlumatlarınız yerli qanunlara və nizamlamalara uyğun olaraq qorunacaq."</string>
     <string name="cta_dialog_cancel">Çıx</string>
@@ -886,6 +886,10 @@ Səbəb: \"%s\""</string>
     <string name="not_set">Tənzimlənmədi</string>
     <string name="notification_click_detail">Detallara baxmaq üçün toxunun</string>
     <string name="notification_micloudsync_delete_contact">Xiaomi Cloud bəzi kontaktlarınızı silmək istəyir</string>
+    <string name="notification_missedCallTitle">Buraxılmış zəng</string>
+    <string name="notification_missedCall_call_back">Geri zəng et</string>
+    <string name="notification_missedCall_message">SMS göndər</string>
+    <string name="notification_missedCallsTitle">Buraxılmış zənglər</string>
     <string name="open_contact">Kontakta bax</string>
     <string name="open_dial_pad_description">Nömrə yığımını aç</string>
     <string name="option_delete_contact">Sil</string>
