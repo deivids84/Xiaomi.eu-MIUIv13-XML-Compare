@@ -1757,7 +1757,7 @@ Puedes desactivar esta función en Ajustes &gt; Bluetooth&gt; Dispositivos vincu
     <string name="bt_absVolume_open_dialog_title">Atención</string>
     <string name="bt_absVolume_pre_title">Volumen absoluto</string>
     <string name="bt_absVolume_summary">"Mantén el volumen de los dispositivos Bluetooth y del dispositivo estrictamente constante. Puedes activar y desactivar esta función cuando no se reproduzcan elementos multimedia en segundo plano."</string>
-    <string name="bt_always_show_icon">Mostrar el icono en la barra de estado siempre</string>
+    <string name="bt_always_show_icon">Mostrar siempre el icono en la barra de estado</string>
     <string name="bt_aptx_adaptive_open_dialog_summary">El aptX Adaptive proporciona una reproducción de alta calidad y reduce la latencia de audio para juegos y vídeos, aunque aumenta el consumo de energía. La reproducción se puede entrecortar por limitaciones del hardware Bluetooth o interferencias ambientales.</string>
     <string name="bt_aptx_adaptive_open_dialog_title">¿Cambiar a aptX Adaptive?</string>
     <string name="bt_audio_repair_property">Solucionar problemas de audio</string>
@@ -7067,7 +7067,7 @@ Este ajuste afecta a todos los usuarios del dispositivo."</string>
     <string name="runtime_permissions_summary_no_permissions_requested">No se han solicitado permisos</string>
     <string name="rx_link_speed_label">Velocidad de recepción:</string>
     <string name="rx_wifi_speed">Velocidad de enlace de recepción</string>
-    <string name="safe_install_mode_settings">Modo seguro</string>
+    <string name="safe_install_mode_settings">Modo Seguro</string>
     <string name="safety_and_regulatory_info">Manual de seguridad y normativas</string>
     <string name="sar">Información de exposición a RF</string>
     <string name="saturday">Sábado</string>
