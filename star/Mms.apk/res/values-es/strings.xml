@@ -835,7 +835,7 @@ Lea y acepte la nueva versión de la Política de privacidad antes de continuar.
     <string name="privacy_revoke_nonetwork_ok">Entiendo</string>
     <string name="privacy_revoke_nonetwork_title">"No puedo conectarme a la red"</string>
     <string name="privacy_state_revoked_cancel">Cancelar</string>
-    <string name="privacy_state_revoked_content">Al desactivar el interruptor, retira su consentimiento a la Política de privacidad de mensajería. Dejaremos de recopilar su información personal. La información personal ya recopilada y retenida se eliminará dentro del período específico requerido por las leyes aplicables. Mi Message y Smart Messaging proporcionados por Messaging deben recopilar la información personal necesaria para brindarle servicios básicos. Su retiro del consentimiento a la Política de privacidad de mensajería se considerará que se niega a aceptar los servicios en función de la información personal recopilada proporcionada por Mi Message y Smart Messaging.</string>
+    <string name="privacy_state_revoked_content">Al desactivar el interruptor, retiras tu consentimiento a la Política de Privacidad de Mensajería. Dejaremos de recopilar información personal. La que ya está recopilada se eliminará dentro del período específico requerido por las leyes aplicables. Los servicios de Mensajería recopilan la información personal necesaria para proporcionar los servicios básicos. Si retiras el consentimiento a la Política de Privacidad se considera que no aceptas los servicios de Mensajería, basados en la información personal recopilada.</string>
     <string name="privacy_state_revoked_dialog_title">Concediendo y revocando autorización</string>
     <string name="privacy_state_revoked_revoked">Revocar</string>
     <string name="privacy_state_revoked_switch">Concediendo y revocando autorización</string>
@@ -989,7 +989,7 @@ Echa un vistazo a los recomendados!"</string>
     <string name="rcs_silence_message">Silenciar notificaciones de mensajes</string>
     <string name="rcs_summary_auto_resend_mms">"Convertir los mensajes multimedia de China Mobile a MMS cuando no se pueda enviar el mensaje original. Tu operador podría cobrarte por este mensaje."</string>
     <string name="rcs_summary_auto_resend_sms">"Convertir los mensajes multimedia de China Mobile a SMS cuando no se pueda enviar el mensaje original. Tu operador podría cobrarte por este mensaje."</string>
-    <string name="rcs_summary_silence_message">Silenciar notificaciones de mensajes cuando el cliente de escritorio esté funcionando</string>
+    <string name="rcs_summary_silence_message">Silencia notificaciones de mensajes con el cliente de escritorio funcionando</string>
     <string name="rcs_unavailable">"No puede utilizar la mensajería de China Mobile. La tarjeta SIM de China Mobile no es su tarjeta de datos predeterminada."</string>
     <string name="rcs_up_not_online">Rcs desconectado. Comprueba los ajustes de red e inténtalo otra vez.</string>
     <string name="rcs_wait_for_retry_text">Esperando…</string>
