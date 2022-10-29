@@ -258,7 +258,7 @@ Cierra esta página y vuelve a intentarlo."</string>
     <string name="settings_feature_characteristics_title_1">Sincronización y traspaso sin problemas</string>
     <string name="settings_feature_characteristics_title_2">Transferencia de archivos</string>
     <string name="settings_feature_characteristics_title_3">Conexión automática</string>
-    <string name="settings_feature_dnd_summary">Silenciar notificaciones cuando su dispositivo está conectado a un ordenador</string>
+    <string name="settings_feature_dnd_summary">Silenciar notificaciones con el dispositivo conectado a un ordenador</string>
     <string name="settings_feature_dnd_title">No Molestar</string>
     <string name="settings_feature_intro">Acerca de esta característica</string>
     <string name="settings_handoff_enable_bluetooth">Activar Bluetooth para encontrar dispositivos cercanos</string>
