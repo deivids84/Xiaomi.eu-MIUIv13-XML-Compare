@@ -3097,7 +3097,7 @@ Si el problema persiste, desinstala la aplicación para mejorar el rendimiento d
     <string name="emergency_gesture_call_for_help_dialog_title">Número de emergencias</string>
     <string name="emergency_gesture_call_for_help_summary">%1$s. Pulsa para cambiarlo</string>
     <string name="emergency_gesture_call_for_help_title">Llamar a emergencias</string>
-    <string name="emergency_gesture_category_call_for_help_title">Notificar para obtener ayuda</string>
+    <string name="emergency_gesture_category_call_for_help_title">Llamar para obtener ayuda</string>
     <string name="emergency_gesture_entrypoint_summary">Gestionado por %1$s</string>
     <string name="emergency_gesture_number_override_notes">"Si indicas un número no de emergencias:
  • El dispositivo debe estar desbloqueado para usar SOS de emergencia
@@ -5409,7 +5409,7 @@ Continúa para acceder a los ajustes adicionales."</string>
     <string name="miui_sos_call_log_duration">Duración</string>
     <string name="miui_sos_call_log_none">No hay historial de llamadas de la última hora.</string>
     <string name="miui_sos_call_log_stranger">Extraño</string>
-    <string name="miui_sos_call_log_summary">Enviar el historial de llamadas de la última 1hora a tus contactos de emergencia</string>
+    <string name="miui_sos_call_log_summary">Enviar el historial de llamadas de la última hora a tus contactos de emergencia</string>
     <string name="miui_sos_call_log_time_unit">%1$dmin %2$ds</string>
     <string name="miui_sos_call_log_title">Enviar historial de llamadas</string>
     <string name="miui_sos_call_police">Policía</string>
@@ -7919,7 +7919,7 @@ Nota: No puedes usar tu huella dactilar para desbloquear este dispositivo. Para 
     <string name="silent_mode">Modo Silencio</string>
     <string name="silent_mode_disable_media">Silenciar todo</string>
     <string name="silent_mode_enable_media">Reproducir multimedia</string>
-    <string name="silent_mode_summary">Silenciar llamadas, notificaciones y multimedia</string>
+    <string name="silent_mode_summary">Silencia llamadas, notificaciones y multimedia</string>
     <string name="silent_mode_title">Modo Silencio</string>
     <string name="silent_mode_toggle_title">Modo Silencio</string>
     <string name="silent_notifications_status_bar">No mostrar notificaciones silenciosas en la barra de estado</string>
@@ -8248,7 +8248,7 @@ Dado que SOS de emergencia proporciona sus servicios en función de la recopilac
 Esto es posible por una credencial de confianza instalada en tu dispositivo."</string>
     <string name="stable_build">Estable</string>
     <string name="standard">Silenciar</string>
-    <string name="standard_info">Se silenciarán llamadas y notificaciones</string>
+    <string name="standard_info">Se silenciarán las llamadas y notificaciones</string>
     <string name="standard_limit">Predeterminado</string>
     <string name="standby_bucket_summary">Aplicación en estado de espera: %s</string>
     <string name="start_silent_mode">Activar modo Silencio</string>
@@ -8897,8 +8897,8 @@ un servicio de Google que te permite sincronizar datos para que puedas acceder a
     <string name="tomorrow">Mañana</string>
     <string name="top_to_bottom_slide">Deslizar hacia abajo</string>
     <string name="total">No molestar</string>
-    <string name="total_info">Silenciar llamadas entrantes, notificaciones y restringir la vibración</string>
-    <string name="total_info_no_vibrator">Silenciar llamadas entrantes y notificaciones</string>
+    <string name="total_info">Silencia llamadas entrantes, notificaciones y restringe la vibración</string>
+    <string name="total_info_no_vibrator">Silencia las llamadas entrantes y las notificaciones</string>
     <string name="total_memory">Memoria total</string>
     <string name="total_size">%s total</string>
     <string name="total_size_label">Total</string>
@@ -9559,11 +9559,11 @@ Durante las llamadas de voz, no podrás utilizar Internet y es posible que algun
     <string name="volume_media_description">Música, juegos, vídeos y más multimedia</string>
     <string name="volume_media_mute">Silenciar música y otros archivos multimedia</string>
     <string name="volume_notification_description">Notificaciones</string>
-    <string name="volume_notification_mute">Silenciar notificaciones</string>
+    <string name="volume_notification_mute">Silencia las notificaciones</string>
     <string name="volume_restore">Restaurar niveles</string>
     <string name="volume_restore_alert">¿Restablecer todos los niveles de volumen a su configuración predeterminada?</string>
     <string name="volume_ring_description">Tono de llamada y notificaciones</string>
-    <string name="volume_ring_mute">Silenciar tono y notificaciones</string>
+    <string name="volume_ring_mute">Silencia las llamadas y notificaciones</string>
     <string name="volume_system_description">Cámara, capturas de pantalla, botones y notificaciones del sistema</string>
     <string name="volume_voice_description">Llamada de voz entrante</string>
     <string name="vonr_switch_title">Usar VoNR</string>
@@ -10727,7 +10727,7 @@ Cuando desactives No molestar, desliza el dedo desde la parte superior de la pan
     <string name="zen_mode_starred_contacts_summary_none">Ninguno</string>
     <string name="zen_mode_starred_contacts_title">Contactos destacados</string>
     <string name="zen_mode_start_time">Hora de inicio</string>
-    <string name="zen_mode_summary">Silenciar llamadas entrantes, notificaciones, multimedia y desactivar la vibración</string>
+    <string name="zen_mode_summary">Silencia llamadas entrantes, notificaciones, multimedia y desactiva la vibración</string>
     <string name="zen_mode_summary2">"No habrá recordatorios de llamadas entrantes ni notificaciones."</string>
     <string name="zen_mode_summary_alarms_only_by_time">Cambiar a solo alarmas hasta las %1$s</string>
     <string name="zen_mode_summary_alarms_only_indefinite">Cambiar a solo alarmas indefinidamente</string>
