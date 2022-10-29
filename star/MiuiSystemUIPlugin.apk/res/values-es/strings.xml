@@ -134,7 +134,7 @@
     <string name="date_time_picker_dialog_title">Establecer fecha y hora</string>
     <string name="disabled">No disponible</string>
     <string name="dnd_popup_close_message">Entendido</string>
-    <string name="dnd_popup_message">Puedes activar el Modo no molestar para silenciar llamadas y notificaciones sin apagar los sonidos multimedia.</string>
+    <string name="dnd_popup_message">Puedes activar el modo No Molestar para silenciar llamadas y notificaciones sin apagar el sonido multimedia.</string>
     <string name="dolby_atoms_sound_effect_label">Dolby Atmos</string>
     <string name="drag_to_add_tiles">Mantén presionado para agregar o reorganizar elementos</string>
     <string name="early_morning">Mañana</string>
