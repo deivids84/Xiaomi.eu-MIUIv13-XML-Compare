@@ -164,6 +164,10 @@
         <item quantity="other">Fa %d minuts</item>
         <item quantity="one">Fa 1 minut</item>
     </plurals>
+    <plurals name="pay_mibi">
+        <item quantity="other">Pagueu %1$s monedes Mi</item>
+        <item quantity="one">Pagueu %1$s moneda Mi</item>
+    </plurals>
     <plurals name="resource_comment_score_count">
         <item quantity="other">%d comentaris</item>
         <item quantity="one">%d comentari</item>
