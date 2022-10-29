@@ -486,7 +486,7 @@
     <string name="split_screen">Mostrar pantalla dividida</string>
     <string name="spring">Primavera</string>
     <string name="standard">Silenciar</string>
-    <string name="standard_description">Silenciar tonos para llamadas entrantes y notificaciones</string>
+    <string name="standard_description">Silencia las llamadas entrantes y las notificaciones</string>
     <string name="standard_title">Silenciar</string>
     <string name="start_dump_log">Obtener registros relacionados con el problema</string>
     <string name="start_security_permission_verify_text">Verificar permisos con la cuenta Xiaomi</string>
