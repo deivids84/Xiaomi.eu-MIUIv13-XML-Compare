@@ -83,7 +83,7 @@
     <string name="clearable_edittext_clear_description">Təmizlə</string>
     <string name="close">Bağla</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı təyin et</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
     <string name="defaultname">Avtomobil dəsti</string>
     <string name="deleteAll_record">Bütün səsyazmaları sil</string>
     <string name="delete_record">Səsyazmanı sil</string>
