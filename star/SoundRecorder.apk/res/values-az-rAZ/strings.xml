@@ -73,7 +73,7 @@
     <string name="data_connection_button_text">Oldu</string>
     <string name="data_connection_title">İnternet istifadə xəbərdarlığı</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı təyin et</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
     <string name="delete">Sil</string>
     <string name="delete_cloud_data_at_same_time">Buluddan da sil</string>
     <string name="delete_dialog_message">Səsyazma silinsin?</string>
