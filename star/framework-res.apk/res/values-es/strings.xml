@@ -1655,7 +1655,7 @@ Escuchar sonidos fuertes durante mucho tiempo puede dañar los oídos."</string>
     <string name="share">Compartir</string>
     <string name="share_action_provider_share_with">Compartir con</string>
     <string name="share_remote_bugreport_action">COMPARTIR</string>
-    <string name="share_remote_bugreport_notification_message_finished">El administrador ha solicitado un informe de errores para solucionar problemas de este dispositivo. Es posible que se compartan las aplicaciones y los datos.</string>
+    <string name="share_remote_bugreport_notification_message_finished">El administrador ha solicitado un informe de errores para solucionar problemas del dispositivo. Se pueden compartir aplicaciones y datos.</string>
     <string name="share_remote_bugreport_notification_title">¿Compartir informe de errores?</string>
     <string name="shareactionprovider_share_with">Compartir con</string>
     <string name="shareactionprovider_share_with_application">Compartir con %s</string>
