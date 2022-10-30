@@ -47,7 +47,7 @@
     <string name="date_picker_dialog_title">Tarixi tənzimlə</string>
     <string name="date_picker_lunar">Ənənəvi Çin təqvimi</string>
     <string name="date_time_done">Hazırdır</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı təyin et</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
     <string name="delete_description">Sil</string>
     <string name="deselect_all">Seçimi ləğv et</string>
     <string name="deselect_all_description">Heç birini seçmə</string>
@@ -221,7 +221,7 @@
     <string name="the_night_of_sevens">Yeddilərin Gecəsi</string>
     <string name="the_partys_day">Parti Günü</string>
     <string name="the_peace_day">Sülh günü</string>
-    <string name="the_retrocession_day">Restrosessiya günü</string>
+    <string name="the_retrocession_day">Restrosessiya Günü</string>
     <string name="the_second_day">Second Day</string>
     <string name="the_seventh_day">Seventh Day</string>
     <string name="the_sixth_day">Sixth Day</string>
@@ -231,7 +231,7 @@
     <string name="the_third_day">Third Day</string>
     <string name="the_tw_childrens_day">Uşaqlar günü</string>
     <string name="the_tw_youth_day">Gənclər Günü</string>
-    <string name="the_united_nations_day">Birləşmiş Millətlər günü</string>
+    <string name="the_united_nations_day">Birləşmiş Millətlər Günü</string>
     <string name="the_valentines_day">Sevgililər günü</string>
     <string name="the_water_lantern_festival">Su Fənəri Festivalı</string>
     <string name="thursday">Cümə axşamı</string>
