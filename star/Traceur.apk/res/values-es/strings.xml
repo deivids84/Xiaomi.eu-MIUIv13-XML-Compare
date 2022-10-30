@@ -96,7 +96,7 @@
 Con este permiso desactivado, las alarmas existentes y los eventos basados en el tiempo programados por esta aplicación no funcionarán."</string>
     <string name="alarms_and_reminders_label">Alarmas y recordatorios</string>
     <string name="alarms_and_reminders_switch_title">Permitir configurar alarmas y recordatorios</string>
-    <string name="alarms_and_reminders_title">Alarmas &amp; recordatorios</string>
+    <string name="alarms_and_reminders_title">Alarmas y recordatorios</string>
     <string name="all_traces_will_be_deleted">Se eliminarán todos los rastros de /data/local/traces</string>
     <string name="allow_mock_location">Ubicaciones simuladas</string>
     <string name="allow_mock_location_summary">Permitir ubicaciones simuladas</string>
