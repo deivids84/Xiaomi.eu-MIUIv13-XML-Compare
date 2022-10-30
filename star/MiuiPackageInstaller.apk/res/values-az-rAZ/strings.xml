@@ -84,7 +84,7 @@
     <string name="cpu_compatible_error">"Bu tətbiq, 64 bitlik arxitektura ilə tam olaraq uyğunlaşmır. Bunu istifadə etmək sistem performansını zəiflədə və enerji istifadəsini artıra bilər. Daha ətraflı öyrənmək üçün toxunun."</string>
     <string name="cta_button_text_cancel">Çıx</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı təyin et</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
     <string name="detect_risk">Risklər aşkarlandı</string>
     <string name="device_pad">Planşet</string>
     <string name="device_phone">Telefon</string>
