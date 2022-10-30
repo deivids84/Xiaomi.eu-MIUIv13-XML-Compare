@@ -473,20 +473,20 @@
         <item quantity="one">Confiar en el certificado o eliminarlo</item>
     </plurals>
     <plurals name="ssl_ca_cert_info_message">
-        <item quantity="other">"%s ha instalado entidades de certificación para tu perfil de trabajo que pueden permitir la monitorización de tu actividad de red, como los correos electrónicos, las aplicaciones y los sitios web seguros.
+        <item quantity="other">"%s ha instalado entidades de certificación, para tu perfil de trabajo, que pueden permitirles monitorizar tu actividad de red, incluyendo los correos electrónicos, las aplicaciones y los sitios web seguros.
 
-Ponte en contacto con el administrador para obtener más información sobre estos certificados."</item>
-        <item quantity="one">"%s ha instalado una entidad de certificación para tu perfil de trabajo que puede permitir la monitorización de tu actividad de red, como los correos electrónicos, las aplicaciones y los sitios web seguros.
+Para más información sobre estos certificados, contacta con el administrador."</item>
+        <item quantity="one">"%s ha instalado una entidad de certificación, para tu perfil de trabajo, que puede permitirle monitorizar tu actividad de red, incluyendo los correos electrónicos, las aplicaciones y los sitios web seguros.
 
-Ponte en contacto con el administrador para obtener más información sobre este certificado."</item>
+Para más información sobre el certificado, contacta con el administrador."</item>
     </plurals>
     <plurals name="ssl_ca_cert_info_message_device_owner">
-        <item quantity="other">"%s ha instalado entidades de certificación en tu dispositivo que pueden permitir la monitorización de su actividad de red, como los correos electrónicos, las aplicaciones y los sitios web seguros.
+        <item quantity="other">"%s ha instalado entidades de certificación, en el dispositivo, que pueden permitirles monitorizar tu actividad de red, incluyendo los correos electrónicos, las aplicaciones y los sitios web seguros.
 
-Ponte en contacto con el administrador para obtener más información sobre estos certificados."</item>
-        <item quantity="one">"%s ha instalado una entidad de certificación en tu dispositivo que puede permitir la monitorización de su actividad de red, como los correos electrónicos, las aplicaciones y los sitios web seguros.
+Para más información sobre estos certificados, contacta con el administrador."</item>
+        <item quantity="one">"%s ha instalado una entidad de certificación, en el dispositivo, que puede permitirle monitorizar tu actividad de red, incluyendo los correos electrónicos, las aplicaciones y los sitios web seguros.
 
-Ponte en contacto con el administrador para obtener más información sobre este certificado."</item>
+Para más información sobre el certificado, contacta con el administrador."</item>
     </plurals>
     <plurals name="ssl_ca_cert_settings_button">
         <item quantity="other">Comprobar certificados</item>
