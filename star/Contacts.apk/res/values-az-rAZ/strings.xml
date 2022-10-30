@@ -455,7 +455,7 @@ Mi Roaming, normal işləməsi üçün internetə bağlanmalı və yerləşmə m
     <string name="custom_list_filter">Xüsusi baxışı müəyyənləşdir</string>
     <string name="custom_nickname_hint">Ləqəbi daxil edin</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı təyin et</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
     <string name="date_year_toggle">İli daxil edin</string>
     <string name="default_ringtone">İlkin zəng səsi</string>
     <string name="deleteCloudConfirmationDetail">%s kontakt məlumatları Cloud-dan və bu cihazdan silinsin?</string>
@@ -1263,8 +1263,8 @@ Səbəb: \"%s\""</string>
     <string name="the_third_day">Çin Yeni İlinin üçüncü günü</string>
     <string name="the_tw_childrens_day">"Uşaqlar Günü"</string>
     <string name="the_tw_youth_day">Gənclər Günü</string>
-    <string name="the_united_nations_day">Birləşmiş millətlər günü</string>
-    <string name="the_valentines_day">"Sevgililər günü"</string>
+    <string name="the_united_nations_day">Birləşmiş Millətlər Günü</string>
+    <string name="the_valentines_day">"Sevgililər Günü"</string>
     <string name="the_water_lantern_festival">Su Fənəri Festivalı</string>
     <string name="this_folder">Bu qovluğu istifadə et</string>
     <string name="three_letter">DEF</string>
