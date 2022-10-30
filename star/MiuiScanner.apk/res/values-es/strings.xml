@@ -858,7 +858,7 @@
     <string name="ucrop_menu_crop">Cortar</string>
     <string name="ucrop_rotate">Rotación</string>
     <string name="ucrop_scale">Escala</string>
-    <string name="uninstall_prompt">Si se produce un problema durante la instalación, ve a Ajustes &gt; Aplicaciones &gt; Administrar aplicaciones &gt; Escáner, pulsa \"Desinstalar\" y vuelve a instalar la aplicación.</string>
+    <string name="uninstall_prompt">Si se producen problemas durante la instalación, vete a Ajustes, Aplicaciones, Administrar aplicaciones, Escáner. Pulsa \"Desinstalar\" y después instala otra vez la aplicación.</string>
     <string name="url_is_phish">Esta web parece ser una página de suplantación de identidad</string>
     <string name="url_is_safety">Esta web es segura</string>
     <string name="url_is_unknown">"No se pudo comprobar si esta web es segura"</string>
