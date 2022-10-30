@@ -104,7 +104,7 @@
 Con este permiso desactivado, las alarmas existentes y los eventos basados en el tiempo programados por esta aplicación no funcionarán."</string>
     <string name="alarms_and_reminders_label">Alarmas y recordatorios</string>
     <string name="alarms_and_reminders_switch_title">Permitir configurar alarmas y recordatorios</string>
-    <string name="alarms_and_reminders_title">Alarmas &amp; recordatorios</string>
+    <string name="alarms_and_reminders_title">Alarmas y recordatorios</string>
     <string name="allergies">Alergias</string>
     <string name="allergies_hint">Por ejemplo, nueces</string>
     <string name="allow_mock_location">Permitir ubicaciones falsas</string>
