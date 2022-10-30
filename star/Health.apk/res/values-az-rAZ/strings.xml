@@ -278,7 +278,7 @@ Saxlamağı seçdikdən sonra sağlamlıq məlumatlarını silməyə qərar vers
     <string name="date_format_y_m_d_notranslate">dd-MM-yyyy</string>
     <string name="date_format_yyyy_m_d_h_m">dd/MM/yyyy HH:mm</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı təyin et</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
     <string name="date_week_index">"yyyy 'W'ww"</string>
     <string name="day">Gün</string>
     <string name="deep_light_detection_open_prompt">Yuxu dövrünüz növbəti dəfə yatdığınız vaxt təhlil ediləcək</string>
