@@ -175,7 +175,7 @@
     <string name="date_jump_hint">Birbaşa müəyyən tarixə gedin</string>
     <string name="date_jump_title">Tarixə get</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı təyin et</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
     <string name="date_today">" (bu gün)"</string>
     <string name="date_view">Tarix</string>
     <string name="day">Gün</string>
