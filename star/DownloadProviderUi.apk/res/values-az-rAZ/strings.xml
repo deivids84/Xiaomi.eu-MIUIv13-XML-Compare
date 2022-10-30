@@ -58,7 +58,7 @@
     <string name="creat_task_success">Endirmə növbəsinə əlavə edildi</string>
     <string name="create_task">Tapşırıq yarat</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı təyin et</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
     <string name="delete">Sil</string>
     <string name="delete_download">Sil</string>
     <string name="dialog_btn_cancel">İmtina</string>
