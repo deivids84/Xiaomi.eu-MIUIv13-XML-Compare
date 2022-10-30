@@ -59,7 +59,7 @@
     <string name="copies_increase">Üstəgəl bir kopya</string>
     <string name="copy">Kopyala</string>
     <string name="could_not_create_file">Fayl yaradıla bilmədi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı təyin et</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
     <string name="delete_saved_printer_content">Seçilmiş printerlər indi silinsin?</string>
     <string name="destination_default_text">Bir printer seçin</string>
     <string name="disabled_services_title">Sıradan çıxarılmış printerlər</string>
