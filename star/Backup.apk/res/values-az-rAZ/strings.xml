@@ -160,7 +160,7 @@ Yeni təhlükəsizlik sualı yaratdıqdan və doğum tarixinizi təsdiqlədikdə
     <string name="data_no_enough_space_message">"Cihazınızda kifayət qədər yaddaş sahəsi yoxdur."</string>
     <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı təyin et</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
     <string name="delete">Sil</string>
     <string name="delete_backup_process">Silinir…</string>
     <string name="delete_backup_title">Nüsxəni sil</string>
