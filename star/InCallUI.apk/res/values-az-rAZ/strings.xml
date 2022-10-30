@@ -144,7 +144,7 @@
     <string name="crbt_second_hold_prompt_conference">Konfrans zəngi gözləmədə…</string>
     <string name="crbt_second_hold_prompt_no_name">Əvvəlki zəng gözləmədə…</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı təyin et</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
     <string name="description_icon_sim_card">SIM %1$d</string>
     <string name="description_image_button_answer">Cavabla</string>
     <string name="description_image_button_dialpad">Nömrə paneli</string>
