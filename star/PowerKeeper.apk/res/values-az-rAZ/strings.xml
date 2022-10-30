@@ -67,7 +67,7 @@ Batareya qənaəti, vacib tətbiqləri seçici şəkildə idarə edəcək."</str
     <string name="copy">Kopyala</string>
     <string name="current_cloud_addr_is">Bulud nəzarət serverinin ünvanı:</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı təyin et</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
     <string name="delete_data_confirm">Bu element indi silinsin?</string>
     <string name="early_morning">Səhər</string>
     <string name="empty_title_apps_container_list">Tətbiq yoxdur</string>
