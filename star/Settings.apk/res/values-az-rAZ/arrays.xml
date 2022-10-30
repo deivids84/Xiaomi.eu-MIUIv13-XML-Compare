@@ -223,7 +223,7 @@
     <string-array name="autofill_logging_level_entries">
         <item>Bağlı</item>
         <item>Sazlama</item>
-        <item>Ətraflı</item>
+        <item>Detallı</item>
     </string-array>
     <string-array name="automatic_storage_management_days">
         <item>30 gündən köhnə</item>
@@ -1263,7 +1263,7 @@ Qeyd: Yalnız Ubuntu 8.04 üçün!"</item>
         <item>Xəbərdarlıq</item>
         <item>Məlumat</item>
         <item>Sazlama</item>
-        <item>Ətraflı</item>
+        <item>Detallı</item>
     </string-array>
     <string-array name="select_logpersist_summaries">
         <item>Bağlı</item>
