@@ -33,8 +33,12 @@
     <string name="access_terms">Accede a condiciones</string>
     <string name="account_management_disclaimer_header">Tu cuenta esta administrada</string>
     <string name="account_management_disclaimer_subheader">Su administrador de TI utiliza la administración de dispositivos móviles para hacer cumplir las políticas de seguridad</string>
-    <string name="admin_has_ability_to_monitor_device">"Tu administrador de TI puede supervisar y gestionar los ajustes, acceso corporativo, aplicaciones, permisos y datos asociados con este dispositivo, además de la actividad de red, la ubicación del dispositivo, el historial de llamadas y el historial de búsqueda de contactos.&lt;br&gt;&lt;br&gt;Ponte en contacto con tu administrador de TI para obtener más información, además de para conocer las políticas de privacidad de tu organización."</string>
-    <string name="admin_has_ability_to_monitor_profile">"Tu administrador de TI puede supervisar y gestionar los ajustes, acceso corporativo, aplicaciones, permisos y datos asociados con este perfil, además de la actividad de red, la ubicación del dispositivo, el historial de llamadas y el historial de búsqueda de contactos.&lt;br&gt;&lt;br&gt;Ponte en contacto con tu administrador de TI para obtener más información, además de para conocer las políticas de privacidad de tu organización."</string>
+    <string name="admin_has_ability_to_monitor_device">"Tu administrador de TI puede supervisar y gestionar los ajustes, el acceso corporativo, las aplicaciones, los permisos y datos asociados con el dispositivo, la actividad de red, la ubicación, el historial de llamadas y el de búsqueda de contactos.
+
+Contacta con él para obtener más información y conocer la política de privacidad de tu organización."</string>
+    <string name="admin_has_ability_to_monitor_profile">"Tu administrador de TI puede supervisar y gestionar los ajustes, el acceso corporativo, las aplicaciones, los permisos y datos asociados con el dispositivo, la actividad de red, la ubicación, el historial de llamadas y el de búsqueda de contactos.
+
+Contacta con él para obtener más información y conocer la política de privacidad de tu organización."</string>
     <string name="app_label">Configuración de trabajo</string>
     <string name="back">Atrás</string>
     <string name="bottomsheet_action_expand_halfway">Expandir a la mitad</string>
@@ -126,7 +130,7 @@
     <string name="fully_managed_device_provisioning_accept_header">"Vamos a configurar tu dispositivo de trabajo"</string>
     <string name="fully_managed_device_provisioning_permissions_header">Tu actividad &amp; datos</string>
     <string name="fully_managed_device_provisioning_permissions_secondary_header">Permisos de la aplicación</string>
-    <string name="fully_managed_device_provisioning_permissions_secondary_subheader">Su administrador de TI puede establecer permisos para aplicaciones en este dispositivo, como permisos de micrófono, cámara y ubicación.</string>
+    <string name="fully_managed_device_provisioning_permissions_secondary_subheader">El administrador de TI puede establecer permisos para las aplicaciones del dispositivo, como permisos de micrófono, cámara y ubicación.</string>
     <string name="fully_managed_device_provisioning_privacy_body">Tu administrador de TI puede ver los datos y actividad de este dispositivo</string>
     <string name="fully_managed_device_provisioning_privacy_title">Recordatorio de privacidad</string>
     <string name="fully_managed_device_provisioning_progress_label">Configurando el dispositivo…</string>
@@ -135,9 +139,9 @@
     <string name="fully_managed_device_provisioning_step_1_header">Tener las aplicaciones de trabajo a tu alcance</string>
     <string name="fully_managed_device_provisioning_step_2_header">"Este dispositivo no es privado"</string>
     <string name="fully_managed_device_provisioning_step_2_subheader">Tu administrador de TI puede ver los datos y la actividad de este dispositivo.</string>
-    <string name="fully_managed_device_provisioning_summary">"Utiliza este dispositivo para acceder fácilmente a las aplicaciones de trabajo. Este dispositivo no es privado, por lo que tu administrador de TI puede ver tus datos y actividad. Para obtener más información, ponte en contacto con tu administrador de TI."</string>
+    <string name="fully_managed_device_provisioning_summary">"Usa el dispositivo para acceder a las aplicaciones de trabajo. El dispositivo no es privado y el administrador de TI puede ver tus datos y tu actividad. Para obtener más información, contacta con él."</string>
     <string name="fully_managed_device_reset_and_return_button">Restablecer &amp; dispositivo de retorno</string>
-    <string name="fully_managed_device_with_permission_control_provisioning_summary">Utilice este dispositivo para acceder fácilmente a sus aplicaciones de trabajo. Este dispositivo no es privado, por lo que su administrador de TI puede ver su actividad y sus datos. Su administrador de TI también puede establecer permisos para aplicaciones en este dispositivo, como permisos de micrófono, cámara y ubicación.</string>
+    <string name="fully_managed_device_with_permission_control_provisioning_summary">Usa el dispositivo para acceder a las aplicaciones de trabajo. El dispositivo no es privado y el administrador de TI puede ver tus datos y tu actividad. También puede establecer permisos de aplicaciones, como permisos de micrófono, cámara y ubicación.</string>
     <string name="icon_content_description">Icono de diálogo</string>
     <string name="if_questions_contact_admin">Si tienes alguna pregunta, ponte en contacto con tu administrador de TI</string>
     <string name="info_anim_title_0">Cambia tu forma de trabajar</string>
@@ -260,7 +264,7 @@
     <string name="work_profile_provisioning_step_1_header">Las aplicaciones de trabajo se guardan en tu perfil de trabajo</string>
     <string name="work_profile_provisioning_step_2_header">"Pausa las aplicaciones de trabajo cuando haya acabado tu jornada laboral"</string>
     <string name="work_profile_provisioning_step_3_header">Tu administrador de TI puede ver los datos que hay en tu perfil de trabajo</string>
-    <string name="work_profile_provisioning_summary">Las aplicaciones de trabajo se guardan en tu perfil de trabajo. Puedes pausar tus aplicaciones de trabajo cuando termine tu jornada laboral. Tu administrador de TI puede ver los datos que hay en tu perfil de trabajo.</string>
+    <string name="work_profile_provisioning_summary">Las aplicaciones de trabajo se guardan en tu perfil de trabajo. Puedes pausarlas cuando termine tu jornada laboral. El administrador de TI puede ver los datos de tu perfil de trabajo.</string>
     <string name="work_profile_setup_later_message">"Puedes configurar tu perfil de trabajo más tarde con la aplicación de administración de dispositivos de tu organización"</string>
     <string name="work_profile_setup_later_title">¿Detener la configuración del perfil?</string>
     <string name="work_profile_setup_stop">Detener</string>
