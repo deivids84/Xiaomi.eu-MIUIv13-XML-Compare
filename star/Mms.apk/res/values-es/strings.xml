@@ -1131,7 +1131,7 @@ Echa un vistazo a los recomendados!"</string>
     <string name="show_all_messages">Mostrar todos los mensajes</string>
     <string name="show_delivery_status">Mostrar estado de la entrega</string>
     <string name="show_sender">Mostrar información del remitente</string>
-    <string name="sim_activation_service_retry_main_purpose">La activación de SIM debe estar activada para que Mi Message funcione normalmente. Puede activar la activación de SIM en Configuración &gt; Administrar aplicaciones.</string>
+    <string name="sim_activation_service_retry_main_purpose">La activación de SIM debe estar habilitada para que Mensajes funcione normalmente. Puedes habilitarla en Ajustes, Administrar aplicaciones.</string>
     <string name="sim_card1">Tarjeta SIM 1</string>
     <string name="sim_card2">Tarjeta SIM 2</string>
     <string name="sim_card_cloud">%s (Mi mensaje)</string>
@@ -1435,7 +1435,7 @@ Intentos realizados: %s."</string>
     <string name="wednesday_shortest">Mié</string>
     <string name="wild_msg_processing">Procesando…</string>
     <string name="wild_msg_title">Selecciona los números de teléfono que deseas sincronizar</string>
-    <string name="xiaomi_account_service_retry_main_purpose">Los servicios de Mi Cuenta deben estar activados para que esta función funcione normalmente. Puede activar los servicios de Mi Cuenta en Configuración &gt; Administrar aplicaciones.</string>
+    <string name="xiaomi_account_service_retry_main_purpose">Los servicios de la cuenta Xiaomi deben estar activados para que esta opción funcione normalmente. Puedes activarlos en Ajustes, Administrar aplicaciones.</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Ahora no</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Actualizar</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Hay disponible una actualización</string>
