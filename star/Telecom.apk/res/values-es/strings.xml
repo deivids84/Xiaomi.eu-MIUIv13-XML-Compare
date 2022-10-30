@@ -103,7 +103,7 @@
 Con este permiso desactivado, las alarmas existentes y los eventos basados en el tiempo programados por esta aplicación no funcionarán."</string>
     <string name="alarms_and_reminders_label">Alarmas y recordatorios</string>
     <string name="alarms_and_reminders_switch_title">Permitir configurar alarmas y recordatorios</string>
-    <string name="alarms_and_reminders_title">Alarmas &amp; recordatorios</string>
+    <string name="alarms_and_reminders_title">Alarmas y recordatorios</string>
     <string name="alert_outgoing_call">Si haces esta llamada, se finalizará la de %1$s.</string>
     <string name="alert_place_outgoing_call_with_redirection">Redirigir llamada con %1$s</string>
     <string name="alert_place_unredirect_outgoing_call">Llamar con mi número de teléfono</string>
