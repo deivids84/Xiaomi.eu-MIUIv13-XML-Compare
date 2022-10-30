@@ -348,7 +348,7 @@ yol prefiksi"</string>
     <string name="date_message_received">%1$s %2$s</string>
     <string name="date_message_received_today">Bu gün, %1$s</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı təyin et</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
     <string name="debug_mode_preferencecategory">Jurnal çıxışını quraşdır</string>
     <string name="debug_mode_settings">Sazlama rejimi tənzimləmələri</string>
     <string name="default_">İLKİN</string>
