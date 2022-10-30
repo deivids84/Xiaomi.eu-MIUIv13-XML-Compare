@@ -108,7 +108,7 @@
     <string name="create_pdf_manual">Yeni PDF</string>
     <string name="current_speed_content">Hazırkı sürət: %1$s</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı təyin et</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
     <string name="delete_file_success">Uğurla silindi</string>
     <string name="delete_operation_record">Bu qeyd silinsin?</string>
     <string name="delete_operation_record_timeout">"Qeyd silinə bilmədi. Bir və ya iki dəqiqə gözləyib yenidən sınayın."</string>
