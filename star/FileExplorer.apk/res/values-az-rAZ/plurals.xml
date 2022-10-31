@@ -152,6 +152,10 @@
         <item quantity="other">"Sinxronlaşdırılmış %1$s fayl | "</item>
         <item quantity="one">"Sinxronlaşdırılmış %1$s fayl | "</item>
     </plurals>
+    <plurals name="notification_title_syncing_with_count_no_network">
+        <item quantity="other">Şəbəkə bağlantısı gözlənilir. %1$s fayl qaldı.</item>
+        <item quantity="one">Şəbəkə bağlantısı gözlənilir. %1$s fayl qaldı.</item>
+    </plurals>
     <plurals name="numSelectedFile">
         <item quantity="other">%1$d element seçildi</item>
         <item quantity="one">%1$d element seçildi</item>
