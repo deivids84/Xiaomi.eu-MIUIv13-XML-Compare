@@ -127,6 +127,7 @@
     <string name="click_to_switch_volume_pad">Daxili anbar və SD kart arasında keçid etmək üçün toxunun</string>
     <string name="clock_in">Yoxlanılır…</string>
     <string name="close">Bağla</string>
+    <string name="cloud_copy_to_local_title">Saxla…</string>
     <string name="cloud_drive_files">Mi Drive faylları</string>
     <string name="cloud_drive_not_login_summary">Daxil olunmadı</string>
     <string name="cloud_drive_settings">Mi Drive tənzimləmələri</string>
@@ -163,13 +164,14 @@ Faylları cihazınızdan Mi Drive-a daşımağa çalışın."</string>
     <string name="cta_function_account_operation">Xiaomi Hesabınıza cəld daxil olmaq üçün</string>
     <string name="data_consume_dialog_message">"Hazırda mobil internet istifadə edirsiniz. Davam etsəniz, %s internet istifadə ediləcək."</string>
     <string name="data_consume_dialog_title">Mobil internet istifadə edilsin?</string>
+    <string name="data_consume_dialog_upload_title">Mobil internet istifadə edərək yüklə</string>
     <string name="data_consumption_cancel">"Rədd et"</string>
     <string name="data_consumption_checkbox_hint">"Təkrar göstərmə"</string>
     <string name="data_consumption_confirm">Oldu</string>
     <string name="data_consumption_message">"Fayl Meneceri, istifadə edilərkən şəbəkəyə bağlanmalıdır. Razılaşırsınız?"</string>
     <string name="data_consumption_title">İnternet bağlantısı</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı təyin et</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
     <string name="decompress_cancel">İmtina</string>
     <string name="decompress_confirm">Arxivdən çıxart</string>
     <string name="decompress_corrupt">"Fayllar açıla bilmədi. Paket zədəlidir."</string>
@@ -353,6 +355,7 @@ Faylları cihazınızdan Mi Drive-a daşımağa çalışın."</string>
     <string name="homepage_tab_file_view_phone">Anbar</string>
     <string name="homepage_tab_recent">Sonuncu</string>
     <string name="hot_sticker">Stikerlər</string>
+    <string name="hybrid_provider">%1$s tərəfindən təmin edilir</string>
     <string name="icon_content_description">Dialoq nişanı</string>
     <string name="if_cancel">Bu əməliyyat ləğv edilsin?</string>
     <string name="image_loading_error">"Təsvir yüklənilə bilmədi"</string>
@@ -551,6 +554,7 @@ Faylları cihazınızdan Mi Drive-a daşımağa çalışın."</string>
     <string name="no_enough_storage_indication">"Cihazın anbar sahəsi dolub."</string>
     <string name="no_enough_storage_title">Yetərli anbar sahəsi yoxdur</string>
     <string name="no_file">Boşdur</string>
+    <string name="no_network">"Şəbəkəyə bağlana bilmir"</string>
     <string name="no_network_error_message">Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın.</string>
     <string name="no_network_error_title">"Şəbəkəyə bağlana bilmədi"</string>
     <string name="no_permission">Bu özəlliyə müraciət etmək üçün lazımi icazələri verin</string>
@@ -610,6 +614,7 @@ Faylları cihazınızdan Mi Drive-a daşımağa çalışın."</string>
     <string name="operation_moving">Daşınır…</string>
     <string name="operation_new_folder">Qovluq yarat</string>
     <string name="operation_no_network_err">"Şəbəkəyə bağlana bilmədi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın."</string>
+    <string name="operation_not_support_directory_rename">"Bu qovluğun adı dəyişdirilə bilmir."</string>
     <string name="operation_not_support_err">"Bu əməliyyat tamamlana bilmədi."</string>
     <string name="operation_open">Aç</string>
     <string name="operation_open_mode">Aç</string>
@@ -643,6 +648,7 @@ Faylları cihazınızdan Mi Drive-a daşımağa çalışın."</string>
     <string name="operation_upload_error_title">"Yüklənə bilmədi"</string>
     <string name="operation_upload_retry">Yenidən sına</string>
     <string name="operation_upload_save_to_local">Saxla…</string>
+    <string name="operation_upload_use_data">Yüklə</string>
     <string name="otg_data_transfer_success">Uğurla köçürüldü</string>
     <string name="otg_data_transferring">"Fayllar köçürülür… Xarici anbar bağlantısını kəsməyin."</string>
     <string name="otg_file_security_note">OGTSecurity</string>
@@ -854,7 +860,7 @@ Faylları cihazınızdan Mi Drive-a daşımağa çalışın."</string>
     <string name="the_tw_childrens_day">"Uşaqlar Günü"</string>
     <string name="the_tw_youth_day">Gənclər Günü</string>
     <string name="the_united_nations_day">Birləşmiş Millətlər Günü</string>
-    <string name="the_valentines_day">"Sevgililər günü"</string>
+    <string name="the_valentines_day">"Sevgililər Günü"</string>
     <string name="the_water_lantern_festival">Su Fənəri Festivalı</string>
     <string name="thursday">Cümə axşamı</string>
     <string name="thursday_short">C.a.</string>
@@ -905,6 +911,9 @@ Faylları cihazınızdan Mi Drive-a daşımağa çalışın."</string>
     <string name="video_data_consume_dialog_confirm">Davam</string>
     <string name="video_data_consume_dialog_title">Mobil internet istifadə edilsin?</string>
     <string name="view_type">Bax</string>
+    <string name="web_sso_login_fail">Yenidən daxil olmağınız lazımdır</string>
+    <string name="web_sso_login_message">Daxil olunur…</string>
+    <string name="webview_reload">Yenidən sına</string>
     <string name="wechat_msg">"Android 11 məhdudiyyətlərinə görə Fayl Meneceri, WeChat-da önbaxışlı sənədlərə müraciət edə və onları görüntüləyə bilməz. Sənədləri, burada görüntülənməsini təmin etmək üçün WeChat-da açıb anbarda saxlayın."</string>
     <string name="wechat_title">"WeChat sənədlərinə müraciət edilə bilmir"</string>
     <string name="wechat_video">Video yeri: %s</string>
