@@ -1229,6 +1229,7 @@ Sin embargo, algunas de tus transacciones aún no se han completado. Para poder 
     <string name="confirm_open">Activar</string>
     <string name="confirm_open_shut_down_password_content">Establezca un bloqueo de pantalla antes de activar la confirmación de apagado.</string>
     <string name="confirm_open_shut_down_password_title">Establecer bloqueo de pantalla</string>
+    <string name="confirm_package_type">Confirma tu plan de datos</string>
     <string name="confirm_prompt_all_permission">¿Pedir permiso para todas las aplicaciones?</string>
     <string name="confirm_reject_all_permission">¿Restringir todas las aplicaciones utilizando esta característica?</string>
     <string name="confirm_take">Obtener</string>
@@ -1655,6 +1656,7 @@ Debe entender que esta característica se proporciona únicamente para su refere
     <string name="ew_main_warning_list">Ver advertencias</string>
     <string name="ew_main_warning_list_tips">Ver</string>
     <string name="ew_main_warning_list_title">Ver historial de advertencias</string>
+    <string name="ew_monitor_bad_request_tips">"Seguridad no puede acceder a la información del dispositivo"</string>
     <string name="ew_monitor_content">Su dispositivo móvil puede formar parte de la red de alerta temprana de terremotos. Después de que sus sensores detecten ondas sísmicas, los datos serán analizados por el algoritmo de IA y se emitirán alertas tempranas a las personas en las áreas afectadas.</string>
     <string name="ew_monitor_exit">Darse de baja</string>
     <string name="ew_monitor_exit_content">Hola voluntario NO. %s! Su dispositivo puede monitorear la actividad sísmica y recopilar datos que ayudarían a emitir alertas tempranas de terremotos. ¿Deseas anular la inscripción de todos modos?</string>
@@ -1767,6 +1769,9 @@ voluntario"</string>
     <string name="exo_download_downloading">Descargando</string>
     <string name="exo_download_failed">No se pudo descargar</string>
     <string name="exo_download_notification_channel_name">Descargas</string>
+    <string name="exo_download_paused">Descargas en pausa</string>
+    <string name="exo_download_paused_for_network">Descargas esperando por la red</string>
+    <string name="exo_download_paused_for_wifi">Descargas esperando por Wi-Fi</string>
     <string name="exo_download_removing">Quitando descargas</string>
     <string name="exo_track_mono">Mono</string>
     <string name="exo_track_role_alternate">Alternar</string>
@@ -2024,6 +2029,7 @@ voluntario"</string>
     <string name="gamebox_func_switch_simcard_immersion">"No se puede cambiar entre tarjetas SIM en el modo inmersivo"</string>
     <string name="gamebox_func_wlan_close">Wi-Fi desactivado</string>
     <string name="gamebox_func_wlan_open">Wi-Fi activado</string>
+    <string name="gamebox_game_center_app_not_find">Primero instala Juegos Mi</string>
     <string name="gamebox_hangup">Apagar pantalla</string>
     <string name="gamebox_hangup_tips_content">Esta función le permite apagar la pantalla pero mantener el juego ejecutándose en segundo plano. Se apaga automáticamente al desbloquear su dispositivo.</string>
     <string name="gamebox_hangup_tips_title">Apagar pantalla</string>
@@ -2102,6 +2108,7 @@ voluntario"</string>
     <string name="gb_barrage_chat_text_speed_faster">Rápido</string>
     <string name="gb_barrage_chat_text_speed_moderate">Media</string>
     <string name="gb_barrage_chat_text_speed_slow">Lento</string>
+    <string name="gb_barrage_dnd_conflict_toast">Para usar comentarios en pantalla, primero desactiva No molestar</string>
     <string name="gb_beauty_cold_light">Frío</string>
     <string name="gb_beauty_face">Modo belleza</string>
     <string name="gb_beauty_light">Luz de relleno</string>
@@ -2132,6 +2139,7 @@ voluntario"</string>
     <string name="gb_dialog_record_way_setting_tips">Nota: la grabación de sus sesiones de juego requiere un mayor consumo de energía, lo que puede provocar un retraso.</string>
     <string name="gb_dialog_record_way_title">Seleccionar método de grabación</string>
     <string name="gb_dialog_wlan_wifi_weak">460 ms</string>
+    <string name="gb_dnd_barrage_conflict_toast">"No podrás usar comentarios en pantalla con el modo No molestar activado"</string>
     <string name="gb_first_guide_function_shiled_title">Desactivar funciones del sistema cuando Game Turbo está activado</string>
     <string name="gb_first_guide_gamebox_des">Usar accesos directos mientras se reproducen juegos</string>
     <string name="gb_first_guide_handsfree_des">Responder llamadas en segundo plano</string>
@@ -2217,6 +2225,7 @@ mientras reduce la frecuencia de actualización y los límites de temperatura"</
     <string name="gb_performance_mode">Modo gaming</string>
     <string name="gb_performance_tips">"El modo de rendimiento mejora el rendimiento de los gráficos,
 pero también aumenta el consumo de energía y permite que su dispositivo se sobrecaliente"</string>
+    <string name="gb_predownload_check">Ver recompensas</string>
     <string name="gb_predownload_dialog_cancel">No, gracias</string>
     <string name="gb_predownload_dialog_checked">"No volver a mostrar"</string>
     <string name="gb_predownload_dialog_confirm">Activar</string>
@@ -2225,6 +2234,8 @@ pero también aumenta el consumo de energía y permite que su dispositivo se sob
     <string name="gb_predownload_message_new">Actualizar los juegos compatibles cuando no usas el dispositivo</string>
     <string name="gb_predownload_noti_message">"%2$1.2f GB de contenido actualizado ya está en este dispositivo. Podrás usarlo tan pronto como se lance la nueva versión."</string>
     <string name="gb_predownload_noti_title">%s actualizado en segundo plano correctamente</string>
+    <string name="gb_predownload_receive">Obtener recompensas</string>
+    <string name="gb_predownload_receive_tips">Activa actualización en segundo plano para obtener recompensas</string>
     <string name="gb_predownload_title">Actualizaciones en segundo plano</string>
     <string name="gb_shortcut_pref_title">Acceso directo en la Pantalla de inicio</string>
     <string name="gb_shoulder_guide_message1">Mueva [L] a cualquier posición funcional para usarlo a través del disparador emergente</string>
@@ -3634,7 +3645,7 @@ Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un
     <string name="power_dailog_night_charge_protection_summary">Parece que la batería está completamente cargada la mayor parte del tiempo, lo que puede acelerar su envejecimiento. MIUI activó la carga optimizada para evitar tales problemas.</string>
     <string name="power_dialog_cancel">Cancelar</string>
     <string name="power_dialog_ok">Aceptar</string>
-    <string name="power_dialog_performance_mode_checkbox">Cambiar la frecuencia de pantalla a 120 Hz</string>
+    <string name="power_dialog_performance_mode_checkbox">Cambiar frecuencia de pantalla a %d Hz</string>
     <string name="power_dialog_super_save_msg">"El Ahorro de batería ultra restringe las funciones con mayor consumo de energía y reduce el rendimiento de su dispositivo para mantener las funciones básicas (p. ej. llamadas, mensajes y conexión a la red) disponibles el mayor tiempo posible. ¿Activar ahorrador de batería ultra?"</string>
     <string name="power_dialog_super_save_msg_5g">"Ahorro de batería ultra restringe la mayoría de las funciones que consumen energía (por ejemplo, conectividad 5G) reduciendo el rendimiento de su dispositivo. Solo las llamadas, los mensajes y la conectividad de red no se verán afectados. ¿Activar Ahorro de batería Ultra?"</string>
     <string name="power_dialog_super_save_title">Ahorro de batería ultra</string>
@@ -4617,6 +4628,8 @@ Retirar el consentimiento ahora?"</string>
     <string name="sp_eew_summary">Advertencias sobre próximos terremotos</string>
     <string name="sp_eew_title">Alerta de terremoto</string>
     <string name="sp_empty_title_sign_exception">Mantenga presionada la aplicación para agregarla a las excepciones</string>
+    <string name="sp_family_guard_summary">Proporciona asistencia remota</string>
+    <string name="sp_family_guard_title">Control parental</string>
     <string name="sp_find_device_summary">Localiza tu dispositivo de forma remota</string>
     <string name="sp_find_device_title">Encontrar dispositivo</string>
     <string name="sp_guard_summary">Gestiona los dispositivos de tus amigos y familiares</string>
@@ -5212,6 +5225,23 @@ El formateo eliminará el contenido existente en la ^2. Para evitar perder conte
     <string name="tc_sms_report_upload_when_net">¡Gracias por sus comentarios!</string>
     <string name="tc_web_correct_error">"No se pudo calibrar"</string>
     <string name="ten_percent_total_pkg">%s (10%% de los datos mensuales)</string>
+    <string name="terminal_privacy">Protección de la privacidad en el dispositivo</string>
+    <string name="terminal_privacy_ability">Características y procedimientos</string>
+    <string name="terminal_privacy_ability_img">Tratamiento de imágenes</string>
+    <string name="terminal_privacy_ability_img_summary">Edición inteligente y reconocimiento para fotos y vídeos, en cámara, galería y Taplus</string>
+    <string name="terminal_privacy_ability_model">Saber cómo interactúa el dispositivo con el entorno</string>
+    <string name="terminal_privacy_ability_model_summary">Contador de pasos, gestos inteligentes, modo bolsillo y brillo automático</string>
+    <string name="terminal_privacy_ability_others">Otros procedimientos</string>
+    <string name="terminal_privacy_ability_others_summary">Compartir pantalla, probar el entorno de pagos, huella dactilar y reconocimiento facial</string>
+    <string name="terminal_privacy_ability_suggest">Recomendaciones</string>
+    <string name="terminal_privacy_ability_suggest_summary">Recomendaciones y sugerencias del administrador de archivos, barra lateral, IA de MI y Cartera MI</string>
+    <string name="terminal_privacy_ability_summary">*Las funciones y procedimientos de protección de la privacidad pueden variar en función del modelo de dispositivo</string>
+    <string name="terminal_privacy_ability_txt">Texto</string>
+    <string name="terminal_privacy_ability_txt_summary">Edición de texto, subtítulos inteligentes, Taplus, mensajes y portapapeles compartido</string>
+    <string name="terminal_privacy_ability_voice">Reconocimiento de voz</string>
+    <string name="terminal_privacy_ability_voice_summary">Comandos de voz IA de Mi y subtítulos inteligentes</string>
+    <string name="terminal_privacy_instruction">La protección de privacidad incluye características que mantienen tu información personal en el dispositivo en lugar de cargarse a la nube</string>
+    <string name="terminal_privacy_summary">Procesar información personal en el dispositivo</string>
     <string name="terms_and_conditions_content"><Data>\"Esta función te brinda la funcionalidad de alerta de terremotos. Te notificará sobre los próximos terremotos y reproducirá un sonido de advertencia. Podrás encontrar el refugio más cercano, llamar a tu contacto de emergencia y presentar su tarjeta médica si es necesario. &lt;br&gt;Lo haremos proteja su información personal de acuerdo con las leyes, reglamentos y políticas &lt;br&gt;privacidad pertinentes.2 Para poder funcionar con normalidad, esta función requiere los siguientes permisos para recopilar tu información personal: &lt;br&gt;• Información de ubicación: &lt;br&gt;Para acceder a tu ubicación y proporcionar alertas de terremotos precisas. &lt;br&gt;Si no aceptas otorgar dichos permisos o compartir y cargar su información personal, no podrás usar esta función. Puedes optar por desactivar esta función o no activarla en tal &lt;br&gt;Debes leer y aceptar nuestra &lt;a href=%s&gt;Política de privacidad&lt;/a&gt; antes de usar esta función\".</Data></string>
     <string name="tether_custom_dialog_title">Límite de datos móviles</string>
     <string name="tether_limit_dialog_title">Límite de datos móviles</string>
