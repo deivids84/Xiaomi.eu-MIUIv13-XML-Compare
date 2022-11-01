@@ -746,7 +746,7 @@ Pot ser que la informació sobre la ubicació no es notifiqui quan la connexió 
     <string name="storage_manage_cloud_data_title">Mira els elements en el núvol</string>
     <string name="storage_manage_list_title">Dades del núvol</string>
     <string name="storage_manage_list_title_action">Mostra\'n més</string>
-    <string name="storage_upgrade_card_title">Millora el teu pla</string>
+    <string name="storage_upgrade_card_title">Actualitza</string>
     <string name="sub_alert_notif_content">Activeu Núvol Xiaomi</string>
     <string name="sub_alert_notif_title">Sincronitza amb Núvol Xiaomi</string>
     <string name="sub_sync_item_sms_summary">"Sincronitzar missatges que continguin fotos, àudio o bé el contingut multimèdia únicament quan estiguis connectat a una xarxa Wi-Fi"</string>
