@@ -176,6 +176,10 @@
         <item quantity="other">%d elements sel·leccionats</item>
         <item quantity="one">%d element sel·leccionat</item>
     </plurals>
+    <plurals name="notification_missedCallsMsg">
+        <item quantity="other">%d trucades perdudes</item>
+        <item quantity="one">%d trucada perduda</item>
+    </plurals>
     <plurals name="numSelectedSimContacts">
         <item quantity="other">%1$d seleccionats</item>
         <item quantity="one">%1$d seleccionat</item>
