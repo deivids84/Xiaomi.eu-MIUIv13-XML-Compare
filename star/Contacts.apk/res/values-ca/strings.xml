@@ -92,7 +92,7 @@
     <string name="bh_cancellation_of_carrier_services_result">"Si continueu, cancel·lareu els serveis de Mi Carrier. Després d’això, deixarem de recopilar i utilitzar la vostra informació personal i suprimirem el vostre historial de comandes permanentment. Assegureu-vos que totes les vostres transaccions s’hagin completat abans de cancel·lar els serveis."</string>
     <string name="bh_cannot_action">"No s'ha pogut utilitzar %1$s. Instal·leu primer l'aplicació corresponent."</string>
     <string name="bh_cannot_fetch_num">Número de telèfon desconegut</string>
-    <string name="bh_cannot_login_miacount">"No s'ha pogut iniciar la sessió al Compte Mi"</string>
+    <string name="bh_cannot_login_miacount">"No s'ha pogut iniciar la sessió al compte Xiaomi"</string>
     <string name="bh_card_order_detail">Informació de la comanda</string>
     <string name="bh_card_order_name">Paquet de serveis</string>
     <string name="bh_card_order_pay_price">Quantitat pagada</string>
@@ -194,7 +194,7 @@
     <string name="bh_save_desc">Deseu aquest número per utilitzar-lo per a la següent recàrrega</string>
     <string name="bh_save_sccuss">S\'ha desat correctament</string>
     <string name="bh_saved_number">Número desat: %1$s</string>
-    <string name="bh_should_login_to_buy">Inicieu la sessió al meu compte per poder comprar minuts de trucades i dades mòbils</string>
+    <string name="bh_should_login_to_buy">Inicieu la sessió al compte Xiaomi per poder comprar minuts de trucada i dades mòbils</string>
     <string name="bh_similar_number_hint">Aquest nombre és similar al %1$s. Recarregar aquest número de totes maneres?</string>
     <string name="bh_stop_carrier_services">Desactiva els serveis de Mi Carrier</string>
     <string name="bh_stop_carrier_services_short">Desactiva els serveis de Mi Carrier</string>
@@ -445,7 +445,7 @@
     <string name="create_group_dialog_title">Crea un nou grup</string>
     <string name="create_qrcode_fail_message">"La creació del codi QR ha fallat"</string>
     <string name="cta_content_seg1"><Data>\"&lt;strong&gt;Avís important
-A el fer ús \'d\'acord\' a continuació, vostè accepta &lt;font color=#33aaff&gt;&lt;a href =\'https://static.account.xiaomi.com/html/agreement/account/en.html\'&gt;Servei compte El meu Acord&lt;/a&gt;&lt;/font&gt;, &lt;font color=#33aaff&gt;&lt;a href =\'https://cnbj1-fds.api.xiaomi.com/mimobile-static/mi-carrier-services-useragreement.html\'&gt;El meu acord d\'itinerància de l\'usuari&lt;/a&gt;&lt;/font&gt;i &lt;font color=#33aaff&gt;&lt;a href =\'http://www.miui.com/res/doc/privacy/en.html\'&gt;Política de privacitat&lt;/a&gt;&lt;/font&gt;. Llegir aquests documents amb cura i completament entengueu tots els termes i condicions relacionats abans que accepteu.&lt;/strong&gt;\"</Data></string>
+En tocar \"D\'acord\" a continuació, accepteu l\'&lt;font color=#33aaff&gt;&lt;a href =\'https://static.account.xiaomi.com/html/agreement/account/en.html\'&gt;Acord de servei del compte Xiaomi&lt;/a&gt;&lt;/font&gt;, l\'&lt;font color=#33aaff&gt;&lt;a href =\'https://cnbj1-fds.api.xiaomi.com/mimobile-static/mi-carrier-services-useragreement.html\'&gt;Acord d\'usuari d\'itinerància Mi&lt;/a&gt;&lt;/font&gt;i la&lt;font color=#33aaff&gt;&lt;a href =\'http://www.miui.com/res/doc/privacy/en.html\'&gt;Política de privadesa&lt;/a&gt;&lt;/font&gt;. Llegiu aquests documents amb atenció i enteneu completament tots els termes i condicions relacionats abans d\'acceptar.&lt;/strong&gt;\"</Data></string>
     <string name="cta_content_seg2">"
 Mi Roaming necessita connectar-se a Internet i accedir a la informació de la vostra ubicació per funcionar amb normalitat. A més, Mi Roaming pot recopilar, utilitzar i compartir la vostra informació personal. La vostra informació personal estarà protegida d’acord amb les lleis i regulacions locals."</string>
     <string name="cta_dialog_cancel">Surt</string>
@@ -886,6 +886,10 @@ Toqueu \"%1$s\", i després seleccioneu \"%2$s\"."</string>
     <string name="not_set">Sense definir</string>
     <string name="notification_click_detail">Toqueu per veure més detalls.</string>
     <string name="notification_micloudsync_delete_contact">Núvol Xiaomi vol suprimir alguns dels vostres contactes</string>
+    <string name="notification_missedCallTitle">Trucada perduda</string>
+    <string name="notification_missedCall_call_back">Torna la trucada</string>
+    <string name="notification_missedCall_message">Envia SMS</string>
+    <string name="notification_missedCallsTitle">Trucades perdudes</string>
     <string name="open_contact">Veure contacte</string>
     <string name="open_dial_pad_description">Obre el marcador</string>
     <string name="option_delete_contact">Suprimeix</string>
