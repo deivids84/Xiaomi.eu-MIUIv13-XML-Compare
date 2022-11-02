@@ -100,9 +100,9 @@
     <string name="description_title">Hesablayıcı haqqında</string>
     <string name="devided_by_zero_reminder_message">"Sıfıra bölə bilmir"</string>
     <string name="dialog_privacy_content"><Data>Hesablayıcının təməl özəlliklərdən əlavə, tətbiqimizdə riyazi bir hesablayıcı və çoxməqsədli çevirici də mövcuddur. Bəzi özəlliklərin normal işləməsi üçün internetə bağlanması lazımdır. Hesablayıcını istifadə etməzdən əvvəl &lt;a href=\"%1$s\"&gt;İstifadəçi Razılaşmasını&lt;/a&gt; və &lt;a href=\"%2$s\"&gt;Gizlilik Siyasətini&lt;/a&gt; oxuyub qəbul edin.</Data></string>
-    <string name="dialog_privacy_disagree_msg">Keçidi bağlamaqla Hesablayıcının Gizlilik Siyasətinə verdiyiniz razılığı geri çəkirsiniz. Şəxsi məlumatlarınızın yığılmasını dayandıracağıq. Hazırda yığılmış və saxlanılan şəxsi məlumatlar, müvafiq qanunların tələb etdiyi müddətə silinəcəkdir. Hesablayıcının sizi təməl xidmətlərlə təmin etməsi üçün lazımi şəxsi məlumatları yığması lazımdır. Gizlilik Siyasətinə verdiyiniz razılığınızı geri çəkməyiniz, yığılmış şəxsi məlumatlara əsaslanan xidmətlərin qəbul edilməsini rədd etmək kimi nəzərə alınacaqdır.</string>
-    <string name="dialog_privacy_revoke_btn_ok">Geri çək</string>
-    <string name="dialog_privacy_revoke_title">Razılığın geri çəkilməsi</string>
+    <string name="dialog_privacy_disagree_msg">Keçidi bağlamaqla Hesablayıcının Gizlilik Siyasətinə verdiyiniz razılığı geri götürürsünüz. Şəxsi məlumatlarınızın yığılmasını dayandıracağıq. Hazırda yığılmış və saxlanılan şəxsi məlumatlar, müvafiq qanunların tələb etdiyi müddətə silinəcəkdir. Hesablayıcının sizi təməl xidmətlərlə təmin etməsi üçün lazımi şəxsi məlumatları yığması lazımdır. Gizlilik Siyasətinə verdiyiniz razılığınızı geri götürməyiniz, yığılmış şəxsi məlumatlara əsaslanan xidmətlərin qəbul edilməsini rədd etmək kimi nəzərə alınacaqdır.</string>
+    <string name="dialog_privacy_revoke_btn_ok">Geri götür</string>
+    <string name="dialog_privacy_revoke_title">Razılığın geri götürülməsi</string>
     <string name="dialog_privacy_title">Şərtlər və Qaydalar</string>
     <string name="dialog_rating_desc_ask">Hesablayıcı haqqında nə fikirləşirsiniz?</string>
     <string name="dialog_rating_desc_less">Bizə əks-əlaqə verərək fikrinizi bildirmək istəyirsiniz?</string>
@@ -376,7 +376,7 @@ Bir illik və beş illik LPR-lər hər ayın 20-də (bank tətilləri ilə əlaq
     <string name="network_confirm_content">Pul vahidi çevirici, vergi və ipoteka hesablama özəlliklərinin normal işləməsi üçün internetə bağlanması və yerləşmə xidmətlərinə müraciət etməsi lazımdır.</string>
     <string name="network_confirm_title">İcazələr tələb edilir</string>
     <string name="network_purpose">Hesablayıcıya xoş gəldiniz! Hesablayıcı sizə pul vahidini çevirmək, ipoteka ödənişlərini hesablamaq və daha çox imkanlar verir.</string>
-    <string name="new_privacy_string"><Data>\"Hesablayıcıya xoş gəldiniz!&lt;br/&gt;Bu tətbiq aşağıdakı özəllikləri ehtiva edir:&lt;br/&gt;• Təməl hesablayıcı&lt;br/&gt;• Elmi hesablayıcı&lt;br/&gt;• Universal hesablayıcı (e.g. pul vahidi, ölçü vahidləri və s.)&lt;br/&gt;• Kreditlər, investisiyalar, EMI və daha çoxu üçün hesablama şablonları&lt;br/&gt;Yığdığımız verilənləri necə istifadə etdiyimizlə bağlı &lt;a href=\"%1$s\"&gt;\"Gizlilik Siyasəti\"mizdə&lt;/a&gt; öyrənə bilərsiniz. \"Hesablayıcı\"nı istifadə etməzdən əvvəl &lt;a href=\"%2$s\"&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=\"%3$s\"&gt;\"Gizlilik Siyasəti\"mizi&lt;/a&gt; oxuyub qəbul edin. \"Hesablayıcı\"nın Gizlilik Siyasəti ilə bağlı verdiyiniz razılığı istənilən vaxt Tənzimləmələrdən geri çəkə bilərsiniz. \"Gizlilik Siyasəti\"mizi qəbul etməsəniz, bu tətbiqin bəzi özəlliklərindən faydalana bilməyəcəksiniz, ancaq təməl funksionallıqlar sizin üçün əlçatan olmağa davam edəcək.\"</Data></string>
+    <string name="new_privacy_string"><Data>\"Hesablayıcıya xoş gəldiniz!&lt;br/&gt;Bu tətbiq aşağıdakı özəllikləri ehtiva edir:&lt;br/&gt;• Təməl hesablayıcı&lt;br/&gt;• Elmi hesablayıcı&lt;br/&gt;• Universal hesablayıcı (e.g. pul vahidi, ölçü vahidləri və s.)&lt;br/&gt;• Kreditlər, investisiyalar, EMI və daha çoxu üçün hesablama şablonları&lt;br/&gt;Yığdığımız verilənləri necə istifadə etdiyimizlə bağlı &lt;a href=\"%1$s\"&gt;\"Gizlilik Siyasəti\"mizdə&lt;/a&gt; öyrənə bilərsiniz. \"Hesablayıcı\"nı istifadə etməzdən əvvəl &lt;a href=\"%2$s\"&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=\"%3$s\"&gt;\"Gizlilik Siyasəti\"mizi&lt;/a&gt; oxuyub qəbul edin. \"Hesablayıcı\"nın Gizlilik Siyasəti ilə bağlı verdiyiniz razılığı istənilən vaxt Tənzimləmələrdən geri götürə bilərsiniz. \"Gizlilik Siyasəti\"mizi qəbul etməsəniz, bu tətbiqin bəzi özəlliklərindən faydalana bilməyəcəksiniz, ancaq təməl funksionallıqlar sizin üçün əlçatan olmağa davam edəcək.\"</Data></string>
     <string name="night">Axşam</string>
     <string name="none">Yoxdur</string>
     <string name="noon">Günorta</string>
@@ -395,7 +395,7 @@ Bir illik və beş illik LPR-lər hər ayın 20-də (bank tətilləri ilə əlaq
     <string name="preference_check_update_summary_new_version">Güncəlləmə mövcuddur: %s</string>
     <string name="preference_check_update_title">Güncəlləmələri yoxla</string>
     <string name="preference_copied">\"%1$s\" lövhəyə kopyalandı.</string>
-    <string name="preference_feedback_title">TSS</string>
+    <string name="preference_feedback_title">TVS</string>
     <string name="preference_follow_qq_group">QQ Qrupu:523274279</string>
     <string name="preference_follow_us">Bizi izləyin</string>
     <string name="preference_follow_web_title">Rəsmi veb sayt</string>
@@ -414,9 +414,9 @@ Bir illik və beş illik LPR-lər hər ayın 20-də (bank tətilləri ilə əlaq
     <string name="preference_user_feedback_title">Əks əlaqə</string>
     <string name="privacy_dialog_title">Gizlilik</string>
     <string name="privacy_policy">Gizlilik Siyasəti</string>
-    <string name="privacy_revoke_error">"Geri çəkilə bilmədi. Yenidən sınayın."</string>
-    <string name="privacy_revoke_progress">Geri çəkilir…</string>
-    <string name="privacy_switch">Razılığın geri çəkilməsi</string>
+    <string name="privacy_revoke_error">"Geri götürülə bilmədi. Yenidən sınayın."</string>
+    <string name="privacy_revoke_progress">Geri götürülür…</string>
+    <string name="privacy_switch">Razılığın geri götürülməsi</string>
     <string name="radDesc">Radian</string>
     <string name="rate_data_provider">Faiz dərəcələri hexun.com tərəfindən təmin edilir</string>
     <string name="reciprocalDesc">Qarşılıqlı</string>
@@ -865,7 +865,7 @@ Bir illik və beş illik LPR-lər hər ayın 20-də (bank tətilləri ilə əlaq
     <string name="wednesday_shortest">Çər</string>
     <string name="weight_prompt">Çəki</string>
     <string name="wf_word_figure">Maliyyə xarakterləri</string>
-    <string name="withdraw_network_error">Razılığınızı geri çəkə bilmək üçün cihazınız şəbəkəyə bağlanmalıdır. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın.</string>
+    <string name="withdraw_network_error">Razılığınızı geri götürə bilmək üçün cihazınız şəbəkəyə bağlanmalıdır. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın.</string>
     <string name="word_figure_big_unit_fen">Dəqiqə</string>
     <string name="word_figure_big_unit_jiao">Buynuz</string>
     <string name="word_figure_big_unit_wan">"On min "</string>
