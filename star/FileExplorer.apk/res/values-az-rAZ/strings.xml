@@ -688,7 +688,7 @@ Faylları cihazınızdan Mi Drive-a daşımağa çalışın."</string>
     <string name="pick_folder">Qovluq seç</string>
     <string name="pm">GS</string>
     <string name="port_range">Port nömrəsi 1024-65535 aralığında olmalıdır</string>
-    <string name="pre_privacy_recall">Razılığın geri çəkilməsi</string>
+    <string name="pre_privacy_recall">Razılığın geri götürülməsi</string>
     <string name="pref_permission_allowed">İcazə verildi</string>
     <string name="pref_permission_manage_key_storage">Cihazdakı foto və fayllara müraciət</string>
     <string name="pref_permission_not_allowed">İcazə verilmədi</string>
