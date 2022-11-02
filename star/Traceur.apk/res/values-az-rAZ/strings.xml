@@ -386,7 +386,7 @@ seçimi"</string>
     <string name="lb_playback_controls_repeat_all">Hamısını təkrarla</string>
     <string name="lb_playback_controls_repeat_none">Heç birini təkrarlama</string>
     <string name="lb_playback_controls_repeat_one">Birini təkrarla</string>
-    <string name="lb_playback_controls_rewind">Geri çəkin</string>
+    <string name="lb_playback_controls_rewind">Geri çək</string>
     <string name="lb_playback_controls_rewind_multiplier">%1$dX geri çək</string>
     <string name="lb_playback_controls_shown">Media kontrolları göstərilir</string>
     <string name="lb_playback_controls_shuffle_disable">Qarışdırmanı sıradan çıxart</string>
