@@ -370,7 +370,7 @@
     <string name="preference_led_indicator">Kilid ekranı bildirişləri</string>
     <string name="preference_led_indicator_prompt">Səs yazarkən Kilid ekranında mavi bir göstərici göstər və LED işığı yandırıb söndür</string>
     <string name="preference_online_orders">Onlayn sifarişlər</string>
-    <string name="preference_recog_faqs">Onlayn mətnə çevirmə TSS</string>
+    <string name="preference_recog_faqs">Onlayn mətnə çevirmə TVS</string>
     <string name="preference_recog_terms">Xidmət Şərtləri</string>
     <string name="preference_record_desktop_indicator_summary">Səs yazarkən Əsas ekranda mavi bir göstərici göstərin</string>
     <string name="preference_record_desktop_indicator_title">Əsas ekran göstəricisi</string>
