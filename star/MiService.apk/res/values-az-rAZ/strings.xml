@@ -142,7 +142,7 @@
     <string name="miui_feedback_main_customer_service_onfo_for_jp">"Xidmət qaynar xətti: 0120-300-521
 İş saatı: 9:00 - 18:00 (bank və planlaşdırılan tətillər istisna olmaqla)
 E-poçt: service.jp@xiaomi.com"</string>
-    <string name="miui_feedback_main_frequent_question_title">TSS</string>
+    <string name="miui_feedback_main_frequent_question_title">TVS</string>
     <string name="miui_feedback_main_item_catch_full_log">Jurnallar</string>
     <string name="miui_feedback_main_item_customer_service">Satış sonrası xidmətlər</string>
     <string name="miui_feedback_main_item_feedback_list">Əks-əlaqəm</string>
@@ -373,6 +373,6 @@ Davam etməzdən əvvəl %3$s üçün yeni versiyanı oxuyub qəbul edin."</stri
     <string name="withdraw_consent_failed">"Razılıq geri çəkilə bilmədi"</string>
     <string name="withdraw_consent_failed_hint">Bir server xətası baş verdi. Bir və ya iki dəqiqə gözləyib yenidən sınayın.</string>
     <string name="withdraw_consent_failed_hint_connect_net">Razılığınızı geri çəkə bilmək üçün cihazınız şəbəkəyə bağlanmalıdır. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın.</string>
-    <string name="withdrawing">Razılıq geri çəkilir…</string>
+    <string name="withdrawing">Razılıq geri götürülür…</string>
     <string name="yesterday">Dünən</string>
 </resources>
