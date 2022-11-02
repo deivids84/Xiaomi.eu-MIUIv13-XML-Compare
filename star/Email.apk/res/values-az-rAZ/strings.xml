@@ -47,9 +47,9 @@
     <string name="account_login_type_title">%1$s hesabı əlavə et</string>
     <string name="account_options_actionbar_title">Hesab tənzimləmələri</string>
     <string name="account_permission_child_statement">"Yetkinlik Yaşına Çatmayanlar üçün Şəxsi Verilənlərin Qorunmasına dair Bəyanat"</string>
-    <string name="account_permission_dialog_cancel_text">Geri çək</string>
-    <string name="account_permission_dialog_text">"Davam etsəniz, Son İstifadəçi Lisenziya Razılaşmasına, Gizlilik Siyasətinə və Yetkinlik Yaşına Çatmayanlar üçün Şəxsi Verilənlərin Qorunmasına dair Bəyanatına verdiyiniz razılığı geri çəkəcəksiniz. Bundan sonra WPS Poçtunu istifadə edə bilməyəcəksiniz və bu cihazda yaradılmış bütün verilənlər silinəcək."</string>
-    <string name="account_permission_dialog_title">Razılığı geri çəkmə</string>
+    <string name="account_permission_dialog_cancel_text">Geri götür</string>
+    <string name="account_permission_dialog_text">"Davam etsəniz, Son İstifadəçi Lisenziya Razılaşmasına, Gizlilik Siyasətinə və Yetkinlik Yaşına Çatmayanlar üçün Şəxsi Verilənlərin Qorunmasına dair Bəyanatına verdiyiniz razılığı geri götürəcəksiniz. Bundan sonra WPS Poçtunu istifadə edə bilməyəcəksiniz və bu cihazda yaradılmış bütün verilənlər silinəcək."</string>
+    <string name="account_permission_dialog_title">Razılığın geri götürülməsi</string>
     <string name="account_permission_private_policy">Gizlilik Siyasəti</string>
     <string name="account_permission_user_privacy">Son İstifadəçi Lisenziya Razılaşması</string>
     <string name="account_security_verification">Hesab təsdiqləmə</string>
