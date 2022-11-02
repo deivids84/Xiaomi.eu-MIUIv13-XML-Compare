@@ -47,11 +47,11 @@
     <string name="app_name">Xiaomi Cloud</string>
     <string name="bad_authentication">Yararsız hesab və ya parol</string>
     <string name="btn_return">Geri</string>
-    <string name="btn_revoke_permission">Razılığı geri çəkmə</string>
+    <string name="btn_revoke_permission">Razılığı geri götürmə</string>
     <string name="button_agree">Qəbul et</string>
     <string name="button_cancel">İmtina</string>
     <string name="button_quit">Çıxış</string>
-    <string name="button_revoke">Geri çək</string>
+    <string name="button_revoke">Geri götür</string>
     <string name="check_contact">Əlavə et</string>
     <string name="choose_contact_title">Kontaktlar</string>
     <string name="clearable_edittext_clear_description">Təmizlə</string>
@@ -142,7 +142,7 @@
     <string name="feedback_custom_hint">"Burada qarşılaşdığınız problemləri izah edin. Təkliflər verirsinizsə, daha çox məlumat üçün təşəkkür edirik!"</string>
     <string name="find_device">Cihazı tap</string>
     <string name="find_device_dspt_provision">Cihazınızı itirsəniz, cihazı kilidləmək, tapmaq və ya sıfırlamaq üçün &lt;font color=#0097FF&gt;%s&lt;/font&gt; ünvanına gedə bilərsiniz. Bu özəlliyi istənilən vaxt Tənzimləmələrdə aça/bağlaya bilərsiniz.</string>
-    <string name="find_device_gdpr_prompt">\"Cihazı tap\"ı açaraq, <u><a href="app://com.miui.cloudservice.gdpr.license">Gizlilik Siyasətimizi</a></u> qəbul edirsiniz. Razılığınızı geri çəkmək istəsəniz bu özəlliyi söndürün.</string>
+    <string name="find_device_gdpr_prompt">\"Cihazı tap\"ı açaraq, <u><a href="app://com.miui.cloudservice.gdpr.license">Gizlilik Siyasətimizi</a></u> qəbul edirsiniz. Razılığınızı geri götürmək istəsəniz bu özəlliyi söndürün.</string>
     <string name="find_device_operation_failure_rpc">"RPC xətasına görə əməliyyat icra edilə bilmədi."</string>
     <string name="find_device_permissions_footer">"Seçdiyiniz icazələri vermək üçün \"İcazə ver\"ə toxunun."</string>
     <string name="find_device_permissions_header">"\"Cihazı tap\"a xoş gəldiniz! Cihazınız itsə, cihazınızı tapmaq, izləmək və ya kilidləmək üçün bu tətbiqi istifadə edə bilərsiniz. \"Cihazı tap\", aşağıdakı icazələri tələb edir:"</string>
@@ -589,7 +589,7 @@
     <string name="privacy_policy">Gizlilik Siyasəti</string>
     <string name="privacy_policy_reject_confirm_msg">"&lt;a href=%1$s&gt;&lt;u&gt;Gizlilik Siyasətinin&lt;/u&gt;&lt;/a&gt; yeni versiyası ilə razılaşmasanız \"Xiaomi Cloud\"u istifadə edə bilməyəcəksiniz. Güncəllənmiş Gizlilik Siyasəti ilə razılaşırsınız?"</string>
     <string name="privacy_policy_reject_confirm_title">Diqqət</string>
-    <string name="privacy_policy_revoked_msg">Bu hesab üçün Xiaomi Cloud-un Gizlilik Siyasətinə verilən razılıq geri çəkildi. Fərqli bir hesabı yoxlayın.</string>
+    <string name="privacy_policy_revoked_msg">Bu hesab üçün Xiaomi Cloud-un Gizlilik Siyasətinə verilən razılıq geri götürüldü. Fərqli bir hesabı yoxlayın.</string>
     <string name="privacy_policy_update_msg">Xiaomi Cloud Gizlilik Siyasəti güncəlləndi:&lt;br/&gt;%1$s&lt;br/&gt;Davam etməzdən əvvəl yeni &lt;a href=%2$s&gt;&lt;u&gt;Gizlilik Siyasətini&lt;/u&gt;&lt;/a&gt; oxuyun və qəbul edin.</string>
     <string name="privacy_policy_update_title">Güncəllənmiş Gizlilik Siyasəti</string>
     <string name="privacy_runtime_perm_calendar_desc">Təqvim tədbirlərini sinxronlaşdırmaq üçün</string>
@@ -621,14 +621,14 @@
     <string name="recommend_service_title">Tövsiyə edilən xidmətlər</string>
     <string name="retain_data_high_quality_photo_waring_message">Çıxış etdikdən sonra foto və videolarınızın yüksək keyfiyyətli kopyaları Qalereyadan silinəcək. Müvafiq orijinal fayllar hələ də cloud-da saxlanılmağa davam edəcək. Çıxış etməzdən əvvəl orijinal faylları da endirə bilərsiniz.</string>
     <string name="retain_data_high_quality_photo_waring_title">"Yüksək keyfiyyətli şəkillər mövcud olmayacaq"</string>
-    <string name="revoke_block_by_find_device">"Razılığın geri çəkilməsi, \"Cihazı tap\" özəlliyini də bağlayacaq. Davam etdikdən sonra parolunuzu təsdiqləməyiniz lazım olacaq."</string>
-    <string name="revoke_permission_content">"İcazələri geri çəksəniz, \"Cihazı tap\"ı istifadə edə bilməyəcəksiniz. Həmçinin \"Cihazı tap\" özəlliyi bağlanılacaq. Geri çəkdikdən sonra, parolunuzu təsdiqləməyiniz lazım olacaq."</string>
+    <string name="revoke_block_by_find_device">"Razılığın geri götürülməsi, \"Cihazı tap\" özəlliyini də bağlayacaq. Davam etdikdən sonra parolunuzu təsdiqləməyiniz lazım olacaq."</string>
+    <string name="revoke_permission_content">"İcazələri geri götürsəniz, \"Cihazı tap\"ı istifadə edə bilməyəcəksiniz. Həmçinin \"Cihazı tap\" özəlliyi bağlanılacaq. Geri çəkdikdən sonra, parolunuzu təsdiqləməyiniz lazım olacaq."</string>
     <string name="revoke_permission_title">Diqqət</string>
-    <string name="revoke_privacy_agreement_msg">"Davam etsəniz, Xiaomi Cloud-un Gizlilik Siyasətinə verdiyiniz razılığı geri çəkəcəksiniz. Artıq yığılmış və saxlanılmış şəxsi məlumatlar, əksi tələb olunmadığı müddətcə, müvafiq qanun və nizamlamalara uyğun olaraq müəyyən bir müddət ərzində silinəcəkdir. Xiaomi Cloud, öz xidmətlərini lazımi şəxsi məlumatların yığılması əsasında təmin etdiyi üçün, razılığın geri çəkilməsi Xiaomi Cloud xidmətlərini qəbul etməkdən imtina olaraq qəbul ediləcək. Razılıq indi geri çəkilsin?"</string>
-    <string name="revoke_privacy_confirm">Geri çək</string>
-    <string name="revoke_privacy_content">"Davam etsəniz, \"Cihazı tap\"ın &lt;a href=app://com.miui.cloudservice.gdpr.license&gt;Gizlilik Siyasətinə&lt;/a&gt; verdiyiniz razılığı geri çəkəcəksiniz. Artıq yığılmış və saxlanılmış şəxsi məlumatlar, əksi tələb olunmadığı müddətcə, müvafiq qanun və nizamlamalara uyğun olaraq müəyyən bir müddət ərzində silinəcəkdir. \"Cihazı tap\", öz xidmətlərini lazımi şəxsi məlumatların yığılması əsasında təmin etdiyi üçün, razılığın geri çəkilməsi \"Cihazı tap\" xidmətlərini qəbul etməkdən imtina olaraq qəbul ediləcək. Razılıq indi geri çəkilsin?"</string>
-    <string name="revoke_privacy_failed">"Razılıq geri çəkilə bilmədi"</string>
-    <string name="revoke_privacy_title">Razılığın geri çəkilməsi</string>
+    <string name="revoke_privacy_agreement_msg">"Davam etsəniz, Xiaomi Cloud-un Gizlilik Siyasətinə verdiyiniz razılığı geri götürəcəksiniz. Artıq yığılmış və saxlanılmış şəxsi məlumatlar, əksi tələb olunmadığı müddətcə, müvafiq qanun və nizamlamalara uyğun olaraq müəyyən bir müddət ərzində silinəcəkdir. Xiaomi Cloud, öz xidmətlərini lazımi şəxsi məlumatların yığılması əsasında təmin etdiyi üçün, razılığın geri götürülməsi Xiaomi Cloud xidmətlərini qəbul etməkdən imtina olaraq qəbul ediləcək. Razılıq indi geri çəkilsin?"</string>
+    <string name="revoke_privacy_confirm">Geri götür</string>
+    <string name="revoke_privacy_content">"Davam etsəniz, \"Cihazı tap\"ın &lt;a href=app://com.miui.cloudservice.gdpr.license&gt;Gizlilik Siyasətinə&lt;/a&gt; verdiyiniz razılığı geri götürəcəksiniz. Artıq yığılmış və saxlanılmış şəxsi məlumatlar, əksi tələb olunmadığı müddətcə, müvafiq qanun və nizamlamalara uyğun olaraq müəyyən bir müddət ərzində silinəcəkdir. \"Cihazı tap\", öz xidmətlərini lazımi şəxsi məlumatların yığılması əsasında təmin etdiyi üçün, razılığın geri götürülməsi \"Cihazı tap\" xidmətlərini qəbul etməkdən imtina olaraq qəbul ediləcək. Razılıq indi geri çəkilsin?"</string>
+    <string name="revoke_privacy_failed">"Razılıq geri götürülə bilmədi"</string>
+    <string name="revoke_privacy_title">Razılığın geri götürülməsi</string>
     <string name="saturday">Şənbə</string>
     <string name="saturday_short">Şәn</string>
     <string name="saturday_shortest">Şәn</string>
