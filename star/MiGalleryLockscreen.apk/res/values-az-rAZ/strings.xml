@@ -752,7 +752,7 @@ mm"</string>
     <string name="request_error_invalid_token">"Təsdiqlənə bilmədi"</string>
     <string name="request_error_network">Bir şəbəkə xətası baş verdi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın.</string>
     <string name="request_error_unknown">Sistem xətası baş verdi. Geri qayıdın və yenidən sınayın.</string>
-    <string name="request_gallery_permission_message">Qalereyaya müraciətə icazə verin::&lt;br /&gt;Profil şəklini tənzimləmək üçün</string>
+    <string name="request_gallery_permission_message">Qalereyaya müraciətə icazə verin:&lt;br /&gt;Profil şəklini tənzimləmək üçün</string>
     <string name="require_permission">Tələb olunan icazələr</string>
     <string name="require_permission_text">Elementləri saxlaya və görə bilmək üçün \"Divar kağızı Karuseli\"nin anbara müraciətinə icazə verin.</string>
     <string name="resend_active_email">Yenidən göndər</string>
