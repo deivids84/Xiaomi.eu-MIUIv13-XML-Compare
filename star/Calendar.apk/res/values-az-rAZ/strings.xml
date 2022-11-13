@@ -48,7 +48,7 @@
     <string name="add_holiday_desc">Bayramları bura əlavə et</string>
     <string name="add_holiday_title">Bayram əlavə et</string>
     <string name="additional_cal_dialog_title">Təqvim seçin</string>
-    <string name="additional_cal_pref_title">Əlavə təqvim</string>
+    <string name="additional_cal_pref_title">Əlavə təqvimlər</string>
     <string name="additional_calendar_note">Bəzi əlavə təqvimlər mövcud olmaya bilər və ya tutarsız amillərdən asılı olaraq dəyişə bilər</string>
     <string name="afternoon">Günortadan sonra</string>
     <string name="agenda_month_empty_hint">Bu gün üçün tədbir yoxdur</string>
@@ -529,7 +529,7 @@
     <string name="no_visiable_calendar_title">Hesab əlavə et</string>
     <string name="none">Yoxdur</string>
     <string name="noon">Günorta</string>
-    <string name="not_more_than_three_weekday">3 günə qədər seçə bilərsiniz</string>
+    <string name="not_more_than_three_weekday">%d günə qədər seçə bilərsiniz</string>
     <string name="not_set">Tənzimlənmədi</string>
     <string name="notes_hint">Tapşırıq əlavə etmək üçün toxunun</string>
     <string name="notes_reminders_channel">Qeyd xatırladıcıları</string>
@@ -664,7 +664,6 @@
     <string name="save">Saxla</string>
     <string name="saving_event">Tədbir saxlanıldı</string>
     <string name="saving_event_with_guest">Güncəlləmələr göndərilir…</string>
-    <string name="search_calendar">"Tarix;Günəş terminləri;Ay təqvimi;Almanax;Tale;Gündəlik;İclas;Xatırladıcı;Məzuniyyət;Bayram;Doğum günü;2016;2017;Bahar bayramı;Yeni İl Günü;Beynəlxalq Əmək Bayramı;Orta Payız Festivalı"</string>
     <string name="search_calendar_edit_event">İclas;Xatırladıcı;Gündəlik</string>
     <string name="search_calendar_settings">Təqvim;Gündəlik;Xatırladıcı</string>
     <string name="search_events">Tədbirləri axtar</string>
@@ -684,7 +683,7 @@
     <string name="setting_about_summary">Versiya:</string>
     <string name="setting_accounts">Təqvim hesabları</string>
     <string name="setting_change_language">Təqvim dilini seçin</string>
-    <string name="setting_desc_import_todo">Planlı tapşırıqları Qeydlərdən daxilə köçür</string>
+    <string name="setting_desc_import_todo">\"Qeydlər\"dən vaxta həssas tapşırıqları daxilə köçürün</string>
     <string name="setting_features_title">Özəllik tənzimləmələri</string>
     <string name="setting_holiday_display_desc">Bayram kartları əsas səhifədə gündəliyinizin altında yerləşir</string>
     <string name="setting_holiday_reminder">Bayram xatırladıcı</string>
