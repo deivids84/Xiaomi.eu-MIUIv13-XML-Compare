@@ -1272,6 +1272,7 @@ para añadir libros al mismo"</string>
     <string name="local_apps">Aplicaciones locales</string>
     <string name="local_bookmarks">Mi</string>
     <string name="local_file">Archivos locales</string>
+    <string name="local_video_player_label">Reproductor de vídeo (Navegador)</string>
     <string name="location_permission_name">Acceder a la ubicación</string>
     <string name="lockpattern_continue_button_text">Siguiente</string>
     <string name="lockpattern_need_to_confirm">Confirmar patrón de desbloqueo</string>
