@@ -56,6 +56,10 @@
         <item quantity="other">%1$d fa uns dies</item>
         <item quantity="one">%1$d fa un dia</item>
     </plurals>
+    <plurals name="delete_cloud_files">
+        <item quantity="other">Voleu suprimir %1$d fitxers de tots els teus dispositius i del núvol? Els fitxers de Mi Drive es poden recuperar des dels elements que heu suprimit recentment.</item>
+        <item quantity="one">Voleu suprimir %1$d fitxer de tots els teus dispositius i del núvol? Els fitxers de Mi Drive es poden recuperar des dels elements que heu suprimit recentment.</item>
+    </plurals>
     <plurals name="delete_files">
         <item quantity="other">Voleu suprimir %1$d fitxers?</item>
         <item quantity="one">Voleu suprimir %1$d fitxer?</item>
@@ -139,6 +143,18 @@
     <plurals name="mtrl_badge_content_description">
         <item quantity="other">%d notificacions noves</item>
         <item quantity="one">%d notificació nova</item>
+    </plurals>
+    <plurals name="notification_message_sync_result_fail">
+        <item quantity="other">"No s'han pogut sincronitzar %1$s fitxers"</item>
+        <item quantity="one">"No s'ha pogut sincronitzar %1$s fitxer"</item>
+    </plurals>
+    <plurals name="notification_message_sync_result_success">
+        <item quantity="other">"Sincronitzat %1$s fitxers | "</item>
+        <item quantity="one">"Sincronitzat %1$s fitxer | "</item>
+    </plurals>
+    <plurals name="notification_title_syncing_with_count_no_network">
+        <item quantity="other">S\'està esperant la connexió a la xarxa. Queden %1$s fitxers.</item>
+        <item quantity="one">S\'està esperant la connexió a la xarxa. Queda %1$s fitxer.</item>
     </plurals>
     <plurals name="numSelectedFile">
         <item quantity="other">S\'han seleccionat %1$d elements</item>
