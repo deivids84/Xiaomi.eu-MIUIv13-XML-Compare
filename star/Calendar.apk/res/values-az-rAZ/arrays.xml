@@ -222,13 +222,13 @@
     <item>dördüncü Cümə</item>
     <item>dördüncü Şənbə</item>
     <item>dördüncü Bazar</item>
-    <item>sonuncu Bazar ertəsi</item>
-    <item>sonuncu Çərşənbə axşamı</item>
-    <item>sonuncu Çərşənbə</item>
-    <item>sonuncu Cümə axşamı</item>
-    <item>sonuncu Cümə</item>
-    <item>sonuncu Şənbə</item>
-    <item>sonuncu Bazar</item>
+    <item>keçən Bazar ertəsi</item>
+    <item>keçən Çərşənbə axşamı</item>
+    <item>keçən Çərşənbə</item>
+    <item>keçən Cümə axşamı</item>
+    <item>keçən Cümə</item>
+    <item>keçən Şənbə</item>
+    <item>keçən Bazar</item>
   </string-array>
   <string-array name="response_labels1">
     <item>Cavab yoxdur</item>
