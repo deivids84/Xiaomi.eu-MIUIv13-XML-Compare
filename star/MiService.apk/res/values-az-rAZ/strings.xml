@@ -147,7 +147,7 @@ E-poçt: service.jp@xiaomi.com"</string>
     <string name="miui_feedback_main_item_customer_service">Satış sonrası xidmətlər</string>
     <string name="miui_feedback_main_item_feedback_list">Əks-əlaqəm</string>
     <string name="miui_feedback_main_menu_view_privacy">Gizlilik Siyasəti</string>
-    <string name="miui_feedback_main_menu_view_withdraw_consent">Razılığın geri çəkilməsi</string>
+    <string name="miui_feedback_main_menu_view_withdraw_consent">Razılığın geri götürülməsi</string>
     <string name="miui_feedback_main_search_footer">"Soruşmaq istədiyiniz suallar bunlar deyil?"</string>
     <string name="miui_feedback_main_search_footer_submit">Əks-əlaqə ver</string>
     <string name="miui_feedback_main_search_issue">Axtarış üçün açar sözlərini daxil edin</string>
@@ -157,8 +157,8 @@ E-poçt: service.jp@xiaomi.com"</string>
     <string name="miui_feedback_main_submit_dialog_content">"Deyəsən, probleminizin həllini tapa bilmədik. Bizə əks-əlaqə verə bilərsiniz."</string>
     <string name="miui_feedback_main_submit_dialog_title">Əks-əlaqə ver</string>
     <string name="miui_feedback_main_title">Əks əlaqə</string>
-    <string name="miui_feedback_main_withdraw">Geri çək</string>
-    <string name="miui_feedback_main_withdraw_consent_hint">"Davam etsəniz, %1$s Gizlilik Siyasətinə verdiyiniz razılığı geri çəkəcəksiniz. Artıq yığılmış və saxlanılmış şəxsi məlumatlar, əksi tələb olunmadığı müddətcə, müvafiq qanun və nizamlamalara uyğun olaraq müəyyən bir müddət ərzində silinəcəkdir. %2$s, öz xidmətlərini lazımi şəxsi məlumatların yığılması əsasında təmin etdiyi üçün, razılığın geri çəkilməsi %3$s xidmətlərini qəbul etməkdən imtina olaraq qəbul ediləcək. Razılıq indi geri çəkilsin?"</string>
+    <string name="miui_feedback_main_withdraw">Geri götür</string>
+    <string name="miui_feedback_main_withdraw_consent_hint">"Davam etsəniz, %1$s Gizlilik Siyasətinə verdiyiniz razılığı geri götürəcəksiniz. Artıq yığılmış və saxlanılmış şəxsi məlumatlar, əksi tələb olunmadığı müddətcə, müvafiq qanun və nizamlamalara uyğun olaraq müəyyən bir müddət ərzində silinəcəkdir. %2$s, öz xidmətlərini lazımi şəxsi məlumatların yığılması əsasında təmin etdiyi üçün, razılığın geri götürülməsi %3$s xidmətlərini qəbul etməkdən imtina olaraq qəbul ediləcək. Razılıq indi geri götürülsün?"</string>
     <string name="miui_main_back">Geri</string>
     <string name="miui_main_bottom_bar_feedback">Əks-əlaqə</string>
     <string name="miui_main_bottom_bar_guide">"Başlanğıc bələdçisi"</string>
@@ -370,9 +370,9 @@ Davam etməzdən əvvəl %3$s üçün yeni versiyanı oxuyub qəbul edin."</stri
     <string name="wednesday">Çərşənbə</string>
     <string name="wednesday_short">Çər</string>
     <string name="wednesday_shortest">Çər</string>
-    <string name="withdraw_consent_failed">"Razılıq geri çəkilə bilmədi"</string>
+    <string name="withdraw_consent_failed">"Razılıq geri götürülə bilmədi"</string>
     <string name="withdraw_consent_failed_hint">Bir server xətası baş verdi. Bir və ya iki dəqiqə gözləyib yenidən sınayın.</string>
-    <string name="withdraw_consent_failed_hint_connect_net">Razılığınızı geri çəkə bilmək üçün cihazınız şəbəkəyə bağlanmalıdır. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın.</string>
+    <string name="withdraw_consent_failed_hint_connect_net">Razılığınızı geri götürə bilmək üçün cihazınız şəbəkəyə bağlanmalıdır. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın.</string>
     <string name="withdrawing">Razılıq geri götürülür…</string>
     <string name="yesterday">Dünən</string>
 </resources>
