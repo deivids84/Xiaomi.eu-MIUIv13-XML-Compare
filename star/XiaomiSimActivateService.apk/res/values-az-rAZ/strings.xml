@@ -120,7 +120,7 @@
     <string name="error_no_get_send_sms_permission">Əvvəlcə SIM %d-ə SMS göndərməyə icazə verin.</string>
     <string name="error_no_get_send_sms_permission_one_sim">Əvvəlcə SMS göndərməyə icazə verin.</string>
     <string name="error_sim_not_in_service_tip">"SIM %d şəbəkə ilə bağlantı qura bilmir. SIM kartınızın düzgün işlədiyinə əmin olub yenidən sınayın."</string>
-    <string name="error_sim_not_in_service_tip_one_sim">"Şəbəkə ilə bağlantı qurula bilmir. SIM kartınızın düzgün işlədiyinə əmin olub yenidən sınayın."</string>
+    <string name="error_sim_not_in_service_tip_one_sim">"Şəbəkəyə bağlana bilmir. SIM kartınızın düzgün işlədiyinə əmin olub yenidən sınayın."</string>
     <string name="evening">Günortadan sonra</string>
     <string name="explain_activate_register_xiaomi_account_title">Mi Hesabı yarat</string>
     <string name="explain_activate_send_sms_permission_msg">%s aktivləşdirmək üçün cihazınıza aktivləşdirmə SMS-i göndərmə icazələri lazımdır. Operatorunuz bu mesaja görə sizdən ödəniş alacaq.</string>
