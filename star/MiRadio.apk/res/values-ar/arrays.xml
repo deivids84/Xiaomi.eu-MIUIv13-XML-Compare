@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sleep_duration_values">
+        <item>١٥ دقيقة</item>
+        <item>٣٠ دقيقة</item>
+        <item>٤٥ دقيقة</item>
+        <item>١ ساعة</item>
+    </string-array>
+</resources>
