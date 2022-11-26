@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="auto_process_mode">
-        <item>Obvestila</item>
+        <item>Obvesti</item>
         <item>Počisti</item>
         <item>Počisti in obvesti</item>
     </string-array>
