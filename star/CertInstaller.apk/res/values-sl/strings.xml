@@ -2,7 +2,7 @@
 <resources>
     <string name="action_missing_private_key">Za nameščanje certifikata je potreben zasebni ključ</string>
     <string name="action_missing_user_cert">Za nameščanje zasebnega ključa je potreben certifikat</string>
-    <string name="app_name">Namestitvena aplikacija za potrdilo</string>
+    <string name="app_name">Namestitvena aplikacija za potrdila</string>
     <string name="ca_cert_is_added">CA certifikat je nameščen</string>
     <string name="ca_certificate">CA certifikat</string>
     <string name="cert_missing_error">"Namestitev ni uspela ker ni bilo mogoče najti datoteke s potrdilom."</string>
@@ -16,7 +16,7 @@
     <string name="credential_info">V tem paketu je:</string>
     <string name="credential_password">Za ekstrahiranje potrdil vnesite geslo.</string>
     <string name="credential_usage_label">Uporaba poverilnice:</string>
-    <string name="done_label">Končano</string>
+    <string name="done_label">KONČANO</string>
     <string name="extracting_pkcs12">Ekstrahiranje ...</string>
     <string name="install_done">Poverilnice za %1$s so dodane med shranjena omrežja WiFi.</string>
     <string name="install_done_title">Poverilnice nameščene</string>
@@ -40,12 +40,12 @@
     <string name="pkcs12_file_password_dialog_title">Ekstrahiraj iz %s</string>
     <string name="pkcs12_password_dialog_title">Izvozi potrdilo</string>
     <string name="redirect_ca_certificate_close_button">Zapri</string>
-    <string name="redirect_ca_certificate_title">Namestitev CA certifikata ni uspela</string>
+    <string name="redirect_ca_certificate_title">Namestite potrdila CA v Nastavitvah</string>
     <string name="redirect_ca_certificate_with_app_info_message">Ta certifikat od %1$s mora biti nameščen v Nastavitvah. Potrdila CA namestite samo iz organizacij, ki jim zaupate.</string>
     <string name="select_certificate_usage_title">Izberite vrsto certifikata</string>
     <string name="unable_to_save_cert">"Potrdila ni bilo mogoče shraniti. Shramba poverilnic ni omogočena ali pravilno inicializirana."</string>
     <string name="user_cert_is_added">Uporabniško potrdilo je nameščeno</string>
-    <string name="user_certificate">Uporabniško potrdilo za VPN in aplikacije</string>
+    <string name="user_certificate">VPN &amp; uporabniško potrdilo aplikacije</string>
     <string name="userkey_type">Algoritem:</string>
     <string name="wifi_cancel_label">Prekliči</string>
     <string name="wifi_cert_is_added">Certifikat za WiFi je nameščen</string>
