@@ -369,7 +369,7 @@ Xiaomi Heath, sizə yalnız vacib elementlər barədə məlumat verəcək."</str
     <string name="dialog_privacy_title">Şərtlər və qaydalar</string>
     <string name="dialog_read_phone_perm_desc">OAID və ya Android ID istifadə edərək cihazın özəlliklərini müəyyən etmək üçün</string>
     <string name="dialog_reject">Məhdudlaşdır</string>
-    <string name="dialog_request_network">Bu tətbiqin internetə qoşulmasına icazə verin.</string>
+    <string name="dialog_request_network">Bu tətbiqin internetə bağlanmasına icazə verin.</string>
     <string name="dialog_sleep_goal_setting">Yuxu müddəti üçün hədəf təyin edin</string>
     <string name="dialog_sleep_goal_subtitle">Hər gün 7–9 saat yuxulayın</string>
     <string name="dialog_sleep_goal_title">Yuxu müddəti üçün hədəf</string>
@@ -1247,7 +1247,7 @@ Bu problem tez-tez baş verirsə, cihazınızda planlaşdırılmış söndürmə
     <string name="sleep_detection_question_three_answer">Cihazınız, daxili sensorları istifadə edərək yuxu zamanı bədən hərəkətlərinizi izləyir. Statistikaları daha dəqiq etmək üçün, cihazı bədəninizə yaxın yumşaq bir səthə qoyun. Onu çarpayı masalarının üstünə və ya döşəkdən çox uzağa qoymayın.</string>
     <string name="sleep_detection_question_three_title">Statistikalarımı necə daha dəqiq edə bilərəm?</string>
     <string name="sleep_detection_question_two_answer">"Yuxu dövrləriniz cihazın yerli yaddaşında təhlil edilir. Yuxu izləmə, şəbəkə ilə bağlantı qurmayanda və ya mövcud bağlantınız kəsiləndə belə işləyir."</string>
-    <string name="sleep_detection_question_two_title">Yuxu dövrlərini təhlil etmək üçün internetə qoşulmalıyam?</string>
+    <string name="sleep_detection_question_two_title">Yuxu dövrlərini təhlil etmək üçün internetə bağlanmalıyam?</string>
     <string name="sleep_detector_content">Xiaomi Health, yuxunuzu arxaplanda izləyir</string>
     <string name="sleep_detector_title">Yuxu izlənilir</string>
     <string name="sleep_detector_unopened">"Hələ ki, yuxunuzu izləməyə başlamamısınız."</string>
