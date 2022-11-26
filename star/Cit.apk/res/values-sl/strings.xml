@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Pojdi na začetno</string>
+    <string name="abc_action_bar_up_description">Pojdi navzgor</string>
+    <string name="abc_action_menu_overflow_description">Dodatne možnosti</string>
+    <string name="abc_action_mode_done">Končano</string>
+    <string name="abc_activity_chooser_view_see_all">Pokaži vse</string>
+    <string name="abc_activitychooserview_choose_application">Izberi aplikacijo</string>
+    <string name="abc_capital_off">IZKLJUČENO</string>
+    <string name="abc_capital_on">VKLJUČENO</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Fn +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">preslednica</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Meni+</string>
+    <string name="abc_search_hint">Preišči…</string>
+    <string name="abc_searchview_description_clear">Izbriši zahtevo</string>
+    <string name="abc_searchview_description_query">Zahteva za iskanje</string>
+    <string name="abc_searchview_description_search">Iskanje</string>
+    <string name="abc_searchview_description_submit">Pošlji zahtevo</string>
+    <string name="abc_searchview_description_voice">Glasovno iskanje</string>
+    <string name="abc_shareactionprovider_share_with">Skupna raba z</string>
+    <string name="abc_shareactionprovider_share_with_application">Skupna raba z: %s</string>
+    <string name="abc_toolbar_collapse_description">Stisni</string>
+    <string name="back_mic_check_record_tip">Snemanje, prosim nekaj povejte v MIC na zadnji strani telefona</string>
+    <string name="bottom_high_speaker_title">Test spodnjega visokotonca</string>
+    <string name="bottom_low_speaker_title">Test spodnjega nizkotonca</string>
+    <string name="bottom_right_low_speaker">Test spodnjega desnega nizkotonca</string>
+    <string name="cit_accdata_second_sensor_check_title">Drugi merilnik pospeška</string>
+    <string name="cit_accelermeter_second_cali_title">Drugi preskus kalibracije senzorja pospeška</string>
+    <string name="cit_accelermeter_sensor_check_summary">"Napravo hitro premikajte v eni smeri. X，Y，Z koordinatne vrednosti se prikažejo v nadaljevanju. (ko se telefon premika: X predstavlja levo/desno, y predstavlja pred/za, z predstavlja gor in dol).
+Pred kalibracijo naprave jo položite na ravno površino."</string>
+    <string name="cit_audio_hw_check_summary">Test preverjanja zvočne strojne opreme</string>
+    <string name="cit_audio_hw_check_tips">Preskusno izvajanje</string>
+    <string name="cit_audio_hw_check_title">Test preverjanja zvočne strojne opreme</string>
+    <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Testiranje glavnega zvočnika na mikrofon.
+
+Držite telefon kot da kličete, govorite v glavni mikrofon, morali bi slišati glas iz sprejemnika"</string>
+    <string name="cit_batterylight_rgb_all">Vsi svetlobni učinki</string>
+    <string name="cit_calibration_finish">Pisanje kalibracijskih podatkov je končano</string>
+    <string name="cit_camera_check_summary">"Navodila za preizkus:
+
+1.Dotaknite se spodnjega gumba Kamera, da odprete vmesnik za predogled kamere
+2.Tapnite sprožilec
+3.Sistem bo samodejno shranil fotografijo po zajemu
+4.Fotografija, ki ste jo posneli, mora biti prikazana na zaslonu. Za dokončanje testa tapnite Uspelo."</string>
+    <string name="cit_camera_otp_download_title">Preizkus prenosa OTP kamere</string>
+    <string name="cit_camera_rearsub">Preizkus podkamere je v teku, počakajte....</string>
+    <string name="cit_charger_test_tips_pd">Trenutni projekt mora preizkusiti USB_PD</string>
+    <string name="cit_cust_img_version">Poizvedba o podatkih o različici CUST</string>
+    <string name="cit_dial_emergencycall">Kliči 112</string>
+    <string name="cit_digital_hall_sensor_check_summary">Vrednost kota je prikazana spodaj</string>
+    <string name="cit_digital_hall_sensor_check_title">Digitalni Hall test</string>
+    <string name="cit_emergencycall_check_summary">Pritisnite Kliči 112 za klicanje številke 112 da preveriteali se lahko kliče 112.</string>
+    <string name="cit_emergencycall_check_title">Nujni klic</string>
+    <string name="cit_front_camera_motor_cali_fail">Kalibracija motorja ni uspela</string>
+    <string name="cit_front_camera_motor_cali_success">Uspešna kalibracija motorja</string>
+    <string name="cit_front_camera_motor_cali_tips">Ne blokirajte fotoaparata med postopkom kalibracije motorja pojavne kamere</string>
+    <string name="cit_gyrodata_second_sensor_check_title">Drugi žiroskop</string>
+    <string name="cit_gyroscope_second_cali_title">Drugi preskus kalibracije senzorja žiroskopa</string>
+    <string name="cit_light_sensor_check_summary">DAC vrednosti bi se morala pojaviti v nadaljevanju</string>
+    <string name="cit_nfc_check_summary">"Postavite kartico na vrh zadnje strani telefona"</string>
+    <string name="cit_nfc_check_tip">položite kartico na vrh hrbtne strani telefona</string>
+    <string name="cit_proximity_data_check_summary">"Infrardeči senzor razdalje: Pokrijte senzor razdalje telefona z roko in zapustite senzor razdalje. 
+Ultrazvočni senzor razdalje: simulirajte dvig slušalke, da sprejmete klic 
+Če spodnje preskusno območje pri približevanju kaže vrednost 0,0, vrednost 5.0 pa, ko je oddaljena, je test uspešen, sicer test ne uspe ."</string>
+    <string name="cit_proximity_sensor_check_summary">"Pokrijte senzor oddaljenosti (nahaja se na vrhu telefona v bližini sprejemnika) z roko, potem pa roko umaknite. Vrednost se mora povečati od 0,0 ko umaknete roko.
+Pri kalibriranju preverite da ni ničesar med senzorjem in vašo roko (npr. rokavice)."</string>
+    <string name="cit_reverse_wireless_charge_check_tips">Prosimo, da telefon in napravo po potrebi napolnite in začnite s testiranjem</string>
+    <string name="cit_soft_light_check_title">Mehka svetloba</string>
+    <string name="cit_tool_current_size">Trenutna velikost</string>
+    <string name="cit_tool_gps_path_loss_test_request_location">zahtevaj lokacijo</string>
+    <string name="cit_tool_gps_path_loss_title">Orodje za testiranje izgube poti Gnss</string>
+    <string name="cit_tool_modem_mbn_opt_fail_notfiy">ni uspelo, znova zaženite telefon, da poskusite znova</string>
+    <string name="cit_tool_opt_fail_info_notify">Izbira ni uspela, telefon je potrebno znova zagnati za način brez povezave.</string>
+    <string name="cit_tool_wlan_circular_capture">Krožno zajemanje</string>
+    <string name="cit_tool_wlan_clear">očisti</string>
+    <string name="cit_tool_wlan_export">Izvozi</string>
+    <string name="cit_tool_wlan_update_ap_list">Posodobi seznam AP</string>
+    <string name="cit_touch_auto_main_tips">Samotestiranje domačega zaslona je v teku, ne dotikajte se zaslona</string>
+    <string name="cit_touch_auto_operate_expand_screen_tips">Najprej razširite zaslon in nato izvedite samopreverjanje glavnega zaslona</string>
+    <string name="cit_touch_auto_operate_fold_screen_tips">Najprej zložite zaslon in nato izvedite samopreverjanje glavnega zaslona</string>
+    <string name="cit_touch_auto_vice_tips">Samotestiranje podzaslona je v teku, ne dotikajte se zaslona</string>
+    <string name="cit_touch_fw_mode">FW način</string>
+    <string name="cit_touch_thp_mode">THP način</string>
+    <string name="cit_touch_work_mode_test_help">"Navodila za uporabo 
+kliknite gumb, da preklopite način na dotik v način THP ali način FW"</string>
+    <string name="cit_touch_work_mode_test_title">Test preklopa načina THP na dotik</string>
+    <string name="cit_touch_work_summary">Dotik preklopi način THP</string>
+    <string name="cit_touch_work_switch_tips">Ne dotikajte se zaslona in počakajte, da se preklop načina zaključi</string>
+    <string name="cit_uwb_calibrate_color_black">Črno</string>
+    <string name="cit_uwb_calibrate_color_cali_tip">Pred kalibracijo podatkov izberite zadnjo lupino naprave</string>
+    <string name="cit_uwb_calibrate_color_gray">Sivo</string>
+    <string name="cit_uwb_calibrate_color_white">Belo</string>
+    <string name="cit_uwb_calibrate_data_cali_tip">Umerjanje podatkov</string>
+    <string name="cit_uwb_calibrate_summary">Ta preizkus je namenjen vzdrževalcem zato ga uporabljajte previdno</string>
+    <string name="cit_uwb_calibrate_title">UWB kalibracijski test</string>
+    <string name="cit_wifi_address_check_summary">Testiranje bo prikazalo trenutno stanje WiFi-ja</string>
+    <string name="close_third_color_led">zapri tribarvno led</string>
+    <string name="cold_light_title">Hladna luč</string>
+    <string name="edittextdisplay">"
+\u0009\u0009\u0009Dobrodošli v orodju sar ! 
+\u0009\u0009\u0009Vsa dovoljenja so vklopljena 
+ 
+\u0009\u0009\u0009sar stikalo je izklopljeno, vklopite ga ročno 
+\u0009\u0009\u0009sar zaklenjen, nastavite vrednost DSI"</string>
+    <string name="edittextdisplayf">"
+\u0009\u0009\u0009Dovoljenja so bila omejena 
+
+\u0009\u0009Prepričajte se, da ste posredovali datoteko xml v interno \u0009\u0009\u0009omrežje in v odzivno pot: 
+\u0009\u0009/sdcard/debug/UrlSign.xml"</string>
+    <string name="fod_check_start_error">"Programa za preverjanje senzorja ni mogoče zagnati
+Test ni uspel!"</string>
+    <string name="fod_check_summary">"Test navodila:
+Samodejni preizkus glede na tip senzorja
+Rezultat preizkusa: kliknite na gumb za sprejem ali neuspeha"</string>
+    <string name="front_mic_check_record_tip">Snemanje, nekaj povejte v mikrofon telefona</string>
+    <string name="main_mic_check_record_tip">Snemanje, nekaj povejte v mikrofon na glavnem delu telefona</string>
+    <string name="motor_calibration">Kalibracija motorja</string>
+    <string name="mtb_tool_modem_user_panel">Uporabniška plošča</string>
+    <string name="open_third_color_led">Odpri tribarvno led</string>
+    <string name="pop_camera">Pop kamera</string>
+    <string name="pop_push_camera_test_summary">"Kliknite tipko Skočne kamere da boste ugotovili ali kamera izide
+Kliknite tipko Push kamere da boste ugotovili ali se je kamera vključila"</string>
+    <string name="pop_push_camera_test_title">Test Skočne in Push kamere</string>
+    <string name="push_camera">Push kamera</string>
+    <string name="radio_info_data_connected">Povezano</string>
+    <string name="radio_info_data_disconnected">Povezava prekinjena</string>
+    <string name="sar_sensor_collect_data_self_cali">Samo-kalibracija</string>
+    <string name="sar_sensor_collect_test_summary">"Obrnite telefon, nastavite ga v stojalo
+Kliknite tipko Začni zbiranje podatkov
+Kontrolirajte zapiranje stojala in se oddaljite od telefona"</string>
+    <string name="sar_sensor_test_err_angle">Telefon ni postavljen pod pravim kotom</string>
+    <string name="sar_sensor_test_next_step">Nadzorna pregrada blizu mobilnega telefona</string>
+    <string name="sar_sensor_test_summary">"Zavrtite telefon in ga postavite na ohišje
+Kliknite gumb Začni umerjanje
+Po uspešnem kalibriranju nadzorujte napravo blizu in stran od telefona"</string>
+    <string name="search_menu_title">Išči</string>
+    <string name="soft_light_title">Mehka svetloba</string>
+    <string name="tips_not_placed_right_angle">Telefon ni postavljen pod pravim kotom</string>
+    <string name="top_high_speaker_title">Test visokotonca</string>
+    <string name="top_low_speaker_title">Test nizkotonca</string>
+    <string name="top_mic_check_record_tip">Snemanje, prosim, recite kaj v mikrofon na vrhu telefona</string>
+    <string name="warm_light_title">Topla svetloba</string>
+</resources>
