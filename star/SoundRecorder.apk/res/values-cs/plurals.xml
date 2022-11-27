@@ -127,10 +127,10 @@
         <item quantity="many">Vybráno %d položky</item>
     </plurals>
     <plurals name="mtrl_badge_content_description">
-        <item quantity="other">%d nových oznámení</item>
-        <item quantity="one">%d nové oznámení</item>
-        <item quantity="few">%d nová oznámení</item>
-        <item quantity="many">%d nového oznámení</item>
+        <item quantity="other">%d nových oznámení</item>
+        <item quantity="one">%d nové oznámení</item>
+        <item quantity="few">%d nových oznámení</item>
+        <item quantity="many">%d nových oznámení</item>
     </plurals>
     <plurals name="notification_warning">
         <item quantity="other">Málo místa na úložišti (zbývá méně než %d minut)</item>
@@ -177,14 +177,14 @@
     <plurals name="search_fm_records_hint">
         <item quantity="other">%d rádiových nahrávek</item>
         <item quantity="one">%d rádiová nahrávka</item>
-        <item quantity="few">%d rádiové nahrávky</item>
-        <item quantity="many">%d rádiové nahrávky</item>
+        <item quantity="few">%d rádiových nahrávek</item>
+        <item quantity="many">%d rádiových nahrávek</item>
     </plurals>
     <plurals name="search_recorder_records_hint">
         <item quantity="other">%d zvukových nahrávek</item>
         <item quantity="one">%d zvuková nahrávka</item>
-        <item quantity="few">%d zvukové nahrávky</item>
-        <item quantity="many">%d zvukové nahrávky</item>
+        <item quantity="few">%d zvukových nahrávek</item>
+        <item quantity="many">%d zvukových nahrávek</item>
     </plurals>
     <plurals name="search_result">
         <item quantity="other">Nalezeno %d nahrávek</item>
