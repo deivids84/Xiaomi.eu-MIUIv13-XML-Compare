@@ -84,6 +84,12 @@
         <item quantity="few">%1$d дн. таму</item>
         <item quantity="many">%1$d дз. таму</item>
     </plurals>
+    <plurals name="delete_cloud_files">
+        <item quantity="other">Выдаліць %1$d файлаў з усіх прылад і з воблака? Файлы Mi Дыска можна аднавіць з нядаўна выдаленых аб\'ектаў.</item>
+        <item quantity="one">Выдаліць %1$d файл з усіх прылад і з воблака? Файлы Mi Дыска можна аднавіць з нядаўна выдаленых аб\'ектаў.</item>
+        <item quantity="few">Выдаліць %1$d файла з усіх прылад і з воблака? Файлы Mi Дыска можна аднавіць з нядаўна выдаленых аб\'ектаў.</item>
+        <item quantity="many">Выдаліць %1$d файлаў з усіх прылад і з воблака? Файлы Mi Дыска можна аднавіць з нядаўна выдаленых аб\'ектаў.</item>
+    </plurals>
     <plurals name="delete_files">
         <item quantity="other">Выдаліць %1$d файлаў?</item>
         <item quantity="one">Выдаліць %1$d файл?</item>
@@ -209,6 +215,24 @@
         <item quantity="one">%d новае апавяшчэнне</item>
         <item quantity="few">%d новых апавяшчэння</item>
         <item quantity="many">%d новых апавяшчэнняў</item>
+    </plurals>
+    <plurals name="notification_message_sync_result_fail">
+        <item quantity="other">"Не атрымалася сінхранізаваць %1$s файлаў"</item>
+        <item quantity="one">"Не атрымалася сінхранізаваць %1$s файл"</item>
+        <item quantity="few">"Не атрымалася сінхранізаваць %1$s файла"</item>
+        <item quantity="many">"Не атрымалася сінхранізаваць %1$s файлаў"</item>
+    </plurals>
+    <plurals name="notification_message_sync_result_success">
+        <item quantity="other">"%1$s файлаў сінхранізаваны | "</item>
+        <item quantity="one">"%1$s файл сінхранізаваны | "</item>
+        <item quantity="few">"%1$s файла сінхранізаваны | "</item>
+        <item quantity="many">"%1$s файлаў сінхранізаваны | "</item>
+    </plurals>
+    <plurals name="notification_title_syncing_with_count_no_network">
+        <item quantity="other">Чаканне падлучэння да сеткі. Засталося %1$s файлаў.</item>
+        <item quantity="one">Чаканне падлучэння да сеткі. Застаўся %1$s файл.</item>
+        <item quantity="few">Чаканне падлучэння да сеткі. Засталося %1$s файла.</item>
+        <item quantity="many">Чаканне падлучэння да сеткі. Засталося %1$s файлаў.</item>
     </plurals>
     <plurals name="numSelectedFile">
         <item quantity="other">Абрана %1$d аб\'екта</item>
