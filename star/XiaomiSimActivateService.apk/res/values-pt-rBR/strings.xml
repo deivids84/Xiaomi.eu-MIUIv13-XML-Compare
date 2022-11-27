@@ -60,8 +60,8 @@
     <string name="activate_popup_confirm_failed_receive_sms">Repetir</string>
     <string name="activate_popup_confirm_failed_send_sms">Enviar novamente</string>
     <string name="activate_popup_confirm_failed_server">Repetir</string>
-    <string name="activate_popup_desc_2_intl_sim_cards_msg_with_charge_hint">To activate \"%2$s\", &lt;xliff:g id=number_sms refersto=2&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;international paid SMS&lt;/b&gt; will be sent. Your carrier will charge you for these messages.</string>
-    <string name="activate_popup_desc_2_sim_cards_msg_with_charge_hint">To activate \"%2$s\", &lt;xliff:g id=number_sms refersto=2&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;domestic paid SMS&lt;/b&gt; will be sent. Your carrier will charge you for these messages.</string>
+    <string name="activate_popup_desc_2_intl_sim_cards_msg_with_charge_hint">Para ativar \"%2$s\", &lt;xliff:g id=number_sms refersto=2&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;SMS internacional&lt;/b&gt; serão enviados. Sua operadora cobrará por essas mensagens.</string>
+    <string name="activate_popup_desc_2_sim_cards_msg_with_charge_hint">Para ativar \"%2$s\", &lt;xliff:g id=number_sms refersto=2&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;SMS nacionais&lt;/b&gt; serão enviados. Sua operadora cobrará por essas mensagens.</string>
     <string name="activate_popup_desc_all_gateway_failed_query_info">"Não foi possível localizar o seu número de telefone. Certifique-se de que o seu cartão SIM está funcionando corretamente.
 Insira o número de telefone associado ao cartão SIM para reativar o serviço %s."</string>
     <string name="activate_popup_desc_all_gateway_failed_send_sms">"Não foi possível enviar o SMS de ativação. Certifique-se de que o seu cartão SIM está funcionando corretamente.
@@ -77,7 +77,7 @@ Insira o número de telefone associado ao cartão SIM para reativar o serviço %
     <string name="activate_popup_desc_find_device_postfix_msg">%1$s. Para ativar \"%3$s\", insira o número de telefone do SIM %2$d. Se você substituir este cartão SIM, outro SMS de ativação será enviado.</string>
     <string name="activate_popup_desc_find_device_postfix_msg_one_sim">%1$s. Para ativar o \"%2$s\", insira seu número de telefone. Se você trocar o cartão SIM, outro SMS de ativação será enviado.</string>
     <string name="activate_popup_desc_intl_sim_card_msg_with_charge_hint">Para ativar o \"%2$s\", &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;SMS internacional pago&lt;/b&gt; será enviado. A sua operadora cobrará por esta mensagem.</string>
-    <string name="activate_popup_desc_mi_account_user_manual">%1$s. &lt;Data&gt;Consulte o &lt;a href=https://account.xiaomi.com/helpcenter/faq&gt;Manual do Usuário da Conta Mi&lt;/a&gt; caso tenha alguma dúvida.&lt;/Data&gt;</string>
+    <string name="activate_popup_desc_mi_account_user_manual">%1$s <Data>Consulte o &lt;a href=https://account.xiaomi.com/helpcenter/faq/pt_BR/00.introduction/faq-1&gt;Manual do usuário da Conta Mi&lt;/a&gt; caso tenha alguma dúvida.</Data></string>
     <string name="activate_popup_desc_mixed_sim_cards_msg_with_charge_hint">Para ativar o \"%3$s\", &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;SMS local pago&lt;/b&gt; e &lt;xliff:g id=number_sms refersto=1&gt;%2$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;SMS internacional pago&lt;/b&gt; serão enviados. A sua operadora cobrará por estas mensagens.</string>
     <string name="activate_popup_desc_sim_card_downlink_msg">Para ativar \"%2$s\", insira o número de telefone do SIM %1$d.</string>
     <string name="activate_popup_desc_sim_card_downlink_msg_one_sim">Para ativar o %s, insira seu número de telefone.</string>
@@ -244,7 +244,7 @@ Insira o número de telefone associado ao cartão SIM para reativar o serviço %
     <string name="search_menu_title">Pesquisar</string>
     <string name="send">Enviar</string>
     <string name="sim_activate_failed">"Não foi possível ativar o serviço"</string>
-    <string name="sim_activate_notificat_channel">Activation notifications</string>
+    <string name="sim_activate_notificat_channel">Notificações de ativação</string>
     <string name="sim_activate_prepare">Ativar serviço</string>
     <string name="sim_activated_failed_msg">"Não foi possível ativar o serviço. Toque para tentar novamente."</string>
     <string name="sim_unactivated_feature_title">"O \"%s\" não foi ativado"</string>
