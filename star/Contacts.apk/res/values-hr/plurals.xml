@@ -225,6 +225,11 @@
         <item quantity="one">%d odabrana stavka</item>
         <item quantity="few">Broj odabranih stavki: %d</item>
     </plurals>
+    <plurals name="notification_missedCallsMsg">
+        <item quantity="other">%d propuštenih poziva</item>
+        <item quantity="one">%d propušteni poziv</item>
+        <item quantity="few">%d propuštenih poziva</item>
+    </plurals>
     <plurals name="numSelectedSimContacts">
         <item quantity="other">Odabrano %1$d</item>
         <item quantity="one">Odabrano %1$d</item>
