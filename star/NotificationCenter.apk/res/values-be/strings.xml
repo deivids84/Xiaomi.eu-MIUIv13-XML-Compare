@@ -42,6 +42,8 @@
     <string name="date_picker_lunar">Месяцовы каляндар</string>
     <string name="date_time_picker_dialog_title">Усталяваць дату і час</string>
     <string name="default_list_type">Сартаваць па часу атрымання</string>
+    <string name="disable_description_content">"Апавяшчэнні — гэта сістэмная праграма. Калі вы адключыце яе, вы не зможаце кіраваць апавяшчэннямі праграм. Усё роўна адключыць?"</string>
+    <string name="disable_description_title">Адключыць сістэмную праграму?</string>
     <string name="disable_float_notification">"Усплывальныя апавяшчэннi не дазволены"</string>
     <string name="disable_lockscreen_notification">"Апавяшчэннi на экране блакавання не дазволены"</string>
     <string name="disable_show_badge_notification">"Значкі апавяшчэнняў не дазволены"</string>
