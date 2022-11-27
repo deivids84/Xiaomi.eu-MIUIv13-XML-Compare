@@ -83,6 +83,6 @@
     <string name="share_title">Падзяліцца праз</string>
     <string name="stable">Стабільная версія</string>
     <string name="version">Зараз усталявана:</string>
-    <string name="weekly">Штотыднёвая версія</string>
+    <string name="weekly">штотыднёвая</string>
     <string name="wifi_recommended">Немагчыма пачаць спампоўванне праз адсутнасць злучэння з WiFi!</string>
 </resources>
