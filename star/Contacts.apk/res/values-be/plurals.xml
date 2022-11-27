@@ -270,6 +270,12 @@
         <item quantity="few">Абрана %d элемента</item>
         <item quantity="many">Абрана %d элементаў</item>
     </plurals>
+    <plurals name="notification_missedCallsMsg">
+        <item quantity="other">%d прапушчаных выклікаў</item>
+        <item quantity="one">%d прапушчаны выклік</item>
+        <item quantity="few">%d прапушчаных выкліка</item>
+        <item quantity="many">%d прапушчаных выклікаў</item>
+    </plurals>
     <plurals name="numSelectedSimContacts">
         <item quantity="other">%1$d абрана</item>
         <item quantity="one">%1$d абраны</item>
