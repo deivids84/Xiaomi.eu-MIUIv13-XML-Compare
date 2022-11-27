@@ -178,21 +178,6 @@
         <item>غربا</item>
         <item>الشمال الغربي</item>
     </string-array>
-    <string-array name="wind_power">
-        <item>٠</item>
-        <item>١</item>
-        <item>٢</item>
-        <item>۳</item>
-        <item>٤</item>
-        <item>٥</item>
-        <item>٦</item>
-        <item>٧</item>
-        <item>٨</item>
-        <item>۹</item>
-        <item>١٠</item>
-        <item>١١</item>
-        <item>١٢</item>
-    </string-array>
     <string-array name="wind_unit_detail">
         <item>مقياس بوفورت</item>
         <item>كيلومتر في الساعة (كم/س)</item>
