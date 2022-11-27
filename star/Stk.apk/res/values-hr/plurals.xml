@@ -83,7 +83,7 @@
     <plurals name="mtrl_badge_content_description">
         <item quantity="other">%d novih obavijesti</item>
         <item quantity="one">%d nova obavijest</item>
-        <item quantity="few">%d nove obavijesti</item>
+        <item quantity="few">%d novih obavijesti</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">prije %d min</item>
