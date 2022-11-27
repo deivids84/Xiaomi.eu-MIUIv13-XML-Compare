@@ -246,6 +246,12 @@
         <item quantity="few">%d хвіліны таму</item>
         <item quantity="many">%d хвілін таму</item>
     </plurals>
+    <plurals name="pay_mibi">
+        <item quantity="other">Заплаціць %1$s Mi манет</item>
+        <item quantity="one">Заплаціць %1$s Mi манету</item>
+        <item quantity="few">Заплаціць %1$s Mi манеты</item>
+        <item quantity="many">Заплаціць %1$s Mi манет</item>
+    </plurals>
     <plurals name="resource_comment_score_count">
         <item quantity="other">%d каментарыяў</item>
         <item quantity="one">%d каментарый</item>
