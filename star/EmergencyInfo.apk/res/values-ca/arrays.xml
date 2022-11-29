@@ -83,8 +83,8 @@
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
-        <item>actiu</item>
-        <item>, actiu (mitjans de comunicació)</item>
+        <item>, actiu</item>
+        <item>, actiu (multimèdia)</item>
         <item>, actiu (telèfon)</item>
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
