@@ -40,8 +40,8 @@
     <string name="ble_device_rename">Reanomena</string>
     <string name="bluetooth_a2dp_profile_summary_connected">Connectat a l\'àudio multimèdia</string>
     <string name="bluetooth_a2dp_profile_summary_use_for">S\'utilitza per a l\'àudio multimèdia</string>
-    <string name="bluetooth_active_battery_level">Actiu, %1$s bateria</string>
-    <string name="bluetooth_active_battery_level_untethered">Actiu, L: %1$s bateria, R: %2$s bateria</string>
+    <string name="bluetooth_active_battery_level">Actiu, %1$s de bateria</string>
+    <string name="bluetooth_active_battery_level_untethered">Actiu, E: %1$s de bateria, D: %2$s de bateria</string>
     <string name="bluetooth_active_no_battery_level">Actiu</string>
     <string name="bluetooth_battery_level">%1$s bateria</string>
     <string name="bluetooth_battery_level_untethered">L: %1$s bateria, R: %2$s bateria</string>
