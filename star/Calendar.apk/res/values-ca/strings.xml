@@ -48,7 +48,7 @@
     <string name="add_holiday_desc">Afegiu festius aquí</string>
     <string name="add_holiday_title">Afegiu festius</string>
     <string name="additional_cal_dialog_title">Selecciona el calendari</string>
-    <string name="additional_cal_pref_title">Calendari addicional</string>
+    <string name="additional_cal_pref_title">Calendaris addicionals</string>
     <string name="additional_calendar_note">És possible que alguns calendaris addicionals no estiguin disponibles o variïn depenent de diversos factors aleatoris</string>
     <string name="afternoon">Tarda</string>
     <string name="agenda_month_empty_hint">No hi ha esdeveniments avui</string>
@@ -529,7 +529,7 @@ Comproveu la configuració i proveu-ho de nou."</string>
     <string name="no_visiable_calendar_title">Afegeix un compte</string>
     <string name="none">Cap</string>
     <string name="noon">Migdia</string>
-    <string name="not_more_than_three_weekday">Podeu seleccionar fins a 3 dies</string>
+    <string name="not_more_than_three_weekday">Podeu seleccionar fins a %d dies</string>
     <string name="not_set">No definit</string>
     <string name="notes_hint">Toqueu per afegir una tasca</string>
     <string name="notes_reminders_channel">Recordatoris de notes</string>
@@ -664,7 +664,6 @@ Comproveu la configuració i proveu-ho de nou."</string>
     <string name="save">Desar</string>
     <string name="saving_event">S\'ha desat l\'esdeveniment</string>
     <string name="saving_event_with_guest">S\'estan enviant actualitzacions…</string>
-    <string name="search_calendar">"Data;Solar Termes;Lunar;Almanac;Fortuna;Agenda;Reunió;Recordatori;Festiu;Vacances;Aniversari;2016;2017;Festival de Primavera;Any nou;Dia internacional del treballador;Festival de tardor"</string>
     <string name="search_calendar_edit_event">Reunió;Recordatori;Agenda</string>
     <string name="search_calendar_settings">Calendari;Agenda;Recordatori</string>
     <string name="search_events">Cercar Esdeveniments</string>
@@ -684,7 +683,7 @@ Comproveu la configuració i proveu-ho de nou."</string>
     <string name="setting_about_summary">Versió:</string>
     <string name="setting_accounts">Comptes de calendari</string>
     <string name="setting_change_language">Seleccioneu l\'idioma de Calendari</string>
-    <string name="setting_desc_import_todo">Importeu les tasques programades des de Notes</string>
+    <string name="setting_desc_import_todo">Importa tasques sensibles al temps des de Notes</string>
     <string name="setting_features_title">Configuració de les funcions</string>
     <string name="setting_holiday_display_desc">Les targetes dels dies festius es troben sota l\'agenda a la pàgina d\'inici</string>
     <string name="setting_holiday_reminder">Recordatori de dies festius</string>
