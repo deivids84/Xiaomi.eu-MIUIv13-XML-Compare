@@ -131,7 +131,7 @@ Si aquest permís està desactivat, les alarmes existents i els esdeveniments ba
     <string name="bluetooth_a2dp_profile_summary_connected">Connectat a àudio multimèdia</string>
     <string name="bluetooth_a2dp_profile_summary_use_for">S\'utilitza per a l\'àudio multimèdia</string>
     <string name="bluetooth_active_battery_level">Bateria activa i %1$s</string>
-    <string name="bluetooth_active_battery_level_untethered">Actiu, L: bateria %1$s , R: %2$s bateria</string>
+    <string name="bluetooth_active_battery_level_untethered">Actiu, E: %1$s de bateria, D: %2$s de bateria</string>
     <string name="bluetooth_active_no_battery_level">Actiu</string>
     <string name="bluetooth_battery_level">bateria %1$s</string>
     <string name="bluetooth_battery_level_untethered">L: bateria %1$s , R: bateria %2$s</string>
@@ -380,8 +380,8 @@ Qualsevol pot llegir aquesta informació des de la pantalla de bloqueig i marcar
     <string name="ims_reg_status_not_registered">No registrat</string>
     <string name="ims_reg_status_registered">Registrat</string>
     <string name="ims_reg_title">Estat de registre de l\'IMS</string>
-    <string name="inactive_app_active_summary">Actiu. Toca per commutar.</string>
-    <string name="inactive_app_inactive_summary">Inactiu. Toca per commutar.</string>
+    <string name="inactive_app_active_summary">Actiu. Toqueu per commutar.</string>
+    <string name="inactive_app_inactive_summary">Inactiu. Toqueu per commutar.</string>
     <string name="inactive_apps_title">Aplicacions en espera</string>
     <string name="install_other_apps">Instal·la aplicacions desconegudes</string>
     <string name="item_view_role_description">Pestanya</string>
