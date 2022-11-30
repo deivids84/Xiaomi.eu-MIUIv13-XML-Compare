@@ -250,7 +250,7 @@ añadidos a la lista de bloqueos"</string>
     <string name="dialog_message_fake_cell_detect_error">¿Corregir la información del mensaje? Para hacerlo, MIUI necesita enviar al servidor tu número de teléfono (%1$s), el contenido del mensaje y la información de ubicación.</string>
     <string name="dialog_message_mx">Mi Message te permite enviar mensajes a otros usuarios de MIUI sin incurrir en cargos. Se requiere un mensaje de texto saliente para activar Mi Message. Su operador le cobrará por este mensaje. Debes aceptar nuestra \"%1$s\" y \"%2$s\" antes de usar Mi Message.</string>
     <string name="dialog_message_networking">Mensaje necesita usar las páginas amarillas para poder proporcionar reconocimiento de identificación del remitente. Las páginas de mensajería y amarillas necesitan conectarse a Internet y acceder a su ubicación para funcionar con normalidad. ¿Permitir?</string>
-    <string name="dialog_message_rcs">La mensajería de China Mobile te permite enviar mensajes a otros usuarios de China Mobile en China continental sin incurrir en cargos. Debes aceptar \"%1$s\" antes de usar la mensajería de China Mobile.</string>
+    <string name="dialog_message_rcs">La mensajería de China Mobile permite enviar mensajes a otros usuarios de China Mobile en territorio chino sin coste alguno. Debes aceptar \"%1$s\" antes de utilizarla.</string>
     <string name="dialog_quit">Salir</string>
     <string name="dialog_revoke">Retirar</string>
     <string name="dialog_sim_locked_confirm">Aceptar</string>
@@ -529,6 +529,7 @@ Verifique su tarjeta SIM."</string>
 Este mensaje podría ser no deseado."</string>
     <string name="mms_block_hint_highlight">Bloquear MMS</string>
     <string name="mms_main_purpose">"Para tener acceso a todas las funciones de Mensajes, activa Mi Message y Mensajes Inteligentes."</string>
+    <string name="mms_main_purpose_new">Esta aplicación necesita conexión a Internet para proporcionar servicios básicos. Recomendamos que actives los servicios de Mensajes Mi y los Mensajes Inteligentes.</string>
     <string name="mms_mi_message_main_purpose">¡Bienvenido a Mi Mensaje! Se requiere un mensaje SMS saliente para activar Mi Message. Su operador le cobrará por este mensaje.</string>
     <string name="mms_mi_message_request_notice">Queremos que aproveches al máximo Mi Mensaje.</string>
     <string name="mms_mx_privacy_policy">Política de privacidad de Mi Mensaje</string>
@@ -1016,8 +1017,8 @@ Echa un vistazo a los recomendados!"</string>
     <string name="recipients_over_size">Demasiados destinatarios.</string>
     <string name="recommend_bar_cancel">Ignorar</string>
     <string name="recommend_bar_message_mx">Mi Message te permite enviar mensajes a otros usuarios de MIUI sin coste alguno.</string>
-    <string name="recommend_bar_message_mx_rcs">Mi Message te permite enviar mensajes a otros usuarios de MIUI y usuarios de China Mobile en China continental sin coste alguno.</string>
-    <string name="recommend_bar_message_rcs">La mensajería de China Mobile te permite enviar mensajes a otros usuarios de China Mobile en China continental sin coste alguno.</string>
+    <string name="recommend_bar_message_mx_rcs">Mensajes Mi permite enviar mensajes a otros usuarios de MIUI y a usuarios de China Mobile en territorio chino sin coste alguno.</string>
+    <string name="recommend_bar_message_rcs">La mensajería de China Mobile permite enviar mensajes a otros usuarios de China Mobile en territorio chino sin coste alguno.</string>
     <string name="recommend_bar_message_smart_message">Copiar contraseñas, rastrear paquetes, usar menús inteligentes y más</string>
     <string name="recommend_bar_ok">Activar</string>
     <string name="recommend_bar_title_mx_rcs">Mi mensaje</string>
@@ -1255,6 +1256,7 @@ Echa un vistazo a los recomendados!"</string>
     <string name="system_permission_declare_agree">Aceptar</string>
     <string name="system_permission_declare_disagree">Cancelar</string>
     <string name="system_permission_declare_double_link" formatted="false">Lee y acepta nuestro %1s y %2s antes de usar esta función.</string>
+    <string name="system_permission_declare_exit">Salir</string>
     <string name="system_permission_declare_main_purpose" formatted="false">¡Bienvenido a %1s! %2s</string>
     <string name="system_permission_declare_mi_message">¡Bienvenido a Mi Mensaje!</string>
     <string name="system_permission_declare_no_say_no">"Protegeremos su información personal de acuerdo con las leyes, regulaciones y políticas de privacidad relevantes.
@@ -1442,6 +1444,7 @@ Intentos realizados: %s."</string>
     <string name="voice_report_anytime">Siempre</string>
     <string name="voice_report_off">Desactivado</string>
     <string name="voice_report_wiredon">Con auriculares</string>
+    <string name="wait_for_sp_mark_as_read">Un momento…</string>
     <string name="wap_push_title">"[WAP Push] "</string>
     <string name="warning_show">Enviar en %ds</string>
     <string name="web_content_invalid_hint">La visualización de este artículo está restringida por las leyes y regulaciones locales.</string>
