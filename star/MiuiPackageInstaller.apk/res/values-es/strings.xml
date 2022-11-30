@@ -353,7 +353,6 @@
     <string name="night">Tarde</string>
     <string name="no_check_risk">No se han detectado riesgos</string>
     <string name="no_install_permission_tip">"%1$s no tiene permiso para instalar"</string>
-    <string name="no_set_lock_screen_tip">Establece el bloqueo de pantalla y agrega tu huella dactilar antes de seleccionar este método de autorización.</string>
     <string name="noon">Mediodía</string>
     <string name="not_set">No establecido</string>
     <string name="ok">Aceptar</string>
@@ -490,6 +489,7 @@
     <string name="saturday_shortest">Sáb</string>
     <string name="search_menu_title">Buscar</string>
     <string name="second_recomment_ad_title">A quienes instalan &lt;font color=#0BAE73&gt;%1$s&lt;/font&gt; también les gusta</string>
+    <string name="security_auth_msg">Verifica tu identidad</string>
     <string name="security_mode_close_feedback">Gracias por usar el modo Seguro</string>
     <string name="security_mode_feedback_commit">Enviar</string>
     <string name="security_mode_feedback_multiple_choice">" (Selecciona todo lo que corresponda.)"</string>
