@@ -649,7 +649,7 @@ Esta operación no afectará a las imágenes de la Galería."</string>
     <string name="get_back_pwd">Restableciendo contraseña</string>
     <string name="get_ph_ticket">Obtener el código</string>
     <string name="get_phone_bind_exceed_limit">"Se pueden asociar hasta 3 cuentas Xiaomi a un número de teléfono. No puedes añadir nuevas cuentas."</string>
-    <string name="get_phone_verifycode_exceed_limit">Eenviados demasiados códigos de verificación a este número. Espera 24 horas e inténtalo otra vez.</string>
+    <string name="get_phone_verifycode_exceed_limit">Enviados demasiados códigos de verificación a este número. Espera 24 horas e inténtalo otra vez.</string>
     <string name="goto_sign_up">Crear cuenta</string>
     <string name="gps_prompt_context">¿Descargar con la red móvil?</string>
     <string name="gps_prompt_title">Consejos</string>
