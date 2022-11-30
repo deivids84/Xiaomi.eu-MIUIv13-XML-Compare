@@ -157,6 +157,8 @@
     <string name="audio_ad_pass">Saltar anuncio</string>
     <string name="audio_picker_title">Escoger una canción</string>
     <string name="auth_fail_warning">Sesión caducada. Vuelve a iniciar sesión.</string>
+    <string name="auto_play_switch">Autorreproducir vídeos</string>
+    <string name="auto_play_toast">Reproducción automática activada. Puedes desactivarla en Ajustes.</string>
     <string name="auto_recommend">Automático (recomendado)</string>
     <string name="auto_sound_quality">Automático</string>
     <string name="auto_update">Actualizar automáticamente</string>
