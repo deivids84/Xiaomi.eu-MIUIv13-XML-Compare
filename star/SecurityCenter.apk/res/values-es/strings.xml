@@ -1492,7 +1492,7 @@ Se agregará a las excepciones, pero los elementos previamente bloqueados no apa
     <string name="eletric_group_title_one_identification_risk_screen_summary">"Las notificaciones no se mostrarán en monitores externos durante la transmisión"</string>
     <string name="eletric_group_title_two_identification_risk_app">Recibir avisos sobre riesgos financieros</string>
     <string name="eletric_group_title_two_identification_risk_app_summary">Recibir avisos al realizar transacciones financieras después de llamadas o mensajes sospechosos</string>
-    <string name="eletric_group_title_two_identification_risk_mms">Avisar sobre códigos de verificación reenviados</string>
+    <string name="eletric_group_title_two_identification_risk_mms">Avisar cuando se reenvían códigos de verificación</string>
     <string name="eletric_group_title_two_identification_risk_mms_summary">"Recibir avisos cuando los códigos de verificación de tus mensajes se reenvíen a las aplicaciones de redes sociales"</string>
     <string name="eletric_group_title_two_identification_risk_screen">Ocultar aplicaciones privadas</string>
     <string name="eletric_group_title_two_identification_risk_screen_summary">La transmisión se detendrá si cambias a Alipay, WeChat, Galería o Mensajes</string>
