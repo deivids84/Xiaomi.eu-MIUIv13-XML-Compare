@@ -2744,7 +2744,7 @@ Este ajuste afecta a todos los usuarios de este dispositivo."</string>
     <string name="device_description_battery">Capacidad de la batería</string>
     <string name="device_description_camera">Cámara trasera</string>
     <string name="device_description_resolution">Resolución</string>
-    <string name="device_description_screen">Tamaño de pantalla</string>
+    <string name="device_description_screen">Pantalla</string>
     <string name="device_details_title">Detalles del dispositivo</string>
     <string name="device_display_layout_title">Funciones especiales</string>
     <string name="device_edit_title">Renombrar dispositivo</string>
@@ -4510,6 +4510,7 @@ Abre Xiaomi Cloud y restaura elementos desde allí."</string>
     <string name="legacy_control_center_title">Versión antigua</string>
     <string name="legacy_navigation_summary">Para ir hacia atrás, pasar a la pantalla de inicio o cambiar de aplicación, puedes usar los botones de la parte inferior de la pantalla.</string>
     <string name="legacy_navigation_title">Navegación con 3 botones</string>
+    <string name="legacy_power_menu">Menú de apagado tradicional</string>
     <string name="legal_information">Información legal</string>
     <string name="legal_workday">Días laborables</string>
     <string name="legal_workday_invalidate">Lun-Vie (información de festivos caducada)</string>
