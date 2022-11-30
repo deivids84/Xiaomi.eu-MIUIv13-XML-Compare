@@ -69,7 +69,7 @@
     <string name="aqi_data_source">Desarrollado por Colorful Clouds</string>
     <string name="aqi_desc">Índice de Calidad del Aire</string>
     <string name="aqi_detail_24_hours">Pronóstico para %d horas</string>
-    <string name="aqi_detail_5_days">Previsión para 5 días</string>
+    <string name="aqi_detail_5_days">Pronóstico para %d día</string>
     <string name="aqi_detail_co_unit">Unidad: mg/m³</string>
     <string name="aqi_detail_title">Índice de calidad del aire</string>
     <string name="aqi_detail_unit">Unidad: µg/m³</string>
