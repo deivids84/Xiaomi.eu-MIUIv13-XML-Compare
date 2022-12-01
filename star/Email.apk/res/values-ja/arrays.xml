@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="all_month_str">
+        <item>1 月</item>
+        <item>2 月</item>
+        <item>3 月</item>
+        <item>4 月</item>
+        <item>5 月</item>
+        <item>6 月</item>
+        <item>7 月</item>
+        <item>8 月</item>
+        <item>9 月</item>
+        <item>10 月</item>
+        <item>11 月</item>
+        <item>12 月</item>
+    </string-array>
+    <string-array name="calendar_remind_string_array">
+        <item>今夜</item>
+        <item>明日</item>
+        <item>週末</item>
+        <item>来週</item>
+        <item>来月</item>
+        <item>日付を選ぶ</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>最小</item>
+        <item>小</item>
+        <item>標準</item>
+        <item>大</item>
+        <item>最大</item>
+    </string-array>
+    <string-array name="menu_att_mgr_sort_string_array">
+        <item>最近表示したもの</item>
+        <item>フォーマット</item>
+        <item>名前</item>
+        <item>送信者</item>
+        <item>受け取った日付</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>システム</item>
+        <item>よく使う</item>
+        <item>すべてのフォルダー</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>次のメッセージ</item>
+        <item>前のメッセージ</item>
+        <item>受信トレイ</item>
+    </string-array>
+    <string-array name="prefEntries_contact_add">
+        <item>すべて</item>
+        <item>送信者のみ</item>
+    </string-array>
+    <string-array name="signature_normal_string_array_next">
+        <item>住所:</item>
+        <item>TEL:</item>
+        <item>名前:</item>
+        <item>メール:</item>
+        <item>携帯:</item>
+        <item>WeChat:</item>
+        <item>FAX:</item>
+        <item>郵便番号:</item>
+    </string-array>
+    <string-array name="signature_special_string_array_next">
+        <item>ありがとうございます。</item>
+        <item>よろしくお願いします</item>
+        <item>送信デバイス：</item>
+        <item>元のメール</item>
+        <item>送信デバイス：</item>
+        <item>から送信されました。</item>
+        <item>から</item>
+        <item>このメール</item>
+        <item>免責事項</item>
+        <item>メールの免責事項</item>
+    </string-array>
+</resources>

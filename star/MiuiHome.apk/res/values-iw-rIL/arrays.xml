@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alphabet_table">
+        <item>א</item>
+        <item>ב</item>
+        <item>ג</item>
+        <item>ד</item>
+        <item>ה</item>
+        <item>ו</item>
+        <item>ז</item>
+        <item>ח</item>
+        <item>ט</item>
+        <item>י</item>
+        <item>כ</item>
+        <item>ל</item>
+        <item>מ</item>
+        <item>נ</item>
+        <item>ס</item>
+        <item>ע</item>
+        <item>פ</item>
+        <item>צ</item>
+        <item>ק</item>
+        <item>ר</item>
+        <item>ש</item>
+        <item>ת</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>א</item>
+        <item>ב</item>
+        <item>ג</item>
+        <item>ד</item>
+        <item>ה</item>
+        <item>ו</item>
+        <item>ז</item>
+        <item>ח</item>
+        <item>ט</item>
+        <item>י</item>
+        <item>כ</item>
+        <item>ל</item>
+        <item>מ</item>
+        <item>נ</item>
+        <item>ס</item>
+        <item>ע</item>
+        <item>פ</item>
+        <item>צ</item>
+        <item>ק</item>
+        <item>ר</item>
+        <item>ש</item>
+        <item>ת</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="animation_rate_entries">
+        <item>רגוע</item>
+        <item>מאוזן</item>
+        <item>מהיר</item>
+    </string-array>
+    <string-array name="cell_layout_size_entries">
+        <item>4x4</item>
+        <item>4x5</item>
+    </string-array>
+    <string-array name="cell_layout_size_values">
+        <item>4x4</item>
+        <item>4x5</item>
+    </string-array>
+    <string-array name="editing_mode_entries">
+        <item>טפט</item>
+        <item>"ווידג'טים"</item>
+        <item>הגדרות</item>
+    </string-array>
+    <string-array name="gadget_weather_image">
+        <item>בהיר</item>
+        <item>מעונן</item>
+        <item>אביך</item>
+        <item>ערפילי</item>
+        <item>סופת גשמים רצינית</item>
+        <item>סופת גשמים</item>
+        <item>גשם כבד מאוד</item>
+        <item>סופת ברקים</item>
+        <item>ממטר</item>
+        <item>גשם כבד</item>
+        <item>גשם</item>
+        <item>טפטוף</item>
+        <item>גשם מעורב בשלג</item>
+        <item>סופת שלגים</item>
+        <item>שלג חלקי</item>
+        <item>שלג כבד</item>
+        <item>שלג</item>
+        <item>שלג קל</item>
+        <item>סופת חול חזקה</item>
+        <item>סופת חול</item>
+        <item>סופת חול קלה</item>
+        <item>סופת חול</item>
+        <item>ברד</item>
+        <item>Floating dust</item>
+        <item>אובך</item>
+    </string-array>
+    <string-array name="gadget_weather_theme_type_entries">
+        <item>ברירת מחדל</item>
+        <item>קלאסי</item>
+    </string-array>
+    <string-array name="transformation_entries">
+        <item>שקופית</item>
+        <item>עמעום</item>
+        <item>נפילה</item>
+        <item>עמוד</item>
+        <item>מדורג</item>
+        <item>סיבוב</item>
+        <item>קוביה</item>
+    </string-array>
+    <string-array name="wallpaper_scroll_entries">
+        <item>ערכת נושא ברירת מחדל</item>
+        <item>מרכז</item>
+        <item>שמאל</item>
+        <item>ימין</item>
+    </string-array>
+</resources>

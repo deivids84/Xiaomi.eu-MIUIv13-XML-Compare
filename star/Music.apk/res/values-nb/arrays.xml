@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>Mann</item>
+        <item>Kvinne</item>
+    </string-array>
+    <string-array name="recommendation_desc_week">
+        <item>Søndagsanbefalinger</item>
+        <item>Mandagsanbefalinger</item>
+        <item>Tirsdagsanbefalinger</item>
+        <item>Onsdagsanbefalinger</item>
+        <item>Torsdagsanbefalinger</item>
+        <item>Fredagsanbefalinger</item>
+        <item>Lørdagsanbefalinger</item>
+    </string-array>
+</resources>
