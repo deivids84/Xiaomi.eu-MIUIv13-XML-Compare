@@ -665,8 +665,8 @@
         <item quantity="one">Aquí se pueden almacenar elementos durante %1$d día (%2$s)</item>
     </plurals>
     <plurals name="trash_vip_info_text_login_medium_or_low_level">
-        <item quantity="other">Los artículos se pueden almacenar aquí durante %1$s días. Pulsa para ampliar este período.</item>
-        <item quantity="one">Los artículos se pueden almacenar aquí durante %1$s día. Pulsa para ampliar este período.</item>
+        <item quantity="other">Los elementos se pueden almacenar aquí durante %1$s días. Pulsa para ampliar este período.</item>
+        <item quantity="one">Los elementos se pueden almacenar aquí durante %1$s día. Pulsa para ampliar este período.</item>
     </plurals>
     <plurals name="trash_vip_info_text_no_sync_server">
         <item quantity="other">Los elementos eliminados se almacenan en la nube durante %1$d días</item>
