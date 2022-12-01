@@ -353,7 +353,6 @@
     <string name="night">Axşam</string>
     <string name="no_check_risk">Heç bir risk aşkarlanmadı</string>
     <string name="no_install_permission_tip">"%1$s - quraşdırma icazəsi yoxdur"</string>
-    <string name="no_set_lock_screen_tip">Bu səlahiyyət üsulunu seçməzdən əvvəl ekran kilidi təyin edin və barmaq izinizi əlavə edin.</string>
     <string name="noon">Günorta</string>
     <string name="not_set">Tənzimlənmədi</string>
     <string name="ok">Oldu</string>
@@ -490,6 +489,7 @@
     <string name="saturday_shortest">Şәn</string>
     <string name="search_menu_title">Axtar</string>
     <string name="second_recomment_ad_title">&lt;font color=#0BAE73&gt;%1$s&lt;/font&gt; quraşdıran şəxslər bunları da bəyənir</string>
+    <string name="security_auth_msg">Kimliyinizi təsdiqləyin</string>
     <string name="security_mode_close_feedback">Güvənli rejimi istifadə etdiyiniz üçün təşəkkürlər</string>
     <string name="security_mode_feedback_commit">Göndər</string>
     <string name="security_mode_feedback_multiple_choice">" (Uyğun olanların hamısını seçin)"</string>
