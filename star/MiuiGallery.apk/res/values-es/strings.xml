@@ -1927,7 +1927,7 @@ La transcodificación puede llevar algo de tiempo cuando utilizas esta función 
     <string name="passport_resend_ticket">Enviar el código otra vez</string>
     <string name="passport_retry">Inténtalo otra vez</string>
     <string name="passport_send_sms_to">Se ha enviado el código a %1$s</string>
-    <string name="passport_send_too_many_code">Se han enviado demasiados códigos de verificación a este número. Espera 24 horas e inténtalo otraa vez.</string>
+    <string name="passport_send_too_many_code">Se han enviado demasiados códigos de verificación a este número. Espera 24 horas e inténtalo otra vez.</string>
     <string name="passport_sending_vcode">Enviando código…</string>
     <string name="passport_set_password">Establecer contraseña</string>
     <string name="passport_set_password_no_phone_msg">Añade tu número de teléfono para proteger tu cuenta.</string>
@@ -1945,7 +1945,7 @@ La transcodificación puede llevar algo de tiempo cuando utilizas esta función 
     <string name="passport_user_password_hint">Contraseña</string>
     <string name="passport_wechat_not_install">Antes, instala WeChat</string>
     <string name="passport_wrong_captcha">El código no es correcto</string>
-    <string name="passport_wrong_phone_number_format">El formato de número de teléfono no es válido</string>
+    <string name="passport_wrong_phone_number_format">El formato del número de teléfono no es válido</string>
     <string name="passport_wrong_vcode">El código no es correcto</string>
     <string name="passport_wrong_voice">El código no es correcto</string>
     <string name="pc_device_model_name">Ordenador</string>
@@ -2304,7 +2304,7 @@ La transcodificación puede llevar algo de tiempo cuando utilizas esta función 
     <string name="rename_fail_msg">"No se pudo cambiar el nombre"</string>
     <string name="rename_from_contact">Nombre desde contactos</string>
     <string name="request_agree">Permitir</string>
-    <string name="request_camera_permission_message">"Protegeremos tu información personal de acuerdo con las leyes y regulaciones pertinentes. Esta aplicación necesita los siguientes permisos para funcionar normalmente:&lt;br&gt;&lt;br&gt;&lt;b&gt;Uso de la cámara (para configurar la foto de tu perfil)&lt;/b&gt;&lt;br&gt;&lt;br&gt;Si no estás de acuerdo, no podrás usar algunas características de la aplicación; aunque su funcionalidad básica estará disponible. Siempre puedes restringir los permisos o revocar tu autorización en Ajustes."</string>
+    <string name="request_camera_permission_message">"Protegeremos tu información personal de acuerdo con las leyes y regulaciones pertinentes. Esta aplicación necesita los siguientes permisos para funcionar normalmente: &lt;br&gt;&lt;br&gt;&lt;b&gt;Uso de la cámara (para configurar la foto de tu perfil)&lt;/b&gt;&lt;br&gt;&lt;br&gt;Si no estás de acuerdo, no podrás usar algunas características de la aplicación; aunque su funcionalidad básica estará disponible. Siempre puedes restringir los permisos o revocar tu autorización en Ajustes."</string>
     <string name="request_cancel">Cancelar</string>
     <string name="request_error_invalid_token">"No se pudo verificar"</string>
     <string name="request_error_network">Ocurrió un error de red. Comprueba los ajustes de red e inténtalo otra vez.</string>
@@ -2315,7 +2315,7 @@ La transcodificación puede llevar algo de tiempo cuando utilizas esta función 
     <string name="request_sms_url_msg">Solicitando información…</string>
     <string name="request_sms_url_title">Sugerencia</string>
     <string name="resend_active_email">Reenviar</string>
-    <string name="resend_email_reach_limit_message">"Has solicitado demasiados correos de verificación. Comprueba que el correo de verificación no está en la carpeta de correo no deseado."</string>
+    <string name="resend_email_reach_limit_message">"Has solicitado demasiados correos de verificación. Comprueba que no se encuentran en la carpeta de correo no deseado."</string>
     <string name="resend_email_reach_limit_title">Demasiados intentos</string>
     <string name="resend_email_success">Enviado</string>
     <string name="retry_to_create_album">Inténtalo otra vez</string>
