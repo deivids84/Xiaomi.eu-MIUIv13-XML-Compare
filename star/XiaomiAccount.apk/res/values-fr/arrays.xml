@@ -16,17 +16,17 @@
     </string-array>
     <string-array name="settings_search_change_password">
         <item>Modifier le mot de passe</item>
-        <item>Modifier le mot de passe du Compte Mi</item>
+        <item>Modifier le mot de passe du Compte Xiaomi</item>
         <item>Change password;Update password;Mi Account;Account</item>
     </string-array>
     <string-array name="settings_search_help_center">
         <item>Aide</item>
-        <item>Obtenir de l\'aide et du soutien pour le Compte Mi</item>
+        <item>Obtenir de l\'aide et du soutien pour le Compte Xiaomi</item>
         <item>Mi Account;Account;Account help;Help center</item>
     </string-array>
     <string-array name="settings_search_login_2_step_verify">
         <item>Vérification à 2 étapes</item>
-        <item>Règle la vérification double facteur pour votre Compte Mi</item>
+        <item>Règle la vérification double facteur pour votre Compte Xiaomi</item>
         <item>Sign in;Log in;2-step;verification;Xiaomi;Account;Mi Account;Account</item>
     </string-array>
     <string-array name="settings_search_login_and_security">
@@ -36,12 +36,12 @@
     </string-array>
     <string-array name="settings_search_manage_device">
         <item>Appareils</item>
-        <item>Gestion des appareils associés à votre Compte Mi</item>
+        <item>Gestion des appareils associés à votre Compte Xiaomi</item>
         <item>Manage devices;My devices;Devices;Device list;Mi Account;Account</item>
     </string-array>
     <string-array name="settings_search_privacy_policy">
         <item>Politique de Confidentialité</item>
-        <item>Voir la Politique de confidentialité du Compte Mi</item>
+        <item>Voir la Politique de confidentialité du Compte Xiaomi</item>
         <item>Mi Account;Account;Privacy Policy</item>
     </string-array>
     <string-array name="settings_search_security_email_address">
@@ -66,7 +66,7 @@
     </string-array>
     <string-array name="settings_search_user_protocol">
         <item>Accord Utilisateur</item>
-        <item>Accord Utilisateur</item>
+        <item>Voir l\'Accord d\'utilisation du Compte Xiaomi</item>
         <item>Mi Account;Account;User Agreement;EULA</item>
     </string-array>
 </resources>
