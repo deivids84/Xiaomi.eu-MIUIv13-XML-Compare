@@ -78,7 +78,7 @@
     <string name="miuix_appcompat_action_mode_deselect_all">Снять выбор</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выберите объекты</string>
-    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Еще</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Ещё</string>
     <string name="miuix_appcompat_cancel_description">Отмена</string>
     <string name="miuix_appcompat_confirm_description">Подтвердить</string>
     <string name="miuix_appcompat_delete_description">Удалить</string>
@@ -138,7 +138,7 @@
     <string name="month_september">Сентябрь</string>
     <string name="month_september_short">Сен</string>
     <string name="month_september_shortest">Сен</string>
-    <string name="more">Еще</string>
+    <string name="more">Ещё</string>
     <string name="morning">Утро</string>
     <string name="motion_behavior">Предпочитаемый жест</string>
     <string name="name_alipay_payment_code">Оплата через Alipay</string>
