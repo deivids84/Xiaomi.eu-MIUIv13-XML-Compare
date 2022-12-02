@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="korea_permission_groups_descriptions">
-        <item>Za identifikacijo sinhroniziranih predmetov</item>
+        <item>Za identifikacijo sinhroniziranih stvari</item>
         <item>Za sinhroniziranje sporočil</item>
         <item>Za sinhroniziranje stikov</item>
         <item>Za sinhroniziranje dogodkov koledarja</item>
-        <item>Za sinhroniziranje predmetov s storitvami, ki uporabljajo pomnilnik</item>
+        <item>Za sinhroniziranje stvari s storitvami, ki uporabljajo pomnilnik</item>
     </string-array>
     <string-array name="korea_permission_groups_names">
         <item>Telefon</item>
@@ -17,19 +17,19 @@
     <string-array name="micloud_entrance_subtitleArray">
         <item>Sinhronizirajte vaše stike, sporočila, beležke, koledar in še več</item>
         <item>Naredite varnostne kopije aplikacij, razporeditve Začetnega zaslona in ozadja</item>
-        <item>Naredite varnostne kopije pomembnih stvari, vključno s Wi-Fi nastavitvah in zaslonom</item>
+        <item>Izdelajte var. kopije pomembnih nastavitev vključno z WiFi in zaslonom</item>
         <item>"Zaklenite napravo na daljavo, če ste jo izgubili"</item>
     </string-array>
     <string-array name="micloud_entrance_subtitleArray_china">
         <item>Sinhronizirajte vaše stike, sporočila, beležke, koledar in še več</item>
         <item>Naredite varnostne kopije aplikacij, razporeditve Začetnega zaslona in ozadja</item>
-        <item>Back up important settings, including WLAN and display</item>
+        <item>Izdelajte var. kopije pomembnih nastavitev vključno z WiFi in zaslonom</item>
         <item>"Zaklenite napravo na daljavo, če ste jo izgubili"</item>
     </string-array>
     <string-array name="micloud_entrance_subtitleArray_china_v2">
         <item>Sinhronizirajte vaše stike, sporočila, beležke, koledar in še več</item>
         <item>Naredite varnostne kopije aplikacij, razporeditve Začetnega zaslona in ozadja</item>
-        <item>Back up important settings, including WLAN and display</item>
+        <item>Napravite var. kopije važnih stvari, vključno WiFi in zaslon</item>
         <item>"Zaklenite napravo na daljavo, če ste jo izgubili"</item>
     </string-array>
     <string-array name="micloud_entrance_subtitleArray_pad">
@@ -39,7 +39,7 @@
     <string-array name="micloud_entrance_subtitleArray_v2">
         <item>Sinhronizirajte vaše stike, sporočila, beležke, koledar in še več</item>
         <item>Naredite varnostne kopije aplikacij, razporeditve Začetnega zaslona in ozadja</item>
-        <item>Naredite varnostne kopije pomembnih stvari, vključno s Wi-Fi nastavitvah in zaslonom</item>
+        <item>Napravite var. kopije važnih stvari, vključno WiFi in zaslon</item>
         <item>"Zaklenite napravo na daljavo, če ste jo izgubili"</item>
     </string-array>
     <string-array name="micloud_entrance_titleArray">
@@ -78,7 +78,7 @@
         <item>Koledar;Oblak;Sinhronizacija;Storitve v oblaku;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_contacts">
-        <item>Sinhroniziraj kontakte z Xiaomi Cloudom</item>
+        <item>Sinhroniziraj stike z Xiaomi Cloudom</item>
         <item>Vključi/nastavi sinhronizacijo</item>
         <item>Stiki;Zgodovina klicev;Oblak;Sinhronizacija;Storitve v oblaku;Xiaomi Cloud</item>
     </string-array>
@@ -128,27 +128,27 @@
         <item>Snemalnik;Oblak;Sinhronizacija;Storitve v oblaku;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_recycle_bin">
-        <item>Izbrisani predmeti v Xiaomi Cloudu</item>
+        <item>Izbrisane stvari iz Mi Clouda</item>
         <item>Obnovi stike, fotografije, sporočila in več</item>
-        <item>Koš;Izbrisani predmeti;Koš;Obnovi;Storitve v oblaku;Xiaomi Cloud</item>
+        <item>Smeti;Izbrisane stvari;Koš za smeti;Vrni;Cloud storitve;Mi Cloud</item>
     </string-array>
     <string-array name="settings_search_recycle_bin_pad">
-        <item>Izbrisani predmeti v Xiaomi Cloudu</item>
+        <item>Izbrisane stvari v oblaku Xiaomi</item>
         <item>Obnovi slike, beležke in več</item>
-        <item>Koš;Izbrisani predmeti;Koš;Obnovi;Storitve v oblaku;Xiaomi Cloud</item>
+        <item>Smeti;Izbrisane stvari;Koš;Obnovi;Storitve oblaka;Xiaomi oblak</item>
     </string-array>
     <string-array name="settings_search_restore_device">
-        <item>Obnovi predmete iz Xiaomi Clouda</item>
-        <item>Prenesi varnostno kopirane predmete na vašo napravo</item>
+        <item>Vrnite stvari iz Mi Clouda</item>
+        <item>V svojo napravo prenesite stvari iz var. kopije</item>
         <item>Oblak;Varnostno kopiraj;Varnostna kopija;Sinhronizacija;Storitve v oblaku;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_security">
-        <item>Sinhronizacija Varnosti na oblak</item>
+        <item>Varnostna sinhr. Clouda</item>
         <item>Vključi sinhronizacijo</item>
         <item>Varnost;Oblak;Xiaomi Oblak;Sinhronizacija;Storitve oblaka</item>
     </string-array>
     <string-array name="settings_search_security_pad">
-        <item>Sinhronizacija Varnosti na oblak</item>
+        <item>Varnostna sinhronizacija v oblaku</item>
         <item>Vklopi sinhronizacijo</item>
         <item>Varnost;Oblak;Xiaomi Cloud;Sinhronizacija;Storitve oblaka</item>
     </string-array>
@@ -160,7 +160,7 @@
     <string-array name="settings_search_subscribe_vip">
         <item>Xiaomi Cloud članstvo</item>
         <item>Nadgradite vaše članstvo, pridobite več prostora in zaščitite vaše podatke</item>
-        <item>Pomanjkanje prostora;Članstvo;Pomnilnik;Prostor pomnilnika;Oblak;Sinhronizacija;Storitve v oblaku;Xiaomi Cloud;Mega;Ultra;VIP;Varnostno kopiranje;Varnostna kopija;Obnova;Koš;Izbrisani predmeti;Koš</item>
+        <item>Premalo prostora za shranjevanje;Članstvo;Shramba;Prostor za shranjevanje;Cloud;Sinhr.;Cloud storitve;Mi Cloud;Mega;Ultra;VIP;Kopija;Kopija;Povrni;Smeti;Izbrisane stvari;Koš za smeti</item>
     </string-array>
     <string-array name="settings_search_sync_manage">
         <item>Xiaomi Cloud. Vse Mi storitve na enem mestu.</item>
@@ -170,7 +170,7 @@
     <string-array name="settings_search_sync_manage_pad">
         <item>Xiaomi Cloud. Vse Mi storitve na enem mestu.</item>
         <item>Kjerkoli dostopajte do vaših slik, stikov in naprav</item>
-        <item>Pomanjkanje prostora;Članstvo;Pomnilnik;Prostor pomnilnika;Oblak;Sinhronizacija;Storitve v oblaku;Xiaomi Cloud;Koš;Izbrisani predmeti;Varnost</item>
+        <item>Premalo prostora;Članstvo;Shramba;Prostor za shranjevanje;Oblak;Sinhronizacija;Storitve v oblaku;Xiaomi Cloud;Smetnjak;Izbrisane stvari;Varnost</item>
     </string-array>
     <string-array name="settings_search_wlan">
         <item>Sinhronizacija WiFi nastavitev z Xiaomi Cloudom</item>
@@ -178,7 +178,7 @@
         <item>WLAN;wifi;WiFi;Oblak;Sinhronizacija;Storitve v oblaku;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_wlan_china">
-        <item>Sync WLAN settings with Xiaomi Cloud</item>
+        <item>Sinhr. WiFi nastavitve z Mi Cloudom</item>
         <item>Vklopi sinhronizacijo</item>
         <item>WLAN;wifi;Wi-Fi;Oblak;Sinhronizacija;Storitve v oblaku;Xiaomi Cloud</item>
     </string-array>
