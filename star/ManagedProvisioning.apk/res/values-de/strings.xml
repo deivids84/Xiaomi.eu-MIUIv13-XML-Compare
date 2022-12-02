@@ -107,7 +107,7 @@ Wende dich an deinen IT-Administrator, um weitere Informationen insbesondere zu 
     <string name="downloading_administrator_header">Einrichtung des Arbeitsprofils wird vorbereitet…</string>
     <string name="encrypt">Verschlüsseln</string>
     <string name="encrypt_device_text_for_device_owner_setup">Um das Gerät einzurichten, muss es zunächst verschlüsselt werden. Das kann einige Zeit in Anspruch nehmen.</string>
-    <string name="encrypt_device_text_for_profile_owner_setup">Um das Arbeitsprofil einzurichten, muss dein Gerät verschlüsselt werden. Das kann einige Zeit in Anspruch nehmen.</string>
+    <string name="encrypt_device_text_for_profile_owner_setup">Um Ihr Arbeitsprofil weiter einzurichten, müssen Sie Ihr Gerät verschlüsseln. Dies kann eine Weile dauern.</string>
     <string name="encrypt_this_device_question">Dieses Gerät verschlüsseln?</string>
     <string name="error_download_failed">"Die Admin-App konnte nicht heruntergeladen werden"</string>
     <string name="error_hash_mismatch">"Die Admin-App konnte aufgrund eines Prüfsummenfehlers nicht verwendet werden. Bitte wende dich an den IT-Administrator."</string>
