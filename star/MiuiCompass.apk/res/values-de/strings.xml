@@ -45,6 +45,7 @@
     <string name="calibrate_failed">Höhenkalibrierung fehlgeschlagen</string>
     <string name="calibrate_failed_no_location">"Kalibrierung nicht möglich"</string>
     <string name="calibrate_failed_timeout">"Verbindung zum Server nicht möglich"</string>
+    <string name="calibrate_new_tip">Gerät stark neigen, um den Ball um den Kreis zu rollen</string>
     <string name="calibrate_rotate_again">Erneut versuchen</string>
     <string name="calibrate_success">Kalibriert</string>
     <string name="calibrate_tip">Das Gerät neigen und den Ball um den Kreis herumrollen</string>
@@ -55,7 +56,7 @@
     <string name="close">Schließen</string>
     <string name="compass_settings">Einstellungen</string>
     <string name="copy">Kopieren</string>
-    <string name="cta_agree_desc">Erlaube dieser App die Verbindung mit dem Internet und gebe optionale Berechtigungen, um alle Funktionen zu nutzen.</string>
+    <string name="cta_agree_desc">Dieser App die Internetverbindung erlauben und die optionalen Berechtigungen erteilen, um alle ihre Funktionen zu verwenden.</string>
     <string name="cta_v2_app_purpose">zeigt Richtungen, Koordinaten, Luftdruck und aktuelle Höhe</string>
     <string name="date_picker_lunar">Traditioneller chinesischer Kalender</string>
     <string name="date_time_picker_dialog_title">Datum und Uhrzeit festlegen</string>
@@ -80,7 +81,7 @@
     <string name="evening">Nachmittag</string>
     <string name="expand_button_title">Erweitert</string>
     <string name="first_using_dialog_message">"Kompass benötigt Zugriff auf die Netzwerkverbindung, die Kamera und Standortdienste für den ordnungsgemäßen Betrieb."</string>
-    <string name="first_using_dialog_message_no_camera">Compass muss eine Verbindung zum Internet herstellen und auf Standortinformationen zugreifen, um normal arbeiten zu können. Zustimmen?</string>
+    <string name="first_using_dialog_message_no_camera">Kompass muss eine Internetverbindung herstellen und auf Standortinformationen zugreifen, um normal zu arbeiten. Zustimmen?</string>
     <string name="first_using_dialog_title">Zugriffsberechtigung</string>
     <string name="fmt_date_day">d</string>
     <string name="fmt_date_long_month_day">d. MMMM</string>
@@ -208,7 +209,7 @@
     <string name="not_set">Nicht festgelegt</string>
     <string name="open_camera">Kamera verwenden</string>
     <string name="open_perm_msg">Der Kompass benötigt Zugriff auf Standortdaten und die Kamera für die Koordinatenbestimmung und Anzeige der Live-Vorschau. Zugriff erlauben?</string>
-    <string name="open_perm_msg_no_camera">Compass muss auf Standortinformationen zugreifen, um Koordinaten bestimmen zu können. Erlauben?</string>
+    <string name="open_perm_msg_no_camera">Kompass muss auf Standortinformationen zugreifen, um die Koordinaten zu bestimmen. Zustimmen?</string>
     <string name="open_perm_title">Berechtigungen erforderlich</string>
     <string name="permission_camera_desc">Zum Anzeigen des Azimuts in der Live-Vorschau</string>
     <string name="permission_description">Berechtigungsdetails</string>
