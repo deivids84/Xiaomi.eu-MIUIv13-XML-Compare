@@ -89,8 +89,7 @@ wird diese Funktion automatisch im Zweitprofil hinzugefügt."</string>
     <string name="confirm_restore">"Nicht anzeigen"</string>
     <string name="contactData">Kontakte</string>
     <string name="contact_sub_titile_text">SMS-Daten in beiden Profilen synchronisieren</string>
-    <string name="contact_titile_text">"Private Nachrichten im Zweitprofil anzeigen,
- um sie jederzeit abrufen zu können"</string>
+    <string name="contact_titile_text">"Persönliche Nachrichten im Zweitprofil anzeigen, um diese jederzeit zu sehen"</string>
     <string name="contact_us">Kontakt</string>
     <string name="continueButton">Weiter</string>
     <string name="copy">Kopieren</string>
