@@ -246,6 +246,12 @@
         <item quantity="two">Pred %d minutami</item>
         <item quantity="few">Pred %d minut</item>
     </plurals>
+    <plurals name="pay_mibi">
+        <item quantity="other">Plačajte %1$s Mi Coinov</item>
+        <item quantity="one">Plačajte %1$s Mi Coin</item>
+        <item quantity="two">Plačajte %1$s Mi Coinov</item>
+        <item quantity="few">Plačajte %1$s Mi Coinov</item>
+    </plurals>
     <plurals name="resource_comment_score_count">
         <item quantity="other">%d komentarjev</item>
         <item quantity="one">%d komentar</item>
