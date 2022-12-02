@@ -44,6 +44,8 @@
     <string name="agree">Akceptuj</string>
     <string name="alarm_alert_alert_silenced">Alaram wyciszony po %1$s.</string>
     <string name="alarm_alert_disabled">Wyłączony</string>
+    <string name="alarm_alert_now">Alarm o %s</string>
+    <string name="alarm_alert_snooze_button">Drzemka</string>
     <string name="alarm_ascending_mode_summary">Głośność alarmu zwiększa się stopniowo</string>
     <string name="alarm_ascending_mode_title">Narastający</string>
     <string name="alarm_clock_more_setting">Dodatkowe ustawienia</string>
@@ -117,6 +119,7 @@
     <string name="cities_show_limit_desc">"Nie można wyświetlić więcej zegarów"</string>
     <string name="city_time_contrast_desc">Dotknij, aby porównać czas w różnych miastach</string>
     <string name="clearable_edittext_clear_description">Wyczyść</string>
+    <string name="click_to_cancel_alarm">Dotknij, aby wyłączyć</string>
     <string name="clock_bg_button_setting_summary_common">Wybierz kolor tła dla aplikacji Zegar</string>
     <string name="clock_bg_button_setting_summary_follow_sys">Czarny będzie używany jako kolor tła za każdym razem, kiedy przełączysz się do Trybu ciemnego</string>
     <string name="clock_bg_button_setting_title">Kolor tła</string>
