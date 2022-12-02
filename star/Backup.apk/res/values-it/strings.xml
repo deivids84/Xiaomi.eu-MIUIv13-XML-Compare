@@ -82,7 +82,7 @@
     <string name="backup_hint_pad">Mantieni il dispositivo acceso</string>
     <string name="backup_is_running">Backup dispositivo</string>
     <string name="backup_new">Nuovo:</string>
-    <string name="backup_notice_content">"I tuoi backup non verranno crittografati, il che significa che potrebbero essere accessibili o manomessi da app di terze parti. Potrebbero sorgere anche altri rischi per la sicurezza. Assicurati di archiviare gli elementi di cui è stato eseguito il backup in un ambiente ben protetto."</string>
+    <string name="backup_notice_content">"I tuoi backup non saranno crittografati, significa che potrebbero essere accessibili o manomessi da app di terze parti. Potrebbero sorgere anche altri rischi per la sicurezza. Assicurati di memorizzare gli elementi di backup in un ambiente ben protetto."</string>
     <string name="backup_notice_title">Attenzione</string>
     <string name="backup_notification_title">\"Backup\" in esecuzione…</string>
     <string name="backup_progress">Backup in corso…</string>
@@ -113,7 +113,7 @@
     <string name="cancel_moving_dialog_title">Interrompi l\'importazione</string>
     <string name="cancel_restore">Interrompi</string>
     <string name="category_contacts">Contatti</string>
-    <string name="category_message_contacts">Messaggistica e Contatti</string>
+    <string name="category_message_contacts">Messaggi e Contatti</string>
     <string name="check_privacy_policy">Visualizza Informativa sulla Privacy</string>
     <string name="clearable_edittext_clear_description">Cancella</string>
     <string name="click_soft_ap_to_link">Seleziona un hotspot per la connessione</string>
@@ -550,8 +550,8 @@ devi prima creare un backup iCloud."</string>
     <string name="permission_read_storage_global">Accesso alla memoria</string>
     <string name="permission_read_write_storage">Per essere in grado di eseguire il backup degli elementi, consentire a questa funzione di accedere alla memoria.</string>
     <string name="permission_read_write_sys_app">Per essere in grado di eseguire il backup e ripristinare messaggi, contatti e cronologia chiamate, consentire a questa funzione di accedere a questi elementi.</string>
-    <string name="permission_read_write_sys_app1">Consenti a questa funzione di accedere ai tuoi messaggi e contatti per poter eseguire il backup e il ripristino di questi elementi.</string>
-    <string name="permission_read_write_sys_app2">Consenti a questa funzione di accedere ai tuoi contatti per poter eseguire il backup e il ripristino di questi elementi.</string>
+    <string name="permission_read_write_sys_app1">Consenti a questa funzione di accedere ai tuoi messaggi e contatti per essere in grado di eseguire il backup e ripristinare questi elementi.</string>
+    <string name="permission_read_write_sys_app2">Consenti a questa funzione di accedere ai tuoi contatti per essere in grado di eseguire il backup e ripristinare questi elementi.</string>
     <string name="permission_related">Permessi</string>
     <string name="permission_restore_calendar">Per ripristinare gli eventi del calendario</string>
     <string name="permission_restore_calendar_desc">Per essere in grado di ripristinare gli eventi del calendario, consentire a questa app di modificare gli eventi del calendario.</string>
