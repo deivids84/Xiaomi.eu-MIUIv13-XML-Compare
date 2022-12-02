@@ -69,12 +69,12 @@
     <string name="mars_position_content_0">"This region contains cliffs, mesas, and wide flat valleys, which are believed to have been caused by debris-covered glaciers. Clay minerals have also been detected here, which are of great interest in the search for evidence of life on ancient Mars.
 
 NASA/JPL/University of Arizona"</string>
-    <string name="mars_position_content_1">"Taken when the Mars rover Curiosity is exploring the Pahrump Hills in Gale Crater. The region contains sedimentary rocks that scientists believe formed in the presence of water, and the dark areas are sand.
+    <string name="mars_position_content_1">"Снимок сделан, когда марсоход Curiosity исследовал холмы Парампа в кратере Гейл. Регион содержит осадочные породы, которые, по мнению ученых, образовались в присутствии воды. Более темные области - это песок.
 
-NASA/JPL/University of Arizona"</string>
-    <string name="mars_position_content_2">"Mawrth Vallis is an ancient water outflow channel with light-colored clay-rich rocks. Clay minerals easily preserve microscopic life on Earth, so perhaps traces of ancient life may be found at Mawrth.
+NASA/JPL/Университет Аризоны"</string>
+    <string name="mars_position_content_2">"Долина Маврт - это древний водоотводный канал со светлыми глинистыми камнями. На Земле глинистые минералы легко сохраняют микроскопическую жизнь, поэтому есть вероятность, что следы древней жизни найдутся и в долине Маврт.
 
-NASA/JPL/University of Arizona"</string>
+NASA/JPL/Университет Аризоны"</string>
     <string name="mars_position_title_0">"Регион
 Nilosyrtis Mensae"</string>
     <string name="mars_position_title_1">Gale Crater</string>
@@ -105,7 +105,7 @@ mm"</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Снять выбор</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выберите объекты</string>
-    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Еще</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Ещё</string>
     <string name="miuix_appcompat_cancel_description">Отмена</string>
     <string name="miuix_appcompat_confirm_description">Подтвердить</string>
     <string name="miuix_appcompat_delete_description">Удалить</string>
@@ -163,7 +163,7 @@ mm"</string>
     <string name="month_september">Сентябрь</string>
     <string name="month_september_short">Сен</string>
     <string name="month_september_shortest">Сен</string>
-    <string name="more">Еще</string>
+    <string name="more">Ещё</string>
     <string name="morning">Утро</string>
     <string name="mtrl_chip_close_icon_content_description">Удалить %1$s</string>
     <string name="night">Вечер</string>
@@ -275,14 +275,14 @@ mm"</string>
     <string name="v7_preference_off">ВЫКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
     <string name="wallpaper_setting_aod_wallpaper_banner_button_text">Активный экран</string>
-    <string name="wallpaper_setting_find_more_text">Другие онлайн-обои</string>
+    <string name="wallpaper_setting_find_more_text">Ещё</string>
     <string name="wallpaper_setting_home_wallpaper_banner_button_text">Рабочий стол</string>
     <string name="wallpaper_setting_lock_screen_wallpaper_banner_button_text">Экран блокировки</string>
     <string name="wallpaper_setting_online_wallpaper_actionbar_title">Онлайн-обои</string>
     <string name="wallpaper_setting_online_wallpaper_none_title">Поиск обоев</string>
     <string name="wallpaper_setting_online_wallpaper_title">Онлайн-обои</string>
     <string name="wallpaper_setting_super_wallpaper_banner_title">Суперобои</string>
-    <string name="wallpaper_setting_super_wallpaper_more_button_text">Еще</string>
+    <string name="wallpaper_setting_super_wallpaper_more_button_text">Ещё</string>
     <string name="wallpaper_setting_title">Обои</string>
     <string name="weather_summary">Местная погода</string>
     <string name="weather_super_wallpaper_label">Погода</string>
