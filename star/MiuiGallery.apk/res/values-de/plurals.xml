@@ -256,6 +256,10 @@
         <item quantity="one">Gerade eben</item>
         <item quantity="other">Gerade eben</item>
     </plurals>
+    <plurals name="migrate_gp_data_num">
+        <item quantity="other">%1$d Elemente</item>
+        <item quantity="one">%1$d Element</item>
+    </plurals>
     <plurals name="miplay_time_minute_unit">
         <item quantity="other">%d Minuten</item>
         <item quantity="one">%d Minute</item>
@@ -504,6 +508,42 @@
         <item quantity="other">Erhalte %2$d Archive (%3$s) von %1$s…</item>
         <item quantity="one">Erhalte %2$d Archiv (%3$s) von %1$s…</item>
     </plurals>
+    <plurals name="share_album_detail_photo_count">
+        <item quantity="other">%d Fotos hochgeladen</item>
+        <item quantity="one">%d Foto hochgeladen</item>
+    </plurals>
+    <plurals name="share_album_home_pref_rooms">
+        <item quantity="other">%1$d Zimmer</item>
+        <item quantity="one">%1$d Zimmer</item>
+    </plurals>
+    <plurals name="share_album_home_pref_screens">
+        <item quantity="other">%1$d Bildschirme</item>
+        <item quantity="one">%1$d Bildschirm</item>
+    </plurals>
+    <plurals name="share_album_home_pref_share_home_summary">
+        <item quantity="other">%1$d geteilte Bildschirme</item>
+        <item quantity="one">%1$d geteilter Bildschirm</item>
+    </plurals>
+    <plurals name="share_album_home_pref_unshare_home_summary">
+        <item quantity="other">%1$d Smart Home-Umgebungen verfügbar</item>
+        <item quantity="one">%1$d Smart Home-Umgebung verfügbar</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_oversize">
+        <item quantity="other">%d Elemente sind zu groß zum Synchronisieren</item>
+        <item quantity="one">%d Element ist zu groß zum Synchronisieren</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_owner_upload_error">
+        <item quantity="other">"%d Elemente wurden nicht synchronisiert. Aktualisieren Sie Ihren Speichertarif."</item>
+        <item quantity="one">"%d Element wurde nicht synchronisiert. Aktualisieren Sie Ihren Speichertarif."</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_retry">
+        <item quantity="other">"%d Elemente wurden nicht synchronisiert. Erneut versuchen."</item>
+        <item quantity="one">"%d Element wurde nicht synchronisiert. Erneut versuchen."</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_sharer_upload_error">
+        <item quantity="other">"%d Elemente wurden nicht synchronisiert. Der Besitzer dieses Albums hat keinen Cloud-Speicher mehr."</item>
+        <item quantity="one">"%d Element wurde nicht synchronisiert. Der Besitzer dieses Albums hat keinen Cloud-Speicher mehr."</item>
+    </plurals>
     <plurals name="slideshow_interval_value">
         <item quantity="other">%1$d Sekunden</item>
         <item quantity="one">%1$d Sekunde</item>
@@ -592,6 +632,14 @@
         <item quantity="other"></item>
         <item quantity="one"></item>
     </plurals>
+    <plurals name="tran_notification_complete_msg">
+        <item quantity="other">"%1$d Elemente wurden nicht übertragen"</item>
+        <item quantity="one">"%1$d Element wurde nicht übertragen"</item>
+    </plurals>
+    <plurals name="transfer_status_banner_msg_file_failed">
+        <item quantity="other">"%1$d Elemente wurden nicht übertragen. Besuchen Sie i.mi.com, um sie herunterzuladen."</item>
+        <item quantity="one">"%1$d Element wurde nicht übertragen. Besuchen Sie i.mi.com, um es herunterzuladen."</item>
+    </plurals>
     <plurals name="trash_purge_dialog_message_cloud">
         <item quantity="other">%d ausgewählte Elemente werden permanent in der Cloud und auf allen gekoppelten Geräten gelöscht. Trotzdem löschen?</item>
         <item quantity="one">%d ausgewähltes Element wird permanent in der Cloud und auf allen gekoppelten Geräten gelöscht. Trotzdem löschen?</item>
@@ -615,6 +663,14 @@
     <plurals name="trash_vip_info_text_login">
         <item quantity="other">Elemente können hier %1$d Tage lang gespeichert werden (%2$s)</item>
         <item quantity="one">Elemente können hier %1$d Tag lang gespeichert werden (%2$s)</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_login_medium_or_low_level">
+        <item quantity="other">Elemente können hier für %1$s Tage gespeichert werden. Tippen, um diesen Zeitraum zu verlängern.</item>
+        <item quantity="one">Elemente können hier für %1$s Tag gespeichert werden. Tippen, um diesen Zeitraum zu verlängern.</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_no_sync_server">
+        <item quantity="other">Gelöschte Elemente werden in der Cloud für %1$d Tage gespeichert</item>
+        <item quantity="one">Gelöschte Elemente werden in der Cloud für %1$d Tag gespeichert</item>
     </plurals>
     <plurals name="trash_vip_info_text_unlogin">
         <item quantity="other">Elemente können hier %1$d Tage lang gespeichert werden. Hole dir ein Abo-Upgrade, um diesen Zeitraum zu verlängern.</item>
