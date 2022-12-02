@@ -82,7 +82,7 @@
     <string-array name="settings_search_security_phone_number">
         <item>Telefono di recupero</item>
         <item>Aggiungi un telefono di recupero</item>
-        <item>Recupero telefono;Aggiungi telefono;Mi Account;Account</item>
+        <item>Telefono di recupero;Aggiungi telefono;Mi Account;Account;Account Xiaomi</item>
     </string-array>
     <string-array name="settings_search_system_ad">
         <item>Annunci</item>
