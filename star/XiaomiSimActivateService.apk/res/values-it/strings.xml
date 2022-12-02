@@ -126,11 +126,11 @@ Immetti il numero di telefono associato alla tua nuova scheda SIM per riattivare
     <string name="explain_activate_register_xiaomi_account_title">Crea un Mi Account</string>
     <string name="explain_activate_send_sms_permission_msg">Per attivare %s, il tuo dispositivo necessita dei permessi per inviare l\'SMS di attivazione. Il tuo operatore ti addebiterà questo messaggio.</string>
     <string name="explain_send_sms_permission_button">Verifica</string>
-    <string name="fmt_date_long_month_day">dd MMMM</string>
-    <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
+    <string name="fmt_date_long_month_day">d MMMM</string>
+    <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
     <string name="fmt_date_numeric_month_day">dd/MM</string>
     <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
-    <string name="fmt_date_short_month_day">dd/MM</string>
+    <string name="fmt_date_short_month_day">d MMM</string>
     <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
     <string name="fmt_time_12hour">"hh"</string>
     <string name="fmt_time_24hour">"H"</string>
@@ -139,7 +139,7 @@ Immetti il numero di telefono associato alla tua nuova scheda SIM per riattivare
     <string name="friday_shortest">Ven</string>
     <string name="midnight">Notte</string>
     <string name="miuix_access_state_desc">Selezionato</string>
-    <string name="miuix_alphabet_indexer_name">Barra dell\'indice</string>
+    <string name="miuix_alphabet_indexer_name">Barra degli indici</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deseleziona</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleziona tutto</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleziona elementi</string>
