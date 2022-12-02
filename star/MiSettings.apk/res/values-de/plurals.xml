@@ -77,8 +77,8 @@
         <item quantity="one">Vor 1 Minute</item>
     </plurals>
     <plurals name="steady_on_screen_notification_summary">
-        <item quantity="other">"Sie haben Ihr Gerät für %d Minuten ohne Unterbrechung genutzt"</item>
-        <item quantity="one">"Sie haben Ihr Gerät für %d Minute ohne Unterbrechung genutzt"</item>
+        <item quantity="other">"Sie verwenden Ihr Gerät seit %d Minuten ohne Unterbrechung"</item>
+        <item quantity="one">"Sie verwenden Ihr Gerät seit %d Minute ohne Unterbrechung"</item>
     </plurals>
     <plurals name="steady_on_screen_rest_time">
         <item quantity="other">Ruhezeit für %d Min.</item>
