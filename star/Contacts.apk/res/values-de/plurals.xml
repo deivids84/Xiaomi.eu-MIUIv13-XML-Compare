@@ -176,6 +176,10 @@
         <item quantity="other">%d Elemente ausgewählt</item>
         <item quantity="one">%d Element ausgewählt</item>
     </plurals>
+    <plurals name="notification_missedCallsMsg">
+        <item quantity="other">%d verpasste Anrufe</item>
+        <item quantity="one">%d verpasster Anruf</item>
+    </plurals>
     <plurals name="numSelectedSimContacts">
         <item quantity="other">%1$d ausgewählt</item>
         <item quantity="one">%1$d ausgewählt</item>
