@@ -91,16 +91,16 @@
         <item quantity="many">Прогноз на %1$s дней</item>
     </plurals>
     <plurals name="feedback_result_interval_time_too_short_minute">
-        <item quantity="other">Вы можете повторить отчет через %1$s минут</item>
-        <item quantity="one">Вы можете повторить отчет через %1$s минуту</item>
-        <item quantity="few">Вы можете повторить отчет через %1$s минуты</item>
-        <item quantity="many">Вы можете повторить отчет через %1$s минут</item>
+        <item quantity="other">Отзыв можно отправить ещё раз через %1$s минут</item>
+        <item quantity="one">Отзыв можно отправить ещё раз через %1$s минуту </item>
+        <item quantity="few">Отзыв можно отправить ещё раз через %1$s минуты </item>
+        <item quantity="many">Отзыв можно отправить ещё раз через %1$s минут</item>
     </plurals>
     <plurals name="feedback_result_interval_time_too_short_second">
-        <item quantity="other">Вы можете повторить отчет через %1$s секунд</item>
-        <item quantity="one">Вы можете повторить отчет через %1$s секунду</item>
-        <item quantity="few">Вы можете повторить отчет через %1$s секунды</item>
-        <item quantity="many">Вы можете повторить отчет через %1$s секунд</item>
+        <item quantity="other">Отзыв можно отправить ещё раз через %1$s минут</item>
+        <item quantity="one">Отзыв можно отправить ещё раз через %1$s минуту </item>
+        <item quantity="few">Отзыв можно отправить ещё раз через %1$s минуты </item>
+        <item quantity="many">Отзыв можно отправить ещё раз через %1$s минут</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">Полчаса назад</item>
