@@ -100,7 +100,7 @@
     </string-array>
     <string-array name="bt_hci_snoop_log_entries">
         <item>Отключено</item>
-        <item>Включены фильтры</item>
+        <item>Включён фильтр</item>
         <item>Включено</item>
     </string-array>
     <string-array name="cdma_system_select_choices">
@@ -125,7 +125,7 @@
     <string-array name="debug_hw_overdraw_entries">
         <item>Отключено</item>
         <item>Показывать области наложения</item>
-        <item>Выделять области определенного цвета</item>
+        <item>Выделять области определённого цвета</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
         <item>Нет</item>
@@ -209,7 +209,7 @@
         <item>1M</item>
     </string-array>
     <string-array name="select_logd_size_summaries">
-        <item>Отключено</item>
+        <item>Отключён</item>
         <item>Буфер: макс. 64 КБ</item>
         <item>Буфер: макс. 256 КБ</item>
         <item>Буфер: макс. 1 МБ</item>
@@ -217,7 +217,7 @@
         <item>Буфер: максимум 8 МБ</item>
     </string-array>
     <string-array name="select_logd_size_titles">
-        <item>Отключено</item>
+        <item>Отключён</item>
         <item>64K</item>
         <item>256K</item>
         <item>1M</item>
@@ -239,7 +239,7 @@
     <string-array name="show_non_rect_clip_entries">
         <item>Отключено</item>
         <item>Непрямоугольное усечение синим</item>
-        <item>Тест. команды рисования зеленым</item>
+        <item>Тест. команды рисования зелёным</item>
     </string-array>
     <string-array name="track_frame_time_entries">
         <item>Отключено</item>
