@@ -45,6 +45,7 @@
     <string name="calibrate_failed">Kalibriranje nadmorske višine ni uspelo</string>
     <string name="calibrate_failed_no_location">"Kalibracija ni mogoča"</string>
     <string name="calibrate_failed_timeout">"Ne morem se povezati na strežnik"</string>
+    <string name="calibrate_new_tip">Napravo močno nagnite, da zakotalite žogo po krogu</string>
     <string name="calibrate_rotate_again">Poskusite ponovno</string>
     <string name="calibrate_success">Kalibrirano</string>
     <string name="calibrate_tip">Nagibajte napravo da ulovite piko v krog</string>
