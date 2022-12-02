@@ -71,14 +71,14 @@
         <item quantity="few">Puteți crea până la %d clone simultan.</item>
     </plurals>
     <plurals name="exit_camera_hint">
-        <item quantity="other">&lt;Data&gt;Nu se poate conecta la cameră.&lt;br&gt;Această aplicație se va închide în &lt;font color=#FFCE16&gt;&lt;b&gt;%1$d sec&lt;/b&gt;&lt;/font&gt;. După aceasta, așteptați un minut sau două și încercați din nou.&lt;/Data&gt;</item>
-        <item quantity="one">&lt;Data&gt;Nu se poate conecta la cameră.&lt;br&gt;Această aplicație se va închide în &lt;font color=#FFCE16&gt;&lt;b&gt;%1$d sec&lt;/b&gt;&lt;/font&gt;. După aceasta, așteptați un minut sau două și încercați din nou.&lt;/Data&gt;</item>
-        <item quantity="few">&lt;Data&gt;Nu se poate conecta la cameră.&lt;br&gt;Această aplicație se va închide în &lt;font color=#FFCE16&gt;&lt;b&gt;%1$d sec&lt;/b&gt;&lt;/font&gt;. După aceasta, așteptați un minut sau două și încercați din nou.&lt;/Data&gt;</item>
+        <item quantity="other">&lt;Data&gt;\"Nu se poate conecta la cameră.&lt;br&gt;Această aplicație va fi închisă în &lt;font color=#FFCE16&gt;&lt;b&gt;%1$d secunde&lt;/b&gt;&lt;/font&gt;. După aceasta, așteptați un minut sau două și încercați din nou.\"&lt;/Data&gt;</item>
+        <item quantity="one">&lt;Data&gt;\"Nu se poate conecta la cameră.&lt;br&gt;Această aplicație va fi închisă în &lt;font color=#FFCE16&gt;&lt;b&gt;%1$d secundă&lt;/b&gt;&lt;/font&gt;. După aceasta, așteptați un minut sau două și încercați din nou.\"&lt;/Data&gt;</item>
+        <item quantity="few">&lt;Data&gt;\"Nu se poate conecta la cameră.&lt;br&gt;Această aplicație va fi închisă în &lt;font color=#FFCE16&gt;&lt;b&gt;%1$d secunde&lt;/b&gt;&lt;/font&gt;. După aceasta, așteptați un minut sau două și încercați din nou.\"&lt;/Data&gt;</item>
     </plurals>
     <plurals name="exit_thermal_hint">
-        <item quantity="other">&lt;Data&gt;Acest dispozitiv este prea fierbinte acum.&lt;br&gt;Aplicația va fi închisă în &lt;font color=#FFCE16&gt;&lt;b&gt;%1$d sec&lt;/b&gt;&lt;/font&gt;. Progresul actual a fost salvat automat.&lt;/Data&gt;</item>
-        <item quantity="one">&lt;Data&gt;Acest dispozitiv este prea fierbinte acum.&lt;br&gt;Aplicația va fi închisă în &lt;font color=#FFCE16&gt;&lt;b&gt;%1$d sec&lt;/b&gt;&lt;/font&gt;. Progresul actual a fost salvat automat.&lt;/Data&gt;</item>
-        <item quantity="few">&lt;Data&gt;Acest dispozitiv este prea fierbinte acum.&lt;br&gt;Aplicația va fi închisă în &lt;font color=#FFCE16&gt;&lt;b&gt;%1$d sec&lt;/b&gt;&lt;/font&gt;. Progresul actual a fost salvat automat.&lt;/Data&gt;</item>
+        <item quantity="other">&lt;Data&gt;Acest dispozitiv este prea fierbinte acum.&lt;br&gt;Aplicația va fi închisă în &lt;font color=#FFCE16&gt;&lt;b&gt;%1$d secunde&lt;/b&gt;&lt;/font&gt;. Progresul curent a fost salvat automat.&lt;/Data&gt;</item>
+        <item quantity="one">&lt;Data&gt;Acest dispozitiv este prea fierbinte acum.&lt;br&gt;Aplicația va fi închisă în &lt;font color=#FFCE16&gt;&lt;b&gt;%1$d secundă&lt;/b&gt;&lt;/font&gt;. Progresul curent a fost salvat automat.&lt;/Data&gt;</item>
+        <item quantity="few">&lt;Data&gt;Acest dispozitiv este prea fierbinte acum.&lt;br&gt;Aplicația va fi închisă în &lt;font color=#FFCE16&gt;&lt;b&gt;%1$d secunde&lt;/b&gt;&lt;/font&gt;. Progresul curent a fost salvat automat.&lt;/Data&gt;</item>
     </plurals>
     <plurals name="fastmotion_pro_min_unit">
         <item quantity="other">%1$d min</item>
@@ -136,9 +136,9 @@
         <item quantity="few">%d min în urmă</item>
     </plurals>
     <plurals name="pad_ccc_temperature_warning_msg">
-        <item quantity="other">Dispozitivul este supraîncălzit. Aparatul foto se va închide în %d secunde. Fotografiile sau videoclipurile vor fi salvate automat.</item>
-        <item quantity="one">Dispozitivul este supraîncălzit. Aparatul foto se va închide în %d secundă. Fotografiile sau videoclipurile vor fi salvate automat.</item>
-        <item quantity="few">Dispozitivul este supraîncălzit. Aparatul foto se va închide în %d secunde. Fotografiile sau videoclipurile vor fi salvate automat.</item>
+        <item quantity="other">Dispozitivul dvs. este supraîncălzit. Camera se va închide în %d secunde. Fotografiile sau videoclipurile tale vor fi salvate automat.</item>
+        <item quantity="one">Dispozitivul dvs. este supraîncălzit. Camera se va închide în %d secundă. Fotografiile sau videoclipurile tale vor fi salvate automat.</item>
+        <item quantity="few">Dispozitivul dvs. este supraîncălzit. Camera se va închide în %d secunde. Fotografiile sau videoclipurile tale vor fi salvate automat.</item>
     </plurals>
     <plurals name="pref_camera_fastmotion_duration_unit">
         <item quantity="other">%1$s min</item>
