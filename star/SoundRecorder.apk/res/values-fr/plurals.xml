@@ -85,8 +85,8 @@
         <item quantity="one">%d élément sélectionné</item>
     </plurals>
     <plurals name="mtrl_badge_content_description">
-        <item quantity="other">%d nouvelles notifications</item>
-        <item quantity="one">%d nouvelle notification</item>
+        <item quantity="other">%d nouvelles notifications</item>
+        <item quantity="one">%d nouvelle notification</item>
     </plurals>
     <plurals name="notification_warning">
         <item quantity="other">Stockage insuffisant (moins de %d minutes)</item>
