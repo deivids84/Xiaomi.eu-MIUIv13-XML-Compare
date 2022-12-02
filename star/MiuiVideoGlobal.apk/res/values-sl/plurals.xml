@@ -66,6 +66,24 @@
         <item quantity="two">Izbranih je %s zvezdic</item>
         <item quantity="few">Izbranih je %s zvezdic</item>
     </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Hitro naprej %d sekund</item>
+        <item quantity="one">Hitro naprej %d sekundo</item>
+        <item quantity="two">Hitro naprej %d sekund</item>
+        <item quantity="few">Hitro naprej %d sekund</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Previj nazaj %d sekund</item>
+        <item quantity="one">Previj nazaj %d sekundo</item>
+        <item quantity="two">Previj nazaj %d sekund</item>
+        <item quantity="few">Previj nazaj %d sekund</item>
+    </plurals>
+    <plurals name="fcmpts_dialog_one">
+        <item quantity="other">Oglejte si še %s sekund videoposnetka, da si prislužite točke in unovčite nagrade</item>
+        <item quantity="one">Oglejte si še %s sekundo videoposnetka, da si prislužite točke in unovčite nagrade</item>
+        <item quantity="two">Oglejte si še %s sekund videoposnetka, da si prislužite točke in unovčite nagrade</item>
+        <item quantity="few">Oglejte si še %s sekund videoposnetka, da si prislužite točke in unovčite nagrade</item>
+    </plurals>
     <plurals name="feed_back_home">
         <item quantity="other">Odhod na začetni zaslon čez %1$d sekund…</item>
         <item quantity="one">Odhod na začetni zaslon čez %1$d sekundo…</item>
@@ -77,6 +95,12 @@
         <item quantity="two">Pred pol ure</item>
         <item quantity="few">Pred pol ure</item>
         <item quantity="other">Pred pol ure</item>
+    </plurals>
+    <plurals name="hint_local_guide_views">
+        <item quantity="other">%s ogledov</item>
+        <item quantity="one">%s ogled</item>
+        <item quantity="two">%s ogledov</item>
+        <item quantity="few">%s ogledov</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="one">Čez 1 uro</item>
@@ -292,6 +316,12 @@ Na voljo samo danes"</item>
         <item quantity="two">%d novih obvestil</item>
         <item quantity="few">%d novih obvestil</item>
     </plurals>
+    <plurals name="music_playlist_title_count">
+        <item quantity="other">%d pesmi</item>
+        <item quantity="one">%d pesem</item>
+        <item quantity="two">%d pesmi</item>
+        <item quantity="few">%d pesmi</item>
+    </plurals>
     <plurals name="new_incentive_toast_share_success">
         <item quantity="other">"Uspešno deljeno. Prislužili ste si %d točk. Zahtevajte v Točkovnem centru."</item>
         <item quantity="one">"Uspešno deljeno. Prislužili ste si %d točko. Zahtevajte v Točkovnem centru."</item>
@@ -417,6 +447,12 @@ Na voljo samo danes"</item>
         <item quantity="one">Največ %d zaznamek</item>
         <item quantity="two">Največ %d zaznamka</item>
         <item quantity="few">Največ %d zaznamki</item>
+    </plurals>
+    <plurals name="v_confirm_hide_videos_new">
+        <item quantity="other">Skrijem %d izbranih datotek?</item>
+        <item quantity="one">Skrijem %d izbrano datoteko?</item>
+        <item quantity="two">Skrijem %d izbranih datotek?</item>
+        <item quantity="few">Skrijem %d izbranih datotek?</item>
     </plurals>
     <plurals name="video_like_text">
         <item quantity="other">%s všečkov</item>
