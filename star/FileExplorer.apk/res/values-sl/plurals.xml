@@ -84,6 +84,12 @@
         <item quantity="two">pred %1$d dnevi</item>
         <item quantity="few">pred %1$d dnevi</item>
     </plurals>
+    <plurals name="delete_cloud_files">
+        <item quantity="other">Želite izbrisati %1$d datotek iz vseh svojih naprav in oblaka? Datoteke Mi Drive je mogoče obnoviti iz nedavno izbrisanih stvari.</item>
+        <item quantity="one">Želite izbrisati %1$d datoteko iz vseh svojih naprav in oblaka? Datoteke Mi Drive je mogoče obnoviti iz nedavno izbrisanih stvari.</item>
+        <item quantity="two">Želite izbrisati %1$d datotek iz vseh svojih naprav in oblaka? Datoteke Mi Drive je mogoče obnoviti iz nedavno izbrisanih stvari.</item>
+        <item quantity="few">Želite izbrisati %1$d datotek iz vseh svojih naprav in oblaka? Datoteke Mi Drive je mogoče obnoviti iz nedavno izbrisanih stvari.</item>
+    </plurals>
     <plurals name="delete_files">
         <item quantity="other">Izbrišem %1$d datotek?</item>
         <item quantity="one">Izbrišem %1$d datoteko?</item>
@@ -210,6 +216,24 @@
         <item quantity="two">Nova obvestila: %d</item>
         <item quantity="few">Nova obvestila: %d</item>
     </plurals>
+    <plurals name="notification_message_sync_result_fail">
+        <item quantity="other">"Ne morem sinhronizirati %1$s datotek"</item>
+        <item quantity="one">"Ne morem sinhronizirati %1$s datoteke"</item>
+        <item quantity="two">"Ne morem sinhronizirati %1$s datotek"</item>
+        <item quantity="few">"Ne morem sinhronizirati %1$s datotek"</item>
+    </plurals>
+    <plurals name="notification_message_sync_result_success">
+        <item quantity="other">"Sinhronizirano %1$s datotek | "</item>
+        <item quantity="one">"Sinhronizirana %1$s datoteka | "</item>
+        <item quantity="two">"Sinhronizirano %1$s datotek | "</item>
+        <item quantity="few">"Sinhronizirano %1$s datotek | "</item>
+    </plurals>
+    <plurals name="notification_title_syncing_with_count_no_network">
+        <item quantity="other">Čakanje na omrežno povezavo. %1$s preostalih datotek.</item>
+        <item quantity="one">Čakanje na omrežno povezavo. %1$s preostala datoteka.</item>
+        <item quantity="two">Čakanje na omrežno povezavo. %1$s preostalih datotek.</item>
+        <item quantity="few">Čakanje na omrežno povezavo. %1$s preostalih datotek.</item>
+    </plurals>
     <plurals name="numSelectedFile">
         <item quantity="other">Izbrano %1$d stvari</item>
         <item quantity="one">Izbrana %1$d stvar</item>
@@ -259,10 +283,10 @@
         <item quantity="few">Najdeno %1$s novih videov</item>
     </plurals>
     <plurals name="search_head_hint_all">
-        <item quantity="other">Rezultat iskanja (%1$d stvari)</item>
+        <item quantity="other">Rezultatov iskanja (%1$d stvari)</item>
         <item quantity="one">Rezultat iskanja (%1$d stvar)</item>
-        <item quantity="two">Rezultat iskanja (%1$d stvari)</item>
-        <item quantity="few">Rezultat iskanja (%1$d stvari)</item>
+        <item quantity="two">Rezultata iskanja (%1$d stvari)</item>
+        <item quantity="few">Rezultati iskanja (%1$d stvari)</item>
     </plurals>
     <plurals name="search_head_hint_app">
         <item quantity="other">Datotek (%2$d) apl. %1$s</item>
