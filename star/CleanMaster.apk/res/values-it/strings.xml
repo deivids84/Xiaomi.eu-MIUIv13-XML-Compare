@@ -411,7 +411,7 @@
     <string name="gps_prompt_context">Scaricare con rete mobile?</string>
     <string name="gps_prompt_title">Suggerimenti</string>
     <string name="grabage_rank_title">Puliti oggi</string>
-    <string name="guide_dc_dialog_message_new">"Ci sono meno di %d GB di spazio di archiviazione libero. Questo potrebbe rallentare il tuo dispositivo. Esegui una pulizia profonda per liberare spazio."</string>
+    <string name="guide_dc_dialog_message_new">"C'è meno di %dGB di spazio di archiviazione libero. Questo potrebbe rallentare il tuo dispositivo. Esegui pulizia profonda per liberare spazio di archiviazione."</string>
     <string name="guide_dc_dialog_negative">Annulla</string>
     <string name="guide_dc_dialog_positive">OK</string>
     <string name="guide_dc_dialog_title">Memoria in esaurimento</string>
@@ -495,7 +495,7 @@
     <string name="login_immediately">Accedi</string>
     <string name="long_click_dialog_summary">Pressione prolungata per aggiungere alle eccezioni.</string>
     <string name="long_click_dialog_title">Avviso</string>
-    <string name="low_memory_clean_dialog_msg_new">Prima elimina almeno %dMB di file</string>
+    <string name="low_memory_clean_dialog_msg_new">Svuota prima almeno %dMB</string>
     <string name="low_memory_clean_dialog_ok_button">OK</string>
     <string name="low_memory_clean_dialog_title">Spazio d\'archiviazione insufficiente</string>
     <string name="low_memory_warning_dialog_cancel_button">Annulla</string>
@@ -842,10 +842,10 @@
     <string name="time_picker_dialog_title">Imposta l\'ora</string>
     <string name="tips_low_storage_dialog_cancel">Annulla</string>
     <string name="tips_low_storage_dialog_msg_qq">Le dimensioni della cache di QQ hanno raggiunto i 3 GB. Questo potrebbe rallentare il tuo dispositivo. Cancellare la cache di QQ?</string>
-    <string name="tips_low_storage_dialog_msg_qq_new">La dimensione della cache QQ ha raggiunto %d GB. Questo potrebbe rallentare il dispositivo. Cancellare la cache QQ adesso?</string>
+    <string name="tips_low_storage_dialog_msg_qq_new">La dimensione della cache QQ ha raggiunto %dGB. Questo potrebbe rallentare il tuo dispositivo. Cancellare la cache QQ ora?</string>
     <string name="tips_low_storage_dialog_msg_storage">"Stai utilizzando il 90% del tuo spazio di archiviazione. Disinstalla le app che non usi."</string>
     <string name="tips_low_storage_dialog_msg_storage_new">"Stai usando %s del tuo spazio di archiviazione. Disinstalla le applicazioni che non utilizzi."</string>
-    <string name="tips_low_storage_dialog_msg_wechat_new">La dimensione della cache di WeChat ha raggiunto i %d GB. Questo potrebbe rallentare il dispositivo. Svuotare la cache di WeChat?</string>
+    <string name="tips_low_storage_dialog_msg_wechat_new">La dimensione della cache di WeChat ha raggiunto %dGB. Questo potrebbe rallentare il tuo dispositivo. Eliminare la cache di WeChat ora?</string>
     <string name="tips_low_storage_dialog_ok">Sereno</string>
     <string name="tips_low_storage_dialog_ok_storage">Libera dello spazio</string>
     <string name="tips_low_storage_dialog_title">Lo spazio di archiviazione sta per esaurirsi</string>
