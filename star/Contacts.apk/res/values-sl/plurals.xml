@@ -264,6 +264,12 @@
         <item quantity="two">%d predmeta izbrana</item>
         <item quantity="few">%d predmetov izbranih</item>
     </plurals>
+    <plurals name="notification_missedCallsMsg">
+        <item quantity="other">%d zgrešenih klicev</item>
+        <item quantity="one">%d zgrešen klic</item>
+        <item quantity="two">%d zgrešenih klicev</item>
+        <item quantity="few">%d zgrešenih klicev</item>
+    </plurals>
     <plurals name="numSelectedSimContacts">
         <item quantity="other">%1$d izbranih</item>
         <item quantity="one">%1$d izbran</item>
