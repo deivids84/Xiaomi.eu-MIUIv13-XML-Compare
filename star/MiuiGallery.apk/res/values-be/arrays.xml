@@ -14,6 +14,10 @@
         <item>Выбраць выяву</item>
         <item>Празрысты фон</item>
     </string-array>
+    <string-array name="account_user_gender_name">
+        <item>Мужчынскі</item>
+        <item>Жаночы</item>
+    </string-array>
     <string-array name="activities_title">
         <item>Асаблівы дзень</item>
         <item>Памятны дзень</item>
