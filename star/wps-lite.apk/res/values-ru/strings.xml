@@ -124,7 +124,7 @@
     <string name="et_search_turnto">На листе:</string>
     <string name="et_sort_ascend">По возрастанию</string>
     <string name="et_sort_descend">По убыванию</string>
-    <string name="et_sort_empty">"Нет содержимого для сортировки. Выберите другой диапазон."</string>
+    <string name="et_sort_empty">"Не удается отсортировать содержимое, выберите область ещё раз."</string>
     <string name="et_sort_title_tips">"Заголовки данных должны быть отсортированы."</string>
     <string name="et_sorter_expand_selection">"Рядом с выделенной областью обнаружены данные. Какие данные вы хотите отсортировать?"</string>
     <string name="et_sorter_expand_selection_cancel">Текущая выделенная область</string>
@@ -185,11 +185,11 @@
     <string name="public_continue">Продолжить</string>
     <string name="public_copy">Копировать</string>
     <string name="public_crash_dialog_content">Сбой системы из-за неизвестной ошибки.</string>
-    <string name="public_crash_dialog_content_2">Отчет об ошибке поможет нам исправить проблему, отправить?</string>
+    <string name="public_crash_dialog_content_2">Выберите, отсылать ли отчёт об ошибке. Отправляя отчёт об ошибке Вы можете помочь нам решить проблему.</string>
     <string name="public_crash_dialog_content_open_fail_corrupted">"Не удалось открыть файл. Возможно он поврежден."</string>
     <string name="public_crash_dialog_content_open_fail_unknown">"Произошла ошибка. Не удалось открыть файл."</string>
     <string name="public_crash_dialog_thank">"Благодарим за отправку отчета об ошибке. Для нас важно улучшать наше программное обеспечение. Мы можем связаться с вами для получения более подробной информации о проблеме."</string>
-    <string name="public_crash_dialog_title">Оправить отчет об ошибках</string>
+    <string name="public_crash_dialog_title">Отправка отчёта об ошибке</string>
     <string name="public_cut">Вырезать</string>
     <string name="public_decryptDocument">Расшифровать</string>
     <string name="public_displayPasswd">Показать пароль</string>
@@ -198,7 +198,7 @@
     <string name="public_enter_phonemode">Перейти к мобильному виду</string>
     <string name="public_exit_phonemode">Выйти из мобильного вида</string>
     <string name="public_exit_play">Выход</string>
-    <string name="public_fileNotExist">Файл не существует. Файл мог быть переименован, перемещен или удален.</string>
+    <string name="public_fileNotExist">Файл не существует. Файл мог быть переименован, перемещён или удалён.</string>
     <string name="public_file_cant_write_tips">"Невозможно сохранить файл в текущий каталог. Сохранить как новый файл в другой каталог?"</string>
     <string name="public_file_download">Загрузка файла…</string>
     <string name="public_find_replaceall">Заменить все</string>
@@ -235,7 +235,7 @@
     <string name="public_ok">OK</string>
     <string name="public_openDocumentFormatError">"Невозможно открыть файл из-за неподдерживаемых функций."</string>
     <string name="public_open_file_failed">"Не удалось открыть файл"</string>
-    <string name="public_open_file_in_error_account">"Не удалось открыть файл. Выполните вход в систему."</string>
+    <string name="public_open_file_in_error_account">"Не удалось открыть. Перед открытием файла войдите в свою учётную запись."</string>
     <string name="public_other_app">Открыть в другом приложении</string>
     <string name="public_outline">Содержание</string>
     <string name="public_paste">Вставить</string>
@@ -259,7 +259,7 @@
     <string name="public_re_licensing">Предоставить разрешение</string>
     <string name="public_readOnlyMode">Только чтение</string>
     <string name="public_recory_edit_not_save_tips">Несохраненное содержимое уже восстановлено.</string>
-    <string name="public_recory_open_file_not_exist_tips">Документ восстановлен. Возможно, он был удален другими приложениями.</string>
+    <string name="public_recory_open_file_not_exist_tips">Документ восстановлен. Возможно, он был удалён другими приложениями.</string>
     <string name="public_refuse_give_permission">Отзыв разрешения</string>
     <string name="public_refuse_jurisdiction">Требуются разрешения</string>
     <string name="public_replace">Заменить</string>
@@ -304,7 +304,7 @@
     <string name="public_undo">Отменить</string>
     <string name="public_unsave">Удалить</string>
     <string name="public_warnedit_dialog_title_text">Советы</string>
-    <string name="public_wpscloud_recovery_edit_not_exist_tips">Документ восстановлен с помощью WPS Cloud Docs. Возможно, он был удален другими приложениями.</string>
+    <string name="public_wpscloud_recovery_edit_not_exist_tips">Документ восстановлен с помощью службы облачных документов WPS. Возможно, он был удалён другими приложениями.</string>
     <string name="public_wpscloud_recovery_edit_not_save_tips">"Последнее измененное содержимое не было сохранено и было восстановлено с помощью WPS Cloud Docs."</string>
     <string name="public_wpscloud_recovery_edit_not_saved_and_to_save">Сохраните документ надежным способом</string>
     <string name="public_writer_label">Средство просмотра текста Mi</string>
@@ -321,7 +321,7 @@
     <string name="reader_writer_accept_revision">принять изменения</string>
     <string name="reader_writer_delete_comment">удалить комментарий</string>
     <string name="reader_writer_hide">скрыть</string>
-    <string name="reader_writer_more">еще</string>
+    <string name="reader_writer_more">ещё</string>
     <string name="reader_writer_page_num">страница %1$s</string>
     <string name="reader_writer_paste_options">параметры вставки</string>
     <string name="reader_writer_reject_revision">отклонить изменения</string>
