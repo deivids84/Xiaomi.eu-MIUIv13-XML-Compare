@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="one">לפני שעה אחת</item>
+        <item quantity="two">לפני שעה אחת</item>
+        <item quantity="many">לפני שעה אחת</item>
+        <item quantity="other">לפני שעה אחת</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="one">לפני שעה אחת</item>
+        <item quantity="two">לפני שעה אחת</item>
+        <item quantity="many">לפני שעה אחת</item>
+        <item quantity="other">לפני שעה אחת</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="one">לפני חצי שעה</item>
+        <item quantity="two">לפני חצי שעה</item>
+        <item quantity="many">לפני חצי שעה</item>
+        <item quantity="other">לפני חצי שעה</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="one">בעוד שעה אחת</item>
+        <item quantity="two">בעוד שעה אחת</item>
+        <item quantity="many">בעוד שעה אחת</item>
+        <item quantity="other">בעוד שעה אחת</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="one">בעוד חצי שעה</item>
+        <item quantity="two">בעוד חצי שעה</item>
+        <item quantity="many">בעוד חצי שעה</item>
+        <item quantity="other">בעוד חצי שעה</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="one">באופן מיידי</item>
+        <item quantity="two">באופן מיידי</item>
+        <item quantity="many">באופן מיידי</item>
+        <item quantity="other">באופן מיידי</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">בעוד %d דקות</item>
+        <item quantity="one">בעוד דקה אחת</item>
+        <item quantity="two">בעוד %d דקות</item>
+        <item quantity="many">בעוד %d דקות</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="one">ממש עכשיו</item>
+        <item quantity="two">ממש עכשיו</item>
+        <item quantity="many">ממש עכשיו</item>
+        <item quantity="other">ממש עכשיו</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">לפני %d דקות</item>
+        <item quantity="one">לפני דקה אחת</item>
+        <item quantity="two">לפני %d דקות</item>
+        <item quantity="many">לפני %d דקות</item>
+    </plurals>
+    <plurals name="alert_dialog_exit_ecm">
+        <item quantity="other">הטלפון יהיה במצב חירום של התקשרות חזרה למשך %s דקות. בזמן שהטלפון במצב הזה, לא ניתן להשתמש באפליקציות הזקוקות לחבילת גלישה. האם ברצונך לצאת כעת?</item>
+        <item quantity="one">הטלפון יהיה במצב חירום של התקשרות חזרה למשך דקה %s. בזמן שהטלפון במצב הזה, לא ניתן להשתמש באפליקציות הזקוקות לחבילת גלישה. האם ברצונך לצאת כעת?</item>
+        <item quantity="two">הטלפון יהיה במצב חירום של התקשרות חזרה למשך %s דקות. בזמן שהטלפון במצב הזה, לא ניתן להשתמש באפליקציות הזקוקות לחבילת גלישה. האם ברצונך לצאת כעת?</item>
+        <item quantity="many">הטלפון יהיה במצב חירום של התקשרות חזרה למשך %s דקות. בזמן שהטלפון במצב הזה, לא ניתן להשתמש באפליקציות הזקוקות לחבילת גלישה. האם ברצונך לצאת כעת?</item>
+    </plurals>
+    <plurals name="alert_dialog_exit_ecm_without_data_restriction_hint">
+        <item quantity="other">"הטלפון יהיה במצב 'התקשרות בחזרה בחירום' ל-%s דקות.
+רוצה לצאת מהמצב הזה?"</item>
+        <item quantity="one">"הטלפון יהיה במצב 'התקשרות בחזרה בחירום' לדקה אחת (%s).
+רוצה לצאת מהמצב הזה?"</item>
+        <item quantity="two">"הטלפון יהיה במצב 'התקשרות בחזרה בחירום' ל-%s דקות.
+רוצה לצאת מהמצב הזה?"</item>
+        <item quantity="many">"הטלפון יהיה במצב 'התקשרות בחזרה בחירום' ל-%s דקות.
+רוצה לצאת מהמצב הזה?"</item>
+    </plurals>
+    <plurals name="alert_dialog_not_avaialble_in_ecm">
+        <item quantity="other">"הפעולה הנבחרת אינה זמינה במצב חירום של התקשרות חזרה. הטלפון יהיה במצב זה למשך %s דקות. האם ברצונך לצאת כעת?"</item>
+        <item quantity="one">"הפעולה הנבחרת אינה זמינה במצב חירום של התקשרות חזרה. הטלפון יהיה במצב זה למשך דקה %s. האם ברצונך לצאת כעת?"</item>
+        <item quantity="two">"הפעולה הנבחרת אינה זמינה במצב חירום של התקשרות חזרה. הטלפון יהיה במצב זה למשך %s דקות. האם ברצונך לצאת כעת?"</item>
+        <item quantity="many">"הפעולה הנבחרת אינה זמינה במצב חירום של התקשרות חזרה. הטלפון יהיה במצב זה למשך %s דקות. האם ברצונך לצאת כעת?"</item>
+    </plurals>
+    <plurals name="auto_answer_summary_delay">
+        <item quantity="other">השהייה: %d שניות</item>
+        <item quantity="one">השהייה: שנייה %d</item>
+        <item quantity="two">השהייה: %d שניות</item>
+        <item quantity="many">השהייה: %d שניות</item>
+    </plurals>
+    <plurals name="call_record_add_white_list_over_reminder">
+        <item quantity="other">באפשרותך להוסיף עד %s אנשים, בחר שוב.</item>
+        <item quantity="one">באפשרותך להוסיף אדם %s בלבד, בחר שוב.</item>
+        <item quantity="two">באפשרותך להוסיף עד %s אנשים, בחר שוב.</item>
+        <item quantity="many">באפשרותך להוסיף עד %s אנשים, בחר שוב.</item>
+    </plurals>
+    <plurals name="call_record_auto_whitelist_summary">
+        <item quantity="other">%d מספרים</item>
+        <item quantity="one">מספר %d</item>
+        <item quantity="two">%d מספרים</item>
+        <item quantity="many">%d מספרים</item>
+    </plurals>
+    <plurals name="call_remove_exception_numbers_confirm">
+        <item quantity="other">%d מספרים ימחקו.</item>
+        <item quantity="one">מספר %d ימחק.</item>
+        <item quantity="two">%d מספרים ימחקו.</item>
+        <item quantity="many">%d מספרים ימחקו.</item>
+    </plurals>
+    <plurals name="day">
+        <item quantity="other">%s ימים</item>
+        <item quantity="one">יום %s</item>
+        <item quantity="two">%s ימים</item>
+        <item quantity="many">%s ימים</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="one">לפני חצי שעה</item>
+        <item quantity="two">לפני חצי שעה</item>
+        <item quantity="many">לפני חצי שעה</item>
+        <item quantity="other">לפני חצי שעה</item>
+    </plurals>
+    <plurals name="hour">
+        <item quantity="other">%s שעות</item>
+        <item quantity="one">שעה %s</item>
+        <item quantity="two">%s שעות</item>
+        <item quantity="many">%s שעות</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="one">בעוד שעה אחת</item>
+        <item quantity="two">בעוד שעה אחת</item>
+        <item quantity="many">בעוד שעה אחת</item>
+        <item quantity="other">בעוד שעה אחת</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="one">בעוד חצי שעה</item>
+        <item quantity="two">בעוד חצי שעה</item>
+        <item quantity="many">בעוד חצי שעה</item>
+        <item quantity="other">בעוד חצי שעה</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="one">באופן מיידי</item>
+        <item quantity="two">באופן מיידי</item>
+        <item quantity="many">באופן מיידי</item>
+        <item quantity="other">באופן מיידי</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">בעוד %d דקות</item>
+        <item quantity="one">בעוד דקה אחת</item>
+        <item quantity="two">בעוד %d דקות</item>
+        <item quantity="many">בעוד %d דקות</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="one">ממש עכשיו</item>
+        <item quantity="two">ממש עכשיו</item>
+        <item quantity="many">ממש עכשיו</item>
+        <item quantity="other">ממש עכשיו</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d פריטים נבחרו</item>
+        <item quantity="one">פריט %d נבחר</item>
+        <item quantity="two">%d פריטים נבחרו</item>
+        <item quantity="many">%d פריטים נבחרו</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d התראות חדשות</item>
+        <item quantity="one">התראה חדשה אחת (%d)</item>
+        <item quantity="two">%d התראות חדשות</item>
+        <item quantity="many">%d התראות חדשות</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">לפני %d דקות</item>
+        <item quantity="one">לפני דקה אחת</item>
+        <item quantity="two">לפני %d דקות</item>
+        <item quantity="many">לפני %d דקות</item>
+    </plurals>
+    <plurals name="pin_attempts">
+        <item quantity="other">"
+%d נסיונות נותרו."</item>
+        <item quantity="one">"
+נסיון %d נותר."</item>
+        <item quantity="two">"
+%d נסיונות נותרו."</item>
+        <item quantity="many">"
+%d נסיונות נותרו."</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">‏%1$d מכשירים מחוברים</item>
+        <item quantity="one">מכשיר אחד מחובר</item>
+        <item quantity="two">‏%1$d מכשירים מחוברים</item>
+        <item quantity="many">‏%1$d מכשירים מחוברים</item>
+    </plurals>
+</resources>
