@@ -42,6 +42,8 @@
     <string name="date_picker_lunar">Традиционный китайский календарь</string>
     <string name="date_time_picker_dialog_title">Установите дату и время</string>
     <string name="default_list_type">Сортировать по времени</string>
+    <string name="disable_description_content">"Приложение \"Уведомления\" является системным. После его отключения будет недоступно управление уведомлениями приложений. Отключить?"</string>
+    <string name="disable_description_title">Отключить \"Уведомления\"?</string>
     <string name="disable_float_notification">"Уведомления отключены"</string>
     <string name="disable_lockscreen_notification">"Уведомления отключены"</string>
     <string name="disable_show_badge_notification">"Метки на значках отключены"</string>
@@ -95,7 +97,7 @@
     <string name="miuix_appcompat_action_mode_deselect_all">Снять выбор</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выберите объекты</string>
-    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Еще</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Ещё</string>
     <string name="miuix_appcompat_cancel_description">Отмена</string>
     <string name="miuix_appcompat_confirm_description">Подтвердить</string>
     <string name="miuix_appcompat_delete_description">Удалить</string>
@@ -155,7 +157,7 @@
     <string name="month_september">Сентябрь</string>
     <string name="month_september_short">Сен</string>
     <string name="month_september_shortest">Сен</string>
-    <string name="more">Еще</string>
+    <string name="more">Ещё</string>
     <string name="morning">Утро</string>
     <string name="night">Вечер</string>
     <string name="noon">Полдень</string>
@@ -227,7 +229,7 @@
     <string name="summary_fold_importance_important">Уведомления появятся в Шторке уведомлений.</string>
     <string name="summary_fold_importance_unimportant">Уведомления появятся в отдельной папке.</string>
     <string name="summary_lock_screen_enable_notification_first">Для включения уведомлений на экране блокировки разрешите уведомления</string>
-    <string name="summary_show_badge_enable_notification_first">Разрешите уведомления для включения меток на значках</string>
+    <string name="summary_show_badge_enable_notification_first">Включите уведомления для отображения счётчика</string>
     <string name="sunday">Воскресенье</string>
     <string name="sunday_short">Вс</string>
     <string name="sunday_shortest">Вс</string>
