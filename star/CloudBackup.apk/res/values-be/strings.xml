@@ -192,7 +192,7 @@
     <string name="dialog_cloud_space_not_enough">Для гэтай рэзервовай копіі патрабуецца %1$s вольнага месца ў воблачным сховішча. Абнавіце свой тарыфны план для рэзервовага капіявання аб\'ектаў.</string>
     <string name="dialog_content_cancel_backup">У выпадку адмены рэзервовага капіявання, ужо загружаныя дадзеныя будуць страчаныя. Адмяніць?</string>
     <string name="dialog_content_cancel_restore">У выпадку адмены аднаўлення, ужо адноўленыя дадзеныя будуць захаваныя. Адмяніць?</string>
-    <string name="dialog_msg_overwrite_backup">Лакальная рэзервовая копія адрозніваецца ад копіі ў Мі Cloud. Калі вы працягнеце, бягучая копія перазапіша папярэднюю.</string>
+    <string name="dialog_msg_overwrite_backup">Лакальная рэзервовая копія адрозніваецца ад копіі ў Воблаке Xiaomi. Калі вы працягнеце, бягучая копія перазапіша папярэднюю.</string>
     <string name="dialog_msg_restore_require_wlan">Каб аднавіць з рэзервовай копіі, патрабуецца злучэнне з Wi-Fi.</string>
     <string name="dialog_msg_restore_require_wlan_china">Для аднаўлення файлаў патрабуецца Wi-Fi.</string>
     <string name="dialog_need_permission">Патрабуюцца дазволы</string>
