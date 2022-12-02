@@ -42,6 +42,8 @@
     <string name="date_picker_lunar">Traditioneller chinesischer Kalender</string>
     <string name="date_time_picker_dialog_title">Datum und Uhrzeit festlegen</string>
     <string name="default_list_type">Sortieren nach Empfangszeit</string>
+    <string name="disable_description_content">"Benachrichtigungen ist eine System-App. Wenn Sie sie deaktivieren, können Sie App-Benachrichtigungen nicht mehr verwalten. Trotzdem deaktivieren?"</string>
+    <string name="disable_description_title">System-App deaktivieren?</string>
     <string name="disable_float_notification">"Popup-Benachrichtigungen sind nicht erlaubt"</string>
     <string name="disable_lockscreen_notification">"Benachrichtigung ausgeschaltet"</string>
     <string name="disable_show_badge_notification">"Benachrichtigungsplaketten sind nicht erlaubt"</string>
