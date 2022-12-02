@@ -62,7 +62,7 @@
     <string name="date_time_picker_dialog_title">Установите дату и время</string>
     <string name="delete_saved_printer_content">Удалить выбранные принтеры?</string>
     <string name="destination_default_text">Выберите принтер</string>
-    <string name="disabled_services_title">Отключенные службы</string>
+    <string name="disabled_services_title">Отключённые службы</string>
     <string name="early_morning">Утро</string>
     <string name="enable_print_service">Выберите, чтобы включить</string>
     <string name="enabled_services_title">Включенные службы</string>
@@ -100,7 +100,7 @@
     <string name="miuix_appcompat_action_mode_deselect_all">Снять выбор</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выберите объекты</string>
-    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Еще</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Ещё</string>
     <string name="miuix_appcompat_cancel_description">Отмена</string>
     <string name="miuix_appcompat_confirm_description">Подтвердить</string>
     <string name="miuix_appcompat_delete_description">Удалить</string>
@@ -158,7 +158,7 @@
     <string name="month_september">Сентябрь</string>
     <string name="month_september_short">Сен</string>
     <string name="month_september_shortest">Сен</string>
-    <string name="more">Еще</string>
+    <string name="more">Ещё</string>
     <string name="more_options_button">Ещё</string>
     <string name="morning">Утро</string>
     <string name="night">Вечер</string>
