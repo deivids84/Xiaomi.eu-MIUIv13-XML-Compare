@@ -2,10 +2,10 @@
 <resources>
     <string-array name="acc_category_color_description">
         <item>Белый</item>
-        <item>Темно-синий</item>
+        <item>Тёмно-синий</item>
         <item>Светло-синий</item>
         <item>Красный</item>
-        <item>Зеленый</item>
+        <item>Зелёный</item>
         <item>Розовый</item>
         <item>Коричневый</item>
         <item>Серый</item>
@@ -14,39 +14,14 @@
         <item>Выберите изображение</item>
         <item>Прозрачный фон</item>
     </string-array>
+    <string-array name="account_user_gender_name">
+        <item>Мужской</item>
+        <item>Женский</item>
+    </string-array>
     <string-array name="activities_title">
         <item>Особенный день</item>
         <item>Памятный день</item>
         <item>Яркие моменты</item>
-    </string-array>
-    <string-array name="alphabet_table">
-        <item>А</item>
-        <item>Б</item>
-        <item>В</item>
-        <item>Г</item>
-        <item>Д</item>
-        <item>Е</item>
-        <item>Ё</item>
-        <item>Ж</item>
-        <item>З</item>
-        <item>И</item>
-        <item>Й</item>
-        <item>К</item>
-        <item>Л</item>
-        <item>М</item>
-        <item>Н</item>
-        <item>О</item>
-        <item>П</item>
-        <item>Р</item>
-        <item>С</item>
-        <item>Т</item>
-        <item>У</item>
-        <item>Ф</item>
-        <item>Х</item>
-        <item>Ц</item>
-        <item>Ч</item>
-        <item>Ш</item>
-        <item>Щ</item>
     </string-array>
     <string-array name="alphabet_table_with_starred">
         <item>!</item>
@@ -208,7 +183,7 @@
     </string-array>
     <string-array name="last_some_day_foods_title">
         <item>Bon appétit!</item>
-        <item>Еще кусочек?</item>
+        <item>Ещё кусочек?</item>
         <item>Приятного аппетита!</item>
     </string-array>
     <string-array name="last_some_day_playground_title">
@@ -310,7 +285,7 @@
         <item>Smaller two cuns</item>
     </string-array>
     <string-array name="magic_idp_size_category_education">
-        <item>Admission application</item>
+        <item>Заявление о приёме</item>
         <item>Student network</item>
         <item>Student network for primary schools</item>
         <item>Student network profile</item>
@@ -399,7 +374,7 @@
         <item>"Ты снова вырос!"</item>
     </string-array>
     <string-array name="monthly_foods_title">
-        <item>Мое личное меню</item>
+        <item>Моё личное меню</item>
         <item>Вкусные воспоминания</item>
         <item>Вторую порцию, пожалуйста!</item>
     </string-array>
