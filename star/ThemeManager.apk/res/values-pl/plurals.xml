@@ -246,6 +246,12 @@
         <item quantity="few">%d minuty temu</item>
         <item quantity="many">%d minut temu</item>
     </plurals>
+    <plurals name="pay_mibi">
+        <item quantity="other">Zapłać %1$s Mi Coinów</item>
+        <item quantity="one">Zapłać %1$s Mi Coin</item>
+        <item quantity="few">Zapłać %1$s Mi Coiny</item>
+        <item quantity="many">Zapłać %1$s Mi Coinów</item>
+    </plurals>
     <plurals name="resource_comment_score_count">
         <item quantity="other">%d komentarzy</item>
         <item quantity="one">%d komentarz</item>
