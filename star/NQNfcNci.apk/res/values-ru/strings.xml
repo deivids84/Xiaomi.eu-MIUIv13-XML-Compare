@@ -96,7 +96,7 @@
     <string name="miuix_appcompat_action_mode_deselect_all">Снять выбор</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выберите объекты</string>
-    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Еще</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Ещё</string>
     <string name="miuix_appcompat_cancel_description">Отмена</string>
     <string name="miuix_appcompat_confirm_description">Подтвердить</string>
     <string name="miuix_appcompat_delete_description">Удалить</string>
@@ -154,7 +154,7 @@
     <string name="month_september">Сентябрь</string>
     <string name="month_september_short">Сен</string>
     <string name="month_september_shortest">Сен</string>
-    <string name="more">Еще</string>
+    <string name="more">Ещё</string>
     <string name="morning">Утро</string>
     <string name="nfcUserLabel">NFC</string>
     <string name="nfc_blocking_alert_message">Нажмите, чтобы узнать, как устранить эту проблему.</string>
@@ -180,8 +180,8 @@
     <string name="sunday_shortest">Вс</string>
     <string name="tag_dispatch_failed">"Для этой NFC-метки нет поддерживаемых приложений"</string>
     <string name="tag_read_error">"Ошибка чтения NFC-метки. Повторите попытку."</string>
-    <string name="tap_again_to_complete">Чтобы использовать приложение \"%1$s\", снова приблизьте телефон</string>
-    <string name="tap_again_to_pay">Чтобы использовать для оплаты приложение \"%1$s\", снова приблизьте телефон</string>
+    <string name="tap_again_to_complete">Нажмите ещё раз, чтобы завершить платеж с помощью %1$s</string>
+    <string name="tap_again_to_pay">Нажмите ещё раз, чтобы оплатить с помощью %1$s</string>
     <string name="tap_to_beam">Нажмите, чтобы передать данные</string>
     <string name="thursday">Четверг</string>
     <string name="thursday_short">Чт</string>
