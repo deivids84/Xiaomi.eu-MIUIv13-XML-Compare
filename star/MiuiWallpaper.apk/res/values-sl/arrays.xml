@@ -18,12 +18,12 @@
     <string-array name="settings_search_saturn">
         <item>Rings of Saturn</item>
         <item>Wallpaper/Super wallpapers/Rings of Saturn</item>
-        <item>Planet;Saturn;Super wallpaper;Wallpaper</item>
+        <item>Saturn;Saturnovi prstani;Super Slika ozadja;Slika ozadja</item>
     </string-array>
     <string-array name="settings_search_snowmountain">
         <item>Zasneženi vrhi</item>
         <item>Ozadje/Super ozadja/Zasneženi vrhi</item>
-        <item>Zemlja;Gora;Super ozadja;Ozadje</item>
+        <item>Sneženi vrhovi;Gore;Super Slika ozadja;Slika ozadja</item>
     </string-array>
     <string-array name="settings_search_superwp">
         <item>Super ozadja</item>
