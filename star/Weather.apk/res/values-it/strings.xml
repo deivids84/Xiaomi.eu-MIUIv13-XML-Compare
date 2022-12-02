@@ -68,8 +68,8 @@
     <string name="aqi_alert_channel_name">Avvisi AQI</string>
     <string name="aqi_data_source">Offerto da Colorful Clouds</string>
     <string name="aqi_desc">Indice di qualità dell\'aria</string>
-    <string name="aqi_detail_24_hours">Previsioni a 24 ore</string>
-    <string name="aqi_detail_5_days">Previsioni a 5 giorni</string>
+    <string name="aqi_detail_24_hours">Previsioni orarie</string>
+    <string name="aqi_detail_5_days">Previsioni giornaliere</string>
     <string name="aqi_detail_co_unit">Unità: mg/m³</string>
     <string name="aqi_detail_title">Indice di qualità dell\'aria</string>
     <string name="aqi_detail_unit">Unità: µg/m³</string>
@@ -142,7 +142,7 @@
     <string name="dialog_msg_score_midrop">Cosa ne pensi di Meteo?</string>
     <string name="dialog_msg_score_not_good">Ti va di lasciarci un feedback?</string>
     <string name="dialog_msg_score_perfect">Bene! Ti va di valutare Meteo nel Play Store?</string>
-    <string name="dialog_score_bad">Insoddisfatto</string>
+    <string name="dialog_score_bad">Dispettato</string>
     <string name="dialog_score_general">Neutrale</string>
     <string name="dialog_score_good">Soddisfatto</string>
     <string name="dialog_score_very_bad">Molto insoddisfatto</string>
@@ -329,7 +329,7 @@
     <string name="particulate_matter_not_exceeded">Normale</string>
     <string name="particulate_matter_serious_exceeded">Molto alto</string>
     <string name="permission_device_info">Info dispositivo</string>
-    <string name="permission_device_introduce">Per il riconoscimento dell\'ID del dispositivo basato su modello e IMEI, e fornimento servizi basati sulle preferenze della lingua</string>
+    <string name="permission_device_introduce">Per il riconoscimento di dispositivi basati sul modello di dispositivo e la fornitura di servizi localizzati basati sulle preferenze linguistiche</string>
     <string name="permission_exit">Esci</string>
     <string name="permission_privacy">Informativa sulla privacy (obbligatorio)</string>
     <string name="permission_select_all">Seleziona tutto</string>
@@ -378,7 +378,7 @@
     <string name="select_show_city">请选择省市</string>
     <string name="send">Invia</string>
     <string name="setting_notification_manager">Notifiche</string>
-    <string name="setting_used_to_push_reminder">Ricevere le allerte meteo e gli avvisi</string>
+    <string name="setting_used_to_push_reminder">Ricevi avvisi e avvisi meteo</string>
     <string name="settings">Impostazioni</string>
     <string name="settings_atmospheric_pressure_atm">Atmosfera standard (atm)</string>
     <string name="settings_atmospheric_pressure_default">0</string>
@@ -392,7 +392,7 @@
     <string name="share_subject">Condividi</string>
     <string name="share_weather_desc">\#MIUI Meteo#Oggi %1$s %2$s</string>
     <string name="share_weather_save_pic_fail">"Impossibile catturare uno screenshot"</string>
-    <string name="shortcut_short_label_24_hour_forecast">Previsioni a 24 ore</string>
+    <string name="shortcut_short_label_24_hour_forecast">Previsioni orarie</string>
     <string name="shortcut_short_label_recent_forecast">Controlla il meteo</string>
     <string name="solar_term_autumn_begins">Inizia l\'autunno</string>
     <string name="solar_term_autumn_equinox">Equinozio d\'autunno</string>
@@ -508,7 +508,7 @@
     <string name="unit">Unità</string>
     <string name="unit_temperature">Unità di temperatura</string>
     <string name="unit_wind">Unità di velocità del vento</string>
-    <string name="update_night_setting_summary_text">Aggiorna tra le 23:00 e le 07:00</string>
+    <string name="update_night_setting_summary_text">Nessun aggiornamento automatico dalle 23:00 alle 07:00 dopo la chiusura</string>
     <string name="update_night_setting_title_text">Aggiorna automaticamente di notte</string>
     <string name="update_notification_info">Aggiornamento dati in background…</string>
     <string name="updated_a_moment_ago">Aggiornato un momento fa</string>
