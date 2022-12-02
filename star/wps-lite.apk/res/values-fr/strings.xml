@@ -274,7 +274,7 @@
     <string name="public_search_empty">Saisir d\'abord le contenu</string>
     <string name="public_searchnotfound">Aucun résultat</string>
     <string name="public_secre_dialog_content_1">Afin de vous fournir nos services et d\'améliorer nos produits, nous avons besoin d\'autorisations pour accéder au stockage et collecter les informations décrivant la manière dont vous utilisez nos fonctionnalités.</string>
-    <string name="public_secre_dialog_content_2" formatted="false">&lt;Data&gt;Nous protégeons vos informations personnelles selon notre &lt;a href=\"%s\"&gt;Accord Utilisateur&lt;/a &gt; et &lt;a href=\"%s\"&gt;Politique de Confidentialité&lt;/a &gt;.&lt;/Data&gt;</string>
+    <string name="public_secre_dialog_content_2" formatted="false"><Data>We shall protect your personal information in accordance with our &lt;a href=\"%s\"&gt;User Agreement&lt;/a&gt; and &lt;a href=\"%s\"&gt;Privacy Policy&lt;/a&gt;.</Data></string>
     <string name="public_secre_dialog_exit">Quitter</string>
     <string name="public_secre_dialog_positive">Accepter</string>
     <string name="public_secre_dialog_tips_agree">Si vous acceptez les conditions générales de notre Accord Utilisateur et de notre Politique de Confidentialité, cliquez sur \"Accepter\" pour commencer à utiliser nos services.</string>
