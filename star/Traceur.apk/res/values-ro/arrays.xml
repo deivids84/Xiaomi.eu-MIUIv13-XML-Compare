@@ -52,21 +52,21 @@
         <item>Cel mai bun rezultat (rată de biți adaptivă)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
-        <item>Folosiți selectarea sistemului (prestabilit)</item>
+        <item>Utilizați selecția sistemului (Implicit)</item>
         <item>44,1 kHz</item>
         <item>48,0 kHz</item>
         <item>88,2 kHz</item>
         <item>96,0 kHz</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
-        <item>Folosiți selectarea sistemului (prestabilit)</item>
+        <item>Utilizați selecția sistemului (Implicit)</item>
         <item>44,1 kHz</item>
         <item>48,0 kHz</item>
         <item>88,2 kHz</item>
         <item>96,0 kHz</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_summaries">
-        <item>Folosiți selectarea sistemului (prestabilit)</item>
+        <item>Utilizați selecția sistemului (Implicit)</item>
         <item>SBC</item>
         <item>AAC</item>
         <item>Audio Qualcomm® aptX™</item>
@@ -74,7 +74,7 @@
         <item>LDAC</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
-        <item>Folosiți selectarea sistemului (prestabilit)</item>
+        <item>Utilizați selecția sistemului (Implicit)</item>
         <item>SBC</item>
         <item>AAC</item>
         <item>Audio Qualcomm® aptX™</item>
