@@ -384,6 +384,12 @@
         <item quantity="many">Толькі што</item>
         <item quantity="other">Толькі што</item>
     </plurals>
+    <plurals name="migrate_gp_data_num">
+        <item quantity="other">%1$d элементаў</item>
+        <item quantity="one">%1$d элемент</item>
+        <item quantity="few">%1$d элемента</item>
+        <item quantity="many">%1$d элементаў</item>
+    </plurals>
     <plurals name="miplay_time_minute_unit">
         <item quantity="other">%d хвілін</item>
         <item quantity="one">%d хвіліна</item>
@@ -938,6 +944,18 @@
         <item quantity="other"></item>
         <item quantity="one"></item>
     </plurals>
+    <plurals name="tran_notification_complete_msg">
+        <item quantity="other">"Немагчыма перадаць %1$d элементаў"</item>
+        <item quantity="one">"Немагчыма перадаць %1$d элемент"</item>
+        <item quantity="few">"Немагчыма перадаць %1$d элемента"</item>
+        <item quantity="many">"Немагчыма перадаць %1$d элементаў"</item>
+    </plurals>
+    <plurals name="transfer_status_banner_msg_file_failed">
+        <item quantity="other">"Немагчыма перадаць %1$d элементаў. Наведайце i.mi.com, каб загрузіць іх."</item>
+        <item quantity="one">"Немагчыма перадаць %1$d элемент. Наведайце i.mi.com, каб загрузіць яго."</item>
+        <item quantity="few">"Немагчыма перадаць %1$d элемента. Наведайце i.mi.com, каб загрузіць іх."</item>
+        <item quantity="many">"Немагчыма перадаць %1$d элементаў. Наведайце i.mi.com, каб загрузіць іх."</item>
+    </plurals>
     <plurals name="trash_purge_dialog_message_cloud">
         <item quantity="other">%d выбраныя аб\'екта будуць назаўсёды выдаленыя з воблака і з усіх сінхранізаваных прылад. Усё роўна выдаліць?</item>
         <item quantity="one">%d выбраны аб\'ект будзе назаўсёды выдаленыя з воблака і з усіх сінхранізаваных прылад. Усё роўна выдаліць?</item>
@@ -973,6 +991,18 @@
         <item quantity="one">Аб\'екты могуць захоўвацца тут на працягу %1$d дня (%2$s)</item>
         <item quantity="few">Аб\'екты могуць захоўвацца тут да %1$d дзён (%2$s)</item>
         <item quantity="many">Аб\'екты могуць захоўвацца тут да %1$d дзён (%2$s)</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_login_medium_or_low_level">
+        <item quantity="other">Элементы могуць захоўвацца тут на працягу %1$s дзён. Націсніце, каб падоўжыць гэты перыяд.</item>
+        <item quantity="one">Элементы могуць захоўвацца тут на працягу %1$s дня. Націсніце, каб падоўжыць гэты перыяд.</item>
+        <item quantity="few">Элементы могуць захоўвацца тут на працягу %1$s дзён. Націсніце, каб падоўжыць гэты перыяд.</item>
+        <item quantity="many">Элементы могуць захоўвацца тут на працягу %1$s дзён. Націсніце, каб падоўжыць гэты перыяд.</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_no_sync_server">
+        <item quantity="other">Выдаленыя элементы захоўваюцца ў воблаку на працягу %1$d дзён</item>
+        <item quantity="one">Выдаленыя элементы захоўваюцца ў воблаку на працягу %1$d дня</item>
+        <item quantity="few">Выдаленыя элементы захоўваюцца ў воблаку на працягу %1$d дзён</item>
+        <item quantity="many">Выдаленыя элементы захоўваюцца ў воблаку на працягу %1$d дзён</item>
     </plurals>
     <plurals name="trash_vip_info_text_unlogin">
         <item quantity="other">Аб\'екты могуць захоўвацца тут да %1$d дня. Абновіце план падпіскі для павелічэння гэтага тэрміну.</item>
