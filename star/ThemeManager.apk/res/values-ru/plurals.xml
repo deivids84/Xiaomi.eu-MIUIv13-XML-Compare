@@ -91,10 +91,10 @@
         <item quantity="many">Добавлено %1$d ресурсов в аккаунт. Посмотреть добавленные ресурсы можно в заказах.</item>
     </plurals>
     <plurals name="anonymous_resource_login_message">
-        <item quantity="other">"Вы можете загрузить только %1$d бесплатных ресурса (кроме обоев и рингтонов). Выполните вход для загрузки ресурсов без ограничений."</item>
+        <item quantity="other">"Вы можете загрузить только %1$d бесплатных ресурсов (кроме обоев и рингтонов). Выполните вход для загрузки ресурсов без ограничений."</item>
         <item quantity="one">"Вы можете загрузить только %1$d бесплатный ресурс (кроме обоев и рингтонов). Выполните вход для загрузки ресурсов без ограничений."</item>
         <item quantity="few">"Вы можете загрузить только %1$d бесплатных ресурса (кроме обоев и рингтонов). Выполните вход для загрузки ресурсов без ограничений."</item>
-        <item quantity="many">"Вы можете загрузить только %1$d бесплатных ресурса (кроме обоев и рингтонов). Выполните вход для загрузки ресурсов без ограничений."</item>
+        <item quantity="many">"Вы можете загрузить только %1$d бесплатных ресурсов (кроме обоев и рингтонов). Выполните вход для загрузки ресурсов без ограничений."</item>
     </plurals>
     <plurals name="anonymous_resource_view">
         <item quantity="other">"%1$d ресурсов не были добавлены в аккаунт"</item>
@@ -133,10 +133,10 @@
         <item quantity="many">%1$d иконок</item>
     </plurals>
     <plurals name="de_more_comment">
-        <item quantity="other">Еще %1$d комментариев</item>
-        <item quantity="one">Еще %1$d комментарий</item>
-        <item quantity="few">Еще %1$d комментария</item>
-        <item quantity="many">Еще %1$d комментариев</item>
+        <item quantity="other">Ещё %1$d комментариев</item>
+        <item quantity="one">Ещё %1$d комментарий</item>
+        <item quantity="few">Ещё %1$d комментария</item>
+        <item quantity="many">Ещё %1$d комментариев</item>
     </plurals>
     <plurals name="detail_reward_few_times">
         <item quantity="other">%s наград</item>
@@ -245,6 +245,12 @@
         <item quantity="one">1 мин назад</item>
         <item quantity="few">%d мин назад</item>
         <item quantity="many">%d мин назад</item>
+    </plurals>
+    <plurals name="pay_mibi">
+        <item quantity="other">Использовать %1$s Mi Coins</item>
+        <item quantity="one">Использовать %1$s Mi Coin</item>
+        <item quantity="few">Использовать %1$s Mi Coins</item>
+        <item quantity="many">Использовать %1$s Mi Coins</item>
     </plurals>
     <plurals name="resource_comment_score_count">
         <item quantity="other">%d отзывов</item>
