@@ -85,8 +85,8 @@
     <string name="continue_provisioning_notify_title">Шифрование завершено</string>
     <string name="cope_provisioning_step_1_header">Рабочие приложения находятся в рабочем профиле и управляются администратором</string>
     <string name="cope_provisioning_step_2_header">Личные приложения скрыты и находятся отдельно от рабочих</string>
-    <string name="cope_provisioning_step_3_header">Администратор может управлять устройством и блокировать приложения</string>
-    <string name="cope_provisioning_summary">Рабочие приложения находятся в рабочем профиле и управляются администратором. Личные приложения скрыты и находятся отдельно от рабочих. Системный администратор может управлять этим устройством и блокировать некоторые приложения.</string>
+    <string name="cope_provisioning_step_3_header">Ваш ИТ-администратор может управлять этим устройством и блокировать определённые приложения</string>
+    <string name="cope_provisioning_summary">Рабочие приложения хранятся в вашем рабочем профиле и управляются вашим ИТ-администратором. Личные приложения отделены и скрыты от рабочих приложений. Ваш ИТ-администратор может управлять этим устройством и блокировать определённые приложения.</string>
     <string name="copy">Копировать</string>
     <string name="copying_certs">Настройка сертификатов ЦС</string>
     <string name="couldnt_set_up_device">"Не удалось настроить устройство. Обратитесь за помощью к администратору."</string>
@@ -154,7 +154,7 @@
     <string name="launcher_app_cant_be_used_by_work_profile">"Эта панель запуска не поддерживает рабочие профили"</string>
     <string name="learn_more_label">Кнопка \"Подробнее\"</string>
     <string name="learn_more_link">Подробнее…</string>
-    <string name="link_isnt_secure_and_cant_be_opened_until_device_setup_finished">"Это небезопасная ссылка, поэтому ее нельзя открыть, пока устройство не настроено: %1$s"</string>
+    <string name="link_isnt_secure_and_cant_be_opened_until_device_setup_finished">"Это небезопасная ссылка, поэтому её нельзя открыть, пока устройство не настроено: %1$s"</string>
     <string name="managed_device_info">Информация об управляемом устройстве</string>
     <string name="managed_provisioning_error_text">"Не удалось настроить рабочий профиль. Обратитесь в отдел технической поддержки вашей компании или повторите попытку позже."</string>
     <string name="material_clock_toggle_content_description">Выберите AM (до полудня) или PM (после полудня)</string>
