@@ -42,6 +42,8 @@
     <string name="date_picker_lunar">Tradycyjny chiński kalendarz</string>
     <string name="date_time_picker_dialog_title">Ustaw datę i czas</string>
     <string name="default_list_type">Sortuj wg daty otrzymania</string>
+    <string name="disable_description_content">"Powiadomienia to aplikacja systemowa. Jeśli ją wyłączysz, nie będzie można zarządzać powiadomieniami aplikacji. Wyłączyć mimo to?"</string>
+    <string name="disable_description_title">Wyłączyć aplikację systemową?</string>
     <string name="disable_float_notification">"Powiadomienia pływające są wyłączone"</string>
     <string name="disable_lockscreen_notification">"Powiadomienia na Ekranie blokady są wyłączone"</string>
     <string name="disable_show_badge_notification">"Symbole powiadomień nie są dozwolone"</string>
