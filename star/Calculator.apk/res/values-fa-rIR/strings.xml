@@ -65,7 +65,7 @@
     <string name="choose_radix">سیستم عددی را انتخاب کنید</string>
     <string name="choose_unit">انتخاب واحد</string>
     <string name="city">شهر</string>
-    <string name="clearDesc">پاک کردن</string>
+    <string name="clearDesc">پاک‌سازی</string>
     <string name="clear_history">پاک کردن تاریخچه</string>
     <string name="clearable_edittext_clear_description">پاک‌سازی</string>
     <string name="close">بستن</string>
@@ -120,7 +120,7 @@
     <string name="digit9">9</string>
     <string name="divDesc">تقسیم</string>
     <string name="dob_selection_error">"تاریخ تولد باید پیش از تاریخ امروز باشد"</string>
-    <string name="dont_allow">"مخالف"</string>
+    <string name="dont_allow">"مخالفت"</string>
     <string name="dotDesc">نقطه</string>
     <string name="e">e</string>
     <string name="eDesc">"عدد اویلر"</string>
@@ -275,7 +275,7 @@
     <string name="loan_type_title">استاندارد نرخ بهره</string>
     <string name="loan_unit">(× ۱۰ هزار)</string>
     <string name="localised_number">%d</string>
-    <string name="lpr_ok">فهمیدم</string>
+    <string name="lpr_ok">متوجه‌ام</string>
     <string name="lpr_tips_msg">"از تاریخ ۸ اکتبر ۲۰۱۹، نرخ بهره وام مسکن تجاری شخصی بر اساس نرخ اولیه وام (LPR) به جای نرخ بهره ۴.۹٪ معیار پیشین محاسبه خواهد شد. اکنون نرخ نهایی با افزودن نقطه پایه LPR تأیید خواهد شد.
 
 LPRهای یک‌ساله و پنج‌ساله در بیستم هر ماه (ممکن است به دلیل تعطیلات بانکی کمی تأخیر رخ دهد) در تارنمای بانک خلق چین قرار داده خواهند شد."</string>
@@ -376,7 +376,7 @@ LPRهای یک‌ساله و پنج‌ساله در بیستم هر ماه (مم
     <string name="network_confirm_content">مبدل ارز، حسابگر مالیات و رهن برای کارکرد عادی نیازمند اتصال به اینترنت و دسترسی به خدمات موقعیت است.</string>
     <string name="network_confirm_title">نیازمند مجوز است</string>
     <string name="network_purpose">به ماشین حساب خوش آمدید! ماشین حساب به شما این امکان را می‌دهد تا واحدهای پولی را تبدیل، باز پرداخت وام مسکن را محاسبه و از سایر امکانات استفاده کنید.</string>
-    <string name="new_privacy_string">&lt;Data&gt;به ماشین حساب خوش آمدید!&lt;br/&gt;این برنامه حاوی ویژگی‌های زیر است:&lt;br/&gt;• ماشین حساب پایه&lt;br/&gt;• ماشین حساب مهندسی&lt;br/&gt;• تبدیل‌گر جهانی (مانند: ارز، واحدهای اندازه‌گیری و غیره)&lt;br/&gt;• قالب‌های محاسباتی برای وام، سرمایه‌گذاری، EMI و غیره&lt;br/&gt;ماشین حساب برای ارائه خدمات پایه‌ای به شما نیاز به گردآوری اطلاعات شخصی لازم دارد. شما می‌توانید در &lt;a href= \"%1$s\"&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; ما از چگونگی به‌کارگیری اطلاعاتی که گردآوری می‌کنیم آگاه شوید. پیش از استفاده از ماشین حساب، &lt;a href=\"%2$s\"&gt;توافق‌نامه کاربر&lt;/a&gt; و &lt;a href=\"%3$s\"&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; ما را خوانده و بپذیرید. شما در هر زمانی می‌توانید در تنظیمات رضایت خود را نسبت به سیاست حفظ حریم خصوصی ماشین حساب پس بگیرید. چنانچه سیاست حفظ حریم خصوصی ما را نپذیرید، نمی‌توانید از برخی ویژگی‌های این برنامه استفاده کنید؛ با این وجود، کارایی‌های پایه‌ای همچنان برای شما در دسترس خواهند بود.&lt;/Data&gt;</string>
+    <string name="new_privacy_string">&lt;Data&gt;به ماشین حساب خوش آمدید!&lt;br/&gt;این برنامه حاوی ویژگی‌های زیر است:&lt;br/&gt;• ماشین حساب پایه&lt;br/&gt;• ماشین حساب علمی&lt;br/&gt;• تبدیل‌گر جهانی (مانند: ارز، واحدهای اندازه‌گیری و غیره)&lt;br/&gt;• قالب‌های محاسباتی برای وام، سرمایه‌گذاری، EMI و غیره&lt;br/&gt;شما می‌توانید در &lt;a href=\"%1$s\"&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; ما از چگونگی به‌کارگیری اطلاعاتی که گردآوری می‌کنیم آگاه شوید. پیش از استفاده از ماشین حساب، &lt;a href=\"%2$s\"&gt;توافق‌نامه کاربر&lt;/a&gt; و &lt;a href=\"%3$s\"&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; ما را خوانده و بپذیرید. شما در هر زمانی می‌توانید در تنظیمات رضایت خود را نسبت به سیاست حفظ حریم خصوصی ماشین حساب پس بگیرید. چنانچه سیاست حفظ حریم خصوصی ما را نپذیرید، نمی‌توانید از برخی ویژگی‌های این برنامه استفاده کنید؛ با این وجود، کارایی‌های پایه‌ای همچنان برای شما در دسترس خواهند بود.&lt;/Data&gt;</string>
     <string name="night">شب</string>
     <string name="none">هیچ کدام</string>
     <string name="noon">ظهر</string>
@@ -853,7 +853,7 @@ LPRهای یک‌ساله و پنج‌ساله در بیستم هر ماه (مم
     <string name="unit_year">یوان</string>
     <string name="unit_year_format">سال %s</string>
     <string name="unit_yuan">CNY</string>
-    <string name="updating">درحال به‌روزرسانی ماشین‌حساب…</string>
+    <string name="updating">درحال به‌روزرسانی ماشین حساب…</string>
     <string name="user_agreement">توافقنامه کاربر</string>
     <string name="user_experience_program_title">برنامه تجربه کاربر</string>
     <string name="v7_preference_off">خاموش</string>
