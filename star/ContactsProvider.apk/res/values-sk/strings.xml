@@ -16,7 +16,7 @@
     <string name="provider_label">Kontakty</string>
     <string name="sharedUserLabel">Aplikácie Android Core</string>
     <string name="sim_state_changed">SIM karta zmenená</string>
-    <string name="third_party_delete_contact_info">"\"%s\" sa pokúša vymazať vaše kontakty. Táto akcia nemôže byť vykonaná aplikáciami tretích strán. Na vymazanie kontaktov použite vstavanú aplikáciu systému MIUI."</string>
+    <string name="third_party_delete_contact_info">"\"%s\" vymaže vaše Xiaomi kontakty. Použite systémovú aplikáciu Kontakty pre bezpečné mazanie Vašich kontaktov."</string>
     <string name="update_accounts_changed">Účty zmenené</string>
     <string name="upgrade_out_of_memory_notification_text">Dotykom dokončiť aktualizáciu.</string>
     <string name="upgrade_out_of_memory_notification_ticker">Aktualizácia vyžaduje viac pamäti.</string>
