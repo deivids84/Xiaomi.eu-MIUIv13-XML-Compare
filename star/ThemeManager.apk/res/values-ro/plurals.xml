@@ -205,6 +205,11 @@
         <item quantity="one">Un 1 în urmă</item>
         <item quantity="few">%d min în urmă</item>
     </plurals>
+    <plurals name="pay_mibi">
+        <item quantity="other">Plătiți %1$s Monede Mi</item>
+        <item quantity="one">Plătiți %1$s Monedă Mi</item>
+        <item quantity="few">Plătiți %1$s Monede Mi</item>
+    </plurals>
     <plurals name="resource_comment_score_count">
         <item quantity="other">%d comentarii</item>
         <item quantity="one">%d comentariu</item>
