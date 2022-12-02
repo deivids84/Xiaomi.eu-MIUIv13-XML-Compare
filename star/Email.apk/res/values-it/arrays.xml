@@ -69,7 +69,7 @@
         <item>in blacklist, please switch your network or login https://mail.sohu.com to setup client ip whitelist</item>
         <item>java.net.UnknownHostException: Unable to resolve host</item>
         <item>client disabilitato, si prega di cambiare stato sul sito https://mail.sohu.com</item>
-        <item>nessuna password iniziale, si prega di accedere https://mail.sohu.com per generare la password del client</item>
+        <item>nessuna password iniziale, effettua il login https://mail.sohu.com per generare la password del client</item>
     </string-array>
     <string-array name="invoice_card_pdf_keyword">
         <item>Fattura</item>
