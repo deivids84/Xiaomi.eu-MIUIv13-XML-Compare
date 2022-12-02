@@ -42,7 +42,7 @@
     <string name="channel_complete">Download completato</string>
     <string name="channel_insufficient_space">Spazio insufficiente</string>
     <string name="channel_waiting">Download in attesa</string>
-    <string name="clear_data">Svuota</string>
+    <string name="clear_data">Cancella</string>
     <string name="clearable_edittext_clear_description">Cancella</string>
     <string name="close">Chiudi</string>
     <string name="copy">Copia</string>
@@ -62,7 +62,7 @@
     <string name="dialog_data_limit_msg3">Cambia limite</string>
     <string name="dialog_data_limit_title">Avviso utilizzo dati</string>
     <string name="dialog_delete_positive">Elimina</string>
-    <string name="dialog_file_missing_body">"Impossibile trovare il file, sembra che sia stato cancellato."</string>
+    <string name="dialog_file_missing_body">"Impossibile trovare il file, sembra che sia stato eliminato."</string>
     <string name="dialog_file_missing_title">"Impossibile aprire il file"</string>
     <string name="dialog_insufficient_space_on_cache">Spazio insufficiente sulla memoria interna</string>
     <string name="dialog_insufficient_space_on_external">Spazio insufficiente sulla memoria esterna</string>
@@ -71,15 +71,15 @@
     <string name="dialog_tip_limit">Avvisa quando quando più grande di %s</string>
     <string name="dialog_tip_limit0">Avvisa ogni volta</string>
     <string name="dialog_tip_no_limit">"Non avvisare"</string>
-    <string name="dialog_title_disabled_net">Accesso Internet</string>
-    <string name="download">Downloads</string>
+    <string name="dialog_title_disabled_net">Accesso a Internet</string>
+    <string name="download">Download</string>
     <string name="download_apk_desktop_installing">Installazione</string>
     <string name="download_apk_desktop_pause">Pausa</string>
     <string name="download_apk_desktop_pending">In attesa</string>
     <string name="download_apk_desktop_running">In download</string>
     <string name="download_error">Impossibile eseguire il download</string>
     <string name="download_error_download_file_not_exists">"File inesistente"</string>
-    <string name="download_error_insufficient_space">Memoria non sufficiente</string>
+    <string name="download_error_insufficient_space">Spazio insufficiente sulla memoria interna</string>
     <string name="download_filesize_unknown">Sconosciuto</string>
     <string name="download_info_start_deleted_tasks">Elimina download</string>
     <string name="download_no_application">Nessuna app supporta questo formato</string>
@@ -119,7 +119,7 @@
     <string name="megabyteShort">MB</string>
     <string name="midnight">Notte</string>
     <string name="miuix_access_state_desc">Selezionato</string>
-    <string name="miuix_alphabet_indexer_name">Barra dell\'indice</string>
+    <string name="miuix_alphabet_indexer_name">Barra degli indici</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deseleziona</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleziona tutto</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleziona elementi</string>
@@ -204,10 +204,10 @@
     <string name="notify_install_guide_msg">App installata</string>
     <string name="notify_install_guide_title">%s installato con successo</string>
     <string name="notify_only_wifi_download">In attesa di Wi-Fi</string>
-    <string name="paused_by_app">In pausa</string>
+    <string name="paused_by_app">Pausa</string>
     <string name="paused_insufficient_space">In attesa</string>
-    <string name="paused_queued_for_wifi">In attesa della rete</string>
-    <string name="paused_unknown">In pausa</string>
+    <string name="paused_queued_for_wifi">In attesa di connessione Wi-Fi</string>
+    <string name="paused_unknown">Pausa</string>
     <string name="paused_waiting_for_network">In attesa della rete</string>
     <string name="paused_waiting_to_retry">In attesa di nuovo tentativo</string>
     <string name="permdesc_accessAllDownloads">Consenti all\'applicazione di visualizzare e modificare tutti i download avviati da qualsiasi altra applicazione.</string>
@@ -229,13 +229,13 @@
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
     <string name="privacy_notif_content">Tocca per vedere i dettagli.</string>
     <string name="privacy_notif_title">Xunlei Download Accelerator attivato</string>
-    <string name="recall_tip">"Installa \"Downloads\"
+    <string name="recall_tip">"Installa \"Download\"
 per utilizzare tutte le funzionalità"</string>
     <string name="recommend_installing">Installazione…</string>
     <string name="recommend_open">Apri</string>
     <string name="recommended_file_size_download_in_mobile">Utilizzare %s di dati su rete cellulare per scaricare questo file?</string>
     <string name="recommended_no_file_size_download_in_mobile">Utilizzare la rete dati cellulare per scaricare questo file?</string>
-    <string name="retry_after_network_available">"Impossibile connettersi alla rete. Verifica la connessione dati e riprova."</string>
+    <string name="retry_after_network_available">"Rete non disponibile, riprova più tardi"</string>
     <string name="retry_download">Riprova</string>
     <string name="root_downloads">Download</string>
     <string name="saturday">Sabato</string>
@@ -254,7 +254,7 @@ per utilizzare tutte le funzionalità"</string>
     <string name="time_picker_dialog_title">Imposta ora</string>
     <string name="toast_net_error">"Impossibile connettersi alla rete. Verifica le impostazioni di rete e riprova."</string>
     <string name="today">Oggi</string>
-    <string name="today_download">Scaricato oggi</string>
+    <string name="today_download">Scaricati oggi</string>
     <string name="tomorrow">domani</string>
     <string name="tuesday">Martedì</string>
     <string name="tuesday_short">Mar</string>
