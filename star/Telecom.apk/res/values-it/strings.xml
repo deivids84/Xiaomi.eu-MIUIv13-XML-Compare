@@ -390,7 +390,7 @@ Selezione"</string>
     <string name="force_resizable_activities_summary">Rendi il formato di tutte le attività modificabile per la modalità multi-finestra, indipendentemente dai valori manifest.</string>
     <string name="force_rtl_layout_all_locales">Forza direzione layout RTL</string>
     <string name="force_rtl_layout_all_locales_summary">Direzione layout schermo RTL per tutte le lingue</string>
-    <string name="fraud_toast_message">È possibile gestire l\'inoltro di chiamata in Impostazioni</string>
+    <string name="fraud_toast_message">È possibile gestire l\'inoltro delle chiamate in Impostazioni</string>
     <string name="friday">Venerdì</string>
     <string name="friday_short">Ven</string>
     <string name="friday_shortest">Ven</string>
@@ -601,7 +601,7 @@ Selezione"</string>
     <string name="notification_disconnectedCall_body">La chiamata a %s è stata disconnessa per dare priorità a una chiamata di emergenza.</string>
     <string name="notification_disconnectedCall_generic_body">La tua chiamata è stata disconnessa per dare priorità a una chiamata di emergenza.</string>
     <string name="notification_disconnectedCall_title">Chiamata disconnessa</string>
-    <string name="notification_disconnectedDialing_message">\"Impossibile effettuare una chiamata mentre un\'altra chiamata in uscita è già in composizione\".</string>
+    <string name="notification_disconnectedDialing_message">Impossibile piazzare una chiamata come un\'altra chiamata in uscita è già in chiamata.</string>
     <string name="notification_incallservice_not_responding_body">Per la tua chiamata è stata utilizzata l\'app per telefono integrata nel tuo dispositivo</string>
     <string name="notification_incallservice_not_responding_title">%s non risponde più</string>
     <string name="notification_incoming_call">Chiamata %1$s da %2$s</string>
