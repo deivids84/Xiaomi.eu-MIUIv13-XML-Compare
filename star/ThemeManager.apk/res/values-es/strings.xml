@@ -162,7 +162,7 @@
     <string name="common_downloading">Descargando…</string>
     <string name="common_format_date_no_year">dd/MM</string>
     <string name="common_skip">Saltar</string>
-    <string name="community_community_message_trigger_summary">Reciba notificaciones sobre respuestas, Me gusta y actualizaciones de estado de Mi Community usando su ID de Mi Cuenta</string>
+    <string name="community_community_message_trigger_summary">Recibe notificaciones, usando tu ID de cuenta, desde la Comunidad Mi sobre respuestas y \"likes\"</string>
     <string name="community_community_message_trigger_title">Notificar sobre actividad</string>
     <string name="community_cta_dialog_cancel">No, gracias</string>
     <string name="community_cta_dialog_des">Los temas de terceros ahora son compatibles con el widget Mi Community. Permita que Themes acceda a su ID de Mi Cuenta y los estados de Mi Comunidad asociados con la cuenta para poder verlos aquí.</string>
