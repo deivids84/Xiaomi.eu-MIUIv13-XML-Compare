@@ -1197,7 +1197,7 @@ para vídeos"</string>
     <string name="notification_bar_player_subtitle">Mostrar reproductor minimizado en la Barra de notificaciones</string>
     <string name="notification_bar_player_title">Minimizar reproductor</string>
     <string name="notification_last_played_status">Historial de reproducción</string>
-    <string name="notification_open_tip">Reciba notificaciones cuando se encuentren nuevos videos locales</string>
+    <string name="notification_open_tip">Recibe notificaciones cuando se encuentren nuevos vídeos locales</string>
     <string name="notification_promotion">Recomendado</string>
     <string name="notification_recall_action">Activar</string>
     <string name="notification_recall_desc">Mi Video puede notificarte sobre vídeos populares y tus suscripciones.</string>
