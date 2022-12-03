@@ -447,7 +447,7 @@ Separa y protege tus datos."</string>
     <string name="setting_finger_print_title">Añadir huella en el Segundo espacio</string>
     <string name="setting_fingerprint_title">Añadir contraseña del Segundo espacio</string>
     <string name="setting_is_show_text_contacts">Configurar contactos privados y mensajes</string>
-    <string name="settings_cross_notification_summary">Reciba las notificaciones del otro espacio</string>
+    <string name="settings_cross_notification_summary">Recibe las notificaciones del otro espacio</string>
     <string name="settings_cross_notification_title">Notificaciones</string>
     <string name="settings_msg_add_shortcut_to_owner_space">Acceso directo agregado al Primer espacio</string>
     <string name="settings_msg_add_shortcut_to_second_space">El acceso directo se creó en el Segundo espacio</string>
