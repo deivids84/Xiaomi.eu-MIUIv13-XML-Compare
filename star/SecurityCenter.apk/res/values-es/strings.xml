@@ -3785,13 +3785,13 @@ Usa otro cable Ethernet para conectarlo. Si crees que hay problemas de conexión
     <string name="pp_app_behavior_record_detail">Registra todo el comportamiento de la aplicación</string>
     <string name="pp_app_del_img_intercept_detail">Recibe una notificación cuando una aplicación elimina elementos de la Galería sin tu permiso</string>
     <string name="pp_app_gets_dangerous_permission_reminder">Recibe una notificación cuando una aplicación use un permiso de alto riesgo</string>
-    <string name="pp_app_gets_dangerous_permission_reminder_detail">Reciba notificaciones cada vez que una aplicación use un permiso de alto riesgo y considere sus opciones</string>
+    <string name="pp_app_gets_dangerous_permission_reminder_detail">Recibe notificaciones cuando una aplicación use un permiso de alto riesgo y considera tus opciones</string>
     <string name="pp_app_lock_introduction">Bloqueo de pantalla adicional</string>
     <string name="pp_app_permission_settings">Permisos de la aplicación</string>
     <string name="pp_app_permission_settings_detail">Permite a las aplicaciones usar permisos relacionados con la privacidad</string>
     <string name="pp_app_reads_clipboard_smart_reminder">Protección del portapapeles</string>
     <string name="pp_app_reads_clipboard_smart_reminder_detail">"MIUI decidirá si las aplicaciones pueden acceder al portapapeles. Recibirás una notificación cuando lo hagan."</string>
-    <string name="pp_app_warning_permission_tips">Reciba notificaciones sobre el comportamiento de la aplicación</string>
+    <string name="pp_app_warning_permission_tips">Recibe notificaciones sobre el comportamiento de la aplicación</string>
     <string name="pp_app_warning_permission_tips_detail">Recibe una notificación cuando una aplicación acceda a tu ubicación, grabe audio o use la cámara</string>
     <string name="pp_block_mac">Restringir el acceso a la dirección MAC</string>
     <string name="pp_block_mac_summary">El acceso a su dirección MAC está restringido por defecto para todas las aplicaciones.</string>
@@ -5755,7 +5755,7 @@ Activar una de las funciones desactivará la otra."</string>
     <string name="warningcenter_disaster_receive_level_yellow">Amarillo</string>
     <string name="warningcenter_disaster_receive_settings">Formato de advertencia</string>
     <string name="warningcenter_disaster_receive_strong">Advertencias de alta prioridad (sugeridas)</string>
-    <string name="warningcenter_disaster_receive_strong_summary">Reciba notificaciones automáticas sobre advertencias de alta prioridad emitidas para la región seleccionada</string>
+    <string name="warningcenter_disaster_receive_strong_summary">Recibe notificaciones de advertencias de alta prioridad emitidas para la región seleccionada</string>
     <string name="warningcenter_disaster_receive_strong_title">Advertencias de alta prioridad</string>
     <string name="warningcenter_disaster_receive_system">Notificaciones del sistema</string>
     <string name="warningcenter_disaster_receive_system_summary">Reciba avisos de desastre emitidos para la región seleccionada</string>
