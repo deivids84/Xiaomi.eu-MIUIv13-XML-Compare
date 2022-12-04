@@ -3137,7 +3137,7 @@ Usa otro cable Ethernet para conectarlo. Si crees que hay problemas de conexión
     <string name="notification_low_storage_size">Menos de %s de almacenamiento disponible</string>
     <string name="notification_low_storage_size_1_gb_hint">Libera espacio de almacenamiento para acelerar tu dispositivo</string>
     <string name="notification_low_storage_size_1p5_gb_hint">Elimina la basura para acelerar tu dispositivo</string>
-    <string name="notification_mask_summary">"No mostrar contenido de notificaciones para aplicaciones protegidas"</string>
+    <string name="notification_mask_summary">"No mostrar contenido de notificación de aplicaciones protegidas"</string>
     <string name="notification_mask_title">Ocultar contenido de notificaciones</string>
     <string name="notification_masked_item">¿Cómo ocultar el contenido de las notificaciones?</string>
     <string name="notification_masked_subtitle">El Bloqueo de aplicaciones puede hacerlo</string>
@@ -3964,7 +3964,7 @@ Usa otro cable Ethernet para conectarlo. Si crees que hay problemas de conexión
     <string name="privacy_apps_next_stup">Siguiente</string>
     <string name="privacy_apps_password_enable_summay">Proteja los archivos privados con el bloqueo de aplicaciones</string>
     <string name="privacy_apps_password_enable_title">Bloqueo de aplicación</string>
-    <string name="privacy_apps_shield_message_summary">"Np mostrar notificaciones para aplicaciones protegidas"</string>
+    <string name="privacy_apps_shield_message_summary">"No mostrar notificaciones de aplicaciones ocultas"</string>
     <string name="privacy_apps_shield_message_title">No mostrar notificaciones</string>
     <string name="privacy_apps_tutorial">Tutorial</string>
     <string name="privacy_apps_tutorial_dlg_message_1">Separe dos dedos en la pantalla de inicio para ver las aplicaciones ocultas</string>
