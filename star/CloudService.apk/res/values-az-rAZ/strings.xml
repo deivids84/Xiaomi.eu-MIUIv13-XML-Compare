@@ -38,7 +38,7 @@
     <string name="activate_finddevice">Cihazı aktivləşdirmək üçün şəbəkəyə bağlanın</string>
     <string name="activating">Aktivləşdirilir…</string>
     <string name="afternoon">Günortadan sonra</string>
-    <string name="agree_and_continue">Qəbul et</string>
+    <string name="agree_and_continue">Razıyam</string>
     <string name="agreement_and_privacy_description">"Davam etməzdən əvvəl Xiaomi Cloud-un &lt;a href=%1$s&gt;&lt;u&gt;Gizlilik Siyasəti&lt;/u&gt;&lt;/a&gt; və &lt;a href=%2$s&gt;&lt;u&gt;İstifadəçi Razılaşmasını&lt;/u&gt;&lt;/a&gt; oxuyub qəbul edin."</string>
     <string name="alert_sync_data_merge_dialog_title">Elementlər birləşdiriləcək</string>
     <string name="alert_sync_merge_dialog_cancel">İmtina</string>
@@ -48,7 +48,7 @@
     <string name="bad_authentication">Yararsız hesab və ya parol</string>
     <string name="btn_return">Geri</string>
     <string name="btn_revoke_permission">Razılığı geri götürmə</string>
-    <string name="button_agree">Qəbul et</string>
+    <string name="button_agree">Razıyam</string>
     <string name="button_cancel">İmtina</string>
     <string name="button_quit">Çıxış</string>
     <string name="button_revoke">Geri götür</string>
@@ -662,7 +662,7 @@
     <string name="share_sdk_btn_stop_share_text">Paylaşımı dayandır</string>
     <string name="share_sdk_btn_undo_invitation_confirm_text">Dəvət geri alınsın?</string>
     <string name="share_sdk_btn_undo_invitation_text">Dəvəti geri al</string>
-    <string name="share_sdk_business_btn_grant_permission_text">Qəbul et və davam et</string>
+    <string name="share_sdk_business_btn_grant_permission_text">Razılaş və davam et</string>
     <string name="share_sdk_business_family_invite_preference_summary">"Yerləşməni paylaşın və bir-birinizin cihazlarını idarə edin"</string>
     <string name="share_sdk_business_family_member_actionbar_subtitle">Yerləşmə məlumatını dostlarınızla paylaşın</string>
     <string name="share_sdk_business_high_risk_invite_success_summary">Dəvətiniz mətn mesajı və sistem bildirişində göndərildi.</string>
