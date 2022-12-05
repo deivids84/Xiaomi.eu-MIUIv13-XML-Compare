@@ -165,7 +165,7 @@ Faylları cihazınızdan Mi Drive-a daşımağa çalışın."</string>
     <string name="data_consume_dialog_message">"Hazırda mobil internet istifadə edirsiniz. Davam etsəniz, %s internet istifadə ediləcək."</string>
     <string name="data_consume_dialog_title">Mobil internet istifadə edilsin?</string>
     <string name="data_consume_dialog_upload_title">Mobil internet istifadə edərək yüklə</string>
-    <string name="data_consumption_cancel">"Rədd et"</string>
+    <string name="data_consumption_cancel">"Razı deyiləm"</string>
     <string name="data_consumption_checkbox_hint">"Təkrar göstərmə"</string>
     <string name="data_consumption_confirm">Oldu</string>
     <string name="data_consumption_message">"Fayl Meneceri, istifadə edilərkən şəbəkəyə bağlanmalıdır. Razılaşırsınız?"</string>
