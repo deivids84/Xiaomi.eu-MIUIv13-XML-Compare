@@ -245,7 +245,7 @@ Batareya qənaəti, vacib tətbiqləri seçici şəkildə idarə edəcək."</str
     <string name="sleep_config_enhance_description_non_nfc">"Batareyaya qənaət etmək üçün, MIUI, arxaplan tətbiqlərini bağlayacaq, Bluetooth, GPS, mobil internet və Wi-Fi istifadəsini məhdudlaşdıracaq və siz gecə yuxulayarkən bildirişlər üçün ekranı yandırmayacaq."</string>
     <string name="sleep_config_enhance_description_pad">"Batareyaya qənaət etmək üçün, MIUI, arxaplan tətbiqlərini bağlayacaq, Bluetooth və Wi-Fi istifadəsini məhdudlaşdıracaq və siz gecə yuxulayarkən bildirişlər üçün ekranı yandırmayacaq."</string>
     <string name="sleep_config_enhance_title">Yuxu rejimi</string>
-    <string name="sleepmode_disclaimer_agree">Qəbul et</string>
+    <string name="sleepmode_disclaimer_agree">Razıyam</string>
     <string name="sleepmode_disclaimer_cancel">İmtina</string>
     <string name="sleepmode_privacy_content">"Bu özəlliyin, sisteminiz və cihazınızda haqqında məlumatlara müraciət etməsi lazımdır. Bu məlumatlar serverlərimizə yüklənmir."</string>
     <string name="sleepmode_privacy_link">Gizlilik və güvənlik haqqında daha çox öyrən</string>
