@@ -123,7 +123,7 @@
     <string name="cancel_service_summary">"Davam etsəniz, Divar kağızı Karuseli xidmətlərini ləğv edəcəksiniz. Artıq yığılmış və saxlanılmış şəxsi məlumatlar, əksi tələb olunmadığı müddətcə, müvafiq qanun və nizamlamalara uyğun olaraq müəyyən bir müddət ərzində silinəcəkdir. Yenə də xidmətlər ləğv edilsin?"</string>
     <string name="carousel_declaration_btn_text">\"Divar kağızı Karuseli\"ni aç</string>
     <string name="carousel_declaration_cta">"Divar kağızı Karuseli, normal işləməsi üçün internet bağlantısı tələb edir. Onlayn məzmuna müraciət əldə etmək üçün &lt;a href='%s'&gt;Gizlilik Siyasətimizi&lt;/a&gt; qəbul etməlisiniz. Razısınız?"</string>
-    <string name="carousel_declaration_cta_btn_text">Razıyam və aç</string>
+    <string name="carousel_declaration_cta_btn_text">Razılaş və işə sal</string>
     <string name="carousel_declaration_des">Divar kağızı Karuseli ilə gözəl məkanları görün və maraqlı sürprizlər əldə edin</string>
     <string name="carousel_declaration_des2">\"Divar kağızı Karuseli\"nə özəl şəkillərinizi əlavə edin</string>
     <string name="carousel_declaration_des_new">Fərdiləşdirilmiş tövsiyələr alın və hər gün Kilid ekranınıza göndərilən yeni şəkilləri və hekayələri seçin.</string>
@@ -310,8 +310,8 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="like">Sevimlilərə əlavə et</string>
     <string name="liked">Sevimlilərə əlavə edildi</string>
     <string name="lks_cta_dont_mention">"Təkrar göstərmə"</string>
-    <string name="lks_cta_ok">Qəbul et</string>
-    <string name="lks_cta_reject">"Qəbul etmə"</string>
+    <string name="lks_cta_ok">Razıyam</string>
+    <string name="lks_cta_reject">"Razı deyiləm"</string>
     <string name="lks_cta_summary1">Divar kağızı Karuseli, aşağıdakı özəllikləri təqdim edir:</string>
     <string name="lks_cta_summary2">"1. Avto-güncəllənən divar kağızları&lt;br&gt;2. Kilid ekranınıza göndərilən yeni şəkillər və hekayələr&lt;br&gt;3. Özəlləşdirmə seçimləri&lt;br&gt;Bu özəlliyin normal işləməsi üçün internetə bağlanması lazımdır.&lt;br&gt;&lt;br&gt;Əlavə xidmətlər təqdim etmək üçün, bu cihazın anbarındakı elementlərə müraciət etmə və onları saxlama icazəsi istəyə bilərik. Davam etməzdən əvvəl &lt;font color ='#37A5FF'&gt;&lt;a href='%1$s'&gt;İstifadəçi Razılaşmamızı&lt;/font&gt;&lt;/a&gt; və &lt;font color ='#37A5FF'&gt;&lt;a href='%2$s'&gt;Gizlilik Siyasətimizi&lt;/font&gt;&lt;/a&gt; oxuyub qəbul edin."</string>
     <string name="lks_cta_title">Şərtlər və qaydalar</string>
@@ -677,7 +677,7 @@ mm"</string>
     <string name="platform_unavailable_wechat">WeChat-ı quraşdır</string>
     <string name="platform_unavailable_wechatmoment">WeChat-ı quraşdır</string>
     <string name="platform_unavailable_weibo">Weibo-nu quraşdır</string>
-    <string name="please_agree_protocal">Protokolu qəbul edin</string>
+    <string name="please_agree_protocal">Protokolla razılaşın</string>
     <string name="pm">GS</string>
     <string name="preference_copied">\"%1$s\" lövhəyə kopyalandı.</string>
     <string name="privacy_policy">Gizlilik Siyasəti</string>
