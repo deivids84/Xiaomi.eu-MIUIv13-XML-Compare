@@ -29,10 +29,10 @@
     <string name="abc_toolbar_collapse_description">Yığcamlaşdır</string>
     <string name="actionbar_button_up_description">Geri</string>
     <string name="afternoon">Günortadan sonra</string>
-    <string name="agree">Qəbul et</string>
+    <string name="agree">Razıyam</string>
     <string name="am">GƏ</string>
     <string name="cancel">Ləğv et</string>
-    <string name="check_protocol_msg">Baxım rejimini istifadə etmək üçün zəhmət olmasa bura klikləyin və qəbul edin </string>
+    <string name="check_protocol_msg">Baxım rejimini istifadə etmək üçün zəhmət olmasa bura klikləyin və bununla razılaşın </string>
     <string name="check_protocol_msg_detail">Bərpa rejiminə keçməzdən əvvəl zəhmət olmasa verilənlərin nüsxələndiyinə əmin olun. Unutmayın, satış sonrası xidmət, təmir edilmiş məhsulun səbəb ola biləcək məlumat itkisinə görə məsuliyyət daşımır.</string>
     <string name="check_protocol_msg_sub">İstifadəçi verilənlərindən imtina</string>
     <string name="clearable_edittext_clear_description">Təmizlə</string>
