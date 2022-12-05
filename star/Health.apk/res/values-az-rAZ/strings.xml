@@ -1451,7 +1451,7 @@ tapıla bilmədi"</string>
     <string name="state_auto_run_disenable">Bağla</string>
     <string name="state_auto_run_enable">Aç</string>
     <string name="state_disagree">Məhdud</string>
-    <string name="state_disagree2">"Qəbul etmə"</string>
+    <string name="state_disagree2">"Razı deyiləm"</string>
     <string name="subtitle_be_ready">Hazır olun</string>
     <string name="subtitle_exercise_and_sleep">Fiziki olaraq aktiv qalın və kifayət qədər yatın</string>
     <string name="subtitle_get_health_advice">Verdiyiniz məlumatlara əsasən dəqiq statistikaları və sağlamlıq məsləhətləri alın</string>
