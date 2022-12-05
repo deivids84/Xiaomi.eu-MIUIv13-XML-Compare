@@ -37,7 +37,7 @@
     <string name="age_label_today_date">Bu gün</string>
     <string name="age_label_total_summary">İcmal</string>
     <string name="age_label_weeks">Həftə</string>
-    <string name="allow">Qəbul et</string>
+    <string name="allow">Razıyam</string>
     <string name="app_name">Hesablayıcı</string>
     <string name="app_notification_info">Hesablayıcı arxaplanda işləyir</string>
     <string name="base_rate">Əsas faiz dərəcəsi</string>
@@ -120,7 +120,7 @@
     <string name="digit9">9</string>
     <string name="divDesc">bölmə</string>
     <string name="dob_selection_error">"Doğum tarixi bugünkü tarixdən daha əvvəl olmalıdır"</string>
-    <string name="dont_allow">"Rədd et"</string>
+    <string name="dont_allow">"Razı deyiləm"</string>
     <string name="dotDesc">nöqtə</string>
     <string name="e">e</string>
     <string name="eDesc">"Eyler ədədi"</string>
