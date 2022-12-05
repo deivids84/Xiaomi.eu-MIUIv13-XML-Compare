@@ -123,8 +123,8 @@
     <string name="miui_feedback_edit_select_upload_log_not_select_desc">"\"Jurnal əlavə et\" seçilmədi"</string>
     <string name="miui_feedback_edit_select_upload_log_select_desc">\"Jurnal əlavə et\" seçildi</string>
     <string name="miui_feedback_edit_storage_permission_name">Cihaz anbarına müraciət et</string>
-    <string name="miui_feedback_edit_submit_dialog_cancel">"Qəbul etmə"</string>
-    <string name="miui_feedback_edit_submit_dialog_confirm">Qəbul et</string>
+    <string name="miui_feedback_edit_submit_dialog_cancel">"Razı deyiləm"</string>
+    <string name="miui_feedback_edit_submit_dialog_confirm">Razıyam</string>
     <string name="miui_feedback_edit_submit_dialog_content"><Data>\"\"Əks-əlaqə\"ni istifadə edə bilmək üçün &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\"&gt;Gizlilik Siyasətimizi&lt;/a&gt; və &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\"&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; qəbul etməlisiniz. Əlavə etdiyiniz elementlərlə birlikdə bildirdiyiniz problemlər (şəxsi məlumatlar, həmçinin cihazınız və şəbəkəniz haqqında məlumat daxil ola bilər) MIUI serverlərinə yüklənəcək. Bu, bildirdiyiniz problemləri tapmaq və həll etməkdə bizə kömək edəcək.\"</Data></string>
     <string name="miui_feedback_edit_submit_dialog_content_global"><Data>\"Əks-əlaqəniz, qoşmalar (əgər varsa) və jurnallarla (yükləmək istəmədiyiniz elementlər üçün müvafiq xanalardan işarəni götürə bilərsiniz) MIUI serverlərinə göndəriləcək. Jurnallar, şəxsi məlumatlarınızı və yerləşmə verilənlərinizi ehtiva edə bilər. \"Qəbul et\"in seçilməsi ilə &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\"&gt;Gizlilik Siyasətimizi&lt;/a&gt; və &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\"&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; oxuyub qəbul etmiş olursunuz.\"</Data></string>
     <string name="miui_feedback_edit_submit_dialog_not_show_again">"Təkrar göstərmə"</string>
@@ -273,7 +273,7 @@ E-poçt: service.jp@xiaomi.com"</string>
     <string name="night">Axşam</string>
     <string name="noon">Günorta</string>
     <string name="not_set">Tənzimlənmədi</string>
-    <string name="permission_agree">Qəbul et</string>
+    <string name="permission_agree">Razıyam</string>
     <string name="permission_china_version_msg"><Data>\"Xidmətlər və Əks-əlaqə\"ni istifadə etməzdən əvvəl, &lt;a href=%1$s&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasətimizi&lt;/a&gt; oxuyub qəbul etməlisiniz. Bu tətbiqin normal işləməsi üçün internetə bağlanması lazımdır.</Data></string>
     <string name="permission_complete">Hazırdır</string>
     <string name="permission_contacts_info">Hesab məlumatına müraciət</string>
