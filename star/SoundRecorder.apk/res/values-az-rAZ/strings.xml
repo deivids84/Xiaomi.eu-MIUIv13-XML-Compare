@@ -284,7 +284,7 @@
     <string name="mtrl_picker_toggle_to_year_selection">İl seçiminə keçmək üçün toxunun</string>
     <string name="network_error_info">Şəbəkə xətası baş verdi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın.</string>
     <string name="network_timeout_info">"Şəbəkə ilə bağlantı qurula bilmədi. Yenidən sınayın."</string>
-    <string name="network_tip_dialog_cancel">"Razılaşma"</string>
+    <string name="network_tip_dialog_cancel">"Razı deyiləm"</string>
     <string name="network_tip_dialog_content">\"Səsyazan\"ın normal işləməsi üçün internetə bağlanması lazımdır. Razılaşırsınız?</string>
     <string name="network_tip_dialog_ok">Razıyam</string>
     <string name="network_tip_dialog_title">İnternet bağlantısı tələb olunur</string>
