@@ -225,6 +225,7 @@
     <string name="conn_of_function_safe">Güvənlik üçün şəbəkə bağlantısı</string>
     <string name="connecting">Bağlantı qurulur…</string>
     <string name="copy">Kopyala</string>
+    <string name="copy_toast_msg">Keçid lövhəyə kopyalandı</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
     <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
     <string name="dc_activity_title">Dərin təmizlik</string>
@@ -337,6 +338,9 @@
     <string name="facebook_group_gif">GIF-lər</string>
     <string name="facebook_group_image">Şəkillər</string>
     <string name="facebook_group_video">Videolar</string>
+    <string name="fallback_menu_item_copy_link">Keçidi kopyala</string>
+    <string name="fallback_menu_item_open_in_browser">Brauzerdə aç</string>
+    <string name="fallback_menu_item_share_link">Keçidi paylaş</string>
     <string name="file">Fayllar</string>
     <string name="file_not_found">Fayl tapılmadı</string>
     <string name="flow_rank_title">İnternet istifadəsi</string>
