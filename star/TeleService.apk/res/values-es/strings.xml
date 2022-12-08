@@ -501,7 +501,7 @@ Selección"</string>
     <string name="caller_id_summary">Ocultar mi número para llamadas salientes (confirme que su operador es compatible con esta característica)</string>
     <string name="caller_id_title">Identificador de llamada</string>
     <string name="calling_via_template">Llamada vía %s</string>
-    <string name="callwait_open_hint">La función de llamada en espera la facilita su operador. Si recibe un error, contacte con su operador para asegurarse de que es compatible.</string>
+    <string name="callwait_open_hint">La función de llamada en espera depende del operador. Si recibes un error, contacta con tu operador para comprobar que es compatible.</string>
     <string name="can_not_use_for_not_data_sim">"(No se puede utilizar: Se debe establecer como SIM de datos predeterminada)"</string>
     <string name="cancel">Cancelar</string>
     <string name="card_title_call_ended">Llamada finalizada</string>
