@@ -224,6 +224,7 @@
     <string name="conn_of_function_safe">Omrežno povezovanje za varnost</string>
     <string name="connecting">Povezovanje…</string>
     <string name="copy">Kopiraj</string>
+    <string name="copy_toast_msg">Povezava je bila kopirana v odložišče</string>
     <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
     <string name="date_time_picker_dialog_title">Nastavi datum in čas</string>
     <string name="dc_activity_title">Globinsko čiščenje</string>
@@ -336,6 +337,9 @@
     <string name="facebook_group_gif">GIF-i</string>
     <string name="facebook_group_image">Slike</string>
     <string name="facebook_group_video">Videoposnetki</string>
+    <string name="fallback_menu_item_copy_link">Kopiraj povezavo</string>
+    <string name="fallback_menu_item_open_in_browser">Odpri v brskalniku</string>
+    <string name="fallback_menu_item_share_link">Deli povezavo</string>
     <string name="file">Datoteke</string>
     <string name="file_not_found">Datoteka ni najdena</string>
     <string name="flow_rank_title">Uporaba podatkov</string>
