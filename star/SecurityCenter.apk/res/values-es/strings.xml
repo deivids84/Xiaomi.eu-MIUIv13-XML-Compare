@@ -891,7 +891,7 @@ No perderás datos de aplicaciones."</string>
     <string name="battery_desc_bluetooth">Batería consumida por Bluetooth</string>
     <string name="battery_desc_display">Batería consumida por la pantalla y la retroiluminación</string>
     <string name="battery_desc_other_apps">Energía consumida por otras aplicaciones</string>
-    <string name="battery_desc_radio">Batería usada por la radio</string>
+    <string name="battery_desc_radio">Batería consumida por la conexión móvil</string>
     <string name="battery_desc_standby">Batería consumida cuando el teléfono está inactivo</string>
     <string name="battery_desc_voice">Batería consumida por llamadas de voz</string>
     <string name="battery_desc_wifi">Batería consumida por Wi-Fi</string>
