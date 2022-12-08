@@ -40,8 +40,8 @@
     <string name="alert_button_deny">Rechazar</string>
     <string name="alert_message_backup_to_miasist">Mi PC Suite requiere permisos para crear una copia en el ordenador. ¿Permitir?</string>
     <string name="alert_message_restore_from_miasist">Mi PC Suite requiere permisos para restaurar elementos en tu teléfono. ¿Permitir?</string>
-    <string name="alert_miasist_occupy_backup">Haciendo copia de los elementos usando Mi PC Suite… Espera hasta que la copia esté completada y vuelve a intentarlo.</string>
-    <string name="alert_miasist_occupy_restore">Restaurando elementos usando Mi PC Suite… Espera hasta que estén restaurados y vuelve a intentarlo.</string>
+    <string name="alert_miasist_occupy_backup">Copiando con Mi PC Suite… Espera hasta que la copia esté completa e inténtalo otra vez.</string>
+    <string name="alert_miasist_occupy_restore">Restaurando con Mi PC Suite… Espera hasta que la restauración esté completa e inténtalo otra vez.</string>
     <string name="alert_phone_occupy_backup">"No se puede usar Mi PC Suite ahora. Completa la copia de seguridad o restaura los elementos en tu dispositivo e inténtalo otra vez."</string>
     <string name="alert_second_space_not_support_miasist">"No se puede usar Mi PC Suite en Segundo espacio. Cambia al Primer espacio."</string>
     <string name="alert_title_backup_to_miasist">¿Hacer copia de seguridad de los elementos usando Mi PC Suite?</string>
