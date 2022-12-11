@@ -29,11 +29,11 @@
     </string-array>
     <string-array name="screenrecorder_settings_sound">
         <item>Səssiz</item>
-        <item>Mikrafon</item>
+        <item>Mikrofon</item>
         <item>Sistem səsləri</item>
     </string-array>
     <string-array name="screenrecorder_settings_storage_location">
-        <item>Daxili yaddaş</item>
-        <item>Xarici yaddaş</item>
+        <item>Daxili anbar</item>
+        <item>Xarici anbar</item>
     </string-array>
 </resources>
